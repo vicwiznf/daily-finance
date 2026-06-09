@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒緊張，受伊朗與以色列之間的軍事衝突影響，石油價格大幅上漲，油價上漲對於能源業的影響也開始顯現。另一方面，Nvidia 的新記憶體晶片交易也引起市場關注，投資者開始轉移至非科技股。市場話題還包括DeepSeek事件、SoFi等科技、媒體和電信領域的最新發展。\n\n【結語】\n投資者應該注意市場情緒的變化，並保持謹慎的態度。雖然今天的市場情緒緊張，但也不應該過度恐慌。投資者應該根據自己的投資目標和風險承受能力進行投資，並密切關注市場的變化，以便做出明智的投資決定。\n\n【精選個股】\nNVDA - Nvidia - Nvidia 的新記憶體晶片交易可能會對公司的未來表現產生重大影響。\nGTHB - Green Thumb Industries - 公司在大麻重類化藥物的優勢使其有可能從大麻業的發展中受益。\nPSCE - PSCE基金 - 基金投資於石油相關的衍生工具，當石油價格波動時，這個基金的價格可能會大幅上漲。\n\n風險提醒：投資者應該注意市場情緒的變化，並保持謹慎的態度。",
+  "analysis": "【今日摘要】\n今天市場情緒呈現出來回波動，半導體行業在前一交易日的暴跌後恢復，多支股票因此上漲。微軟與英國國家健康服務合作推動醫療AI應用，將在500,000名醫護人員中推廣微軟365 Copilot。美國立法者要求加強對供應中國企業海外子公司的晶片製造商的規範。能源經濟學家指出，如果伊朗戰爭持續下去，油價可能會再次上漲至每桶$150。\n\n【結語】\n散戶投資人務必注意市場情緒的變化，並且保持冷靜。不要被短期波動所影響，應該根據長期投資策略進行投資。另外，投資者應該注意公司的財務報表和基本面，避免忽略潜在風險。\n\n【精選個股】\n1. WDC - 西數電子 - 半導體行業在前一交易日的暴跌後恢復，多支股票因此上漲。\n2. NVDA - NVIDIA - 美國股市大幅下滑，納斯達克指數領跌，AI基礎設施製造商股價大幅下跌。\n3. DELL - 戴爾 - Dell董事 Egon Durban 相關的Silver Lake 賣出 234,978 股股票，可能是為了籌措資金或調整投資組合。\n風險提醒：投資者應該注意公司的財務報表和基本面，避免忽略潜在風險。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Google gives Reddit surprising tailwind",
-          "url": "https://www.thestreet.com/investing/google-ai-gives-reddit-answers-search-boost?.tsrc=rss",
-          "summary": "For most of its time in the public markets, Reddit (RDDT) has been a story of artificial intelligence data. That story still holds. The company’s user-generated discussions have grown increasingly useful for AI developers seeking real-world conversations, queries, and opinions. But there's a second ...",
-          "published": "Mon, 08 Jun 2026 03:07:00 +0000",
-          "ts": 1780888020.0,
-          "zh_title": "谷歌為Reddit帶來意想不到的助力",
-          "zh_point": "Reddit在公眾市場的時間中，主要以人工智慧資料為故事。公司的用戶自行討論逐漸變得對於尋求真實世界對話、查詢和意見的AI開發者有用。然而，還有一個新的故事正在發展中。"
+          "title": "Western Digital, Microchip Technology, and Seagate Shares Are Soaring, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-microchip-technology-seagate-022150023.html?.tsrc=rss",
+          "summary": "A number of stocks jumped in the afternoon session after the broader semiconductor sector recovered from a sharp selloff during the previous trading session.",
+          "published": "Tue, 09 Jun 2026 02:21:50 +0000",
+          "ts": 1780971710.0,
+          "zh_title": "Western Digital、Microchip Technology 和 Seagate 股票大幅上漲，了解背後原因",
+          "zh_point": "西數電子、Microchip Technology 和 Seagate 股票在下午交易會議中大幅上漲，原因是半導體行業在前一交易日的暴跌後恢復。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Nvidia unveils AI infrastructure deals in South Korea",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-unveils-ai-infrastructure-deals-025833984.html?.tsrc=rss",
-          "summary": "US chip titan Nvidia on Monday announced a large-scale data centre construction project in South Korea with SK Telecom, among a raft of other business deals in the country.SK Telecom operates under the same parent company -- SK Group -- as SK hynix, which on Monday announced a \"multi-year technology partnership\" for memory chips with Nvidia.",
-          "published": "Mon, 08 Jun 2026 02:58:33 +0000",
-          "ts": 1780887513.0,
-          "zh_title": "Nvidia 在南韓推出人工智慧基礎設施合作計畫",
-          "zh_point": "Nvidia 宣布與 SK Telecom 合作在南韓建設大規模資料中心，同時與 SK hynix 農達多年合作的記憶體晶片技術夥伴關係。"
+          "title": "Nova, Penguin Solutions, and Impinj Stocks Trade Up, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nova-penguin-solutions-impinj-stocks-021350627.html?.tsrc=rss",
+          "summary": "A number of stocks jumped in the afternoon session after the broader semiconductor sector recovered from a sharp selloff during the previous trading session.",
+          "published": "Tue, 09 Jun 2026 02:13:50 +0000",
+          "ts": 1780971230.0,
+          "zh_title": "Nova、企鵝解決方案和Impinj股票上漲，了解背後原因",
+          "zh_point": "在前一交易日大幅下挫的半導體行業在下午交易時段恢復，多支股票因此上漲。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures Fall, Techs Rise As Iran, Israel Exchange Fire; Market Rally Faces First Real Test",
-          "url": "https://finance.yahoo.com/m/4e57fd62-a165-35ac-ab25-3c8bcc828d3c/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-          "summary": "Futures fell after Iran fired missiles at Israel, which retaliated despite Trump urging restraint. The SpaceX IPO, Apple's AI push and Oracle earnings are ahead.",
-          "published": "Mon, 08 Jun 2026 02:55:19 +0000",
-          "ts": 1780887319.0,
-          "zh_title": "道瓊指數未來下跌，科技股上漲，伊朗與以色列交火，市場籌備首場考驗",
-          "zh_point": "道瓊指數未來下跌，伊朗對以色列發射彈道導彈，後者儘管川普建議謹慎仍進行報復。SpaceX IPO、蘋果的人工智慧推動以及甲骨文財報即將出爐。"
+          "title": "Microsoft NHS Copilot Deal Tests Real World Healthcare AI Adoption",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/microsoft-nhs-copilot-deal-tests-021136224.html?.tsrc=rss",
+          "summary": "Microsoft (NasdaqGS:MSFT) has secured a landmark agreement with NHS England for Microsoft 365 Copilot. The rollout will cover 505,000 clinicians and support staff across the NHS England workforce. The deployment includes Copilot Studio and agent governance tools for AI-powered productivity in a regulated healthcare setting. This NHS England deal positions Microsoft (NasdaqGS:MSFT) at the center of one of the largest real world deployments of generative AI in healthcare. For investors...",
+          "published": "Tue, 09 Jun 2026 02:11:36 +0000",
+          "ts": 1780971096.0,
+          "zh_title": "微軟與英國國家健康服務合作推動醫療AI應用",
+          "zh_point": "微軟與英國國家健康服務合作推動醫療AI應用，將在500,000名醫護人員中推廣微軟365 Copilot，旨在提高醫療效率並落實AI在醫療環境中的監管。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "3 Reasons to Buy Green Thumb Industries Like There's No Tomorrow",
-          "url": "https://www.fool.com/investing/2026/06/07/3-reasons-to-buy-green-thumb-industries-like-there/?.tsrc=rss",
-          "summary": "Green Thumb is better positioned to benefit from cannabis rescheduling than most cannabis companies.",
-          "published": "Mon, 08 Jun 2026 02:48:00 +0000",
-          "ts": 1780886880.0,
-          "zh_title": "3個理由買入Green Thumb Industries像沒有明天一樣",
-          "zh_point": "Green Thumb Industries 因其在大麻重類化藥物的優勢而更有可能從大麻業的發展中受益。"
+          "title": "US lawmakers urge tighter rules on contract chipmakers supplying Chinese firms' overseas units",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/us-lawmakers-urge-tighter-rules-020903149.html?.tsrc=rss",
+          "summary": "A bipartisan pair of U.S. senators on Monday urged President Donald Trump's administration to tighten ‌rules on chip contract manufacturers such as Taiwan Semiconductor Manufacturing Co to ‌prevent them from making advanced AI chips for overseas subsidiaries of Chinese companies.  This comes after ​the Trump administration last week moved to halt a potential loophole that may have led companies to export advanced chips such as those made by Nvidia to subsidiaries of Chinese companies located outside China.  The Bureau of ⁠Industry and Security (BIS), the arm of the U.S. Commerce Department tha",
+          "published": "Tue, 09 Jun 2026 02:09:03 +0000",
+          "ts": 1780970943.0,
+          "zh_title": "美國立法者要求加強對供應中國海外子公司晶片製造商的規範",
+          "zh_point": "美國兩名參議員要求政府加強對晶片合約製造商的規範，防止他們為中國公司海外子公司生產先進AI晶片。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Better Buy After the Semiconductor Sell-Off: Marvell or Broadcom?",
-          "url": "https://www.fool.com/investing/2026/06/07/better-buy-after-the-semiconductor-sell-off-marvel/?.tsrc=rss",
-          "summary": "Both of these chip designers sit at the center of the custom AI build-out, and both took a hit last week. But one looks like the better buy at today's prices.",
-          "published": "Mon, 08 Jun 2026 02:22:00 +0000",
-          "ts": 1780885320.0,
-          "zh_title": "晶片設計公司哪家買得好：Marvell還是Broadcom？",
-          "zh_point": "兩家晶片設計公司都參與自訂AI的發展，但在最近的市場波動中，都受到了影響。雖然兩家公司都有其優勢，但在今天的價格下，Marvell似乎是更好的買家選擇。"
+          "title": "MACOM, IPG Photonics, and Qorvo Stocks Trade Up, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/macom-ipg-photonics-qorvo-stocks-020550405.html?.tsrc=rss",
+          "summary": "A number of stocks jumped in the afternoon session as the broader semiconductor sector recovered from a sharp selloff during the previous trading session.",
+          "published": "Tue, 09 Jun 2026 02:05:50 +0000",
+          "ts": 1780970750.0,
+          "zh_title": "MACOM、IPG Photonics 和 Qorvo 股票上漲，需要知道什麼？",
+          "zh_point": "多家半導體股在下午交易時段大幅上漲，反彈前一交易日大幅下挫的市場情緒。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Asia tech stocks extend sell-off with SoftBank down over 7% as investors sour on AI-linked names",
-          "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
-          "summary": "Asian tech stocks tracked overnight losses in U.S. tech names led by a sell-off in Broadcom.",
-          "published": "Mon, 08 Jun 2026 03:24:21 GMT",
-          "ts": 1780889061.0,
-          "zh_title": "亞洲科技股續跌　軟銀下跌超過 7% 投資者對 AI 相關股感到失望",
-          "zh_point": "亞洲科技股持續下跌，受美國科技股跌勢影響，軟銀股價下跌超過 7%，投資者對與人工智慧相關的科技股感到失望。"
+          "title": "Oil prices may hit $150 per barrel soon if Iran war continues, energy economist says",
+          "url": "https://www.cnbc.com/2026/06/09/oil-prices-iran-hormuz-rystad-war-conflict-middle-east-.html",
+          "summary": "",
+          "published": "Tue, 09 Jun 2026 02:26:47 GMT",
+          "ts": 1780972007.0,
+          "zh_title": "伊朗戰爭持續，油價可能再次衝上$150每桶",
+          "zh_point": "能源經濟學家指出，如果伊朗戰爭持續下去，油價可能會再次上漲至每桶$150。"
         },
         {
           "source": "CNBC",
-          "title": "Foreign investors have dumped billions of dollars of Korean stocks this year. Here's why.",
-          "url": "https://www.cnbc.com/2026/06/08/kospi-sk-hynix-samsung-electronics-why-foreign-investors-are-selling.html",
-          "summary": "The selling intensified Monday as the benchmark Kospi plunged more than 8% at the open, even as it emerged as one of the world's standout performers thus far.",
-          "published": "Mon, 08 Jun 2026 03:18:56 GMT",
-          "ts": 1780888736.0,
-          "zh_title": "外資大幅賣出韓股數十億美元，原因何在？",
-          "zh_point": "外資投資者今年對韓股表現出強烈的賣壓，韓國股市指數Kospi在本周一大幅下跌逾8%，儘管它是全球表現最佳的股市之一。外資投資者出售韓股的原因尚未明朗，但市場人士認為可能與韓國經濟增長放緩、貿易戰等因素有關。"
+          "title": "Trump booed at Madison Square Garden before Knicks-Spurs NBA finals game",
+          "url": "https://www.cnbc.com/2026/06/08/trump-booed-knicks-spurs-madison-square-garden.html",
+          "summary": "Trump's decision to attend Game 3 of the NBA Final was controversial for Knicks fans, some of whom feared he would jinx what has been an epic playoff run.",
+          "published": "Tue, 09 Jun 2026 02:12:40 GMT",
+          "ts": 1780971160.0,
+          "zh_title": "特朗普在紐約 Knicks 賽前遭到觀眾唾罵",
+          "zh_point": "特朗普出席 Knicks 和 Spurs 的 NBA 總決賽第三場比賽，卻遭到 Knicks 球迷的唾罵，他們擔心特朗普的出席可能會影響 Knicks 的勝利。"
         },
         {
           "source": "CNBC",
-          "title": "U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 7%: Live updates",
-          "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
-          "summary": "Investors will also be focused on inflation data and the public debut of SpaceX on Friday.",
-          "published": "Mon, 08 Jun 2026 02:39:17 GMT",
-          "ts": 1780886357.0,
-          "zh_title": "美股未來指數不穩，中東局勢緊張，南韓股市暴跌7%",
-          "zh_point": "美股未來指數不穩，中東局勢緊張，南韓股市暴跌7%，投資者將關注通膨數據和SpaceX首次公開募股。"
+          "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
+          "url": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html",
+          "summary": "The Pentagon briefly posted a similar expanded list in February, then withdrew it without explanation before Trump's China trip.",
+          "published": "Tue, 09 Jun 2026 01:53:45 GMT",
+          "ts": 1780970025.0,
+          "zh_title": "五角大樓擴大中國軍方相關企業名單，包括阿里巴巴和百度等",
+          "zh_point": "五角大樓在最新一波針對中美關係的緊張局勢中，將阿里巴巴和百度等企業加入軍方相關企業名單，對中美關係的和解進程造成了新的打擊。"
         },
         {
           "source": "CNBC",
-          "title": "Iran and Israel exchange strikes, threatening fragile ceasefire",
-          "url": "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html",
-          "summary": "Iran and Israel striking each other threatens the fragile ceasefire between the U.S. and Iran has been in place since early April.",
-          "published": "Mon, 08 Jun 2026 02:17:06 GMT",
-          "ts": 1780885026.0,
-          "zh_title": "伊朗和以色列互換攻擊，威脅脆弱的停火協議",
-          "zh_point": "伊朗和以色列近日發生了相互攻擊，威脅到自4月初起就持續的美國與伊朗停火協議。"
+          "title": "Asia chip-linked shares recover after U.S. peers bounce back",
+          "url": "https://www.cnbc.com/2026/06/09/asia-tech-stocks-rebound-after-wall-street-chip-shares-recover-.html",
+          "summary": "In the U.S., chip stocks powered gains on Monday, helping the S&P 500 gain 0.3%, while the tech-heavy Nasdaq Composite advanced 0.86%.",
+          "published": "Tue, 09 Jun 2026 01:25:56 GMT",
+          "ts": 1780968356.0,
+          "zh_title": "亞洲晶片相關股價回升 美股同業反彈",
+          "zh_point": "美國晶片股在週一大幅上漲，帶動標準普爾500指數上漲0.3%，科技重磅指數納斯達克指數則上漲0.86%。"
         },
         {
           "source": "CNBC",
-          "title": "Oil prices spike over 3% as Iran and Israel trade strikes, escalating regional tensions",
-          "url": "https://www.cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
-          "summary": "Oil rises on Monday amid heightened tensions in the Middle East, raising concerns that the conflict may drag on.",
-          "published": "Mon, 08 Jun 2026 02:09:02 GMT",
-          "ts": 1780884542.0,
-          "zh_title": "伊朗與以色列交火油價大漲逾3%",
-          "zh_point": "伊朗和以色列之間的軍事衝突升級，油價大幅上漲，擔心局勢可能持續不斷。"
+          "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC",
+          "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+          "summary": "Perplexity CEO Aravind Srinivas' comments come after AI giant Anthropic confidentially filed to go public.",
+          "published": "Tue, 09 Jun 2026 00:44:43 GMT",
+          "ts": 1780965883.0,
+          "zh_title": "不論對Anthropic或OpenAI發生什麼事，Perplexity CEO仍計劃2028年上市",
+          "zh_point": "Perplexity CEO Aravind Srinivas表示，公司將於2028年不論對Anthropic或OpenAI發生什麼事都會進行上市，隨著AI巨頭Anthropic已經私下申請上市。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "U.S. stock futures mixed, oil prices surge as new attacks threaten the cease-fire with Iran",
-          "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
-          "summary": "U.S. stock-index futures swung back for forth Sunday, after a massive tech selloff on Friday interrupted Wall Street’s two-month rally, and after new developments threatened the fragile cease-fire in the Iran war.",
-          "published": "Mon, 08 Jun 2026 03:03:00 GMT",
-          "ts": 1780887780.0,
-          "zh_title": "美國股市未來指數波動，石油價格大幅上升，因為新的攻擊威脅伊朗停火協議",
-          "zh_point": "美國股市未來指數在週日波動不定，受周五科技股大幅下跌影響，同時伊朗戰爭停火協議面臨新的挑戰。"
+          "title": "Your tech portfolio could be on the wrong side of the AI boom",
+          "url": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
+          "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
+          "published": "Tue, 09 Jun 2026 01:52:00 GMT",
+          "ts": 1780969920.0,
+          "zh_title": "你的科技投資組合可能正被 AI 泡沫錯過",
+          "zh_point": "未來的 $1,000 電玩主機將會壓縮硬體股價。這可能與 AI 泡沫有關，投資者需要重新評估投資組合，以避免錯過趨勢。"
         },
         {
           "source": "MarketWatch",
-          "title": "Nvidia strikes a new memory-chip deal — but SK Hynix and Samsung shares are under heavy pressure",
-          "url": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
-          "summary": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses steam.",
-          "published": "Mon, 08 Jun 2026 02:03:00 GMT",
-          "ts": 1780884180.0,
-          "zh_title": "Nvidia 突破新記憶體晶片交易 — 但 SK Hynix 和 Samsung 股票面臨重壓",
-          "zh_point": "南韓的股市指數Kospi 因為人工智慧貿易需求下滑而面臨連續下跌的風險，Nvidia 突破新記憶體晶片交易可能無法挽救市場情緒。"
+          "title": "BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.",
+          "url": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories",
+          "summary": "Most investors who pile into the S&P 500 in 2026 think they own the entire stock market. What they actually own is nothing more than a heavy bet on Big Tech — and right now, that bet has run its course.",
+          "published": "Tue, 09 Jun 2026 00:56:00 GMT",
+          "ts": 1780966560.0,
+          "zh_title": "美銀見到美國股市的「紅旗」，這是現在該買的股票",
+          "zh_point": "美銀銀行認為美國股市出現了警訊，投資者應該轉向買入其他股票，以避免過度依賴科技股。"
         },
         {
           "source": "MarketWatch",
-          "title": "The Wegovy pill is still dominating the GLP-1 pill market",
-          "url": "https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories",
-          "summary": "It has remained a top choice among Americans trying to lose weight even after the launch of Foundayo, Eli Lilly’s GLP-1 pill.",
-          "published": "Sun, 07 Jun 2026 23:35:00 GMT",
-          "ts": 1780875300.0,
-          "zh_title": "維戈維藥丸仍佔據GLP-1藥丸市場主導地位",
-          "zh_point": "維戈維藥丸在美國人嘗試減肥的選擇中仍然居於首位，儘管埃利利利公司的Foundayo GLP-1藥丸已經上市。"
+          "title": "Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space",
+          "url": "https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories",
+          "summary": "Critics say that setting up orbital data centers is easier said than done. But Musk argues that it’s not a “super hard problem” to solve.",
+          "published": "Mon, 08 Jun 2026 22:59:00 GMT",
+          "ts": 1780959540.0,
+          "zh_title": "Elon Musk 表示 SpaceX 不需要「魔法」來在太空建置 AI 資料中心",
+          "zh_point": "Elon Musk 表示太空資料中心不是難以克服的挑戰，他認為這不是一個「超級困難的問題」。"
         },
         {
           "source": "MarketWatch",
-          "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.",
-          "url": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
-          "summary": "Only seven companies cited oil prices as a reason for cutting or not updating their profit outlooks for the year.",
-          "published": "Sun, 07 Jun 2026 19:14:00 GMT",
-          "ts": 1780859640.0,
-          "zh_title": "S&P 500 公司們一直在討論油價上漲，但幾乎沒有人認為這會傷害利潤",
-          "zh_point": "雖然多家公司提到油價上漲的影響，但只有七家公司將其列為削減或不更新今年利潤預測的原因。"
+          "title": "Knicks ticket prices plunge more than 50% ahead of Game 3 at MSG — but not just because Trump’s going",
+          "url": "https://www.marketwatch.com/story/knicks-ticket-prices-plunge-more-than-50-ahead-of-game-3-at-msg-but-not-just-because-trumps-going-b7944acf?mod=mw_rss_topstories",
+          "summary": "Ticketing-industry pros say there’s a bigger driver behind some ticket prices dropping several thousand dollars.",
+          "published": "Mon, 08 Jun 2026 22:33:00 GMT",
+          "ts": 1780957980.0,
+          "zh_title": "紐約尼克斯門票價格暴跌超過 50% 等待 Game 3 的時候，但不是因為川普要來",
+          "zh_point": "市場專家指出，門票價格暴跌的主因並非川普的出席，而是其他更重要的因素。"
         },
         {
           "source": "MarketWatch",
-          "title": "These are the market’s new hot stocks as investors flee from tech",
-          "url": "https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories",
-          "summary": "Investors are suddenly dumping technology stocks and rotating into other areas — including health insurers, banks and retailers.",
-          "published": "Sun, 07 Jun 2026 16:00:00 GMT",
-          "ts": 1780848000.0,
-          "zh_title": "投資者轉移至非科技股，新熱門股出現",
-          "zh_point": "投資者突然轉移投資目標，棄置科技股，轉而投資保險公司、銀行和零售業股。"
+          "title": "OpenAI files confidentially for IPO — but there’s a catch",
+          "url": "https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories",
+          "summary": "“It may be a while because there are things we want to do that are likely easier as a private company,” OpenAI says.",
+          "published": "Mon, 08 Jun 2026 21:55:00 GMT",
+          "ts": 1780955700.0,
+          "zh_title": "OpenAI 提出保密IPO申請 — 但有個伏筆",
+          "zh_point": "OpenAI 表示，公司可能會選擇留在私人公司狀態，因為某些事情在私人公司下更容易實現。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下跌，Nasdaq指數領跌，AI基礎設施相關股價大幅下跌，Nvidia股價下跌16%。"
+          "zh_title": "美國股市大跌，AI產業領域全面下滑受中國DeepSeek事件影響",
+          "zh_point": "美國股市大幅下滑，納斯達克指數領跌，AI基礎設施製造商股價大幅下跌，多家公司股價下跌超過10%，Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約黃金交易所黃金、白銀下跌",
-          "zh_point": "紐約黃金交易所的黃金價格下跌1.4%，連續兩天下跌，白銀價格下跌2.5%，連續三天下跌。"
+          "zh_title": "Comex金、銀結束低檔",
+          "zh_point": "Comex金價下跌1.4%，連續兩個交易日下跌；Comex銀價下跌2.5%，連續三個交易日下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的晶片。"
+          "zh_title": "中國深度探索 AI 的要點",
+          "zh_point": "中國新興企業聲稱已經訓練出高表現的 AI 模型，且成本低廉，並不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度尋找不會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，過度恐慌的恐懼已經被過度誇大。"
+          "zh_title": "深度探索不會讓美國AI巨頭沉沒",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭股價大幅下跌的恐慌情緒被認為過度。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信周報：市場話題",
-          "zh_point": "DeepSeek、SoFi等科技、媒體和電信領域的最新發展，包括市場趨勢和投資機會。"
+          "zh_title": "科技、媒體與電信業新聞回顧：市場話題",
+          "zh_point": "深入探討DeepSeek、SoFi等科技、媒體和電信相關的市場發展和趨勢。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "PSCE: When The Oil Market Breaks, This Fund Should Soar",
-          "url": "https://seekingalpha.com/article/4912743-psce-when-the-oil-market-breaks-this-fund-should-soar?source=feed_all_articles",
+          "title": "Janus Henderson Opportunistic Alpha Managed Account Q1 2026 Portfolio Review",
+          "url": "https://seekingalpha.com/article/4913103-janus-henderson-opportunistic-alpha-managed-account-q1-2026-portfolio-review?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 07 Jun 2026 23:35:56 -0400",
-          "ts": 1780889756.0,
-          "zh_title": "石油市場崩盤時，這個基金將會大幅上漲",
-          "zh_point": "石油市場的波動可能會對某些基金產生重大影響。PSCE基金投資於石油相關的衍生工具，當石油價格波動時，這個基金的價格可能會大幅上漲。投資者應該注意石油市場的變化，以便在適當時機投資於這個基金。"
+          "published": "Mon, 08 Jun 2026 22:25:00 -0400",
+          "ts": 1780971900.0,
+          "zh_title": "Janus Henderson 適時機遇 Alpha 管理帳戶 Q1 2026 投資組合回顧",
+          "zh_point": "Janus Henderson 進行 Q1 2026 投資組合回顧，評估適時機遇 Alpha 管理帳戶的投資策略和績效。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Via Transportation: Compelling Growth, But Are The Underlying Economics Favorable?",
-          "url": "https://seekingalpha.com/article/4912741-via-transportation-compelling-growth-but-are-the-underlying-economics-favorable?source=feed_all_articles",
+          "title": "Astera Labs: Take Some Chips Off The Table (Rating Downgrade)",
+          "url": "https://seekingalpha.com/article/4913097-astera-labs-take-some-chips-off-the-table-rating-downgrade-hold?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 07 Jun 2026 23:29:30 -0400",
-          "ts": 1780889370.0,
-          "zh_title": "Via Transportation：吸引人生長，但背後的經濟基礎是否有利？",
-          "zh_point": "Via Transportation 的生長率令人印象深刻，但考慮到其背後的經濟基礎，是否仍然有利於投資？"
+          "published": "Mon, 08 Jun 2026 22:19:49 -0400",
+          "ts": 1780971589.0,
+          "zh_title": "Astera Labs：把一些晶片拿下桌子（評級下調）",
+          "zh_point": "Astera Labs 因評級下調而受到影響，投資者應考慮減少對公司的投資。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Janus Henderson Mid Cap Growth Managed Account Q1 2026 Commentary",
-          "url": "https://seekingalpha.com/article/4912751-janus-henderson-mid-cap-growth-managed-account-q1-2026-commentary?source=feed_all_articles",
+          "title": "ORR: Downgrading One Of Our Holdings After A Year In The Market",
+          "url": "https://seekingalpha.com/article/4913096-orr-downgrading-our-holding-after-a-year-in-the-market?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 07 Jun 2026 23:25:00 -0400",
-          "ts": 1780889100.0,
-          "zh_title": "2026年第一季度 Janus Henderson 中小型成長管理帳戶評論",
-          "zh_point": "Janus Henderson 在 2026 年第一季度的中小型成長管理帳戶表現將在評論中進行分享。"
+          "published": "Mon, 08 Jun 2026 22:17:21 -0400",
+          "ts": 1780971441.0,
+          "zh_title": "ORR: 下調一家公司的投資評級",
+          "zh_point": "ORR公司最近宣布下調其旗下一家公司的投資評級，這家公司在市場上運作了一年後遭遇下調評級。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Energy Industry Sees Few Benefits In Semiannual SEC Reporting Proposal",
-          "url": "https://seekingalpha.com/article/4912749-energy-industry-sees-few-benefits-in-semiannual-sec-reporting-proposal?source=feed_all_articles",
+          "title": "Janus Henderson Opportunistic Alpha Managed Account Q1 2026 Commentary",
+          "url": "https://seekingalpha.com/article/4913102-janus-henderson-opportunistic-alpha-managed-account-q1-2026-commentary?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 07 Jun 2026 23:15:00 -0400",
-          "ts": 1780888500.0,
-          "zh_title": "能源業對半年度SEC報告建議看法不一",
-          "zh_point": "能源業對美國證券交易委員會（SEC）建議將能源公司的財務報告從每年改為半年一次的反應不一，認為這可能會增加公司的監管成本和複雜性，但也可能提高投資者的透明度和可靠性。"
+          "published": "Mon, 08 Jun 2026 22:15:00 -0400",
+          "ts": 1780971300.0,
+          "zh_title": "Janus Henderson 機會主義 Alpha 管理帳戶 2026 年第一季度評論",
+          "zh_point": "Janus Henderson 公布了機會主義 Alpha 管理帳戶 2026 年第一季度的評論，內容可能包括投資策略、市場趨勢和投資績效等方面的分析。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Allspring Diversified Capital Builder Fund Q1 2026 Commentary",
-          "url": "https://seekingalpha.com/article/4912750-allspring-diversified-capital-builder-fund-q1-2026-commentary?source=feed_all_articles",
+          "title": "Gencor: Solid Balance Sheet, But The Overall Investment Case Has Holes",
+          "url": "https://seekingalpha.com/article/4913095-gencor-solid-balance-sheet-but-overall-investment-case-has-holes?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 07 Jun 2026 23:15:00 -0400",
-          "ts": 1780888500.0,
-          "zh_title": "Allsprings 多元化資本建造基金 2026 年第一季度評論",
-          "zh_point": "Allsprings 多元化資本建造基金在 2026 年第一季度的表現將在評論中詳細介紹。"
+          "published": "Mon, 08 Jun 2026 22:12:30 -0400",
+          "ts": 1780971150.0,
+          "zh_title": "Gencor：穩固的財務報表，但整體投資案例存在漏洞",
+          "zh_point": "Gencor的財務報表表現良好，但投資者需要仔細評估公司的整體投資案例，以避免忽略潜在風險。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Bitcoin tests $63,450 resistance zone: Live hourly levels",
-          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-63970-resistance-in-vshaped-rally-live-levels-93CH-4729724",
+          "title": "Databricks in talks to raise funds at over $165 billion, The Information reports",
+          "url": "https://www.investing.com/news/stock-market-news/databricks-in-talks-to-raise-funds-at-over-165-billion-the-information-reports-4731960",
           "summary": "",
-          "published": "2026-06-08 03:10:22",
-          "ts": 1780888222.0,
-          "zh_title": "比特幣測試$63,450阻力區域：實時每小時水平",
-          "zh_point": "比特幣價格近期出現波動，正在測試$63,450的阻力區域，投資者應密切關注實時市場變化以做出明智的投資決定。"
+          "published": "2026-06-09 02:19:18",
+          "ts": 1780971558.0,
+          "zh_title": "Databricks 正在洽談超過 1650 億美元的融資，The Information 報導",
+          "zh_point": "Databricks 正在與投資者洽談融資，預計融資額超過 1650 億美元，顯示公司的市場估值持續上升。"
         },
         {
           "source": "Investing.com",
-          "title": "Silver plunges -16% to $67.51, bears in control: Live levels",
-          "url": "https://www.investing.com/news/commodities-news/silver-plunges-15-in-a-month-still-bearish-live-levels-93CH-4729723",
+          "title": "US lawmakers urge tighter rules on contract chipmakers supplying Chinese firms’ overseas units",
+          "url": "https://www.investing.com/news/stock-market-news/us-lawmakers-urge-tighter-rules-on-contract-chipmakers-supplying-chinese-firms-overseas-units-4731959",
           "summary": "",
-          "published": "2026-06-08 03:08:31",
-          "ts": 1780888111.0,
-          "zh_title": "銀價暴跌至67.51美元，熊市掌控局面：即時行情",
-          "zh_point": "銀價近日出現大幅下跌，跌幅達16%，市場情緒轉趨悲觀，投資者應該小心行事以避免損失。"
+          "published": "2026-06-09 02:12:50",
+          "ts": 1780971170.0,
+          "zh_title": "美國立法者要求對供應中國企業海外子公司的合約晶片製造商加強規範",
+          "zh_point": "美國立法者呼籲加強對供應中國企業海外子公司的晶片製造商的規範，以防止敏感技術被泄露。"
         },
         {
           "source": "Investing.com",
-          "title": "Gold hits RSI 23.6 with hammer candle: Live levels",
-          "url": "https://www.investing.com/news/commodities-news/gold-breaks-down-near-4367-amid-oversold-signals-hourly-93CH-4729722",
+          "title": "Storm pounds New Zealand’s capital city, cancelling flights and ferries",
+          "url": "https://www.investing.com/news/world-news/storm-pounds-new-zealands-capital-city-cancelling-flights-and-ferries-4731958",
           "summary": "",
-          "published": "2026-06-08 03:06:56",
-          "ts": 1780888016.0,
-          "zh_title": "黃金觸及RSI 23.6，出現錘子燈籠柱：即時價格",
-          "zh_point": "黃金價格在技術指標RSI 23.6處出現錘子燈籠柱，可能表明市場正在尋找買入機會。"
+          "published": "2026-06-09 02:00:15",
+          "ts": 1780970415.0,
+          "zh_title": "暴風雨襲擊紐西蘭首都，取消航班和渡輪",
+          "zh_point": "紐西蘭首都遭遇嚴重暴風雨，導致航班和渡輪服務暫停，影響當地交通和生活。"
         },
         {
           "source": "Investing.com",
-          "title": "Tumbling tech darlings slam brakes on AI rally",
-          "url": "https://www.investing.com/news/economy-news/asia-markets-brace-for-selling-after-tech-rout-hits-wall-street-4729716",
+          "title": "Dell director Egon Durban-affiliated Silver Lake sells $234,978 in shares",
+          "url": "https://www.investing.com/news/insider-trading-news/dell-director-egon-durbanaffiliated-silver-lake-sells-234978-in-shares-93CH-4731957",
           "summary": "",
-          "published": "2026-06-08 03:06:39",
-          "ts": 1780887999.0,
-          "zh_title": "AI行業的狂熱者終於停下腳步",
-          "zh_point": "科技股市場的熱情在近期開始減退，AI領域的投資熱潮也逐漸放緩。許多曾經被視為未來巨星的公司，現在面臨著投資人對其價值的質疑。這種情況可能是由於市場對AI技術的期望過高，或者是投資人開始重新評估這些公司的實際成果。"
+          "published": "2026-06-09 01:56:30",
+          "ts": 1780970190.0,
+          "zh_title": "Dell董事 Egon Durban 相關的 Silver Lake 賣出 234,978 股股票",
+          "zh_point": "Dell 董事 Egon Durban 相關的投資公司 Silver Lake 賣出了超過 234,978 股股票，可能是為了籌措資金或調整投資組合。"
         },
         {
           "source": "Investing.com",
-          "title": "Israel hits Iran with new strikes despite Trump admonition",
-          "url": "https://www.investing.com/news/world-news/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-4729741",
+          "title": "Egon Durban-affiliated Silver Lake entities sell $276k Dell stock",
+          "url": "https://www.investing.com/news/insider-trading-news/egon-durbanaffiliated-silver-lake-entities-sell-276k-dell-stock-93CH-4731956",
           "summary": "",
-          "published": "2026-06-08 03:06:25",
-          "ts": 1780887985.0,
-          "zh_title": "以色列對伊朗發動新一波攻擊　儘管特朗普斥責",
-          "zh_point": "以色列政府在特朗普的警告下仍決定對伊朗發動新一波軍事攻擊，伊朗方面可能會有重大反應。"
+          "published": "2026-06-09 01:55:30",
+          "ts": 1780970130.0,
+          "zh_title": "Egon Durban相關的Silver Lake實體出售276萬美元的Dell股票",
+          "zh_point": "Egon Durban與Silver Lake相關的實體出售Dell股票，交易總額達276萬美元。"
         }
       ]
     }
