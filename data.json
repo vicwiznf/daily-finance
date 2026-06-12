@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今日市場情緒緊繃，受美國對伊朗的軍事攻擊影響，石油價格大幅上漲，金價也波動不定。甲骨文因財報表現不佳而大幅下跌。太空探索技術的IPO即將發行，可能會吸引投資者的關注。好萊塢雖然仍是全球最具影響力的故事家，但印度的電影人正在積極嘗試使用人工智慧技術來創作電影。美國工會與Dauch Corp達成協議結束10天罷工。\n\n【結語】\n投資者務必謹慎行事，避免因市場波動而做出倉促的決定。今日市場情緒緊繃，但長期來看，投資在基本面良好的公司上仍是最穩健的選擇。投資者應該保持冷靜，做好風險管理，避免因恐慌而錯失良機。\n\n【精選個股】\nIPDQF - ImpediMed Limited - 公司財務表現穩定，股價有升值潛力。\nNAVN - Navan, Inc. - 公司預估 FY27 年收入穩定，股價有持續上升的趨勢。\nSAB - SAB Biotherapeutics, Inc. - 公司在FOCIS 2026 年會上發表會議幻燈片，內容未知，但股價有升值潛力。\n\n風險提醒：投資者應該謹慎行事，避免因市場波動而做出倉促的決定。投資在基本面良好的公司上仍是最穩健的選擇，但風險仍存在。",
+  "analysis": "【今日摘要】\n今天市場情緒複雜，受多個因素影響。特斯拉和太空探索技術合併傳聞升溫，分析師對合併的看法不一。亞馬遜在Anthropic的投資可能會帶來超過10億美元的收益。維亞薩股份今天大幅上漲，原因是公司將與其他公司合作，建造小型衛星。美國股市大幅下跌，受中國深度探索引擎事件影響。Nvidia股價下跌16%。全球市場對AI和科技業的看法不一，投資者需要謹慎評估風險。\n\n【結語】\n投資者需要保持冷靜和謹慎。市場情緒易變，投資者需要密切關注公司的財務表現和未來發展策略。投資者也需要考慮風險和收益的平衡。投資市場的變化無法預測，投資者需要保持耐心和謹慎的態度。\n\n【精選個股】\nMTDR - Matador Resources Company - 公司財務表現良好，未來發展計畫積極。\nHOWL - Werewolf Therapeutics Inc - 公司在生物科技領域有著快速發展的潛力。\nLPPSY - LPP SA - 公司財務表現穩定，未來發展策略積極。\n風險提醒：投資市場的變化無法預測，投資者需要保持耐心和謹慎的態度。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures: Oil Rises On Iran Attacks, Oracle Dives; SpaceX IPO On Launch Pad",
-          "url": "https://finance.yahoo.com/m/f2b12cac-6dbd-3fc7-9e38-bed11bdf0d4a/dow-jones-futures%3A-oil-rises.html?.tsrc=rss",
-          "summary": "Futures were little changed while oil prices rose as Trump launched new U.S. attacks vs. Iran. Oracle tumbled on earnings. The SpaceX IPO is on tap.",
-          "published": "Thu, 11 Jun 2026 02:31:10 +0000",
-          "ts": 1781145070.0,
-          "zh_title": "道瓊未來指數：伊朗攻擊油價上漲，甲骨文暴跌；太空探索技術IPO即將發行",
-          "zh_point": "道瓊未來指數今日微幅波動，油價因特朗普對伊朗發動新一輪攻擊而上漲。甲骨文因財報表現不佳而大幅下跌。太空探索技術的IPO即將發行。"
+          "title": "This Dirt-Cheap \"Magnificent Seven\" Stock Is Priced Lower Than the S&P 500",
+          "url": "https://www.fool.com/investing/2026/06/11/this-dirt-cheap-magnificent-seven-stock-is-priced/?.tsrc=rss",
+          "summary": "Meta Platforms looks like a screaming bargain right now.",
+          "published": "Fri, 12 Jun 2026 00:20:00 +0000",
+          "ts": 1781223600.0,
+          "zh_title": "這個超低價的「七大奇蹟」股票價格比 S&P 500 還便宜",
+          "zh_point": "Meta Platforms 目前看起來是一個非常便宜的投資機會。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Gold Whipsaws in Choppy Trading as US Completes New Iran Strikes",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/gold-declines-third-day-us-000432611.html?.tsrc=rss",
-          "summary": "(Bloomberg) -- Gold whipsawed after the US completed a fresh round of strikes against Iran, raising the stakes in a war that’s roiled global markets and stoked inflation.Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’Tech Stocks Sink as Oil Jumps on US-Iran Jitters: Markets WrapXbox Plans Significant Layoffs as New CEO Plans OverhaulCuba Poised for Biggest US Fuel Shipment Since Cold War EmbargoH-1B Visa Rules Have Changed Again. What to KnowBullion rose as",
-          "published": "Thu, 11 Jun 2026 02:25:20 +0000",
-          "ts": 1781144720.0,
-          "zh_title": "金價在波動的交易中掀起波動 美國完成新一輪對伊朗的攻擊",
-          "zh_point": "金價在美國對伊朗的新一輪攻擊後波動不定，美伊戰事對全球市場造成了重大影響，同時也推高了通膨。"
+          "title": "Tesla-SpaceX Merger Speculation Heats Up As Analysts Clash Ahead Of SpaceX IPO",
+          "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-speculation-heats-up-as-analysts-clash-ahead-of-spacex-ipo/cZK5WrnR7PP?.tsrc=rss",
+          "summary": "Oppenheimer analysts argued that keeping the two companies separate would better support Elon Musk’s long-term artificial intelligence ambitions.",
+          "published": "Fri, 12 Jun 2026 00:15:37 +0000",
+          "ts": 1781223337.0,
+          "zh_title": "特斯拉-太空探索技術合併傳聞升溫　分析師在太空探索技術IPO前展開激烈辯論",
+          "zh_point": "分析師對特斯拉和太空探索技術合併的看法不一，認為兩家公司分開將更有利於埃隆·麥斯的長期人工智慧計畫。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "SpaceX IPO vs. Rocket Lab: Which Space Economy Stock Is the Better Buy?",
-          "url": "https://www.fool.com/investing/2026/06/10/spacex-ipo-vs-rocket-lab-which-space-economy-stock/?.tsrc=rss",
-          "summary": "SpaceX offers dominance, but Rocket Lab offers greater upside.",
-          "published": "Thu, 11 Jun 2026 02:25:00 +0000",
-          "ts": 1781144700.0,
-          "zh_title": "SpaceX IPO vs. Rocket Lab：太空經濟股哪一家買得更划算？",
-          "zh_point": "SpaceX在太空市場佔有優勢，但Rocket Lab的成長潛力更大。"
+          "title": "AvePoint CEO Highlights AI Governance, Multi-Cloud Growth at D.A. Davidson Conference",
+          "url": "https://www.marketbeat.com/instant-alerts/avepoint-ceo-highlights-ai-governance-multi-cloud-growth-at-da-davidson-conference-2026-06-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+          "summary": "AvePoint (NASDAQ:AVPT) Chief Executive Tianyi Jiang outlined the company’s strategy around Microsoft 365, multi-cloud data protection and artificial intelligence governance during a D.A. Davidson discussion hosted by analyst Rudy Kessinger. Jiang said AvePoint, founded in 2001, began in the Microso",
+          "published": "Fri, 12 Jun 2026 00:02:44 +0000",
+          "ts": 1781222564.0,
+          "zh_title": "AvePoint CEO 強調 AI 管理、多雲生長在 D.A. Davidson 會議",
+          "zh_point": "AvePoint CEO 江天一在 D.A. Davidson 會議中，與分析師 Rudy Kessinger 討論公司對 Microsoft 365、多雲資料保護和人工智慧管理的策略。江天一表示，AvePoint 自 2001 年成立以來，最初在 Microsoft 的生態系中發展。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Applied Optoelectronics (AAOI) Soars Anew on AI Optimism",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-soars-anew-022150957.html?.tsrc=rss",
-          "summary": "Applied Optoelectronics Inc. (NASDAQ:AAOI) is one of the 10 Stocks Surviving Market Slaughter. Applied Optoelectronics jumped by 7.52 percent on Wednesday to finish at $175.13 apiece, as investors resumed buying positions in its stock amid strong investor optimism, fueled by the continued expansion of the artificial intelligence sector. Investor optimism can be partly attributed to […]",
-          "published": "Thu, 11 Jun 2026 02:21:50 +0000",
-          "ts": 1781144510.0,
-          "zh_title": "光電應用科技 (AAOI) 再度衝高，人工智慧領域持續擴張",
-          "zh_point": "光電應用科技 (AAOI) 股價在人工智慧領域持續擴張的背景下，投資人重新購買其股票，股價因此大幅上升 7.52%，達到每股 175.13 美元。"
+          "title": "Amazon's Hidden Anthropic Stake Could Be Worth More Than Investors Realize",
+          "url": "https://www.fool.com/investing/2026/06/11/amazons-hidden-anthropic-stake-could-be-worth-more/?.tsrc=rss",
+          "summary": "Amazon could reap a 12-figure windfall from its investment in Anthropic.",
+          "published": "Thu, 11 Jun 2026 23:50:00 +0000",
+          "ts": 1781221800.0,
+          "zh_title": "亞馬遜隱藏的Anthropic投資可能值超過投資人預期",
+          "zh_point": "亞馬遜在Anthropic的投資可能會帶來超過10億美元的收益，投資人可能低估了這個投資的價值。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "AmpliTech Group (AMPG) Is Up 42.6% After Unique AI-RAN Open RAN Breakthrough With NVIDIA",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amplitech-group-ampg-42-6-021212110.html?.tsrc=rss",
-          "summary": "AmpliTech Group recently took part in the O-RAN ALLIANCE Global PlugFest Spring 2026, where its O-RAN CAT B 64T64R Massive MIMO radio was the only American-designed radio at that specification to complete successful multi-vendor interoperability testing and support the world’s first open-source Massive MIMO AI-RAN demonstration with NVIDIA and Northeastern University. These achievements, alongside AmpliTech’s role in the broader Open RAN ecosystem, highlight its growing importance as a...",
-          "published": "Thu, 11 Jun 2026 02:12:12 +0000",
-          "ts": 1781143932.0,
-          "zh_title": "AmpliTech Group (AMPG) 突破 42.6%：與 NVIDIA 合作開發 AI-RAN 的創新技術",
-          "zh_point": "AmpliTech Group 在 O-RAN ALLIANCE 全球 PlugFest Spring 2026 中取得重大突破，成功完成多家廠商間的互操作性測試，並與 NVIDIA 和 Northeastern University 合作開發世界上首個開源式大規模 MIMO AI-RAN 示範系統。"
+          "title": "Why Viasat Stock Went to the Moon Today",
+          "url": "https://www.fool.com/investing/2026/06/11/why-viasat-stock-went-to-the-moon-today/?.tsrc=rss",
+          "summary": "Putting tiny satellites in far-off GEO orbit is a thing now, and Viasat will help build them.",
+          "published": "Thu, 11 Jun 2026 23:46:36 +0000",
+          "ts": 1781221596.0,
+          "zh_title": "為什麼維亞薩股份今天飛到天上去了",
+          "zh_point": "維亞薩股份今天大幅上漲，原因是公司將與其他公司合作，建造小型衛星，將衛星送到地球同步軌道。這種技術已經成為現代的趨勢，維亞薩股份將在這個領域發揮重要作用。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Kuwait says it is intercepting 'aerial targets' after U.S. military strikes Iran",
-          "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
-          "summary": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
-          "published": "Thu, 11 Jun 2026 02:43:39 GMT",
-          "ts": 1781145819.0,
-          "zh_title": "科威特稱正在攔截「空中目標」 美軍對伊朗進行攻擊",
-          "zh_point": "科威特宣布正在攔截來自未知方向的空中目標，美國軍方近日對伊朗進行了軍事攻擊，美國總統唐納德·川普（Donald Trump）表示將會對伊朗進行更多的攻擊，同時也表示伊朗戰爭的和平協議即將達成。"
+          "title": "Stock futures tick higher as Wall Street gears up for SpaceX’s historic IPO: Live updates",
+          "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+          "summary": "Elon Musk's rocket maker is set to debut on the Nasdaq on Friday in what will be the largest IPO in history.",
+          "published": "Fri, 12 Jun 2026 00:21:34 GMT",
+          "ts": 1781223694.0,
+          "zh_title": "太空探索技術即將在納斯達克上市",
+          "zh_point": "史上最大規模的首次公開募股即將在納斯達克上市，埃隆·穆斯克的太空火箭製造商將在週五登上市場。"
         },
         {
           "source": "CNBC",
-          "title": "United Auto Workers reaches deal with Dauch Corp after 10-day strike",
-          "url": "https://www.cnbc.com/2026/06/11/united-auto-workers-reaches-deal-with-dauch-corp-after-10-day-strike.html",
-          "summary": "This comes after a 10-day strike against the company at its Three Rivers, Michigan plant",
-          "published": "Thu, 11 Jun 2026 01:21:33 GMT",
-          "ts": 1781140893.0,
-          "zh_title": "美國工會與Dauch Corp達成協議結束10天罷工",
-          "zh_point": "美國工會與Dauch Corp在密西根州三河市的工廠進行10天的罷工後，最終達成協議結束罷工。"
+          "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
+          "url": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
+          "summary": "In a scathing ruling, Judge James Boasberg denied U.S. Attorney for the District of Columbia Jeanine Pirro's request to vacate his earlier orders.",
+          "published": "Fri, 12 Jun 2026 00:19:38 GMT",
+          "ts": 1781223578.0,
+          "zh_title": "法官裁定：皮洛在聯邦調查中的損失應留在記錄中",
+          "zh_point": "美國哥倫比亞特區檢察官皮洛要求撤銷法官先前的命令，但法官拒絕批准，認為她在聯邦調查中的損失應該留在記錄中。"
         },
         {
           "source": "CNBC",
-          "title": "Inside India newsletter: Hollywood is debating AI. India's filmmakers are embracing it",
-          "url": "https://www.cnbc.com/2026/06/11/how-indian-filmmakers-are-using-generative-ai.html",
-          "summary": "Even as Hollywood remains the world's most influential storyteller, experiments in AI filmmaking are increasingly happening in India.",
-          "published": "Thu, 11 Jun 2026 00:49:40 GMT",
-          "ts": 1781138980.0,
-          "zh_title": "好萊塢正在討論人工智慧，印度電影業卻正在大力採用它",
-          "zh_point": "好萊塢雖然仍是全球最具影響力的故事家，但印度的電影人正在積極嘗試使用人工智慧技術來創作電影。"
+          "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/06/11/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "Oil prices fell and the Dow Industrials soared more than 900 points Thursday after President Trump said the U.S. will soon sign a deal with Iran.",
+          "published": "Thu, 11 Jun 2026 23:44:13 GMT",
+          "ts": 1781221453.0,
+          "zh_title": "週五的大股市新聞：什麼會在下一交易日影響市場",
+          "zh_point": "美國總統川普宣布將與伊朗簽署協議，股市大幅上揚逾900點，油價則下跌，預計週五市場將如何反應。"
         },
         {
           "source": "CNBC",
-          "title": "Oil jumps as U.S. fresh strikes on Iran raise worries of extended disruption to energy flows",
-          "url": "https://www.cnbc.com/2026/06/11/brent-wti-oil-prices-us-launches-fresh-strikes-on-iran-.html",
-          "summary": "Oil prices jumped on Thursday after the United States launched a fresh round of military strikes against targets in Iran.",
-          "published": "Thu, 11 Jun 2026 00:28:27 GMT",
-          "ts": 1781137707.0,
-          "zh_title": "美國對伊朗發動新一輪軍事攻擊　石油價格大幅上漲",
-          "zh_point": "美國對伊朗發動新一輪軍事攻擊，石油價格大幅上漲，擔心能源供應可能受阻。"
+          "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+          "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+          "summary": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
+          "published": "Thu, 11 Jun 2026 23:35:43 GMT",
+          "ts": 1781220943.0,
+          "zh_title": "史上最大規模IPO！SpaceX籌集75億美元",
+          "zh_point": "SpaceX將發行555.6股股票，每股價格135美元，籌集的資金將達到史上最大規模的75億美元。"
         },
         {
           "source": "CNBC",
-          "title": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
-          "url": "https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html",
-          "summary": "Oracle topped quarterly expectations, but free cash flow is negative, and the company plans to raise more capital for data center projects.",
-          "published": "Thu, 11 Jun 2026 00:19:00 GMT",
-          "ts": 1781137140.0,
-          "zh_title": "Oracle 獲利超預期，但股價下跌因籌措 2000 億美元資金",
-          "zh_point": "Oracle 公布季度財報，獲利超過市場預期，但公司的自由現金流為負，且計畫籌措更多資金用於資料中心項目。"
+          "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
+          "url": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
+          "summary": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
+          "published": "Thu, 11 Jun 2026 22:53:14 GMT",
+          "ts": 1781218394.0,
+          "zh_title": "從創業到 1.8 萬億：投資者對 SpaceX 的押注現在開始收穫",
+          "zh_point": "SpaceX 正在籌集 IPO，估值接近 1.8 萬億美元，早期投資者將獲得巨額紙本收益。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
-          "url": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
-          "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
-          "published": "Thu, 11 Jun 2026 00:15:00 GMT",
-          "ts": 1781136900.0,
-          "zh_title": "我叫水管工修理馬桶蓋蓄水箱，費用 160 美元，但又造成另一個問題，我該再付錢嗎？",
-          "zh_point": "我叫水管工修理馬桶蓋蓄水箱，費用 160 美元，但又造成另一個問題，我該再付錢嗎？水管工的錯誤修理導致馬桶蓄水箱不斷充水並發出嗶嗶聲。"
+          "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
+          "url": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+          "summary": "“I plan to continue working until age 60.”",
+          "published": "Fri, 12 Jun 2026 00:00:00 GMT",
+          "ts": 1781222400.0,
+          "zh_title": "55歲，年薪100,000美元，該選擇$2,900或$2,200的退休金？",
+          "zh_point": "一位55歲的收入100,000美元的人面臨退休金選擇困擾，該選擇$2,900或$2,200的退休金，並考慮到後者每年增長3%的可能性。"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "I’m 60, retired with $3 million. My fiancée, 55, only has $1 million and plans to keep working. Are we compatible?",
+          "url": "https://www.marketwatch.com/story/im-60-retired-with-3-million-my-fiancee-55-has-1-million-but-plans-to-work-for-the-next-10-years-are-we-compatible-2ee04cf9?mod=mw_rss_topstories",
+          "summary": "“Although she is quite frugal, she has not been particularly diligent with investing.”",
+          "published": "Thu, 11 Jun 2026 23:46:00 GMT",
+          "ts": 1781221560.0,
+          "zh_title": "我60歲退休，擁有300萬美元的退休金。未婚妻55歲，擁有100萬美元，打算繼續工作，我們是否相符？",
+          "zh_point": "我退休後擁有豐厚的退休金，但未婚妻打算繼續工作，且投資理財方面存在差異，是否能夠在金錢上找到共識？"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Social Security insolvency is ‘entirely solvable,’ says commissioner under Biden",
+          "url": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
+          "summary": "The solution is simple — but it won’t be easy.",
+          "published": "Thu, 11 Jun 2026 23:46:00 GMT",
+          "ts": 1781221560.0,
+          "zh_title": "拜登政府下的社會保障基金破產是「完全可解決的」，社會保障委員會主席如此說",
+          "zh_point": "社會保障基金破產的問題被視為相當嚴重，但委員會主席認為只要簡單的措施就能解決問題，但實施這些措施將不容易。"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "My golf buddy worked as a financial adviser. Here’s how I knew his friendship was fake.",
+          "url": "https://www.marketwatch.com/story/my-golf-buddy-worked-as-a-financial-adviser-heres-how-i-really-knew-his-friendship-was-fake-9e5695d5?mod=mw_rss_topstories",
+          "summary": "“He always mentioned how popular I was.”",
+          "published": "Thu, 11 Jun 2026 23:30:00 GMT",
+          "ts": 1781220600.0,
+          "zh_title": "我的高爾夫球友是財務顧問，我怎麼知道他的友誼是假的",
+          "zh_point": "我朋友自稱是財務顧問，但他總是提到我很受歡迎，讓我懷疑他的真誠。"
         },
         {
           "source": "MarketWatch",
           "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
           "url": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
           "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
-          "published": "Wed, 10 Jun 2026 23:48:00 GMT",
-          "ts": 1781135280.0,
-          "zh_title": "我和年長母親合夥擁有一棟房子，醫療補助會強迫我們出售嗎？",
-          "zh_point": "我姊姊認為，母親和我的共同擁有的房子，醫療補助會強迫我們出售。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "When a World Cup team loses, its country’s stock market also goes down. Here’s the weird reason why.",
-          "url": "https://www.marketwatch.com/story/the-weird-reason-why-a-teams-world-cup-loss-can-trigger-a-sharp-drop-in-stock-prices-ac385f51?mod=mw_rss_topstories",
-          "summary": "Soccer’s premier tournament brings a hidden danger to your investment portfolio.",
-          "published": "Wed, 10 Jun 2026 23:25:00 GMT",
-          "ts": 1781133900.0,
-          "zh_title": "世界盃失利，股市也跟著下跌？這是為什麼",
-          "zh_point": "世界盃足球賽的失利不僅影響球隊的形象，還可能影響投資者投資的股市表現。研究發現，當球隊在世界盃中失利時，相關國家的股市往往會下跌。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Social Security is facing a 22% cliff — 4 ways to build an income stream Washington can’t touch",
-          "url": "https://www.marketwatch.com/story/social-security-could-face-an-automatic-22-cut-in-2032-these-4-moves-will-protect-your-retirement-a00f9463?mod=mw_rss_topstories",
-          "summary": "The countdown to insolvency is accelerating — and the rules of retirement planning just broke.",
-          "published": "Wed, 10 Jun 2026 23:24:00 GMT",
-          "ts": 1781133840.0,
-          "zh_title": "社會保障面臨22%的斷崖式危機 — 4種方法讓政府無法觸碰的收入流",
-          "zh_point": "社會保障系統即將破產，退休規劃的規則已經被打破，投資者需要儘快建立無法被政府觸碰的收入流。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Thinking about insider trading on prediction markets? Kalshi wants to make an example of you.",
-          "url": "https://www.marketwatch.com/story/thinking-about-insider-trading-on-prediction-markets-kalshi-wants-to-make-an-example-of-you-74d50486?mod=mw_rss_topstories",
-          "summary": "Prediction-market companies are identifying hundreds of cases of suspected insider trading.",
-          "published": "Wed, 10 Jun 2026 23:22:00 GMT",
-          "ts": 1781133720.0,
-          "zh_title": "Kalshi警告你：在預測市場內幕交易？我們會找出你！",
-          "zh_point": "預測市場公司正在追蹤數百宗疑似內幕交易案件，Kalshi警告投資者謹慎行事，以免成為下一個被起訴的案例。"
+          "published": "Thu, 11 Jun 2026 23:26:00 GMT",
+          "ts": 1781220360.0,
+          "zh_title": "我母親和我共同擁有房屋，醫療補助會強迫出售嗎？",
+          "zh_point": "我的姊姊認為，母親和我的共同擁有的房屋會被醫療補助所強迫出售。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下挫 受中國DeepSeek事件影響",
-          "zh_point": "美國股市大部分下跌，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌，多家公司股價跌幅超過10%，Nvidia股價跌幅達16%。"
+          "zh_title": "美國股市大幅下跌，受中國深度探索引擎事件影響",
+          "zh_point": "美國股市大幅下跌，Nasdaq指數領跌，AI基礎設施製造商遭遇大幅下跌，Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "倫敦金銀市場結算下跌",
-          "zh_point": "倫敦金價下跌1.4%，銀價下跌2.5%，連續兩天下跌，銀價連續三天下跌三次。"
+          "zh_title": "紐約金價、白銀價格下跌",
+          "zh_point": "紐約金價和白銀價格下跌，金價跌幅達1.4%，連續兩次下跌，白銀跌幅達2.5%，連續三次下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的要點",
-          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的晶片。"
+          "zh_title": "中國DeepSeek AI的關鍵知識",
+          "zh_point": "中國一家新興公司宣稱，它已經訓練出高表現的AI模型，且成本低廉，並且不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度尋找不會讓美國AI巨頭沉沒",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
+          "zh_title": "深度探索不會淹沒美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭股價大跌的恐慌情緒被認為是過度擴大。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信週報：市場話題",
-          "zh_point": "DeepSeek、SoFi 等公司在最新的市場話題中，受到關注。"
+          "zh_title": "科技、媒體與電信業新聞快報：市場話題",
+          "zh_point": "DeepSeek、SoFi等科技、媒體和電信業的最新發展，包括市場趨勢和投資機會的分析。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "ImpediMed Limited (IPDQF) Shareholder/Analyst Call Transcript",
-          "url": "https://seekingalpha.com/article/4914021-impedimed-limited-ipdqf-shareholder-analyst-call-transcript?source=feed_all_articles",
+          "title": "Matador Resources Company (MTDR) Shareholder/Analyst Call Prepared Remarks Transcript",
+          "url": "https://seekingalpha.com/article/4914313-matador-resources-company-mtdr-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 10 Jun 2026 22:52:09 -0400",
-          "ts": 1781146329.0,
-          "zh_title": "ImpediMed Limited (IPDQF) 股東/分析師電話會議記錄",
-          "zh_point": "ImpediMed Limited 股東與分析師進行電話會議，討論公司相關事宜。"
+          "published": "Thu, 11 Jun 2026 20:22:09 -0400",
+          "ts": 1781223729.0,
+          "zh_title": "Matador Resources Company (MTDR) 股東/分析師電話會議備忘錄稿摘錄",
+          "zh_point": "Matador Resources Company 股東/分析師電話會議備忘錄稿摘錄，內容可能包括公司財務報告、未來發展計畫等資訊。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Verizon: A Good Defensive Play In Times Of Market Exuberance",
-          "url": "https://seekingalpha.com/article/4914020-verizon-stock-good-defensive-play-in-times-of-market-exuberance?source=feed_all_articles",
+          "title": "Producer Price Index: Wholesale Inflation Hits Highest Level Since November 2022",
+          "url": "https://seekingalpha.com/article/4914395-producer-price-index-wholesale-inflation-hits-highest-level-since-november-2022?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 10 Jun 2026 22:48:07 -0400",
-          "ts": 1781146087.0,
-          "zh_title": "威訊：在市場狂熱時期的良好防禦性投資",
-          "zh_point": "在市場經歷了長期的上升後，投資者可能會開始尋找防禦性投資來減少風險。威訊（Verizon）是一家具有穩健財務和強大市場地位的通信公司，可能是投資者在市場狂熱時期的良好選擇。"
+          "published": "Thu, 11 Jun 2026 20:20:00 -0400",
+          "ts": 1781223600.0,
+          "zh_title": "生產者物價指數：批發通膨率達2022年11月以來最高水平",
+          "zh_point": "生產者物價指數顯示，批發通膨率在最新的數據中達到2022年11月以來的最高水平，表明供應鏈和物流成本持續上升。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Navan signals FY27 revenue of $907M-$913M with non-GAAP operating profit of $76M-$80M",
-          "url": "https://seekingalpha.com/news/4602429-navan-signals-fy27-revenue-of-907m-913m-with-non-gaap-operating-profit-of-76m-80m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Shell signs five agreements with Venezuela to advance oil and gas projects",
+          "url": "https://seekingalpha.com/news/4602819-shell-signs-five-agreements-with-venezuela-to-advance-oil-and-gas-projects?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Wed, 10 Jun 2026 22:32:58 -0400",
-          "ts": 1781145178.0,
-          "zh_title": "Navan 預估 FY27 年收入 907 萬美元至 913 萬美元，非 GAAP 運營利潤 760 萬美元至 800 萬美元",
-          "zh_point": "Navan 預估 FY27 年收入 907 萬美元至 913 萬美元，非 GAAP 運營利潤 760 萬美元至 800 萬美元，表明公司財務表現穩定。"
+          "published": "Thu, 11 Jun 2026 20:12:23 -0400",
+          "ts": 1781223143.0,
+          "zh_title": "雪佛蘭與委內瑞拉簽署五份協議推動石油天然氣項目",
+          "zh_point": "雪佛蘭公司與委內瑞拉政府簽署五份協議，旨在推動該國的石油和天然氣項目，進一步加強雙方的合作關係。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "SAB Biotherapeutics, Inc. (SABS) Presents at FOCIS 2026 Annual Meeting - Slideshow",
-          "url": "https://seekingalpha.com/article/4914026-sab-biotherapeutics-inc-sabs-presents-at-focis-2026-annual-meeting-slideshow?source=feed_all_articles",
+          "title": "LPP SA (LPPSY) Q1 2027 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4914318-lpp-sa-lppsy-q1-2027-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 10 Jun 2026 22:32:31 -0400",
-          "ts": 1781145151.0,
-          "zh_title": "SAB Biotherapeutics, Inc. (SABS) 在FOCIS 2026 年會上發表 - 幻燈片",
-          "zh_point": "SAB Biotherapeutics, Inc. 在FOCIS 2026 年會上發表會議幻燈片，內容未知。"
+          "published": "Thu, 11 Jun 2026 20:02:09 -0400",
+          "ts": 1781222529.0,
+          "zh_title": "LPP SA (LPPSY) 2027 年第一季財報電話會議記錄",
+          "zh_point": "LPP SA 公布 2027 年第一季財報，內容包括財務表現和未來發展策略。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Navan, Inc. (NAVN) Q1 2027 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4913985-navan-inc-navn-q1-2027-earnings-call-transcript?source=feed_all_articles",
+          "title": "Super Micro: Hated Offering Ignores Positive AI Signals",
+          "url": "https://seekingalpha.com/article/4914356-super-micro-hated-offering-ignores-positive-ai-signals?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 10 Jun 2026 22:32:10 -0400",
-          "ts": 1781145130.0,
-          "zh_title": "Navan, Inc. (NAVN) 2027 年第一季財報電話會議記錄",
-          "zh_point": "Navan, Inc. 公布 2027 年第一季財報，內容包括財務表現、營運情況等相關資訊。"
+          "published": "Thu, 11 Jun 2026 20:00:18 -0400",
+          "ts": 1781222418.0,
+          "zh_title": "超微：被人唾棄的股票忽略了正面的人工智慧訊號",
+          "zh_point": "超微公司的股票價格下跌，儘管公司的人工智慧業務表現良好，市場仍對其股票抱持著負面看法。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Trump administration urges judge to reject bid to block White House UFC event",
-          "url": "https://www.investing.com/news/world-news/trump-administration-urges-judge-to-reject-bid-to-block-white-house-ufc-event-4734296",
+          "title": "Silvaco group director Katherine Ngai-Pesic sells $2.25m in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/silvaco-group-director-katherine-ngaipesic-sells-225m-in-stock-93CH-4738726",
           "summary": "",
-          "published": "2026-06-11 02:48:50",
-          "ts": 1781146130.0,
-          "zh_title": "特朗普政府要求法官駁回阻止白宮UFC活動的申請",
-          "zh_point": "美國特朗普政府要求法官駁回一項申請，申請者試圖阻止白宮舉辦一場UFC活動。"
+          "published": "2026-06-12 00:25:49",
+          "ts": 1781223949.0,
+          "zh_title": "Silvaco集團董事 Katherine Ngai-Pesic 賣出 2,250 萬美元股票",
+          "zh_point": "Silvaco集團董事 Katherine Ngai-Pesic 賣出 2,250 萬美元股票，可能與財務安排或個人財務需求有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Prosecutor casts Palisades arson suspect as dejected loner, angry at society",
-          "url": "https://www.investing.com/news/general-news/arson-trial-starts-for-man-blamed-for-los-angeles-deadly-palisades-fire-4734672",
+          "title": "Codexis director Raymond de Vre sells $6,173 in shares",
+          "url": "https://www.investing.com/news/insider-trading-news/codexis-director-raymond-de-vre-sells-6173-in-shares-93CH-4738725",
           "summary": "",
-          "published": "2026-06-11 02:48:30",
-          "ts": 1781146110.0,
-          "zh_title": "檢察官將帕利薩德火災疑犯描繪為失落的孤僻者，對社會感到憤怒",
-          "zh_point": "檢察官指控帕利薩德火災疑犯是一個孤僻且對社會感到不滿的人，可能因為這些原因而犯下此案。"
+          "published": "2026-06-12 00:25:37",
+          "ts": 1781223937.0,
+          "zh_title": "Codexis 董事 Raymond de Vre 賣出 6,173 股股票",
+          "zh_point": "Codexis 董事 Raymond de Vre 賣出了 6,173 股股票，交易金額未知。"
         },
         {
           "source": "Investing.com",
-          "title": "US Department of Justice formally moves to drop Halkbank case",
-          "url": "https://www.investing.com/news/stock-market-news/us-department-of-justice-formally-moves-to-drop-halkbank-case-4736468",
+          "title": "Form 4 Werewolf Therapeutics Inc For: 11 June",
+          "url": "https://www.investing.com/news/filings/form-4-werewolf-therapeutics-inc-for-11-june-93CH-4738724",
           "summary": "",
-          "published": "2026-06-11 02:42:28",
-          "ts": 1781145748.0,
-          "zh_title": "美國司法部正式撤銷 Halkbank 案件",
-          "zh_point": "美國司法部決定放棄對 Halkbank 的訴訟， Halkbank 是一家土耳其銀行，曾因涉嫌違反美國對伊朗的制裁而被起訴。"
+          "published": "2026-06-12 00:23:41",
+          "ts": 1781223821.0,
+          "zh_title": "Werewolf Therapeutics Inc 表示 11 月 6 日",
+          "zh_point": "Werewolf Therapeutics Inc 提供了 11 月 6 日的 Form 4 報告，內容可能與公司管理層股權變動有關。"
         },
         {
           "source": "Investing.com",
-          "title": "SK Hynix shares rebound on report of tripling wafer capacity",
-          "url": "https://www.investing.com/news/stock-market-news/sk-hynix-shares-rebound-on-report-of-tripling-wafer-capacity-4736467",
+          "title": "Ra Capital sells $253,568 in Werewolf Therapeutics (NASDAQ:HOWL) stock",
+          "url": "https://www.investing.com/news/insider-trading-news/ra-capital-sells-253568-in-werewolf-therapeutics-nasdaqhowl-stock-93CH-4738723",
           "summary": "",
-          "published": "2026-06-11 02:34:45",
-          "ts": 1781145285.0,
-          "zh_title": "SK Hynix 股票反彈：三倍擴增晶圓生產能力",
-          "zh_point": "SK Hynix 股票在市場上反彈，據報導公司正在擴增晶圓生產能力達三倍，可能對公司未來的發展產生重大影響。"
+          "published": "2026-06-12 00:19:47",
+          "ts": 1781223587.0,
+          "zh_title": "Ra Capital 賣出 253,568 美元 Werewolf Therapeutics (NASDAQ:HOWL) 股票",
+          "zh_point": "Ra Capital 資產管理公司出售 Werewolf Therapeutics 股票，涉及 253,568 美元的交易。"
         },
         {
           "source": "Investing.com",
-          "title": "OpenAI weighs steep price cuts amid competition from Anthropic  - WSJ",
-          "url": "https://www.investing.com/news/stock-market-news/openai-weighs-steep-price-cuts-amid-competition-from-anthropic---wsj-4736466",
+          "title": "Better home & finance director buys $125k in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/better-home--finance-director-buys-125k-in-stock-93CH-4738722",
           "summary": "",
-          "published": "2026-06-11 02:23:47",
-          "ts": 1781144627.0,
-          "zh_title": "OpenAI考慮大幅降價面對Anthropic競爭 - WSJ",
-          "zh_point": "OpenAI可能會因為Anthropic的競爭而大幅降低價格，進一步加劇人工智慧市場的競爭局勢。"
+          "published": "2026-06-12 00:19:06",
+          "ts": 1781223546.0,
+          "zh_title": "Better Home & Finance Director 買入 12.5 萬美元股票",
+          "zh_point": "Better Home & Finance 的財務總監購買了價值 12.5 萬美元的股票，可能表明公司內部人士對公司未來表現感到樂觀。"
         }
       ]
     }
