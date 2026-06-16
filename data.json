@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒活躍，受美伊和平協議影響，美元跌至10天來新低，黃金價格上升2%。美國股市未來指數大幅上漲，石油價格跌落。埃隆·馬斯克否認政府支持造就了TSLA和SPCX的成就，特朗普減少電動車補貼讓買家更多地轉向特斯拉。法拉第未來創辦人暨全球CEO YT Jia 週報，內容包括 FF EAI 機器人教育生態系戰略、產品線與新 EAI 裝置發布日期。\n\n【結語】\n投資者們應該謹慎地對待市場情緒，避免被市場波動所左右。投資者們應該保持冷靜，評估企業的基本面，選擇合適的投資標的。投資者們也應該注意風險管理，保持投資組合的多元化，避免過度集中於單一股票或市場。\n\n【精選個股】\nAAPL - 蘋果公司 - 蘋果公司的業務範圍廣泛，包括手機、電腦、音樂等，基本面良好，值得考慮買進。\nTSLA - 特斯拉公司 - 特斯拉公司的電動車業務快速發展，市場份額逐漸增大，基本面良好，值得考慮買進。\nSPCX - SpaceX - SpaceX 的太空探索業務快速發展，市場份額逐漸增大，基本面良好，值得考慮買進。\n風險提醒：投資市場風險高，投資者應該謹慎地評估風險並保持風險管理。",
+  "analysis": "【今日摘要】\n今日市場情緒熱烈，受美國與伊朗達成協議影響，道瓊指數創下新高的內盤和收盤紀錄。科技股表現突出，Nvidia、Micron、SanDisk和SpaceX等公司股價大幅上漲。英特爾再次成為投資者關注的焦點，與此同時，投資者對於圖形處理單元（GPU）的重要性也有所轉變。另外，Roku被福斯收購22億美元引發大疑問，美國股市大幅下跌，納斯達克指數領跌。\n\n【結語】\n今日市場情緒熱烈，但投資者應該保持冷靜。投資者應該考慮到未來可能出現的健康問題，如何籌措相關的醫療費用，避免因為醫療費用而影響退休生活的穩定。另外，投資者應該小心提高信貸限額，避免過度消費。最後，投資者應該保持耐心，等待人工智慧帶動整體市場。\n\n【精選個股】\nPLAY - Dave & Buster's Entertainment, Inc. - 公司將在 2026 年財年內達成超過 10 億美元的自由現金流量，並維持資產固定支出的控制在 20 億美元以下。\nLUMN - Lumen - 公司的企業導向文藝復興和高前景自由現金流收益率，表明公司的財務穩定和投資潛力。\nRKT - Roku - 公司與福斯達成22億美元收購協議，股價大幅上升至四年新高。風險提醒：投資者應該小心提高信貸限額，避免過度消費。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Elon Musk Rejects Claims Government Support Built TSLA And SPCX — Says Trump’s EV Credit Cuts Sent More Buyers To Tesla",
-          "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-tesla-spacex-subsidies-trump-ev-credits/cZKfbwhR7d5?.tsrc=rss",
-          "summary": "Musk said all government incentives received by his companies amount to less than 2% of the combined value of Tesla and SpaceX.",
-          "published": "Mon, 15 Jun 2026 01:18:09 +0000",
-          "ts": 1781486289.0,
-          "zh_title": "埃隆·馬斯克否認政府支持造就了TSLA和SPCX的成就 —— 說特朗普減少電動車補貼讓買家更多地轉向特斯拉",
-          "zh_point": "埃隆·馬斯克表示，他的公司所收到的政府補助僅占特斯拉和太空探索技術公司的總值的不到2%。"
+          "title": "Why Palantir Stock Soared Today",
+          "url": "https://www.fool.com/investing/2026/06/15/why-palantir-stock-soared-today/?.tsrc=rss",
+          "summary": "Palantir stock jumped in a bullish day for the broader market, but it's still down 35% from its peak.",
+          "published": "Tue, 16 Jun 2026 01:48:58 +0000",
+          "ts": 1781574538.0,
+          "zh_title": "為什麼Palantir股價今天大幅上漲",
+          "zh_point": "Palantir 股價在整體市場的強勁行情下大幅上漲，但仍遠離其峰值，股價下跌了 35%。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides New Details on the FF EAI Robotics Education Ecosystem Strategy, Product Line & New EAI Device Launch Happening at Its Los Angeles HQ on June 16",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/faraday-future-founder-global-ceo-004800814.html?.tsrc=rss",
-          "summary": "LOS ANGELES, June 15, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (\"Faraday Future\", \"FF\" or the \"Company\"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global CEO of FF.",
-          "published": "Mon, 15 Jun 2026 00:48:00 +0000",
-          "ts": 1781484480.0,
-          "zh_title": "法拉第未來創辦人暨全球CEO YT Jia 週報：分享 FF EAI 機器人教育生態系戰略、產品線與新 EAI 裝置發布日期",
-          "zh_point": "法拉第未來創辦人暨全球CEO YT Jia 週報，內容包括 FF EAI 機器人教育生態系戰略、產品線與新 EAI 裝置發布日期，將於6月16日在洛杉磯總部發布。"
+          "title": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk, SpaceX Are Big Winners",
+          "url": "https://finance.yahoo.com/m/b3e6dc9b-d268-379d-9b55-14e848365f6f/dow-jones-futures%3A-trump%2C.html?.tsrc=rss",
+          "summary": "Dow Jones Futures: Trump's U.S.-Iran deal sparked a big stock market rally Monday. Nvidia, Micron, Sandisk and SpaceX were big winners.",
+          "published": "Tue, 16 Jun 2026 01:17:26 +0000",
+          "ts": 1781572646.0,
+          "zh_title": "道瓊未來指數：川普與伊朗協議引發股市大幅上漲；Nvidia、Micron、SanDisk、SpaceX是大贏家",
+          "zh_point": "川普與伊朗達成協議，美國股市大幅上漲，Nvidia、Micron、SanDisk和SpaceX等科技股表現突出。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Elon Musk Says SpaceX Could Put One Million Tons Of Payload In Orbit Within The Next Five Years",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-spacex-could-003054147.html?.tsrc=rss",
-          "summary": "SpaceX and Tesla Inc.CEO Elon Musk predicted that the commercial space flight giant could exceed orbital payload timelines and expectations. One Million Tons In Five Years On Tuesday, influencer Sawyer Merritt took to the social media platform X to outline...",
-          "published": "Mon, 15 Jun 2026 00:30:54 +0000",
-          "ts": 1781483454.0,
-          "zh_title": "史匹克公司將在五年內將一百萬噸貨物送入軌道",
-          "zh_point": "史匹克公司CEO馬斯克預測該公司將超越預期的軌道貨物時間表，公司將在五年內將一百萬噸貨物送入軌道。"
+          "title": "Intel gets a $170 billion AI reason to matter again",
+          "url": "https://www.thestreet.com/investing/intel-gets-a-170-billion-ai-reason-to-matter-again?.tsrc=rss",
+          "summary": "For much of the artificial intelligence boom, investors have heard one simple story. Graphics processing units were at the center of it all. That thesis made Nvidia (NVDA) a must-have in the stock market. It also drove investors to Advanced Micro Devices (AMD), Broadcom (AVGO), Marvell Technology ...",
+          "published": "Tue, 16 Jun 2026 01:17:00 +0000",
+          "ts": 1781572620.0,
+          "zh_title": "英特爾再次成為重點股：1700億美元的AI新機會",
+          "zh_point": "英特爾在人工智能浪潮中再次成為投資者關注的焦點，與此同時，投資者對於圖形處理單元（GPU）的重要性也有所轉變。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Amazon Graviton5 Chip Aims To Deepen AWS AI Margins And Moat",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-graviton5-chip-aims-deepen-231729659.html?.tsrc=rss",
-          "summary": "Amazon.com (NasdaqGS:AMZN) has introduced its Graviton5 custom processor for Amazon Web Services (AWS). The chip is now generally available for customers using AWS cloud infrastructure. Graviton5 is aimed at AI and high performance cloud workloads using in house silicon. For investors following Amazon, this move sits at the core of its AWS business, which provides cloud infrastructure and services to a wide range of enterprises and developers. Custom chips like Graviton5 can be important in...",
-          "published": "Sun, 14 Jun 2026 23:17:29 +0000",
-          "ts": 1781479049.0,
-          "zh_title": "亞馬遜Graviton5晶片旨在加深AWS人工智慧利潤和壟斷地位",
-          "zh_point": "亞馬遜推出Graviton5自訂處理器，為Amazon Web Services (AWS)客戶提供雲端基礎設施。這款晶片針對人工智慧和高性能雲端應用，使用自家研發的晶片。這項動作對於追蹤亞馬遜的投資者而言，關鍵在於其AWS業務，提供雲端基礎設施和服務給各類企業和開發者。自訂晶片如Graviton5對於企業的重要性不容忽視。"
+          "title": "Intuit Stock's Real Growth Story Isn't The One You're Watching",
+          "url": "https://www.trefis.com/articles/602904/intuit-stocks-real-growth-story-isnt-the-one-youre-watching/2026-06-15?.tsrc=rss",
+          "summary": "The market is rightly focused on the company's struggles in do-it-yourself tax, but it might be missing a massive and much more lucrative business taking over from within.",
+          "published": "Tue, 16 Jun 2026 01:07:14 +0000",
+          "ts": 1781572034.0,
+          "zh_title": "英特盈股價的真正成長故事不是你正在看的",
+          "zh_point": "英特盈股價受市場關注的自助稅業務面臨困難，但公司內部另有一個龐大的、更為有利可圖的業務正悄然興起。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Alphabet Ties Search AI And Mobility Closer To Revenue Potential",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-ties-search-ai-mobility-231657033.html?.tsrc=rss",
-          "summary": "Google is rolling out a national real estate search feature with HouseCanary, directly surfacing MLS broker listings in mobile search across the U.S. Apple is using Google's Gemini models to power its new Siri AI, while also tapping Google Cloud and Nvidia technology for AI infrastructure. Waymo, Alphabet's autonomous driving unit, has launched its first paid subscription for robotaxi services, moving its ride hailing business toward a membership model. For investors tracking Alphabet...",
-          "published": "Sun, 14 Jun 2026 23:16:57 +0000",
-          "ts": 1781479017.0,
-          "zh_title": "Alphabet 將搜尋 AI 和行動性更緊密地接近收入潛力",
-          "zh_point": "Alphabet 正在推出一項全國房地產搜尋功能，與 HouseCanary 合作，直接顯示美國各地的 MLS 中介房屋列表。同時，Alphabet 的子公司 Waymo 也推出其首個付費訂閱服務，讓乘客可以使用無人駕駛汽車接送。這些發展都表明 Alphabet 正在努力將其搜尋 AI 和行動性業務更緊密地接近收入潛力。"
+          "title": "Macerich Announces Pricing of Public Offering of Common Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/macerich-announces-pricing-public-offering-010600867.html?.tsrc=rss",
+          "summary": "SANTA MONICA, Calif., June 15, 2026 (GLOBE NEWSWIRE) -- The Macerich Company (NYSE: MAC) (the “Company” or “Macerich”) announced today that it has priced an underwritten public offering of 14,000,000 shares of common stock at a price to public of $23.90 per share, all of which are being offered in connection with the forward sale agreements described below. Goldman Sachs & Co. LLC is serving as the lead bookrunner and representative of the underwriters of the offering. Deutsche Bank Securities,",
+          "published": "Tue, 16 Jun 2026 01:06:00 +0000",
+          "ts": 1781571960.0,
+          "zh_title": "Macerich 公告公眾發行普通股價格",
+          "zh_point": "Macerich 公告發行 14,000,000 股普通股，發行價格為每股 23.90 美元， Goldman Sachs & Co. LLC 擔任主簽約商和承銷商代表。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "U.S. stock futures jump on Iran deal to end the war; Japan's Nikkei surges 5%: Live updates",
-          "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
-          "summary": "The three major indexes are coming off a winning week.",
-          "published": "Mon, 15 Jun 2026 01:45:09 GMT",
-          "ts": 1781487909.0,
-          "zh_title": "美股期貨大幅跳升　伊朗和平協議終結戰爭；日本日經指數大漲5%",
-          "zh_point": "美股期貨大幅跳升，三大股市指數連續一個勝利的周末。"
+          "title": "Stock futures are little changed after Dow posts new record close on potential U.S.-Iran deal: Live updates",
+          "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+          "summary": "On Monday, the Dow Jones Industrial Average climbed to new intraday and closing records on a potential deal between the U.S. and Iran.",
+          "published": "Tue, 16 Jun 2026 01:20:24 GMT",
+          "ts": 1781572824.0,
+          "zh_title": "美股未見重大變動 美國與伊朗達成協議後道瓊新高收盤",
+          "zh_point": "道瓊工業平均指數因美國與伊朗達成協議而創下新高的內盤和收盤紀錄。"
         },
         {
           "source": "CNBC",
-          "title": "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
-          "url": "https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html",
-          "summary": "The agreement came after more than three months of stop-start negotiations and bouts of fighting since late February, roiling global energy and commodities markets.",
-          "published": "Mon, 15 Jun 2026 01:36:48 GMT",
-          "ts": 1781487408.0,
-          "zh_title": "世界領袖歡迎美伊協議，歐洲表明制裁緩和，促請霍爾木茲海峽重開",
-          "zh_point": "美伊達成協議，結束逾三個月的磋商和戰事，全球能源和商品市場因此出現波動。"
+          "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/06/15/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "Traders' optimism over a potential U.S.-Iran deal lifted the Dow Industrials to an intraday all-time high and closing record. Oil prices also cooled.",
+          "published": "Mon, 15 Jun 2026 23:28:25 GMT",
+          "ts": 1781566105.0,
+          "zh_title": "星期二的大股市新聞：市場下一交易日可能受哪些因素影響",
+          "zh_point": "美國與伊朗可能達成協議，讓股市上漲，同時石油價格也下跌。"
         },
         {
           "source": "CNBC",
-          "title": "Markets cheer U.S.-Iran agreement, but some investors caution deal is yet to be signed",
-          "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html",
-          "summary": "Asian stocks rallied Monday while oil prices tumbled after the U.S. and Iran agreed to a peace deal aimed at ending nearly four months of conflict.",
-          "published": "Mon, 15 Jun 2026 01:21:22 GMT",
-          "ts": 1781486482.0,
-          "zh_title": "市場歡欣鼓舞 美伊和解協議，但投資人仍需謹慎",
-          "zh_point": "美國和伊朗達成和解協議，亞洲股市大幅上漲，石油價格也大幅下跌，但仍有投資人表示，協議尚未簽署，投資者需謹慎。"
+          "title": "People in China are watching the World Cup differently this time",
+          "url": "https://www.cnbc.com/2026/06/16/people-in-china-are-watching-the-world-cup-differently-this-time.html",
+          "summary": "A 12-hour-plus time difference and various streaming options are influencing how people in China watch the World Cup.",
+          "published": "Mon, 15 Jun 2026 23:25:29 GMT",
+          "ts": 1781565929.0,
+          "zh_title": "中國人觀看世界盃的方式有所不同",
+          "zh_point": "中國觀眾因時差和多種串流選擇而觀看世界盃的方式有所變化。"
         },
         {
           "source": "CNBC",
-          "title": "U.S. and Iran agree on peace deal to end the war, Trump and Pakistan say",
-          "url": "https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html",
-          "summary": "The deal follows weeks of mixed messaging from both Washington and Tehran on the trajectory of the conflict.",
-          "published": "Sun, 14 Jun 2026 23:23:42 GMT",
-          "ts": 1781479422.0,
-          "zh_title": "美國和伊朗達成和平協議結束戰爭，特朗普和巴基斯坦表態",
-          "zh_point": "美國和伊朗在多周來的不確定性訊息後，達成和平協議，結束長期的戰爭。特朗普和巴基斯坦也對此表示支持。"
+          "title": "US Air Force B-52 bomber crashes in California; 8-member crew presumed dead",
+          "url": "https://www.cnbc.com/2026/06/15/us-air-force-b-52-bomber-crashes-on-takeoff-in-california-air-force-says.html",
+          "summary": "A U.S. Air Force B-52 Stratofortress bomber crashed on Monday shortly after takeoff from Edwards Air Force Base.",
+          "published": "Mon, 15 Jun 2026 23:06:32 GMT",
+          "ts": 1781564792.0,
+          "zh_title": "美國空軍B-52轟炸機在加州墜毀；8名機組人員被懷疑遇難",
+          "zh_point": "美國空軍一架B-52轟炸機於星期一在愛德華茲空軍基地起飛不久後墜毀，機上8名機組人員被懷疑遇難。"
         },
         {
           "source": "CNBC",
-          "title": "Trump heads to G7 summit in France after reaching deal to end war with Iran",
-          "url": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
-          "summary": "The G7 is likely to address the Iran peace deal, as well as Russia's war against Ukraine, which continues to rage in eastern Europe.",
-          "published": "Sun, 14 Jun 2026 22:30:57 GMT",
-          "ts": 1781476257.0,
-          "zh_title": "特朗普前往法國參加G7峰會，與伊朗達成和平協議",
-          "zh_point": "特朗普與伊朗達成和平協議，將在法國G7峰會上與其他國家領袖討論伊朗和平協議、俄羅斯對烏克蘭的戰爭等議題。"
+          "title": "CNBC's The China Connection newsletter: Waiting for AI to lift the whole market",
+          "url": "https://www.cnbc.com/2026/06/15/cnbcs-the-china-connection-newsletter-hoping-ai-lifts-all-boats.html",
+          "summary": "China's economy sees a lift from artificial intelligence-related industries, while real estate and domestic demand remain lackluster.",
+          "published": "Mon, 15 Jun 2026 23:00:01 GMT",
+          "ts": 1781564401.0,
+          "zh_title": "CNBC的中國連線新聞簡報：等待人工智慧帶動整體市場",
+          "zh_point": "中國的經濟由人工智慧相關產業帶動，但房地產和內需仍疲弱。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran",
-          "url": "https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories",
-          "summary": "Oil prices fell and U.S. stock-index futures jumped Sunday after President Donald Trump said the U.S. has agreed to a peace deal with Iran, apparently ending months of hostilities that shut the Strait of Hormuz and sent the global economy into an oil shock.",
-          "published": "Mon, 15 Jun 2026 00:29:00 GMT",
-          "ts": 1781483340.0,
-          "zh_title": "美國股市未來指數大幅上漲，石油價格跌落，川普稱美伊達成和平協議",
-          "zh_point": "川普宣布美國與伊朗達成和平協議，石油價格大幅下跌，美國股市未來指數大幅上漲，全球經濟避免了石油價格大幅上漲的風險。"
+          "title": "The biggest risk to your retirement isn’t a market crash — it’s a crisis you probably haven’t planned for",
+          "url": "https://www.marketwatch.com/story/the-biggest-risk-to-your-retirement-isnt-a-market-crash-its-a-crisis-you-probably-havent-planned-for-eff75a99?mod=mw_rss_topstories",
+          "summary": "Health-related financial risks are the No. 1 threat to retirement security.",
+          "published": "Tue, 16 Jun 2026 00:34:00 GMT",
+          "ts": 1781570040.0,
+          "zh_title": "你的退休生活最大的風險，不是市場崩盤，而是你可能還沒有準備的危機",
+          "zh_point": "健康相關的財務風險，是退休安全的第一大威脅。退休前，投資者應該考慮到未來可能出現的健康問題，如何籌措相關的醫療費用，避免因為醫療費用而影響退休生活的穩定。"
         },
         {
           "source": "MarketWatch",
-          "title": "Will the real Kevin Warsh please stand up? Ahead of his first Fed meeting, economists honestly don’t know what to expect.",
-          "url": "https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c?mod=mw_rss_topstories",
-          "summary": "Perhaps the only thing that can be said with certainty about Kevin Warsh’s press conference following his first meeting as Federal Reserve chair this week is that he will have a captive audience.",
-          "published": "Sun, 14 Jun 2026 21:00:00 GMT",
-          "ts": 1781470800.0,
-          "zh_title": "請出真正的凱文沃許！在他第一次聯邦儲備會議前，經濟學家們實在不知道該期待什麼。",
-          "zh_point": "凱文沃許即將出任聯邦儲備會議主席，經濟學家們對他的行為和政策方向感到茫然。"
+          "title": "How to work in retirement without seeing your Social Security checks slashed",
+          "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+          "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
+          "published": "Tue, 16 Jun 2026 00:11:00 GMT",
+          "ts": 1781568660.0,
+          "zh_title": "如何在退休後不影響退休金的收入",
+          "zh_point": "在達到全額退休年齡之前領取退休金並持續工作，可能會導致未預期的扣除，但這筆錢並不會永久喪失。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-          "url": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-          "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
-          "published": "Sun, 14 Jun 2026 20:17:00 GMT",
-          "ts": 1781468220.0,
-          "zh_title": "這個似乎太好了：在一場牛排晚餐退休研討會上，該男子聲稱年金可以超越市場表現。這是否為真？",
-          "zh_point": "該男子聲稱固定年金是投資的「神奇之地」，但其真實性值得商榷。"
+          "title": "Need a credit-score boost? Call your credit-card company and ask for this — but proceed with caution.",
+          "url": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
+          "summary": "A credit-limit increase can help strained borrowers improve how their financial picture looks on paper.",
+          "published": "Mon, 15 Jun 2026 23:07:00 GMT",
+          "ts": 1781564820.0,
+          "zh_title": "需要提高信貸評分？打電話給銀行卡公司，問他們這個，但要小心。",
+          "zh_point": "提高信貸限額可以幫助經濟緊張的借款人改善他們的財務狀況在紙上看起來。提高信貸限額可能會提高信貸評分，但要小心因為這可能會導致過度消費。"
         },
         {
           "source": "MarketWatch",
-          "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
-          "url": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-          "summary": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
-          "published": "Sun, 14 Jun 2026 17:34:00 GMT",
-          "ts": 1781458440.0,
-          "zh_title": "高盛警告：債券市場再次出現違約風險，Pimco出招應對",
-          "zh_point": "投資者應該增加固定收益投資，以穩定投資組合，尤其是在股市估值過高的情況下。"
+          "title": "Roku’s sale to Fox for $22 billion raises a big question",
+          "url": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
+          "summary": "Roku’s stock is rallying to a four-year high after agreeing to be bought by Fox in a deal valued at $22 billion.",
+          "published": "Mon, 15 Jun 2026 23:03:00 GMT",
+          "ts": 1781564580.0,
+          "zh_title": "Roku被福斯收購22億美元引發大疑問",
+          "zh_point": "Roku與福斯達成22億美元收購協議，股價大幅上升至四年新高。"
         },
         {
           "source": "MarketWatch",
-          "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
-          "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
-          "summary": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
-          "published": "Sun, 14 Jun 2026 14:26:00 GMT",
-          "ts": 1781447160.0,
-          "zh_title": "我們找到了理想的豪華退休社區，但它欠了數百萬美元，是否陷入困境？",
-          "zh_point": "一對夫婦在豪華退休社區買入後，卻發現社區欠下數百萬美元的債務，擔心如果離開會損失一部分入金。"
+          "title": "Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out",
+          "url": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
+          "summary": "The average retail gasoline price was just above the psychologically significant $4-per-gallon mark on Monday.",
+          "published": "Mon, 15 Jun 2026 22:31:00 GMT",
+          "ts": 1781562660.0,
+          "zh_title": "伊朗戰爭結束協議通過 美國汽油價格有望下降",
+          "zh_point": "美國與伊朗達成和平協議，汽油價格有望下降。根據最新數據，美國平均零售汽油價格已經超過四美元一加侖的重要心理門檻，與伊朗和平協議達成後汽油價格有望下降。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下跌，納斯達克指數領先跌幅，人工智慧基礎設施製造商股價大幅下跌，Nvidia股價下跌16%。"
+          "zh_title": "美國股市大跌　中國DeepSeek事件引發整體AI業績下滑",
+          "zh_point": "美國股市大幅下跌，納斯達克指數領跌，AI基礎設施製造商遭遇大幅下跌，其中許多公司跌幅超過10%，Nvidia跌幅達16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金屬交易所金、銀價格下跌",
-          "zh_point": "紐約金屬交易所的金價和銀價在上市交易後下跌，金價下跌1.4%，連續兩天下跌，銀價下跌2.5%，連續三天下跌。"
+          "zh_title": "紐約金屬交易所金銀價格下跌",
+          "zh_point": "紐約金屬交易所金價下跌 1.4%，銀價下跌 2.5%，連續兩天金價下跌，連續三天銀價下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國一家新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的晶片。"
+          "zh_title": "關於中國DeepSeek AI的要點",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，且不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度尋找不會淹沒美國AI巨頭",
-          "zh_point": "深度尋找事件雖然導致Nvidia、Broadcom等科技巨頭股價下跌，但市場恐慌情緒過度膨脹。"
+          "zh_title": "深度探索不會淹沒美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，市場的恐慌情緒可能過於誇大。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信圈報導：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和電信公司在最新的市場話題中獲得關注。"
+          "zh_title": "科技、媒體與電信周報：市場談話",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和電信領域的最新發展，包括市場趨勢、投資機會和產業動態。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "While Everyone Was Focused On SpaceX, I'm Buying Gold Miners",
-          "url": "https://seekingalpha.com/article/4914891-while-everyone-was-focused-on-spacex-im-buying-gold-miners?source=feed_all_articles",
+          "title": "AST SpaceMobile: Beyond Space-Based Connectivity, A Defense Powerhouse In The Making",
+          "url": "https://seekingalpha.com/article/4915176-ast-spacemobile-beyond-space-based-connectivity-a-defense-powerhouse-in-the-making?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 14 Jun 2026 21:29:49 -0400",
-          "ts": 1781486989.0,
-          "zh_title": "在所有人都注目於SpaceX時，我正在買黃金礦業股",
-          "zh_point": "在股市熱鬧的時期，投資者們都在關注SpaceX的發展，但編輯認為黃金礦業股仍是值得關注的投資選擇。"
+          "published": "Mon, 15 Jun 2026 21:42:36 -0400",
+          "ts": 1781574156.0,
+          "zh_title": "AST SpaceMobile：超越太空基礎的連接，防禦強權的崛起",
+          "zh_point": "AST SpaceMobile 正在發展成為一家具備太空基礎連接能力的防禦強權，超越傳統的太空技術。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "AMG Boston Common Global Impact Fund Q1 2026 Commentary",
-          "url": "https://seekingalpha.com/article/4914893-amg-boston-common-global-impact-fund-q1-2026-commentary?source=feed_all_articles",
+          "title": "Lumen: Enterprise-Focused Renaissance And 15% Forward FCF Yield Serve As Green Flags",
+          "url": "https://seekingalpha.com/article/4915175-lumen-technologies-stock-enterprise-focused-renaissance-15-percent-forward-fcf-yield-green-flags?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 14 Jun 2026 21:10:00 -0400",
-          "ts": 1781485800.0,
-          "zh_title": "AMG波士頓共同全球影響基金 2026 年第一季度評論",
-          "zh_point": "AMG波士頓共同全球影響基金於2026年第一季度發表評論，內容可能涉及基金績效、投資策略和市場分析等方面。"
+          "published": "Mon, 15 Jun 2026 21:42:05 -0400",
+          "ts": 1781574125.0,
+          "zh_title": "Lumen：企業導向的文藝復興和15%的前景自由現金流收益率作為綠旗",
+          "zh_point": "Lumen的企業導向文藝復興和高前景自由現金流收益率，表明公司的財務穩定和投資潛力。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "DRDGOLD Limited (DRD) Presents at 121 Mining Investment Conference - New York - Slideshow",
-          "url": "https://seekingalpha.com/article/4914892-drdgold-limited-drd-presents-at-121-mining-investment-conference-new-york-slideshow?source=feed_all_articles",
+          "title": "Dave & Buster's targets over $100M in FY2026 free cash flow while keeping net CapEx at no more than $200M",
+          "url": "https://seekingalpha.com/news/4603838-dave-and-busters-targets-over-100m-in-fy2026-free-cash-flow-while-keeping-net-capex-at-no?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Sun, 14 Jun 2026 21:00:59 -0400",
-          "ts": 1781485259.0,
-          "zh_title": "DRDGOLD Limited (DRD) 在紐約 121 Mining Investment Conference 上發表演說 - 圖片展示",
-          "zh_point": "DRDGOLD Limited 在紐約 121 Mining Investment Conference 上發表演說，可能與金礦投資相關。"
+          "published": "Mon, 15 Jun 2026 21:14:21 -0400",
+          "ts": 1781572461.0,
+          "zh_title": "Dave & Buster's 將目標達成 2026 年財年超過 10 億美元自由現金流量，同時維持資產固定支出不超過 20 億美元",
+          "zh_point": "Dave & Buster's 將在 2026 年財年內達成超過 10 億美元的自由現金流量，並維持資產固定支出的控制在 20 億美元以下。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Woodside Energy: The Potential Exxon Takeover Isn't The Real Opportunity",
-          "url": "https://seekingalpha.com/article/4914890-woodside-energy-stock-potential-exxon-takeover-not-real-opportunity?source=feed_all_articles",
+          "title": "Dave & Buster's Entertainment, Inc. (PLAY) Q1 2027 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4915180-dave-and-busters-entertainment-inc-play-q1-2027-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 14 Jun 2026 20:59:55 -0400",
-          "ts": 1781485195.0,
-          "zh_title": "伍德賽德能源：埃克森美孚收購不是真正的機會",
-          "zh_point": "伍德賽德能源股價近期大幅上升，市場懷疑埃克森美孚可能會收購該公司，但分析師認為這不是伍德賽德能源真正的機會。伍德賽德能源的實際價值可能遠超收購價格，投資者應該關注公司未來的發展潛力。"
+          "published": "Mon, 15 Jun 2026 21:12:10 -0400",
+          "ts": 1781572330.0,
+          "zh_title": "Dave & Buster's Entertainment, Inc. (PLAY) 2027 年第一季財報電話會議錄音稿",
+          "zh_point": "Dave & Buster's Entertainment, Inc. 公布 2027 年第一季財報電話會議錄音稿，內容包括公司財務表現、營運情況等相關資訊。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Hasbro: Magic Strength Keeps The Buy Case Intact",
-          "url": "https://seekingalpha.com/article/4914889-hasbro-magic-strength-keeps-the-buy-case-intact?source=feed_all_articles",
+          "title": "Northern Large Cap Core Fund Q1 2026 Commentary",
+          "url": "https://seekingalpha.com/article/4915178-northern-large-cap-core-fund-q1-2026-commentary?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 14 Jun 2026 20:41:57 -0400",
-          "ts": 1781484117.0,
-          "zh_title": "哈斯堡：魔法力量維持買入案",
-          "zh_point": "哈斯堡的財務實力和市場競爭力仍然堅強，維持買入的投資建議。"
+          "published": "Mon, 15 Jun 2026 21:00:00 -0400",
+          "ts": 1781571600.0,
+          "zh_title": "2026年第一季度北方大型核心基金評論",
+          "zh_point": "北方大型核心基金在2026年第一季度的投資表現，投資組合的變化和策略，基金管理人的評估和預測。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Gold jumps 2% as US-Iran peace deal eases inflation fears, dents dollar",
-          "url": "https://www.investing.com/news/commodities-news/gold-jumps-2-as-usiran-peace-deal-eases-inflation-fears-dents-dollar-4741143",
+          "title": "Corpay director Steven Stull sells $360,780 in company stock",
+          "url": "https://www.investing.com/news/insider-trading-news/corpay-director-steven-stull-sells-360780-in-company-stock-93CH-4743715",
           "summary": "",
-          "published": "2026-06-15 01:58:29",
-          "ts": 1781488709.0,
-          "zh_title": "黃金跳升2% 美伊和平協議減少通膨恐懼，削弱美元",
-          "zh_point": "黃金價格因美伊和平協議減少通膨恐懼而上升2%，美元也因此受損。"
+          "published": "2026-06-16 01:28:57",
+          "ts": 1781573337.0,
+          "zh_title": "Corpay 執行長 Steven Stull 賣出公司股票 360,780 美元",
+          "zh_point": "Corpay 執行長 Steven Stull 賣出了價值 360,780 美元的公司股票。"
         },
         {
           "source": "Investing.com",
-          "title": "Soccer-Scotland’s Tartan Army switches sports for a day in Boston",
-          "url": "https://www.investing.com/news/general-news/soccerscotlands-tartan-army-switches-sports-for-a-day-in-boston-4741142",
+          "title": "Form 13D/A Big Digital Energy For: 15 June",
+          "url": "https://www.investing.com/news/filings/form-13da-big-digital-energy-for-15-june-93CH-4743714",
           "summary": "",
-          "published": "2026-06-15 01:54:52",
-          "ts": 1781488492.0,
-          "zh_title": "蘇格蘭的紅白軍隊在波士頓轉戰一天",
-          "zh_point": "蘇格蘭足球隊在波士頓舉行了一個非傳統的活動，讓球迷們在一天內體驗其他運動。"
+          "published": "2026-06-16 01:27:58",
+          "ts": 1781573278.0,
+          "zh_title": "Form 13D/A 大數位能源",
+          "zh_point": "美國證券交易委員會公布了大數位能源的最新報告，可能與公司股權或管理層變動有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Dollar hits 10-day low as US, Iran reach peace deal",
-          "url": "https://www.investing.com/news/economy-news/dollar-hits-10day-low-as-us-iran-reach-peace-deal-4741128",
+          "title": "Form 144 Enliven Therapeutics For: 15 June",
+          "url": "https://www.investing.com/news/filings/form-144-enliven-therapeutics-for-15-june-93CH-4743713",
           "summary": "",
-          "published": "2026-06-15 01:48:51",
-          "ts": 1781488131.0,
-          "zh_title": "美元跌至10天來新低 美國與伊朗達成和平協議",
-          "zh_point": "美元在美國與伊朗達成和平協議後，跌至10天來的新低。這可能是因為投資者對美伊和平的樂觀情緒，導致美元的贬值。"
+          "published": "2026-06-16 01:27:35",
+          "ts": 1781573255.0,
+          "zh_title": "Form 144 Enliven Therapeutics For：15 June",
+          "zh_point": "Enliven Therapeutics 在 15 日提交了 Form 144，表明公司有意出售公司股票。"
         },
         {
           "source": "Investing.com",
-          "title": "Cathie Wood’s ARK sells AMD stock, buys SpaceX shares",
-          "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-spacex-shares-93CH-4741141",
+          "title": "Form 4 Hut 8 Corp For: 15 June",
+          "url": "https://www.investing.com/news/filings/form-4-hut-8-corp-for-15-june-93CH-4743712",
           "summary": "",
-          "published": "2026-06-15 01:46:52",
-          "ts": 1781488012.0,
-          "zh_title": "Cathie Wood的ARK出售AMD股票，購買SpaceX股份",
-          "zh_point": "Cathie Wood的投資公司ARK出售AMD股票，購買SpaceX股份，可能表明對科技領域的投資策略有所調整。"
+          "published": "2026-06-16 01:27:33",
+          "ts": 1781573253.0,
+          "zh_title": "Hut 8 Corp Form 4 15 June",
+          "zh_point": "Hut 8 Corp 在 15 日提交了 Form 4 報告，內容可能與公司高管或重要股東的股票交易有關，但具體內容尚待查詢。"
         },
         {
           "source": "Investing.com",
-          "title": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
-          "url": "https://www.investing.com/news/world-news/motels-marshland-and-luxury-rates-welcome-to-the-world-cup-in-new-jersey-4741140",
+          "title": "Form 4 Freedom Holding Corp For: 15 June",
+          "url": "https://www.investing.com/news/filings/form-4-freedom-holding-corp-for-15-june-93CH-4743711",
           "summary": "",
-          "published": "2026-06-15 01:43:34",
-          "ts": 1781487814.0,
-          "zh_title": "新澤西州的汽車旅館、沼澤和豪華房價：歡迎來到世界盃",
-          "zh_point": "新澤西州將成為2026年世界盃足球賽的主辦地，當地的汽車旅館和酒店將迎來大量球迷，同時也會面臨房價上漲和資源供應的挑戰。"
+          "published": "2026-06-16 01:27:33",
+          "ts": 1781573253.0,
+          "zh_title": "自由控股公司 Form 4 報告：2023 年 6 月 15 日",
+          "zh_point": "自由控股公司於 2023 年 6 月 15 日發布了 Form 4 報告，內容可能與公司高管或重要股東的股票交易有關。"
         }
       ]
     }
