@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒主要圍繞著SpaceX、Nvidia和晶片股的表現。SpaceX的股價大幅上漲，引起市場的關注，Morningstar表示Cursor收購將推動SpaceX進入「最昂貴」的領域。Nvidia的股價下跌16%，受中國DeepSeek引發的AI全面洗牌影響。晶片股也下跌，受供應鏈和需求的影響。市場評論家認為，Nvidia和其他AI巨頭的股價下跌可能是恐慌的情緒過度。\n\n【結語】\n散戶投資人務必謹慎評估市場情緒和個股表現。今日市場的情緒波動可能是短期的，投資人應該保持冷靜和耐心。投資人應該根據個股的基本面和長期發展趨勢進行投資決策，而不是僅僅追隨市場的短期波動。\n\n【精選個股】\nNVDA - Nvidia - Nvidia的股價下跌可能是短期恐慌的情緒過度，投資人應該保持冷靜和耐心。\nSHOP - Shopify - Shopify推出AI在其平台的整合，整合了其商務工具與外部AI驅動的產品發現。\nTSLA - Tesla - Tesla的股價表現受到市場情緒的影響，但投資人應該關注公司的基本面和長期發展趨勢。\n\n風險提醒：投資市場有風險，投資人應該謹慎評估個股的基本面和市場情緒。",
+  "analysis": "【今日摘要】\n今天市場情緒受到多個因素影響，包括中國DeepSeek事件、美聯儲利率預測和科技股的下跌。NVIDIA 股價下跌16%，AI基礎設施股大幅下跌。倫敦金、銀價格下跌。市場論壇中提及DeepSeek、SoFi等公司，涉及科技、媒體和電信領域的市場動態。聯邦儲備理事會將於6月17日宣布利率決策，影響全球金融市場。\n\n【結語】\n散戶投資人應該保持冷靜和謹慎，避免因恐慌情緒而做出錯誤的投資決定。投資人應該根據自己的財務狀況和風險承受能力進行投資，並且應該保持長期的投資觀點。投資人也應該保持多元化的投資組合，避免過度集中在某一股或某一領域。\n\n【精選個股】\nNVDA - NVIDIA - NVIDIA 以62.97%的淨利率入選2026年最有利可圖的美國股票之一。\nJPM - 摩根大通 - 摩根大通 (JPM) 股價因擴展 Chase 數位銀行到至少五個歐洲市場而受到關注。\nINTC - 英特爾 - 克拉默稱英特爾是他今年的首選股，認為投資者應該關注公司未來的AI機會。\n\n風險提醒：投資股票涉及風險，投資人應該謹慎評估自己的財務狀況和風險承受能力，並且應該保持長期的投資觀點。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures Rise Before Warsh's Fed Debut; SpaceX Keeps Rising, Four Stocks In Buy Areas",
-          "url": "https://finance.yahoo.com/m/8db20d3f-802e-3d8a-9772-1c97be3d346b/dow-jones-futures-rise-before.html?.tsrc=rss",
-          "summary": "The Dow Jones hit a new high and SpaceX kept rising. But chips and most AI stocks fell. Fed chief Kevin Warsh's comments will be in focus Wednesday.",
-          "published": "Wed, 17 Jun 2026 01:52:18 +0000",
-          "ts": 1781661138.0,
-          "zh_title": "道瓊指數未來上漲，前瞻華盛頓的聯邦儲備理事會首次登場；SpaceX持續上漲，四檔股票進入買盤區域",
-          "zh_point": "道瓊指數創新高，SpaceX持續上漲，但晶片股和大部分AI股則下跌。聯邦儲備理事會主席凱文·沃許將於星期三發表意見。"
+          "title": "NETLIST EXPANDS LEGAL ACTION AGAINST SAMSUNG AND GOOGLE FOR INFRINGEMENT OF NEW AI MEMORY PATENTS",
+          "url": "https://finance.yahoo.com/technology/ai/articles/netlist-expands-legal-action-against-015500448.html?.tsrc=rss",
+          "summary": "Netlist, Inc. (OTCBQ: NLST) today announced it has initiated new legal proceedings against Samsung in the U.S. International Trade Commission (ITC) and the U.S. District Court for the Eastern District of Texas. These actions are based on the infringement of Netlist's U.S. Patent Nos. 12,646,537 and 12,650,937, which respectively read on Samsung's high-bandwidth memory (HBM) products and Samsung's DDR5 RDIMMs and MRDIMMs. The new ITC complaint names Google, Supermicro, Nvidia and Broadcom as addi",
+          "published": "Thu, 18 Jun 2026 01:55:00 +0000",
+          "ts": 1781747700.0,
+          "zh_title": "Netlist 對 Samsung 和 Google 提起新訴訟，指控侵犯新 AI 記憶體專利",
+          "zh_point": "Netlist 對 Samsung 和 Google 提起訴訟，指控侵犯其新 AI 記憶體專利，涉及高頻寬記憶體 (HBM) 產品和 DDR5 RDIMMs 和 MRDIMMs 等。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "JPMorgan Chase (JPM) Stock After 25% Yearly Gain Is The Price Still Reasonable",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-stock-25-011137831.html?.tsrc=rss",
-          "summary": "If you are wondering whether JPMorgan Chase stock still offers value at current levels, this article walks through what the numbers actually say and how they fit together. The stock last closed at US$331.14, with returns of 5.9% over 7 days, 11.2% over 30 days, 1.7% year to date and 25.3% over 1 year, which has put valuation front of mind for many investors. Recent coverage has focused on JPMorgan Chase as one of the major U.S. banks at the center of conversations about interest rates,...",
-          "published": "Wed, 17 Jun 2026 01:11:37 +0000",
-          "ts": 1781658697.0,
-          "zh_title": "摩根大通 (JPM) 股價仍可接受嗎？",
-          "zh_point": "摩根大通股價近期大幅上漲25%，投資者關心的是當前股價是否仍有合理價值。"
+          "title": "JPMorgan Chase (JPM) Stock Could Be 23% Below Fair Value After Europe Digital Bank Push",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-stock-could-011622932.html?.tsrc=rss",
+          "summary": "Interest in JPMorgan Chase (JPM) stock has picked up after management outlined plans to expand the Chase digital bank into at least five European markets, including France, Spain and Italy, over five years. See our latest analysis for JPMorgan Chase. The Chase digital expansion headlines arrive during a period of firm momentum for JPMorgan Chase, with a 7-day share price return of 7.87% and a 30-day share price return of 10.88%, while the 1-year total shareholder return of 24.09% and 5-year...",
+          "published": "Thu, 18 Jun 2026 01:16:22 +0000",
+          "ts": 1781745382.0,
+          "zh_title": "摩根大通 (JPM) 股票可能低於合理價值 23%",
+          "zh_point": "摩根大通 (JPM) 股價因擴展 Chase 數位銀行到至少五個歐洲市場而受到關注，包括法國、西班牙和義大利。該公司股價近期表現良好，7 天內漲幅達 7.87%，30 天內漲幅達 10.88%，一年內股東回報達 24.09%。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Shopify (SHOP) Backs Management At 2026 Meeting As Shareholders Reject AI Policy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-backs-management-2026-011101150.html?.tsrc=rss",
-          "summary": "Shopify (NasdaqGS:SHOP) shareholders approved all management proposals at the 2026 annual meeting, including executive compensation plans. Investors voted on a dedicated artificial intelligence policy, which did not pass, effectively backing the company’s current AI approach. Shopify continues rolling out AI across its platform, with its Sidekick AI assistant gaining traction among merchants. The company expanded AI-driven product discovery, integrating its commerce tools with external...",
-          "published": "Wed, 17 Jun 2026 01:11:01 +0000",
-          "ts": 1781658661.0,
-          "zh_title": "Shopify 支持管理層 2026 年會議決策 股東反對 AI 政策",
-          "zh_point": "Shopify 股東在 2026 年會議上通過了管理層的所有提案，包括行政薪酬計畫。投資者投票通過了專門的人工智慧政策，但未通過，有效支持公司目前的 AI 方針。Shopify ongoing 推出 AI 在其平台的整合，Sidekick AI 助手在商家中獲得了關注。公司擴展了 AI驅動的產品發現，整合了其商務工具與外部..."
+          "title": "NVIDIA (NVDA) – Among the 12 Most Profitable American Stocks to Buy in 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-among-12-most-010953177.html?.tsrc=rss",
+          "summary": "With a net profit margin of 62.97%, NVIDIA Corporation (NASDAQ:NVDA) is included among the 12 Most Profitable American Stocks to Buy in 2026. A pioneer in accelerated computing, NVIDIA Corporation (NASDAQ:NVDA) is a full-stack computing company with data-center-scale offerings that are reshaping the industry. NVIDIA Corporation (NASDAQ:NVDA) announced on June 15 that it is looking to […]",
+          "published": "Thu, 18 Jun 2026 01:09:53 +0000",
+          "ts": 1781744993.0,
+          "zh_title": "NVIDIA (NVDA) – 2026年最有利可圖的美國股票之一",
+          "zh_point": "NVIDIA公司以62.97%的淨利率入選2026年最有利可圖的美國股票之一，該公司以加速計算領域的先驅地位，提供全堆疊計算服務，為業界帶來革新。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "SPCX Stock Jumps Overnight: Cursor Deal Pushes SpaceX Deeper Into 'Most Expensive' Territory, Morningstar Says",
-          "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-cursor-deal-pushes-most-expensive-territory-morningstar/cZK0WjDR74H?.tsrc=rss",
-          "summary": "Morningstar cut its fair value estimate to $62 from $63 after the Cursor acquisition, implying a 69% downside from current levels.",
-          "published": "Wed, 17 Jun 2026 00:55:11 +0000",
-          "ts": 1781657711.0,
-          "zh_title": "SpaceX 股價大幅上漲：Morningstar 表示Cursor 收購將推動SpaceX進入「最昂貴」的領域",
-          "zh_point": "Morningstar 將SpaceX的公平估值從63美元降至62美元，意味著目前股價將下跌69%。"
+          "title": "Coherent's Good News Gets A Cold Shoulder",
+          "url": "https://www.trefis.com/articles/603340/coherents-good-news-gets-a-cold-shoulder/2026-06-17?.tsrc=rss",
+          "summary": "The company announced a government-backed expansion for its AI business, and investors promptly headed for the exits.",
+          "published": "Thu, 18 Jun 2026 01:01:08 +0000",
+          "ts": 1781744468.0,
+          "zh_title": "Coherent 的好消息被冷落",
+          "zh_point": "Coherent 公佈政府支持的 AI 业务擴張計畫，但投資人卻迅速撤資。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Can Nvidia Stock Reach $743 in the Next 12 Months?",
-          "url": "https://www.fool.com/investing/2026/06/16/can-nvidia-stock-reach-743-in-the-next-12-months/?.tsrc=rss",
-          "summary": "That would require the stock to more than triple in the next year.",
-          "published": "Wed, 17 Jun 2026 00:50:00 +0000",
-          "ts": 1781657400.0,
-          "zh_title": "Nvidia 股票是否能在下一年達到 743 美元？",
-          "zh_point": "為了達到這個目標，Nvidia 股票需要在下一年翻三倍。"
+          "title": "SpaceX Sank Today -- Is the Stock a Buy Right Now?",
+          "url": "https://www.fool.com/investing/2026/06/17/spacex-sank-today-is-the-stock-a-buy-right-now/?.tsrc=rss",
+          "summary": "SpaceX just had its first daily valuation pullback as a public company. Is now the time to buy?",
+          "published": "Thu, 18 Jun 2026 00:48:37 +0000",
+          "ts": 1781743717.0,
+          "zh_title": "SpaceX 股價今天下跌 -- 是現在買入時機嗎？",
+          "zh_point": "SpaceX 首次作為上市公司出現日線下跌，是否現在是買入的好時機？"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "SpaceX options debut signals 'expensive' and 'dangerous' bets, strategist says",
-          "url": "https://www.cnbc.com/2026/06/17/spacex-options-debut-with-tails-looking-dangerous-strategist-says.html",
-          "summary": "Options on SpaceX have started trading after the company's IPO, and they show a wide variation in bets.",
-          "published": "Wed, 17 Jun 2026 01:53:57 GMT",
-          "ts": 1781661237.0,
-          "zh_title": "SpaceX選擇權首次交易表明「昂貴」和「危險」的押注",
-          "zh_point": "SpaceX選擇權交易開始後，表明投資者對公司未來的預期存在著極大差異。"
+          "title": "Inside India newsletter: Anthropic curbs ignite AI debate in India — efforts 'too slow, way too small'",
+          "url": "https://www.cnbc.com/2026/06/18/anthropic-curbs-sovereign-ai-inside-india.html",
+          "summary": "India's ambitions of becoming a global AI innovation powerhouse by building applications on top of foreign foundational models are being challenged.",
+          "published": "Thu, 18 Jun 2026 00:18:48 GMT",
+          "ts": 1781741928.0,
+          "zh_title": "印度內幕新聞：Anthropic限制引發印度AI辯論 — 努力「太慢，太小」",
+          "zh_point": "印度打算成為全球AI創新中心，但仍面臨挑戰，因為印度企業試圖在外國基礎模型上建立應用程式的努力被質疑太慢且規模太小。"
         },
         {
           "source": "CNBC",
-          "title": "Technical factors are adding fuel to SpaceX's meme stock fire",
-          "url": "https://www.cnbc.com/2026/06/16/technical-factors-are-adding-fuel-to-spacexs-meme-stock-fire.html",
-          "summary": "Options, leveraged ETFs and index arbitrage are likely boosting the stock ahead of its inclusion in some benchmark stock indexes.",
-          "published": "Wed, 17 Jun 2026 01:18:47 GMT",
-          "ts": 1781659127.0,
-          "zh_title": "技術因素助長SpaceX的股價火爆",
-          "zh_point": "SpaceX的股價因選擇權、加杠杆ETF和指數套利而受益，預計將在某些基準股指數中被納入。"
+          "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/06/17/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "Stocks fell on Wednesday after the Federal Reserve's so-called \"dot plot\" suggested that an interest rate hike could be in the cards for 2026.",
+          "published": "Wed, 17 Jun 2026 23:56:45 GMT",
+          "ts": 1781740605.0,
+          "zh_title": "週四大股市新聞：明日市場可能受哪些因素影響",
+          "zh_point": "美聯儲的「點陣圖」（dot plot）預測，2026年可能會有利率上調，股市因此於週三下跌。"
         },
         {
           "source": "CNBC",
-          "title": "U.S. holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks",
-          "url": "https://www.cnbc.com/2026/06/17/us-deepseek-blacklist-cxmt-national-security-risks-.html",
-          "summary": "DeepSeek, CXMT and other companies were approved by an interagency committee last year for addition to the Commerce Department's Entity List.",
-          "published": "Wed, 17 Jun 2026 01:13:38 GMT",
-          "ts": 1781658818.0,
-          "zh_title": "美國暫緩將中國DeepSeek列黑名單，超過100家公司被視為安全風險",
-          "zh_point": "美國商務部Entity List的委員會曾於去年批准將DeepSeek、CXMT等公司列入黑名單，但美國最後暫緩了這項決定，同時將超過100家公司視為安全風險。"
+          "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+          "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+          "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
+          "published": "Wed, 17 Jun 2026 23:51:33 GMT",
+          "ts": 1781740293.0,
+          "zh_title": "華爾街對凱文華許的首次聯邦儲備會議有何看法",
+          "zh_point": "聯邦儲備會議和凱文華許主席於星期三緊密遵循利率政策。"
         },
         {
           "source": "CNBC",
-          "title": "Japan May exports grow at fastest pace in over three years, beating estimates, as chip demand soars",
-          "url": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html",
-          "summary": "Japan's exports in May grew at their fastest pace since November 2022, boosted by robust demand for cars and semiconductors.",
-          "published": "Wed, 17 Jun 2026 01:02:10 GMT",
-          "ts": 1781658130.0,
-          "zh_title": "日本五月出口增長最快超過三年，超越預期，晶片需求大增",
-          "zh_point": "日本五月出口增長最快超過三年，出口額增長5.2%，遠超預期增長2.5%，主要受需求增強的汽車和半導體產品影響。"
+          "title": "CME CEO Terrence Duffy says the exchange operator will sue CFTC over perpetual futures",
+          "url": "https://www.cnbc.com/2026/06/17/cme-ceo-terrence-duffy-says-the-exchange-operator-will-sue-cftc-over-perpetual-futures.html",
+          "summary": "Outgoing CME CEO Terrence Duffy said that the exchange operator will sue the CFTC over the agency’s decision to approve perpetual futures.",
+          "published": "Wed, 17 Jun 2026 23:21:48 GMT",
+          "ts": 1781738508.0,
+          "zh_title": "CME CEO Terrence Duffy 表示交易所將對 CFTC 追究永久期貨決策",
+          "zh_point": "CME CEO Terrence Duffy 表示交易所將對 CFTC 提起訴訟，抗議該機構批准永久期貨交易。"
         },
         {
           "source": "CNBC",
-          "title": "Telegram's Durov says India punishing 150 million users after country temporarily bans messaging app",
-          "url": "https://www.cnbc.com/2026/06/16/indias-solution-to-entrance-exam-fraud-a-temporary-ban-on-telegram.html",
-          "summary": "India has temporarily restricted access to the messaging app Telegram in an effort to prevent exam fraud. Telegram has slammed the ban.",
-          "published": "Wed, 17 Jun 2026 00:52:40 GMT",
-          "ts": 1781657560.0,
-          "zh_title": "Telegram創辦人杜洛夫批評印度對1500萬用戶施壓",
-          "zh_point": "Telegram在印度暫時被封鎖，原因是該國試圖防止考試作弊。杜洛夫批評印度政府的做法。"
+          "title": "Jim Cramer says this chipmaker is still a buy after soaring more than 200% this year",
+          "url": "https://www.cnbc.com/2026/06/17/jim-cramer-intel.html",
+          "summary": "CNBC's Jim Cramer named Intel as his top stock pick, arguing that investors should focus on the company's future AI opportunities.",
+          "published": "Wed, 17 Jun 2026 22:17:50 GMT",
+          "ts": 1781734670.0,
+          "zh_title": "克拉默稱這家晶片製造商仍是買入股東的選擇，儘管今年已上漲超過200%",
+          "zh_point": "CNBC的克拉默稱英特爾是他今年的首選股，認為投資者應該關注公司未來的AI機會。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "America’s fertility rate has never been lower. Blame smartphones — and these 4 financial realities.",
-          "url": "https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories",
-          "summary": "Having as many children as families want requires “gender equality, economic stability, decent health and confidence in the future.”",
-          "published": "Wed, 17 Jun 2026 01:03:00 GMT",
-          "ts": 1781658180.0,
-          "zh_title": "美國出生率創下新低　智能手機與這四個財經現實是原因",
-          "zh_point": "美國出生率創下新低，專家認為這與智能手機的使用以及四個財經現實有關，包括性別平等、經濟穩定、良好的健康狀況以及對未來的信心。"
+          "title": "Scared to spend your retirement money? Here’s one way to get over the fear of running out.",
+          "url": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
+          "summary": "This fear is probably going to cause you some regrets.",
+          "published": "Thu, 18 Jun 2026 00:43:00 GMT",
+          "ts": 1781743380.0,
+          "zh_title": "害怕花光退休金？這樣可以幫你克服恐懼",
+          "zh_point": "害怕花光退休金可能會讓你在未來感到後悔。研究表明，許多人在退休後會因為恐懼而錯過享受生活的機會。為了克服這種恐懼，你可以試著建立一個可靠的退休金計畫，確保你的金錢能夠持續供應你所需的生活費用。"
         },
         {
           "source": "MarketWatch",
-          "title": "Oil may move through the Strait of Hormuz first, leaving fertilizer supplies stranded",
-          "url": "https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories",
-          "summary": "The interim peace agreement between the U.S. and Iran seems to be doing little to answer some of the thornier questions about the Strait of Hormuz, including how much longer it will take for products other than crude to start moving through again.",
-          "published": "Wed, 17 Jun 2026 00:46:00 GMT",
-          "ts": 1781657160.0,
-          "zh_title": "霍爾木茲海峽可能先恢復原油運輸，化肥供應受阻",
-          "zh_point": "美國與伊朗簽署臨時和平協議後，霍爾木茲海峽的運輸問題仍未得到明確解答，包括原油以外商品何時恢復運輸。"
+          "title": "I inherited a $500,000 IRA. Can I reduce the tax burden by using it for my children’s education?",
+          "url": "https://www.marketwatch.com/story/i-inherited-a-500-000-ira-can-i-reduce-the-tax-burden-by-using-it-for-my-childrens-education-53ddaa0c?mod=mw_rss_topstories",
+          "summary": "“I would like to use my share to help fund college for my three children.”",
+          "published": "Thu, 18 Jun 2026 00:30:00 GMT",
+          "ts": 1781742600.0,
+          "zh_title": "我繼承了 50 萬美元的退休金計畫，如何減少稅負？",
+          "zh_point": "一位父親想用繼承的退休金計畫資助三個孩子的大學教育，減少稅負。"
         },
         {
           "source": "MarketWatch",
-          "title": "Intel takes a major step toward turning around a business that’s bleeding cash",
-          "url": "https://www.marketwatch.com/story/intel-takes-a-major-step-toward-turning-around-a-business-thats-bleeding-cash-ab68cc94?mod=mw_rss_topstories",
-          "summary": "Intel’s new manufacturing process has entered a stage that signals the company is confident in its ability to bring on external customers, analysts say.",
-          "published": "Tue, 16 Jun 2026 22:49:00 GMT",
-          "ts": 1781650140.0,
-          "zh_title": "英特爾大步向前，試圖扭轉因虧損而出現的財務困境",
-          "zh_point": "英特爾新製程已進入一階段，分析師認為公司對於吸引外部客戶有信心，表明公司正在嘗試扭轉因虧損而出現的財務困境。"
+          "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
+          "url": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
+          "summary": "Is Rumble’s AI expansion just Allbirds 2.0 — or a move modeled after Elon Musk?",
+          "published": "Thu, 18 Jun 2026 00:13:00 GMT",
+          "ts": 1781741580.0,
+          "zh_title": "Rumble 得到 22,000 Nvidia 芯片，但該視頻公司 CEO堅持這不是一時之交",
+          "zh_point": "Rumble 進軍 AI 領域，是否是一個短暫的轉變，還是像 Elon Musk 那樣的重大轉變？該公司的 CEO 表示，這是公司未來發展的重要一步，但是否能夠持續下去，還有待觀察。"
         },
         {
           "source": "MarketWatch",
-          "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
-          "url": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
-          "summary": "“Given that at least half of the remodeling cost is to accommodate my disabled mother, I’m wondering if some of this may be tax deductible.”",
-          "published": "Tue, 16 Jun 2026 22:00:00 GMT",
-          "ts": 1781647200.0,
-          "zh_title": "我花170,000美元為父母改造家居，能否享受稅務優惠？",
-          "zh_point": "一名父親為了照顧年邁母親進行家居改造，費用高達170,000美元，懷疑是否有部分費用可抵稅。"
+          "title": "‘I’m a realist’: I’m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?",
+          "url": "https://www.marketwatch.com/story/im-a-realist-im-50-with-6-5-million-saved-should-i-quit-my-200-000-job-and-retire-early-a89624fa?mod=mw_rss_topstories",
+          "summary": "“I have been considering leaving my job so that I can focus on my trading activities full time.”",
+          "published": "Wed, 17 Jun 2026 23:59:00 GMT",
+          "ts": 1781740740.0,
+          "zh_title": "50歲，儲蓄6,500萬，該退休還是繼續工作？",
+          "zh_point": "一位50歲的投資者儲蓄了6,500萬美金，正在考慮辭去200,000美元的工作，專心從事交易活動。"
         },
         {
           "source": "MarketWatch",
-          "title": "Chicken tenders are taking over the world, and KFC is rushing to keep up",
-          "url": "https://www.marketwatch.com/story/chicken-tenders-are-taking-over-the-world-and-kfc-is-rushing-to-keep-up-3b637c99?mod=mw_rss_topstories",
-          "summary": "Goodbye bone-in wings, hello tenders and chicken sandwiches that can be easily eaten in the car.",
-          "published": "Tue, 16 Jun 2026 21:53:00 GMT",
-          "ts": 1781646780.0,
-          "zh_title": "雞排正在佔據世界，肯德基急著趕上",
-          "zh_point": "肯德基正面臨著一個挑戰：雞排正在取代傳統的雞翅，成為新的消費趨勢。雞排和可在車內輕鬆享用的雞肉三明治正成為市場上的新宠。"
+          "title": "My mother was co-owner of my late grandmother’s bank account. Should she share the money with her siblings?",
+          "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
+          "summary": "“The will stated that the estate was to be divided equally among her children.”",
+          "published": "Wed, 17 Jun 2026 23:53:00 GMT",
+          "ts": 1781740380.0,
+          "zh_title": "母親與我祖母共同持有銀行帳戶，應該與她哥哥姐姐分享遺產？",
+          "zh_point": "我母親與我祖母共同持有銀行帳戶，遺囑規定遺產應該均等分配給她孩子們。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek引發的AI全面洗牌影響",
-          "zh_point": "美國股市大部分下跌，Nasdaq領跌，AI基礎設施製造商股價大幅下跌，Nvidia下跌16%。"
+          "zh_title": "美國股市大跌，受中國DeepSeek事件影響",
+          "zh_point": "美國股市大幅下跌，科技股領跌，Nvidia 下跌16%，AI基礎設施股大幅下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約黃金交易所黃金、白銀跌落",
-          "zh_point": "紐約黃金交易所黃金和白銀價格下跌，黃金跌幅達1.4%，連續兩天下跌，白銀跌幅達2.5%，連續三天下跌。"
+          "zh_title": "倫敦金、銀價格下跌",
+          "zh_point": "倫敦金價格下跌1.4%，連續兩個交易日下跌，倫敦銀價格下跌2.5%，連續三個交易日下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，沒有使用最先進的晶片。"
+          "zh_title": "中國DeepSeek AI的關鍵要點",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，無需使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度尋求不會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌的情緒可能過度。"
+          "zh_title": "深度尋找不會淹沒美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信週報：市場評論",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和電信相關企業的最新市場發展與評論。"
+          "zh_title": "科技、媒體與電信概要：市場論壇",
+          "zh_point": "DeepSeek、SoFi等公司在最新的市場論壇中被提及，涉及科技、媒體和電信領域的市場動態。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Douglas Emmett: An Office REIT Able To Grow Leases, Not Profits Just Yet",
-          "url": "https://seekingalpha.com/article/4915512-douglas-emmett-stock-office-reit-able-grow-leases-not-profits-just-yet?source=feed_all_articles",
+          "title": "AIEQ: Sophisticated AI-Driven Strategy That Underperforms",
+          "url": "https://seekingalpha.com/article/4915859-aieq-sophisticated-ai-driven-strategy-that-underperforms-reiterate-hold?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 16 Jun 2026 21:22:25 -0400",
-          "ts": 1781659345.0,
-          "zh_title": "道格拉斯艾默特：能夠增加租約，但仍未能增加利潤",
-          "zh_point": "道格拉斯艾默特是一間辦公室房地產信託（REIT），儘管該公司能夠增加租約，但其利潤仍未能跟上增長的步伐。"
+          "published": "Wed, 17 Jun 2026 21:51:54 -0400",
+          "ts": 1781747514.0,
+          "zh_title": "AIEQ：高級人工智慧驅動策略表現不佳",
+          "zh_point": "AIEQ是一種依靠人工智慧的投資策略，但其實際表現不如預期，可能與其複雜性或投資決策過程中的誤差有關。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Gabelli Enterprise Mergers & Acquisitions Fund Q1 2026 Commentary",
-          "url": "https://seekingalpha.com/article/4915520-gabelli-enterprise-mergers-and-acquisitions-fund-q1-2026-commentary?source=feed_all_articles",
+          "title": "ClearBridge Small Cap Growth Fund Q1 2026 Commentary",
+          "url": "https://seekingalpha.com/article/4915865-clearbridge-small-cap-growth-fund-q1-2026-commentary?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 16 Jun 2026 21:15:00 -0400",
-          "ts": 1781658900.0,
-          "zh_title": "加貝利企業併購基金 Q1 2026 年評論",
-          "zh_point": "加貝利企業併購基金 Q1 2026 年表現將於此評論中介紹。"
+          "published": "Wed, 17 Jun 2026 21:45:00 -0400",
+          "ts": 1781747100.0,
+          "zh_title": "ClearBridge 小型成長基金 Q1 2026 年評論",
+          "zh_point": "清橋小型成長基金在 2026 年第一季度的投資表現。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "KDEF: This Korean Defense Fund Is Unique, But Not Quite A Buy Today",
-          "url": "https://seekingalpha.com/article/4915511-kdef-this-korean-defense-fund-unique-but-not-quite-a-buy-today?source=feed_all_articles",
+          "title": "Arthur J. Gallagher & Co. (AJG) Discusses Strategic Pillars, Growth Drivers and Financial Outlook Transcript",
+          "url": "https://seekingalpha.com/article/4915757-arthur-j-gallagher-and-co-ajg-discusses-strategic-pillars-growth-drivers-and-financial?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 16 Jun 2026 21:09:09 -0400",
-          "ts": 1781658549.0,
-          "zh_title": "韓國防衛基金：這個基金有其獨特之處，但今天不適合買入",
-          "zh_point": "韓國政府推出韓國防衛基金，提供資金支持國防開支，但投資者仍需謹慎評估該基金的投資價值。"
+          "published": "Wed, 17 Jun 2026 21:12:09 -0400",
+          "ts": 1781745129.0,
+          "zh_title": "加勒里兄弟公司（AJG）討論戰略基石、成長驅動力和財務展望會議記錄",
+          "zh_point": "加勒里兄弟公司高層在會議中討論了公司的戰略基石、成長驅動力和財務展望，提供了對公司未來發展的見解。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Autodesk: Rating Downgrade As MaintainX Makes Near-Term P&L Uncertain",
-          "url": "https://seekingalpha.com/article/4915508-autodesk-rating-downgrade-as-maintainx-makes-near-term-p-and-l-uncertain?source=feed_all_articles",
+          "title": "Norsk Hydro to shut two U.S. metal extrusion plants, cutting 350 jobs",
+          "url": "https://seekingalpha.com/news/4604625-norsk-hydro-to-shut-two-us-metal-extrusion-plants-cutting-350-jobs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Tue, 16 Jun 2026 21:03:14 -0400",
-          "ts": 1781658194.0,
-          "zh_title": "Autodesk：評級下調 因為MaintainX使短期利潤不確定",
-          "zh_point": "Autodesk 因為MaintainX 的影響而面臨短期利潤不確定，評級下調。MaintainX 的加入可能會對公司的財務報表產生影響，導致投資者對公司未來財務表現的預期下調。"
+          "published": "Wed, 17 Jun 2026 21:11:52 -0400",
+          "ts": 1781745112.0,
+          "zh_title": "挪威氫化學公司將關閉兩家美國金屬拉伸工廠，裁員350人",
+          "zh_point": "挪威氫化學公司決定關閉兩家美國金屬拉伸工廠，將導致350名員工失業，公司未公佈關閉工廠的具體原因。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "SailPoint, Inc. (SAIL) Analyst/Investor Day Transcript",
-          "url": "https://seekingalpha.com/article/4915484-sailpoint-inc-sail-analyst-investor-day-transcript?source=feed_all_articles",
+          "title": "Fed's Interest Rate Decision: June 17, 2026",
+          "url": "https://seekingalpha.com/article/4915862-feds-interest-rate-decision-june-17-2026?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 16 Jun 2026 21:02:09 -0400",
-          "ts": 1781658129.0,
-          "zh_title": "SailPoint, Inc. (SAIL) 分析師/投資者會議記錄",
-          "zh_point": "SailPoint, Inc. 舉辦分析師/投資者會議，內容未知。"
+          "published": "Wed, 17 Jun 2026 21:10:00 -0400",
+          "ts": 1781745000.0,
+          "zh_title": "聯邦儲備理事會利率決策：2026年6月17日",
+          "zh_point": "聯邦儲備理事會將於2026年6月17日宣布利率決策，影響全球金融市場。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Travere therapeutics director sells $225,000 of TVTX shares",
-          "url": "https://www.investing.com/news/insider-trading-news/travere-therapeutics-director-sells-225000-of-tvtx-shares-93CH-4746340",
+          "title": "Form 4 Arteris Inc For: 17 June",
+          "url": "https://www.investing.com/news/filings/form-4-arteris-inc-for-17-june-93CH-4748843",
           "summary": "",
-          "published": "2026-06-17 01:49:50",
-          "ts": 1781660990.0,
-          "zh_title": "Travelere Therapeutics 執行長出售 TVTX 股票 225,000 美元",
-          "zh_point": "Travelere Therapeutics 的執行長出售 TVTX 股票 225,000 美元，可能與公司股價波動或個人財務安排有關。"
+          "published": "2026-06-18 01:26:37",
+          "ts": 1781745997.0,
+          "zh_title": "Arteris Inc Form 4 2023 年 6 月 17 日",
+          "zh_point": "Arteris Inc 的高管人員於 2023 年 6 月 17 日進行股份交易。"
         },
         {
           "source": "Investing.com",
-          "title": "Blue Dolphin Energy CEO’s firm buys $35,400 in company shares",
-          "url": "https://www.investing.com/news/insider-trading-news/blue-dolphin-energy-ceos-firm-buys-35400-in-company-shares-93CH-4746339",
+          "title": "Form 4 Mineralys Therapeutics Inc For: 17 June",
+          "url": "https://www.investing.com/news/filings/form-4-mineralys-therapeutics-inc-for-17-june-93CH-4748842",
           "summary": "",
-          "published": "2026-06-17 01:49:45",
-          "ts": 1781660985.0,
-          "zh_title": "Blue Dolphin Energy CEO的公司買入公司股份 $35,400",
-          "zh_point": "Blue Dolphin Energy CEO的公司買入該公司股份，總金額達 $35,400。"
+          "published": "2026-06-18 01:26:32",
+          "ts": 1781745992.0,
+          "zh_title": "Mineralys Therapeutics Inc 表格 4：2023 年 6 月 17 日",
+          "zh_point": "Mineralys Therapeutics Inc 發布了 2023 年 6 月 17 日的表格 4 資料，內容可能與公司管理層股權變更、股票交易或財務報告有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Clearwater Analytics Holdings Inc For: 16 June",
-          "url": "https://www.investing.com/news/filings/form-4-clearwater-analytics-holdings-inc-for-16-june-93CH-4746338",
+          "title": "Form 4 Flex Ltd For: 17 June",
+          "url": "https://www.investing.com/news/filings/form-4-flex-ltd-for-17-june-93CH-4748841",
           "summary": "",
-          "published": "2026-06-17 01:48:24",
-          "ts": 1781660904.0,
-          "zh_title": "清水分析科技控股公司 Form 4 報告（2023 年 6 月 16 日）",
-          "zh_point": "清水分析科技控股公司發布了 Form 4 報告，內容可能與公司管理層的股票交易有關。"
+          "published": "2026-06-18 01:23:31",
+          "ts": 1781745811.0,
+          "zh_title": "Flex Ltd Form 4",
+          "zh_point": "Flex Ltd 發布 17 日的 Form 4 報告，內容可能與公司高管或重要股東的股票交易有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Ambani’s Reliance Jio set to file for $4 bln IPO within days, FT reports",
-          "url": "https://www.investing.com/news/stock-market-news/ambanis-reliance-jio-set-to-file-for-4-bln-ipo-within-days-ft-reports-4746337",
+          "title": "Arteris COO Laurent Moll sells $1.7m in company stock",
+          "url": "https://www.investing.com/news/insider-trading-news/arteris-coo-laurent-moll-sells-17m-in-company-stock-93CH-4748839",
           "summary": "",
-          "published": "2026-06-17 01:47:42",
-          "ts": 1781660862.0,
-          "zh_title": "安邦的Reliance Jio預計在幾天內提交4億美元IPO申請，FT報導",
-          "zh_point": "安邦的Reliance Jio即將提交4億美元的首次公開募股（IPO）申請，預計將是印度最大的IPO之一。"
+          "published": "2026-06-18 01:22:36",
+          "ts": 1781745756.0,
+          "zh_title": "Arteris COO Laurent Moll 賣出公司股票 170 萬美元",
+          "zh_point": "Arteris公司首席運營長Laurent Moll出售公司股份，交易金額達170萬美元。"
         },
         {
           "source": "Investing.com",
-          "title": "Natera executive chairman sells $21.4 million in shares",
-          "url": "https://www.investing.com/news/insider-trading-news/natera-executive-chairman-sells-214-million-in-shares-93CH-4746336",
+          "title": "Mineralys Therapeutics director Karydas sells $75,000 in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/mineralys-therapeutics-director-karydas-sells-75000-in-stock-93CH-4748838",
           "summary": "",
-          "published": "2026-06-17 01:47:29",
-          "ts": 1781660849.0,
-          "zh_title": "Natera 行政委員會主席出售 2,140 萬美元股票",
-          "zh_point": "Natera 行政委員會主席出售公司股票，總值達 2,140 萬美元。"
+          "published": "2026-06-18 01:22:12",
+          "ts": 1781745732.0,
+          "zh_title": "Mineralys Therapeutics 董事卡里達斯出售 75,000 美元股票",
+          "zh_point": "Mineralys Therapeutics 的董事卡里達斯出售公司股票，交易金額為 75,000 美元。"
         }
       ]
     }
