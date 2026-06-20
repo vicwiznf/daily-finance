@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今日市場情緒複雜，多個因素影響股價走勢。聯邦儲備理事會維持利率不變，但暗示未來可能會提高利率，對大銀行股價產生影響。道瓊未來指數下跌，Nvidia領導5檔芯片股近買點。谷歌股價雙倍大漲，原因是公司生長速度太快，無法以目前的速度建造新設施。微軟在中國建立十億美元級人工智慧業務，透過Azure向當地主要科技公司供應OpenAI模型。美國與伊朗簽署協議，標誌著中東戰爭的結束，地區經濟開始恢復。日本核心通膨率五月持續不變，符合預期儘管能源價格擔憂。\n\n【結語】\n投資者應該謹慎評估市場情緒和風險。今日市場情緒複雜，投資者應該保持冷靜，避免被市場波動所影響。投資者應該根據自己的投資目標和風險承受能力進行投資決策。投資市場的風險和不確定性永遠存在，投資者應該保持警惕和謹慎。\n\n【精選個股】\nNVDA - NVIDIA - Nvidia領導5檔芯片股近買點。\nGOOGL - Alphabet - 股價雙倍大漲，仍然是值得投資的選擇。\nMSFT - 微軟 - 在中國建立十億美元級人工智慧業務，透過Azure向當地主要科技公司供應OpenAI模型。\n\n風險提醒：投資市場的風險和不確定性永遠存在，投資者應該保持警惕和謹慎。",
+  "analysis": "【今日摘要】\n今日市場情緒受到多個因素影響，包括石油價格預測、美聯儲利率調整、AI技術發展等。美聯儲主席沃斯表示，新成立的工作小組正在研究相關問題，可能使美聯儲暫緩調整利率直到12月。同時，中國DeepSeek AI的出現也引起了投資者的關注，投資者對Nvidia、Broadcom等科技巨頭股價大幅下跌的恐慌情緒可能過度。美國股市大幅下跌，納斯達克指數領跌，AI基礎設施製造商大幅下跌。\n\n【結語】\n投資者應該保持冷靜和謹慎，避免被市場情緒所左右。投資的目的是為了長期收益，而不是短期波動。投資者應該根據自己的投資目標和風險承受能力進行投資，並且保持多元化的投資組合。同時，投資者也應該關注市場的變化和風險，避免投資於高風險的資產。\n\n【精選個股】\nAAPL - Apple Inc. - 美聯儲利率調整對科技股的影響可能會減少，投資者可以考慮買進。\nMSFT - Microsoft Corporation - 公司的強大財務能力和穩定的收入使其成為一個可靠的投資選擇。\nNVDA - NVIDIA Corporation - 公司的AI技術發展和市場需求使其成為一個有潛力的投資選擇。\n\n風險提醒：投資者應該注意公司的財務狀況和市場風險，並且保持多元化的投資組合。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "The Fed Just Made Its First Decision Under Kevin Warsh. Here's What It Means for Big Bank Stocks.",
-          "url": "https://www.fool.com/investing/2026/06/18/the-fed-just-made-its-first-decision-under-kevin-w/?.tsrc=rss",
-          "summary": "The Federal Reserve just held rates steady, with a hint that rate hikes could be in the cards.",
-          "published": "Fri, 19 Jun 2026 01:35:00 +0000",
-          "ts": 1781832900.0,
-          "zh_title": "聯邦儲備理事會首次在凱文沃許領導下做出決定。對大銀行股價的影響",
-          "zh_point": "聯邦儲備理事會決定維持利率不變，但暗示未來可能會提高利率。"
+          "title": "EEM’s 0.69% Fee Quietly Costs You $690 a Year, but Your Cheaper Alternative Charges $90",
+          "url": "https://247wallst.com/investing/2026/06/19/eems-0-69-fee-quietly-costs-you-690-a-year-but-your-cheaper-alternative-charges-90/?.tsrc=rss",
+          "summary": "If you hold iShares MSCI Emerging Markets ETF (NYSEARCA:EEM), BlackRock skims 0.69% of your account every year before you see a single dividend. That is roughly $69 a year on every $10,000 you have parked in the fund. It sounds small. Compounded across a working life, it is the price of a used car you ... EEM’s 0.69% Fee Quietly Costs You $690 a Year, but Your Cheaper Alternative Charges $90",
+          "published": "Sat, 20 Jun 2026 00:42:16 +0000",
+          "ts": 1781916136.0,
+          "zh_title": "0.69% 的管理費悄悄將你一年損失 690 美元，但你的更便宜選擇只會損失 90 美元",
+          "zh_point": "如果你持有 iShares MSCI Emerging Markets ETF，BlackRock 將從你的帳戶中抽取 0.69% 的管理費，等於每年損失 690 美元，這個費用雖然看似微小，但在一生中累積起來就像買一輛二手車的價格了。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-          "url": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall%3B.html?.tsrc=rss",
-          "summary": "The stock market rose in a wild week, led by AI. Nvidia leads five chips near buy points. SpaceX stock needs this.",
-          "published": "Fri, 19 Jun 2026 01:25:15 +0000",
-          "ts": 1781832315.0,
-          "zh_title": "道瓊未來指數下跌；Nvidia領導5檔芯片股近買點，SpaceX股需要這個",
-          "zh_point": "道瓊未來指數下跌，Nvidia領導5檔芯片股近買點，SpaceX股需要這個。"
+          "title": "Prediction: Oil Will Hit $60 a Barrel in 2027. Here's How to Invest Now.",
+          "url": "https://www.fool.com/investing/2026/06/19/prediction-oil-will-hit-60-a-barrel-in-2027-heres/?.tsrc=rss",
+          "summary": "I think oil will fall back to where it was before the Middle East conflict, but it could be a volatile ride.",
+          "published": "Sat, 20 Jun 2026 00:35:00 +0000",
+          "ts": 1781915700.0,
+          "zh_title": "預測：2027年石油價格將跌至每桶60美元",
+          "zh_point": "石油價格可能會回歸中東衝突之前的水平，但投資過程將充滿波動。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Google Has The Best Problem Money Can’t Quite Buy",
-          "url": "https://www.trefis.com/articles/603569/google-has-the-best-problem-money-cant-quite-buy/2026-06-18?.tsrc=rss",
-          "summary": "Alphabet’s stock doubled for one simple reason: it’s growing so fast that it literally cannot build fast enough to keep up.",
-          "published": "Fri, 19 Jun 2026 01:22:04 +0000",
-          "ts": 1781832124.0,
-          "zh_title": "谷歌的最佳困境：錢買不到的速度",
-          "zh_point": "谷歌的股價雙倍大漲，原因是公司生長速度太快，無法以目前的速度建造新設施，讓股價不斷上漲。"
+          "title": "JNK’s 0.40% Fee Quietly Costs You $6,000 Over 20 Years",
+          "url": "https://247wallst.com/investing/2026/06/19/jnks-0-40-fee-quietly-costs-you-6000-over-20-years/?.tsrc=rss",
+          "summary": "If you hold SPDR Bloomberg High Yield Bond ETF (NYSEARCA:JNK) for the yield, the fund’s marketing rarely mentions what you actually surrender to collect it. A 0.40% annual expense ratio sounds harmless next to a junk-bond coupon. Stretched across a decade, it becomes a meaningful slice of the income that drew you in. What You’re ... JNK’s 0.40% Fee Quietly Costs You $6,000 Over 20 Years",
+          "published": "Sat, 20 Jun 2026 00:31:23 +0000",
+          "ts": 1781915483.0,
+          "zh_title": "JNK 0.40% 費用悄悄地讓你少了 6,000 美元",
+          "zh_point": "如果你投資 SPDR Bloomberg 高收益債券 ETF（NYSEARCA：JNK）以獲得收益，基金的行銷很少提到你實際上要犧牲多少。0.40% 的年費用率聽起來似乎不算什麼，但跨越一十年後，它就變成了你吸引過來的收入的一部分。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Microsoft (MSFT) Is Building A Billion Dollar AI Business In China",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-building-billion-dollar-011202001.html?.tsrc=rss",
-          "summary": "Microsoft (NasdaqGS:MSFT) is building a large AI and cloud business in China, supplying OpenAI models through Azure to major local technology companies. ByteDance is reported to spend over US$1b annually on Microsoft AI and cloud services, with Ant Group, Meituan, and Tencent also using Microsoft models. Microsoft has emerged as a key provider of OpenAI technology in China at a time when several US competitors are not active in the region. For investors watching Microsoft, this growing AI...",
-          "published": "Fri, 19 Jun 2026 01:12:02 +0000",
-          "ts": 1781831522.0,
-          "zh_title": "微軟在中國建立十億美元級人工智慧業務",
-          "zh_point": "微軟正在中國建立一大型人工智慧和雲端業務，透過Azure向當地主要科技公司供應OpenAI模型。字節跳動已經花費超過十億美元每年購買微軟的人工智慧和雲端服務，蚂蚁集團、美團和騰訊也使用微軟模型。微軟在中國成為OpenAI技術的關鍵供應商，同時許多美國競爭對手在該地區不活躍。"
+          "title": "GBTC’s 1.50% Fee Is Subtly Costing You Thousands Every Decade",
+          "url": "https://247wallst.com/investing/2026/06/19/gbtcs-1-50-fee-is-subtly-costing-you-thousands-every-decade/?.tsrc=rss",
+          "summary": "If you own Grayscale Bitcoin Trust (NYSE:GBTC), you are paying a premium for Bitcoin exposure that nearly identical funds now sell for a fraction of the price. The fund still quietly charges 1.50% a year, and that meter ran every single day of 2026’s 27.08% year to date drawdown. Fees do not pause for bear ... GBTC’s 1.50% Fee Is Subtly Costing You Thousands Every Decade",
+          "published": "Sat, 20 Jun 2026 00:16:57 +0000",
+          "ts": 1781914617.0,
+          "zh_title": "GBTC 的 1.50% 費用在悄悄地讓你損失數千元每十年",
+          "zh_point": "如果你持有 Grayscale Bitcoin Trust（NYSE：GBTC），你正在支付比類似基金更高的費用。該基金仍然靜悄悄地每年收取 1.50% 的費用，而這種費用在 2026 年的 27.08% 年度下跌期間持續運作。費用不會因為熊市而暫停，GBTC 的這種費用可能會讓你損失數千元每十年。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "The 1 Tech Stock I'd Buy With My Eyes Closed at Today's Prices",
-          "url": "https://www.fool.com/investing/2026/06/18/the-1-tech-stock-id-buy-with-my-eyes-closed-at-tod/?.tsrc=rss",
-          "summary": "Alphabet stock is up 16% this year, but is badly underperforming other tech stocks.",
-          "published": "Fri, 19 Jun 2026 01:01:00 +0000",
-          "ts": 1781830860.0,
-          "zh_title": "我會毫不猶豫地買入這一隻科技股",
-          "zh_point": "我認為在今天的價格下，Alphabet 股票仍然是值得投資的選擇。儘管今年已經上漲 16%，但它仍然落後於其他科技股的表現。"
+          "title": "SQQQ’s Silent Killer: How Daily Resets Have Erased 99.97% Since Launch",
+          "url": "https://247wallst.com/investing/2026/06/19/sqqqs-silent-killer-how-daily-resets-have-erased-99-97-since-launch/?.tsrc=rss",
+          "summary": "If you bought ProShares UltraPro Short QQQ (NASDAQ:SQQQ) a year ago to hedge a tech selloff, your bet against the Nasdaq-100 has cost you most of your money. The fund is down 62.69% over the past year, while the index it shorts, tracked by QQQ, is up 36.56%. The marketing calls SQQQ a tactical tool. ... SQQQ’s Silent Killer: How Daily Resets Have Erased 99.97% Since Launch",
+          "published": "Sat, 20 Jun 2026 00:14:03 +0000",
+          "ts": 1781914443.0,
+          "zh_title": "SQQQ的沉默殺手：自發行以來日復日重置已經消滅了99.97%",
+          "zh_point": "如果你一年前購買了ProShares UltraPro Short QQQ（NASDAQ：SQQQ）作為對抗科技股下跌的保險，你的反對納斯達克100指數的賭注已經讓你損失了大部分的錢。該基金在過去的一年內下跌了62.69%，而它短賣的指數，追蹤由QQQ追蹤的指數，則上漲了36.56%。該基金的營銷稱SQQQ是一種戰術工具。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Why Japan's $70 billion-plus intervention and a rate hike didn't prop up the yen more",
-          "url": "https://www.cnbc.com/2026/06/19/japan-yen-intervention-boj-rate-hike.html",
-          "summary": "Japan was willing to step in to defend the yen around the 160 level before, and it's at that point again.",
-          "published": "Fri, 19 Jun 2026 02:04:53 GMT",
-          "ts": 1781834693.0,
-          "zh_title": "為何日本70億美元以上介入與升息仍未能支撐日圓",
-          "zh_point": "日本再次出手干預日圓，試圖防止其貶值，但效果不佳。"
+          "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
+          "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
+          "summary": "The U.S.-Iran deal has raised questions about how the Strait of Hormuz will be governed after the toll-free period ends.",
+          "published": "Fri, 19 Jun 2026 23:00:29 GMT",
+          "ts": 1781910029.0,
+          "zh_title": "霍爾木茲海峽油輪通行量大幅增加 美伊達成協議開放海峽",
+          "zh_point": "美國和伊朗達成協議後，霍爾木茲海峽的油輪通行量大幅增加，但仍引發關於海峽管轄權的疑問。"
         },
         {
           "source": "CNBC",
-          "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
-          "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
-          "summary": "Trump said in an interview with Axios on Thursday evening stateside that he negotiated the deal to prevent the conflict from triggering a global depression.",
-          "published": "Fri, 19 Jun 2026 02:00:46 GMT",
-          "ts": 1781834446.0,
-          "zh_title": "川普稱伊朗協議是「無條件投降」，說他的權力「無限」：Axios",
-          "zh_point": "川普在與Axios的採訪中表示，他與伊朗達成協議的目的是防止伊朗問題引發全球大蕭條。"
+          "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
+          "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
+          "summary": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.",
+          "published": "Fri, 19 Jun 2026 22:53:09 GMT",
+          "ts": 1781909589.0,
+          "zh_title": "司法部拒絕法官要求書面確認不會使用「反武器化」基金",
+          "zh_point": "司法部在5月宣布成立「反武器化」基金，作為總統唐納德·川普對內 Revenue Service 的 10 億美元訴訟的一部分。"
         },
         {
           "source": "CNBC",
-          "title": "U.S.-Iran deal in photos: ships in the Strait of Hormuz, daily life in Tehran",
-          "url": "https://www.cnbc.com/2026/06/19/us-iran-deal-in-photos-shipping-resumes-as-fragile-peace-takes-hold.html",
-          "summary": "The first signs of a post-war recovery are emerging across the Middle East after the United States and Iran signed a memorandum aimed at ending the conflict.",
-          "published": "Fri, 19 Jun 2026 01:28:35 GMT",
-          "ts": 1781832515.0,
-          "zh_title": "美國與伊朗達成協議：霍爾木茲海峽的船隻與德黑蘭的日常生活",
-          "zh_point": "美國與伊朗簽署協議，標誌著中東戰爭的結束，地區經濟開始恢復。"
+          "title": "Trump unveils the new Air Force One, a converted Qatari jet",
+          "url": "https://www.cnbc.com/2026/06/19/trump-unveils-the-new-air-force-one-a-converted-qatari-jet.html",
+          "summary": "The gift from Qatar is serving as a so-called \"bridge\" aircraft to carry the president until the new planes ordered directly from Boeing arrive.",
+          "published": "Fri, 19 Jun 2026 20:58:30 GMT",
+          "ts": 1781902710.0,
+          "zh_title": "川普揭露新空軍一號，改裝自卡達客機",
+          "zh_point": "川普政府接受卡達的禮物，該客機暫時作為「橋樑」機，直到從波音購買的新機型抵達為止。"
         },
         {
           "source": "CNBC",
-          "title": "South Korea's Kospi extends record run as Asia markets open mixed; Samsung, SK Hynix hit all-time highs",
-          "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
-          "summary": "Asia-Pacific markets were set to trade mixed on Friday as investors assessed the durability of a U.S.-brokered peace agreement with Iran.",
-          "published": "Fri, 19 Jun 2026 01:26:20 GMT",
-          "ts": 1781832380.0,
-          "zh_title": "韓國Kospi連續上漲破紀錄，亞洲市場開盤盤整；三星、SK Hynix創下歷史新高",
-          "zh_point": "韓國股市Kospi持續上漲，亞洲市場開盤盤整，投資者正在評估美國與伊朗簽署和平協議的持久性。"
+          "title": "John Jumper to leave Google DeepMind for Anthropic",
+          "url": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html",
+          "summary": "Tech giants including Meta and Alphabet, along with upstarts such as Anthropic and OpenAI, are locked in a talent war as they race to build next-gen AI systems.",
+          "published": "Fri, 19 Jun 2026 20:35:32 GMT",
+          "ts": 1781901332.0,
+          "zh_title": "John Jumper離開Google DeepMind加入Anthropic",
+          "zh_point": "谷歌DeepMind的頂尖人才John Jumper將離開公司加入新興AI公司Anthropic，Tech巨頭如Meta和Alphabet等正在與新興公司如Anthropic和OpenAI競爭，爭奪下一代AI系統的研發人才。"
         },
         {
           "source": "CNBC",
-          "title": "Japan core inflation holds steady in May, matching expectations despite energy price concerns",
-          "url": "https://www.cnbc.com/2026/06/19/japan-core-inflation-holds-steady-in-may-matching-expectations-despite-energy-price-concerns.html",
-          "summary": "Headline inflation edged up to 1.5% from 1.4%, while the so called \"core-core\" inflation rate, eased to 1.8% from 1.9%.",
-          "published": "Fri, 19 Jun 2026 00:28:16 GMT",
-          "ts": 1781828896.0,
-          "zh_title": "日本核心通膨率五月持續不變，符合預期儘管能源價格擔憂",
-          "zh_point": "日本五月核心通膨率持續不變，達1.8%，能源價格擔憂未能對通膨率造成重大影響。"
+          "title": "Trump tells Axios he no longer views Anthropic as a national security threat",
+          "url": "https://www.cnbc.com/2026/06/19/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat.html",
+          "summary": "Anthropic last week disabled access to its most advanced models, Fable 5 and Mythos 5, after Trump ordered it to block foreign ​nationals from accessing them.",
+          "published": "Fri, 19 Jun 2026 20:18:05 GMT",
+          "ts": 1781900285.0,
+          "zh_title": "川普告訴Axios，已不視Anthropic為國家安全威脅",
+          "zh_point": "川普曾下令 Anthropic 阻止外國人士存取其先進模型，後者則在上週關閉了 Fable 5 和 Mythos 5 的存取權。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?",
-          "url": "https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories",
-          "summary": "Midjourney is making a foray into healthcare with its latest body-scanner product, aiming to make medical imaging more accessible.",
-          "published": "Thu, 18 Jun 2026 23:22:00 GMT",
-          "ts": 1781824920.0,
-          "zh_title": "這家AI公司想用60秒的SPA泡澡取代MRI掃描，真的能夠成功嗎？",
-          "zh_point": "Midjourney推出最新的身體掃描產品，試圖使醫學影像技術更為普及。"
+          "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
+          "url": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
+          "summary": "“My understanding is that they have five years to withdraw the money.”",
+          "published": "Fri, 19 Jun 2026 19:00:00 GMT",
+          "ts": 1781895600.0,
+          "zh_title": "兩個兒子將繼承 30,000 美元年金，該如何處理？",
+          "zh_point": "兒子將繼承 30,000 美元年金，父親想知道該如何處理這筆錢。根據父親的理解，兒子們有五年的時間將錢取出。"
         },
         {
           "source": "MarketWatch",
-          "title": "I’m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?",
-          "url": "https://www.marketwatch.com/story/im-55-and-retiring-in-6-years-should-i-be-switching-to-roth-401-k-now-71d6c468?mod=mw_rss_topstories",
-          "summary": "People are still holding back on participating in Roth plans at work, Vanguard says.",
-          "published": "Thu, 18 Jun 2026 23:11:00 GMT",
-          "ts": 1781824260.0,
-          "zh_title": "我55歲，六年後退休。該不該現在轉換為羅斯401(k)貢獻？",
-          "zh_point": "羅斯401(k)貢獻仍未被充分利用，金剛證券表示。"
+          "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.",
+          "url": "https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories",
+          "summary": "College students with any sort of work experience on their résumés are twice as likely to be employed shortly after graduating.",
+          "published": "Fri, 19 Jun 2026 18:52:00 GMT",
+          "ts": 1781895120.0,
+          "zh_title": "雇主對大學生說：不要再追求4.0 GPA了，去找個暑期工作吧",
+          "zh_point": "大學生在求職時，擁有工作經驗的那些人，畢業後找到工作的機會是沒有工作經驗的兩倍。"
         },
         {
           "source": "MarketWatch",
-          "title": "Trump’s Iran agreement is a massive buy signal for stocks",
-          "url": "https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories",
-          "summary": "Hyperventilating experts were wrong about the Iran war. The end of the conflict is a massive buy signal for stocks.",
-          "published": "Thu, 18 Jun 2026 23:09:00 GMT",
-          "ts": 1781824140.0,
-          "zh_title": "川普的伊朗協議是股市的大買賣信號",
-          "zh_point": "伊朗戰爭的結束，讓原本預測戰爭爆發的專家們錯了，現在這是股市的大買賣時機。"
+          "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
+          "url": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+          "summary": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse.”",
+          "published": "Fri, 19 Jun 2026 18:30:00 GMT",
+          "ts": 1781893800.0,
+          "zh_title": "我們習慣節省：我和妻子有錢，如何幫助孩子們而不破壞他們的獨立？",
+          "zh_point": "我們的孩子可能因為心理健康問題而繼續過著月薪為生的生活，甚至更糟。"
         },
         {
           "source": "MarketWatch",
-          "title": "SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality",
-          "url": "https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories",
-          "summary": "Billions of dollars have flowed into SpaceX ETFs as retail investors look past conventional valuations.",
-          "published": "Thu, 18 Jun 2026 22:03:00 GMT",
-          "ts": 1781820180.0,
-          "zh_title": "SpaceX的成本遠遠超過S&P 500的任何股票，受「恐懼買入」心理的驅使",
-          "zh_point": "SpaceX的ETF吸引了大量零售投資者，忽視傳統的估值標準。"
+          "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+          "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+          "summary": "“I’m afraid I’m in a bad place.”",
+          "published": "Fri, 19 Jun 2026 18:00:00 GMT",
+          "ts": 1781892000.0,
+          "zh_title": "六十歲的服務生：我可能要一直工作到死",
+          "zh_point": "一名六十歲的服務生擁有2000美元的羅斯退休金計畫，擔心自己未來的財務狀況。"
         },
         {
           "source": "MarketWatch",
-          "title": "Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small",
-          "url": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories",
-          "summary": "Intel “is steadily expanding its domestic capacity and converting political and strategic tailwinds into concrete foundry wins,” an analyst says.",
-          "published": "Thu, 18 Jun 2026 22:00:00 GMT",
-          "ts": 1781820000.0,
-          "zh_title": "英特爾股價大漲 11% — 分析師認為與蘋果合作可能只是開始",
-          "zh_point": "英特爾正逐步擴大本土生產能力，轉化政治和戰略利益為實質的晶圓代工勝利。"
+          "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
+          "url": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
+          "summary": "During his first press conference as Fed chair Wednesday, Kevin Warsh repeated one refrain in his answers to many reporters’ questions: A task force is looking into it.",
+          "published": "Fri, 19 Jun 2026 17:25:00 GMT",
+          "ts": 1781889900.0,
+          "zh_title": "沃斯新成立的工作小組為美聯儲留下暫緩調整利率的空間直到12月",
+          "zh_point": "美聯儲主席沃斯在首次新聞發布會上表示，新成立的工作小組正在研究相關問題，可能使美聯儲暫緩調整利率直到12月。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下跌，Nasdaq指數領跌，AI基礎設施製造商股價大幅下跌，Nvidia股價下跌16%，其他AI相關股價也遭受重創。"
+          "zh_title": "美國股市大幅下跌受中國DeepSeek影響",
+          "zh_point": "美國股市大部分下跌，納斯達克指數領跌，AI基礎設施製造商大幅下跌，其中許多跌幅超過10%，Nvidia下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -187,7 +187,7 @@
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
           "zh_title": "紐約黃金交易所黃金、白銀價格下跌",
-          "zh_point": "紐約黃金交易所黃金價格下跌 1.4%，連續兩天下跌；白銀價格下跌 2.5%，連續三天下跌。"
+          "zh_point": "紐約黃金交易所黃金價格下跌 1.4%，白銀價格下跌 2.5%，黃金和白銀連續兩天、三天和四天中分別下跌兩天和三天。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國的DeepSeek AI要點",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的晶片。"
+          "zh_title": "中國DeepSeek AI的關鍵知識",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，卻不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深海探索不會讓美國AI巨頭沉沒",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價大幅下跌，恐慌情緒可能過度膨脹。"
+          "zh_title": "深度探索不會淹沒美國AI巨頭",
+          "zh_point": "投資者對Nvidia、Broadcom等科技巨頭股價大幅下跌的恐慌情緒可能過度。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信周報：市場話題",
-          "zh_point": "深入探討DeepSeek、SoFi等科技、媒體和電信領域的市場動態。"
+          "zh_title": "科技、媒體與通訊產業匯報：市場話題",
+          "zh_point": "深度尋求、SoFi 等科技、媒體和通訊產業的最新動態，包括市場趨勢和投資機會。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Provectus Biopharmaceuticals, Inc. (PVCT) Shareholder/Analyst Call Transcript",
-          "url": "https://seekingalpha.com/article/4916186-provectus-biopharmaceuticals-inc-pvct-shareholder-analyst-call-transcript?source=feed_all_articles",
+          "title": "The Kroger Co. 2026 Q1 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4916404-the-kroger-co-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 18 Jun 2026 22:02:09 -0400",
-          "ts": 1781834529.0,
-          "zh_title": "普羅維庫斯生物藥物公司（PVCT）股東/分析師電話會議記錄",
-          "zh_point": "普羅維庫斯生物藥物公司股東與分析師進行電話會議，討論公司相關事宜。"
+          "published": "Fri, 19 Jun 2026 21:22:22 -0400",
+          "ts": 1781918542.0,
+          "zh_title": "考格羅公司 2026 年第一季度財報 - 盈餘電話會議簡報",
+          "zh_point": "考格羅公司於 2026 年第一季度財報中，可能會披露該公司的財務表現、營收增長、盈餘變化等相關資訊。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "EVF: Higher Rates May Improve Performance",
-          "url": "https://seekingalpha.com/article/4916187-evf-higher-rates-may-improve-performance?source=feed_all_articles",
+          "title": "Pending Home Sales Jump To 6-Month High",
+          "url": "https://seekingalpha.com/article/4916397-pending-home-sales-jump-to-6-month-high?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 18 Jun 2026 21:18:37 -0400",
-          "ts": 1781831917.0,
-          "zh_title": "EVF: 高利率可能改善表現",
-          "zh_point": "高利率可能對EVF的表現產生正面影響，但具體情況需要進一步分析。"
+          "published": "Fri, 19 Jun 2026 21:00:00 -0400",
+          "ts": 1781917200.0,
+          "zh_title": "待售房屋銷售量大幅上升至6個月新高",
+          "zh_point": "美國房屋市場出現新動向，待售房屋銷售量在近期達到6個月的最高點，表明房屋需求正在回升。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Gold Drawdowns",
-          "url": "https://seekingalpha.com/article/4916193-gold-drawdowns?source=feed_all_articles",
+          "title": "Rush Street Interactive, Inc. (RSI) Shareholder/Analyst Call Transcript",
+          "url": "https://seekingalpha.com/article/4911479-rush-street-interactive-inc-rsi-shareholder-analyst-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 18 Jun 2026 21:05:00 -0400",
-          "ts": 1781831100.0,
-          "zh_title": "黃金下跌",
-          "zh_point": "黃金市場出現下跌趨勢，投資者應該注意市場變化以避免損失。"
+          "published": "Fri, 19 Jun 2026 19:56:48 -0400",
+          "ts": 1781913408.0,
+          "zh_title": "Rush Street Interactive, Inc. (RSI) 股東/分析師電話會議記錄",
+          "zh_point": "Rush Street Interactive, Inc. 股東與分析師進行電話會議，討論公司最新發展與未來計畫。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "CEFS: Outperforms Funds Of Closed-End Funds",
-          "url": "https://seekingalpha.com/article/4916184-cefs-outperforms-funds-of-closed-end-funds?source=feed_all_articles",
+          "title": "Allianz Malaysia Berhad (MYBAF) Shareholder/Analyst Call - Slideshow",
+          "url": "https://seekingalpha.com/article/4916392-allianz-malaysia-berhad-mybaf-shareholder-analyst-call-slideshow?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 18 Jun 2026 20:56:40 -0400",
-          "ts": 1781830600.0,
-          "zh_title": "CEFS: Closed-End Funds的表現優於基金",
-          "zh_point": "Closed-End Funds在投資市場表現出色，可能與其投資策略或管理方式有關。"
+          "published": "Fri, 19 Jun 2026 19:07:12 -0400",
+          "ts": 1781910432.0,
+          "zh_title": "Allianz Malaysia Berhad (MYBAF) 股東/分析師電話會議 - 幻燈片",
+          "zh_point": "Allianz Malaysia Berhad 股東/分析師電話會議的幻燈片內容將會公佈。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "BlackRock Balanced Fund  Q1 2026 Commentary",
-          "url": "https://seekingalpha.com/article/4916191-blackrock-balanced-fund-q1-2026-commentary?source=feed_all_articles",
+          "title": "Conifex Timber Inc. (CFF:CA) Shareholder/Analyst Call Prepared Remarks Transcript",
+          "url": "https://seekingalpha.com/article/4916391-conifex-timber-inc-cff-ca-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 18 Jun 2026 20:45:00 -0400",
-          "ts": 1781829900.0,
-          "zh_title": "黑石平衡基金 Q1 2026 年評論",
-          "zh_point": "黑石平衡基金 Q1 2026 年財務報告將會釋出，內容將包括基金投資組合的變化、收益表現等相關資訊。"
+          "published": "Fri, 19 Jun 2026 18:12:09 -0400",
+          "ts": 1781907129.0,
+          "zh_title": "Conifex Timber Inc. (CFF:CA) 股東/分析師電話會議備忘錄稿",
+          "zh_point": "Conifex Timber Inc. 股東與分析師進行電話會議，討論公司相關事宜。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Form 4 IONQ Inc For: 18 June",
-          "url": "https://www.investing.com/news/filings/form-4-ionq-inc-for-18-june-93CH-4751275",
+          "title": "Costa Rica arrests man over suspected death threat to president",
+          "url": "https://www.investing.com/news/world-news/costa-rica-arrests-man-over-suspected-death-threat-to-president-4751588",
           "summary": "",
-          "published": "2026-06-19 01:57:11",
-          "ts": 1781834231.0,
-          "zh_title": "IONQ Inc 18 日表達文件（Form 4）",
-          "zh_point": "IONQ Inc 於 2023 年 6 月 18 日提交表達文件（Form 4），內容可能與公司高層人員的股票交易有關，但具體內容未有提及。"
+          "published": "2026-06-20 01:12:07",
+          "ts": 1781917927.0,
+          "zh_title": "哥斯達黎加逮捕涉嫌威脅總統的男子",
+          "zh_point": "哥斯達黎加警方逮捕一名男子，懷疑他對總統發出了死亡威脅。"
         },
         {
           "source": "Investing.com",
-          "title": "Hyundai to buy SoftBank’s remaining stake in Boston Dynamics for $325 million, newspaper says",
-          "url": "https://www.investing.com/news/stock-market-news/hyundai-to-buy-softbanks-remaining-stake-in-boston-dynamics-for-325-million-newspaper-says-4751274",
+          "title": "Healthcare Investment Momentum Expands as Behavioral Health Sector Attracts Rising Capital Interest in 2026",
+          "url": "https://www.investing.com/news/press-releases/healthcare-investment-momentum-expands-as-behavioral-health-sector-attracts-rising-capital-interest-in-2026-4751587",
           "summary": "",
-          "published": "2026-06-19 01:55:19",
-          "ts": 1781834119.0,
-          "zh_title": "韓國現代將以 32.5 億美元買下軟銀對波士頓動力學的剩餘股份",
-          "zh_point": "韓國現代將以 32.5 億美元買下軟銀對波士頓動力學的剩餘股份，據報導。"
+          "published": "2026-06-20 01:01:17",
+          "ts": 1781917277.0,
+          "zh_title": "醫療保健投資動能擴張，行為健康領域吸引2026年來越多資本關注",
+          "zh_point": "醫療保健投資持續增長，行為健康領域因其潛在市場需求而吸引越來越多投資者關注，預計2026年將是這一領域的關鍵年份。"
         },
         {
           "source": "Investing.com",
-          "title": "Oil falls as supply starts moving through Strait of Hormuz",
-          "url": "https://www.investing.com/news/commodities-news/oil-falls-as-supply-starts-moving-through-strait-of-hormuz-4751273",
+          "title": "Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic",
+          "url": "https://www.investing.com/news/stock-market-news/woman-killed-1700-evacuated-in-beach-hotel-fire-in-dominican-republic-4751586",
           "summary": "",
-          "published": "2026-06-19 01:54:36",
-          "ts": 1781834076.0,
-          "zh_title": "石油價格下跌 因為通過霍爾木茲海峽的供應開始流動",
-          "zh_point": "石油價格下跌，因為通過霍爾木茲海峽的石油供應開始流動，暫時解除了對全球石油市場的擔憂。"
+          "published": "2026-06-20 01:00:28",
+          "ts": 1781917228.0,
+          "zh_title": "多明尼加共和國海灘酒店大火致1人死亡、1700人撤離",
+          "zh_point": "多明尼加共和國一間海灘酒店發生大火，造成1名女性死亡，1700名人士被迫撤離。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 JM Smucker For: 18 June",
-          "url": "https://www.investing.com/news/filings/form-4-jm-smucker-for-18-june-93CH-4751272",
+          "title": "BlackRock Canada updates risk ratings for three iShares ETFs",
+          "url": "https://www.investing.com/news/company-news/blackrock-canada-updates-risk-ratings-for-three-ishares-etfs-93CH-4751585",
           "summary": "",
-          "published": "2026-06-19 01:52:49",
-          "ts": 1781833969.0,
-          "zh_title": "JM史密瑟公司表格4：18日",
-          "zh_point": "JM史密瑟公司於2023年6月18日提交表格4，內容可能與公司管理層股權變動或其他重要財務資訊有關，但具體內容未有透露。"
+          "published": "2026-06-20 00:53:19",
+          "ts": 1781916799.0,
+          "zh_title": "BlackRock Canada 更新三款 iShares ETF 風險評級",
+          "zh_point": "BlackRock Canada 對三款 iShares ETF 進行風險評級更新，可能與投資風險相關的策略或政策變化有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 144 Pharvaris N.V. For: 18 June",
-          "url": "https://www.investing.com/news/filings/form-144-pharvaris-nv-for-18-june-93CH-4751271",
+          "title": "Australia confirms first case of H5 bird flu",
+          "url": "https://www.investing.com/news/commodities-news/australia-confirms-first-case-of-h5-bird-flu-4751583",
           "summary": "",
-          "published": "2026-06-19 01:51:17",
-          "ts": 1781833877.0,
-          "zh_title": "Pharvaris N.V. Form 144",
-          "zh_point": "Pharvaris N.V. 發表 Form 144 報告，內容未透露。"
+          "published": "2026-06-20 00:48:29",
+          "ts": 1781916509.0,
+          "zh_title": "澳洲確認首例H5禽流感病例",
+          "zh_point": "澳洲確認首例H5禽流感病例，可能對該國禽類產業造成影響。"
         }
       ]
     }
