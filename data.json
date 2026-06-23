@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒波動不大，主要關注點在於電動車股的下滑、SpaceX的上市、人工智慧競賽的電力瓶頸、科技公司與加密貨幣企業聯手打擊非法野生動物貿易等新聞。美國股市未來價格下跌，市場等待聯邦儲備委員會關注的通膨率數據公佈。中國深海探索的AI秘密引起市場關注，Nvidia、Broadcom等科技巨頭的股價大幅下跌。\n\n【結語】\n投資者們應該保持冷靜，避免被市場情緒所左右。今天的新聞雖然有許多令人關注的議題，但投資者們應該根據自己的投資目標和風險承受能力進行投資決策。投資者們也應該保持多元化的投資組合，避免對任何一隻股票的過度依賴。\n\n【精選個股】\nAAPL - 蘋果公司 - 蘋果公司的強大財務能力和市場佔有率使其成為投資者的首選。\nMSFT - 微軟公司 - 微軟公司的雲計算業務和人工智慧技術使其成為未來的投資機會。\nGOOGL - Alphabet公司 - Alphabet公司的廣告業務和人工智慧技術使其成為投資者的首選。\n風險提醒：投資者們應該注意市場的風險和不確定性，投資前應該進行充分的研究和評估。",
+  "analysis": "【今日摘要】\n今天市場情緒主要受到 Alphabet 高調 AI 人才離職和監管壓力導致的通訊服務和軟體產業整體下滑的影響。特斯拉、卡特彼勒、Tenable、PagerDuty 和 HubSpot 等公司股價下跌。另一方面，高盛選擇最佳避險策略應對利率大震，石油價格上漲，投資人仍在觀察中東局勢最新發展。市場話題中，DeepSeek、SoFi 等科技、媒體和通訊業公司獲得關注。\n\n【結語】\n散戶投資人務必謹慎評估市場情緒和個股基本面。不要過度追逐短期風口，應該保持長期投資的視角。投資風險高時，務必謹慎評估投資價值。投資者應該小心避免過度押注某一特定行業或公司。\n\n【精選個股】\nTSLA - 特斯拉 - 股價下跌，但仍然是電動汽車領導者。\nCAT - 卡特彼勒 - 公司股價下跌，但仍然是能源和基礎設施領域的重要玩家。\nMDU - MDU Resources - 公司簽署電力服務協議為應用數位AI工廠提供電力服務。\n風險提醒：投資者應該謹慎評估市場情緒和個股基本面，避免過度押注某一特定行業或公司。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Will EV Stocks Make a Comeback in 2026?",
-          "url": "https://www.fool.com/investing/2026/06/21/will-ev-stocks-make-a-comeback-in-2026/?.tsrc=rss",
-          "summary": "Five years ago, electric vehicles were the talk of the market. But in the U.S., sales of electric vehicles are falling, and competition is heating up.",
-          "published": "Mon, 22 Jun 2026 01:23:46 +0000",
-          "ts": 1782091426.0,
-          "zh_title": "電動車股是否在2026年會復甦？",
-          "zh_point": "五年前電動車是市場的話題，但在美國，電動車的銷售量正在下滑，競爭也在加劇。"
+          "title": "Bentley Systems, Amplitude, and Okta Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bentley-systems-amplitude-okta-shares-012319815.html?.tsrc=rss",
+          "summary": "A number of stocks fell in the afternoon session after a confluence of high-profile AI talent departures from Alphabet, and a regulatory overhang pulled the entire communication-services and software complex lower.",
+          "published": "Tue, 23 Jun 2026 01:23:19 +0000",
+          "ts": 1782177799.0,
+          "zh_title": "賓利系統、Amplitude 和 Okta 股價下跌，需要知道什麼？",
+          "zh_point": "賓利系統、Amplitude 和 Okta 等公司股價下跌，原因是 Alphabet 的高調 AI 人才離職和監管壓力導致的通訊服務和軟體產業整體下滑。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "It’s SpaceX IPO Day!",
-          "url": "https://www.fool.com/investing/2026/06/21/its-spacex-ipo-day/?.tsrc=rss",
-          "summary": "Now that SpaceX is officially public, it may benefit companies like Alphabet in the long term.",
-          "published": "Mon, 22 Jun 2026 01:06:06 +0000",
-          "ts": 1782090366.0,
-          "zh_title": "SpaceX正式上市！",
-          "zh_point": "SpaceX正式成為一家公開上市公司，這可能對像Alphabet等公司在長期來說有利益。"
+          "title": "Is a Tesla-SpaceX Merger Imminent?",
+          "url": "https://www.fool.com/investing/2026/06/22/is-a-tesla-spacex-merger-imminent/?.tsrc=rss",
+          "summary": "Stay focused on more important catalysts for either stock.",
+          "published": "Tue, 23 Jun 2026 01:20:00 +0000",
+          "ts": 1782177600.0,
+          "zh_title": "特斯拉-太空探索技術合併是否即將發生？",
+          "zh_point": "投資者應該關注這兩家公司的其他重要驅動因素，而不是過度關注合併的可能性。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "The AI Arms Race Isn’t About Technology – It’s About Electricity",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-arms-race-isn-t-000000017.html?.tsrc=rss",
-          "summary": "The bottleneck has shifted from chips to power, and one under-the-radar stock just signed a 15-year, $2.6 billion AI lease that proves the trade is real. The market hasn’t priced it yet.",
-          "published": "Mon, 22 Jun 2026 00:00:00 +0000",
-          "ts": 1782086400.0,
-          "zh_title": "人工智慧競賽不是關於技術，而是關於電力",
-          "zh_point": "人工智慧競賽的瓶頸從晶片轉移到電力，某隱藏在幕後的公司剛剛簽下一份價值 260 億美元的 15 年人工智慧租約，證明這種交易是真實的，但市場還沒有將其定價。"
+          "title": "Caterpillar (CAT) Lands Key Role In Chevron Microsoft AI Data Center Build",
+          "url": "https://finance.yahoo.com/technology/ai/articles/caterpillar-cat-lands-key-role-011630552.html?.tsrc=rss",
+          "summary": "Caterpillar (NYSE:CAT) is supplying engines and turbines to power a massive Microsoft AI data center in West Texas. The project is tied to a 20-year natural gas supply agreement between Chevron and Microsoft. Caterpillar's Power Generation segment is seeing strong demand, with record order backlogs linked to AI-related infrastructure projects. This new role in powering a large AI data center puts Caterpillar directly in the path of long-term computing and energy buildouts. While the company...",
+          "published": "Tue, 23 Jun 2026 01:16:30 +0000",
+          "ts": 1782177390.0,
+          "zh_title": "卡特彼勒 (CAT) 在雪佛龍與微軟合作的AI數據中心建造中扮演關鍵角色",
+          "zh_point": "卡特彼勒公司將為位於德克薩斯州的微軟AI數據中心供應引擎和涵道機，該項目與雪佛龍和微軟的20年天然氣供應協議有關。卡特彼勒的發電機產業正面臨強烈需求，與AI相關基礎設施項目相關的記錄訂單庫存有關。這項新角色在為大型AI數據中心供電方面，讓卡特彼勒公司直接參與長期的計算和能源建設。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead",
-          "url": "https://www.fool.com/investing/2026/06/21/you-cant-buy-anthropic-stock-yet-but-you-can-buy-t/?.tsrc=rss",
-          "summary": "This group might be the only AI stocks you need.",
-          "published": "Sun, 21 Jun 2026 23:20:00 +0000",
-          "ts": 1782084000.0,
-          "zh_title": "你還不能買 Anthropic 股票，但你可以買這 4 個 AI 股票",
-          "zh_point": "Anthropic 股票尚未上市，但你可以考慮這 4 個與 AI 相關的股票，可能是你所需要的。"
+          "title": "Tenable, PagerDuty, and HubSpot Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tenable-pagerduty-hubspot-shares-falling-011519911.html?.tsrc=rss",
+          "summary": "A number of stocks fell in the afternoon session after a confluence of high-profile AI talent departures from Alphabet, and a regulatory overhang pulled the entire communication-services and software complex lower.",
+          "published": "Tue, 23 Jun 2026 01:15:19 +0000",
+          "ts": 1782177319.0,
+          "zh_title": "Tenable、PagerDuty 和 HubSpot 股價下跌，需要知道什麼",
+          "zh_point": "Tenable、PagerDuty 和 HubSpot 等公司股價下跌，原因是 Alphabet 高層 AI 人才離職和監管壓力導致的通信服務和軟體行業整體下滑。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Tech, crypto firms to help tackle illegal wildlife trade",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tech-crypto-firms-help-tackle-230522796.html?.tsrc=rss",
-          "summary": "To look ⁠for ways to eradicate online listings, including through AI-enabled detection and prevention. Represent a ⁠fifth of the global e-commerce market and 90% of the world's social media users. Vodafone, Vodacom, Safaricom to use ​AI ​in anti-money-laundering and transaction monitoring ​systems across mobile money ‌platform M-Pesa.",
-          "published": "Sun, 21 Jun 2026 23:05:22 +0000",
-          "ts": 1782083122.0,
-          "zh_title": "科技公司與加密貨幣企業聯手打擊非法野生動物貿易",
-          "zh_point": "科技公司和加密貨幣企業將合作，使用人工智慧（AI）來偵測和防止非法野生動物貿易的網路上市。這些公司代表全球電子商務市場的五分之一和全球社交媒體用戶的九成。Vodafone、Vodacom、Safaricom將在手機錢包平台M-Pesa上使用AI來防止洗錢和監控交易。"
+          "title": "Health Catalyst, Zoom, and Autodesk Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/health-catalyst-zoom-autodesk-shares-010719580.html?.tsrc=rss",
+          "summary": "A number of stocks fell in the afternoon session after a confluence of high-profile AI talent departures from Alphabet, and a regulatory overhang pulled the entire communication-services and software complex lower.",
+          "published": "Tue, 23 Jun 2026 01:07:19 +0000",
+          "ts": 1782176839.0,
+          "zh_title": "健康資源催化器、Zoom 和 Autodesk 股票下跌，需要知道什麼",
+          "zh_point": "健康資源催化器、Zoom 和 Autodesk 股票下跌，原因是 Alphabet 的高調 AI 人才離職和監管壓力導致通訊服務和軟體產業整體下滑。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal",
-          "url": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
-          "summary": "Oil prices fluctuated on Monday after U.S. President Donald Trump threatened renewed military action against Iran.",
-          "published": "Mon, 22 Jun 2026 01:47:54 GMT",
-          "ts": 1782092874.0,
-          "zh_title": "布倫特原油價格下跌，卡塔爾和巴基斯坦宣布與美國和伊朗達成60天路線圖",
-          "zh_point": "布倫特原油價格在美國總統川普威脅對伊朗採取軍事行動後，於週一波動不定。"
+          "title": "Goldman Sachs picks best hedges for a rate-shock scenario",
+          "url": "https://www.cnbc.com/2026/06/23/goldman-sachs-picks-best-hedges-for-a-rate-shock-scenario.html",
+          "summary": "The bank said last week's hawkish Federal Open Market Committee meeting has increased uncertainty over the outlook for short-term interest rates.",
+          "published": "Tue, 23 Jun 2026 01:09:27 GMT",
+          "ts": 1782176967.0,
+          "zh_title": "高盛選擇最佳避險策略應對利率大震",
+          "zh_point": "高盛表示，聯邦公開市場委員會上週的鹹派決議，增加了短期利率預測的不確定性。"
         },
         {
           "source": "CNBC",
-          "title": "Stock futures fall as oil prices rise; investors await key reading on inflation: Live updates",
-          "url": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
-          "summary": "U.S. equity futures were lower on Sunday as Wall Street awaited the release of inflation data that is closely watched by the Federal Reserve.",
-          "published": "Mon, 22 Jun 2026 01:26:02 GMT",
-          "ts": 1782091562.0,
-          "zh_title": "石油價格上漲 美股未來價格下跌 等待通膨率關鍵數據公佈",
-          "zh_point": "美國股市未來價格下跌，市場等待聯邦儲備委員會關注的通膨率數據公佈。"
+          "title": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing",
+          "url": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
+          "summary": "Oil rises slightly early Tuesday as investors continue to assess the latest developments in the Middle East, while showing optimism the conflict may end soon.",
+          "published": "Tue, 23 Jun 2026 00:49:10 GMT",
+          "ts": 1782175750.0,
+          "zh_title": "石油價格上漲 美國與伊朗動向仍受關注，Citi預見「陰影」消失",
+          "zh_point": "石油價格稍微上漲，投資人仍在觀察中東局勢最新發展，同時表現出對衝突可能結束的樂觀態度。"
         },
         {
           "source": "CNBC",
-          "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
-          "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
-          "summary": "The talks in Switzerland were the first to be held under the terms of a memorandum of understanding agreed a week ago.",
-          "published": "Sun, 21 Jun 2026 22:01:33 GMT",
-          "ts": 1782079293.0,
-          "zh_title": "特朗普威脅伊朗新一輪攻擊　凡斯領導瑞士和平談判",
-          "zh_point": "特朗普政府在瑞士與伊朗進行和平談判，但同時也對伊朗發出威脅，表明美國仍然準備好對伊朗進行軍事攻擊。"
+          "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
+          "url": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
+          "summary": "Harris County authorities said that the driver, Michael Butler, said that he had been using Tesla's partially automated driving systems.",
+          "published": "Tue, 23 Jun 2026 00:44:14 GMT",
+          "ts": 1782175454.0,
+          "zh_title": "特斯拉遭聯邦調查　德州房屋遭Model 3撞擊致76歲老人喪生",
+          "zh_point": "特斯拉Model 3在德州撞擊房屋，造成一名76歲老人的死亡，當地警方表示駕駛員使用特斯拉的半自動駕駛系統。"
         },
         {
           "source": "CNBC",
-          "title": "Serena Williams to play singles at Wimbledon via wild card",
-          "url": "https://www.cnbc.com/2026/06/21/serena-williams-to-play-singles-at-wimbledon-via-wild-card.html",
-          "summary": "Williams, 44, will compete with her sister Venus in doubles, as the pair also accepted a wild-card entry into that draw.",
-          "published": "Sun, 21 Jun 2026 21:54:27 GMT",
-          "ts": 1782078867.0,
-          "zh_title": "塞雷娜·威廉姆斯透過外卡參加溫布頓單打賽事",
-          "zh_point": "塞雷娜·威廉姆斯將在溫布頓公開賽透過外卡參加單打賽事，同時她與姊姊維納斯也將參加雙打賽事。"
+          "title": "Beijing is summoning executives again, but here's why that's causing less worry than in 2021",
+          "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
+          "summary": "Beijing is summoning tech executives for meetings as it did in 2021, but now it has less room to wield a heavy hand due to deflation and rivalry with the U.S.",
+          "published": "Mon, 22 Jun 2026 23:28:15 GMT",
+          "ts": 1782170895.0,
+          "zh_title": "北京再次傳召科技高層，但這次的壓力有所減輕",
+          "zh_point": "北京再次傳召科技高層進行會議，但與 2021 年相比，這次的壓力有所減輕，因為中國經濟的通膨率下降，同時也面臨與美國的競爭。"
         },
         {
           "source": "CNBC",
-          "title": "No one wants AI data centers on Earth. Do they make sense in space?",
-          "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
-          "summary": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
-          "published": "Sun, 21 Jun 2026 21:22:53 GMT",
-          "ts": 1782076973.0,
-          "zh_title": "誰也不想要地球上的AI數據中心。它們在太空裡有意義嗎？",
-          "zh_point": "SpaceX的埃隆·馬斯克正大膽投資太空軌道上的AI數據中心，但這項計畫是否經濟合理，仍存疑。"
+          "title": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
+          "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+          "summary": "Rep. Ro Khanna, D-Calif., has been a critic of the Elon-Musk-led Department of Government Efficiency cuts.",
+          "published": "Mon, 22 Jun 2026 23:22:22 GMT",
+          "ts": 1782170542.0,
+          "zh_title": "羅·卡納挑戰埃隆·穆斯克電視辯論會",
+          "zh_point": "美國加州民主黨議員羅·卡納挑戰埃隆·穆斯克參與電視辯論會，兩人在網路上因狗狗幣（DOGE）而發生爭執。卡納曾批評埃隆·穆斯克領導的政府效率部門裁員計畫。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-          "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-          "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
-          "published": "Sun, 21 Jun 2026 22:41:00 GMT",
-          "ts": 1782081660.0,
-          "zh_title": "這波牛市不會因為Warsh的利率上升而結束",
-          "zh_point": "川普任命的聯邦儲備理事會主席Kevin Warsh可能希望利率上升的威脅足以讓股市下跌，但股市可能會因為他的任命而上漲。過去的利率上升周期可以作為參考。"
+          "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
+          "url": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
+          "summary": "In the wake of the SpaceX IPO, investors can expect global communications and AI data processing — both via satellites — to be important themes for many years.",
+          "published": "Tue, 23 Jun 2026 00:23:00 GMT",
+          "ts": 1782174180.0,
+          "zh_title": "六家快速成長的股票站在太空和軍事技術的前沿",
+          "zh_point": "隨著SpaceX上市，投資者可以預期全球通訊和人工智慧資料處理——兩者都透過衛星——將是未來多年的重要主題。"
         },
         {
           "source": "MarketWatch",
-          "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-          "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-          "summary": "The health damage of loneliness is similar to heavy smoking and obesity",
-          "published": "Sun, 21 Jun 2026 21:22:00 GMT",
-          "ts": 1782076920.0,
-          "zh_title": "孤獨危機已經惡化到法案通過要花上數百萬美元來對抗它",
-          "zh_point": "孤獨感對健康的傷害與吸菸和肥胖相似，法國政府準備花上數百萬美元來解決這個問題。"
+          "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
+          "url": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
+          "summary": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts said.",
+          "published": "Mon, 22 Jun 2026 22:47:00 GMT",
+          "ts": 1782168420.0,
+          "zh_title": "川普可能說他要禁止華爾街買房，但這個跨黨派房屋法案到底有沒有這麼做？",
+          "zh_point": "川普可能宣布禁止華爾街買房，但分析師表示，這個跨黨派房屋法案實際上並不會對房屋可負擔性產生重大影響，仍將使得房屋可負擔性問題未解。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-          "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-          "summary": "“I’m afraid I’m in a bad place.”",
-          "published": "Sun, 21 Jun 2026 20:00:00 GMT",
-          "ts": 1782072000.0,
-          "zh_title": "六十歲的服務生：我會一直工作到死",
-          "zh_point": "六十歲的服務生擁有兩千美元的Roth IRA儲蓄，擔心未來的生活狀況。"
+          "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
+          "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
+          "summary": "Why tech giants such as Alphabet and Microsoft are the safer choice in the AI race.",
+          "published": "Mon, 22 Jun 2026 22:21:00 GMT",
+          "ts": 1782166860.0,
+          "zh_title": "大科技業已分裂為兩個人工智慧陣營，但聰明的投資人不在追逐下一個OpenAI",
+          "zh_point": "科技巨頭如Alphabet和Microsoft在人工智慧競賽中是較為穩健的選擇。"
         },
         {
           "source": "MarketWatch",
-          "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
-          "url": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
-          "summary": "“Given that at least half of the remodeling cost is to accommodate my disabled mother, I’m wondering if some of this may be tax deductible.”",
-          "published": "Sun, 21 Jun 2026 19:00:00 GMT",
-          "ts": 1782068400.0,
-          "zh_title": "為母親改造家園花170,000元，能否申請稅扣？",
-          "zh_point": "一位父親為了照顧年邁的母親，花費170,000元改造家園，詢問是否可以申請部分稅扣。"
+          "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
+          "url": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
+          "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
+          "published": "Mon, 22 Jun 2026 22:18:00 GMT",
+          "ts": 1782166680.0,
+          "zh_title": "IPO管道中隱藏40%的市場暴跌，SpaceX和OpenAI可能觸發它",
+          "zh_point": "即將出現的IPO可能導致股市暴跌，類似1929年和2000年的經歷，股東們應該小心。"
         },
         {
           "source": "MarketWatch",
-          "title": "My mother was co-owner of my late grandmother’s bank account. Should she share the money with her siblings?",
-          "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
-          "summary": "“The will stated that the estate was to be divided equally among her children.”",
-          "published": "Sun, 21 Jun 2026 16:59:00 GMT",
-          "ts": 1782061140.0,
-          "zh_title": "母親與我祖母共同持有銀行帳戶，是否應該與她哥哥姐姐分享遺產？",
-          "zh_point": "我母親與我祖母共同持有銀行帳戶，遺囑規定遺產應該平均分配給她孩子們，我母親該如何處理這個問題？"
+          "title": "China’s weird new economic spark: toy elves and robocops",
+          "url": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
+          "summary": "Young Chinese aren’t buying status symbols. They’re spending money on things that make them feel something — anything.",
+          "published": "Mon, 22 Jun 2026 22:14:00 GMT",
+          "ts": 1782166440.0,
+          "zh_title": "中國的新經濟熱點：玩偶精靈和機器人警察",
+          "zh_point": "年輕中國人不再追求名牌財物，轉而花錢買那些能讓他們感受到的情感。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下跌，科技股尤其是人工智慧基礎設施股價大幅下跌，Nvidia股價下跌16%。"
+          "zh_title": "美國股市大幅下跌，受中國DeepSeek影響",
+          "zh_point": "美國股市大幅下跌，科技股尤其是人工智慧基礎設施股價大幅下跌，Nvidia股價跌幅達16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金屬交易所金、銀價格下跌",
-          "zh_point": "紐約金屬交易所的金價下跌1.4%，銀價下跌2.5%，連續兩天金價下跌，三天內銀價下跌三次。"
+          "zh_title": "紐約黃金交易所黃金、白銀收盤下跌",
+          "zh_point": "紐約黃金交易所黃金和白銀的價格分別下跌1.4%和2.5%，黃金連續下跌兩天，白銀連續下跌三天。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國深海探索的AI秘密",
-          "zh_point": "中國一家新興公司宣稱，使用較為普通的芯片，訓練出高性能的AI模型，並且成本相當低廉。"
+          "zh_title": "中國DeepSeek AI的關鍵知識",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，並且成本低廉，沒有使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價大幅下跌，市場的恐慌情緒可能過於誇大。"
+          "zh_title": "深度探索不會讓美國AI巨頭沉沒",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，市場的恐慌情緒可能過於誇張。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊業最新動態",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊業公司在最新的市場報告中獲得關注。"
+          "zh_title": "科技、媒體與通訊業匯報：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊業公司在最新的市場話題中獲得關注。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "ROE: High-Quality ETF With Improved Performance, GARP Tilt, A Buy (Rating Upgrade)",
-          "url": "https://seekingalpha.com/article/4916576-roe-high-quality-etf-with-improved-performance-garp-tilt-a-buy-rating-upgrade?source=feed_all_articles",
+          "title": "Lightwave Logic: A Complete Gamble",
+          "url": "https://seekingalpha.com/article/4916830-lightwave-logic-a-complete-gamble?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 21 Jun 2026 21:57:44 -0400",
-          "ts": 1782093464.0,
-          "zh_title": "ROE：高質量ETF表現改善，GARP傾向，買入（評級提升）",
-          "zh_point": "ROE ETF的表現有所改善，該基金的投資策略傾向於高成長率和高價值股，評級被提升為買入。"
+          "published": "Mon, 22 Jun 2026 21:26:16 -0400",
+          "ts": 1782177976.0,
+          "zh_title": "光波邏輯：一場完全的賭博",
+          "zh_point": "光波邏輯公司的投資風險高，投資者應謹慎評估其投資價值。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "JETS: Taking Flight Amid Lower Oil, But Skies Ahead Not Yet Clear",
-          "url": "https://seekingalpha.com/article/4916575-jets-taking-flight-amid-lower-oil-but-skies-ahead-not-yet-clear?source=feed_all_articles",
+          "title": "Oklo: Almost Everything Has Changed Since My Sell Call - Almost",
+          "url": "https://seekingalpha.com/article/4916827-oklo-almost-everything-has-changed-since-my-sell-call-almost?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 21 Jun 2026 21:55:42 -0400",
-          "ts": 1782093342.0,
-          "zh_title": "JETS: 在油價下降下起飛，但未來天氣不明朗",
-          "zh_point": "油價下跌對航空業的影響正在逐漸顯現，但仍有許多未知的風險和挑戰需要航空公司面對。"
+          "published": "Mon, 22 Jun 2026 21:00:34 -0400",
+          "ts": 1782176434.0,
+          "zh_title": "奧克羅：幾乎所有事情都已經改變了，但我還是建議賣出 - 幾乎",
+          "zh_point": "奧克羅公司近期發表聲明，表示自從我之前的賣出建議發表以來，幾乎所有事情都已經改變了。然而，這仍然不確定是否應該購買或持續持有公司股票。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "3 Stocks To Play The AI And Data Center Boom",
-          "url": "https://seekingalpha.com/article/4916574-3-stocks-to-play-the-ai-and-data-center-boom?source=feed_all_articles",
+          "title": "First Watch: A Long-Term Buy For Investors With The Stomach For Risk",
+          "url": "https://seekingalpha.com/article/4916826-first-watch-stock-long-term-buy-for-risk-taking-investors?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 21 Jun 2026 21:50:56 -0400",
-          "ts": 1782093056.0,
-          "zh_title": "AI與數據中心熱潮下的3個股票",
-          "zh_point": "AI技術和數據中心建設的快速發展，正吸引投資者的關注。以下三個股票被視為能夠乘風破浪，分享這波熱潮的機會。"
+          "published": "Mon, 22 Jun 2026 21:00:02 -0400",
+          "ts": 1782176402.0,
+          "zh_title": "首次觀察：風險投資者購買長期的好選擇",
+          "zh_point": "首次觀察是一家專注於長期投資的公司，適合那些有風險承受能力的投資者。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Conagra Brands: The Market Is Pricing In More Fear Than The Fundamentals Justify",
-          "url": "https://seekingalpha.com/article/4916572-conagra-brands-market-is-pricing-in-more-fear-than-the-fundamentals-justify?source=feed_all_articles",
+          "title": "MDU Resources inks electric service agreement for proposed Applied Digital AI factory",
+          "url": "https://seekingalpha.com/news/4605866-mdu-resources-inks-electric-service-agreement-for-proposed-applied-digital-ai-factory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Sun, 21 Jun 2026 21:45:29 -0400",
-          "ts": 1782092729.0,
-          "zh_title": "康納格蘭德：市場正將恐懼的預期過度計入股價",
-          "zh_point": "康納格蘭德的股價可能被市場過度恐懼的預期所壓低，實際上公司的財務狀況並不那麼糟糕。"
+          "published": "Mon, 22 Jun 2026 20:28:58 -0400",
+          "ts": 1782174538.0,
+          "zh_title": "MDU Resources 簽署電力服務協議為應用數位AI工廠",
+          "zh_point": "MDU Resources 簽署一項電力服務協議，為一座名為Applied Digital AI工廠的新設施提供電力服務。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "FTHI: For Investors Prioritizing Income Above All (Rating Downgrade)",
-          "url": "https://seekingalpha.com/article/4916571-fthi-for-investors-prioritizing-income-above-all-rating-downgrade-hold?source=feed_all_articles",
+          "title": "California group sues gas station owners for allegedly using AI to boost prices",
+          "url": "https://seekingalpha.com/news/4605865-california-group-sues-gas-station-owners-for-allegedly-using-ai-to-boost-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Sun, 21 Jun 2026 21:34:18 -0400",
-          "ts": 1782092058.0,
-          "zh_title": "FTHI：對於將收益置於一切之上的投資者（評級下調）",
-          "zh_point": "富田投資（FTHI）評級下調，可能對投資收益產生影響。"
+          "published": "Mon, 22 Jun 2026 20:14:54 -0400",
+          "ts": 1782173694.0,
+          "zh_title": "加州團體控訴加油站業主使用人工智慧提高油價",
+          "zh_point": "加州一群人控訴某些加油站業主使用人工智慧技術操縱油價，引起市場關注。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "US and Iran conclude high-level talks in Switzerland, mediators say",
-          "url": "https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698",
+          "title": "BJ’s Restaurants director Ottinger sells $149,372 of common stock",
+          "url": "https://www.investing.com/news/insider-trading-news/bjs-restaurants-director-ottinger-sells-149372-of-common-stock-93CH-4754541",
           "summary": "",
-          "published": "2026-06-22 01:54:26",
-          "ts": 1782093266.0,
-          "zh_title": "美國和伊朗在瑞士結束高級會談，中間人表示",
-          "zh_point": "美國和伊朗在瑞士進行高級會談，中間人表示雙方已經進行了溝通，會談的具體內容尚未公佈。"
+          "published": "2026-06-23 01:04:58",
+          "ts": 1782176698.0,
+          "zh_title": "BJ的餐廳董事 Ottinger 賣出 14.9372 萬美元普通股",
+          "zh_point": "BJ的餐廳董事 Ottinger 賣出 14.9372 萬美元普通股，可能與財務狀況或投資策略相關。"
         },
         {
           "source": "Investing.com",
-          "title": "Taiwan to stage five days of combat readiness drills",
-          "url": "https://www.investing.com/news/world-news/taiwan-to-stage-five-days-of-combat-readiness-drills-4751660",
+          "title": "Form 4 Flex Ltd For: 22 June",
+          "url": "https://www.investing.com/news/filings/form-4-flex-ltd-for-22-june-93CH-4754540",
           "summary": "",
-          "published": "2026-06-22 01:48:47",
-          "ts": 1782092927.0,
-          "zh_title": "台灣將進行五天的戰鬥準備演習",
-          "zh_point": "台灣軍方將進行五天的戰鬥準備演習，預計於未來某個時間點進行，具體時間尚未公布。"
+          "published": "2026-06-23 01:04:15",
+          "ts": 1782176655.0,
+          "zh_title": "Flex Ltd 22 日報告",
+          "zh_point": "Flex Ltd 22 日發布了最新的報告，內容可能包含公司財務狀況、營業表現等資訊。"
         },
         {
           "source": "Investing.com",
-          "title": "Stocks rally in Asia as Iran cites progress in talks",
-          "url": "https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702",
+          "title": "Form 4 Flex Ltd For: 22 June",
+          "url": "https://www.investing.com/news/filings/form-4-flex-ltd-for-22-june-93CH-4754539",
           "summary": "",
-          "published": "2026-06-22 01:44:47",
-          "ts": 1782092687.0,
-          "zh_title": "亞洲股市反彈　伊朗稱談判取得進展",
-          "zh_point": "伊朗表示與其他國家的談判取得進展，亞洲股市因此反彈，股價上漲。"
+          "published": "2026-06-23 01:03:52",
+          "ts": 1782176632.0,
+          "zh_title": "Flex Ltd Form 4",
+          "zh_point": "Flex Ltd 的 Form 4 報告於 2023 年 6 月 22 日提交，內容可能與公司高管或重要股東的股票交易有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Shipping slows after Iran says it has again shut the Strait of Hormuz",
-          "url": "https://www.investing.com/news/commodities-news/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz-4751688",
+          "title": "Form 4 Flex Ltd For: 22 June",
+          "url": "https://www.investing.com/news/filings/form-4-flex-ltd-for-22-june-93CH-4754538",
           "summary": "",
-          "published": "2026-06-22 01:31:15",
-          "ts": 1782091875.0,
-          "zh_title": "伊朗再次封鎖霍爾木茲海峽，全球航運遲緩",
-          "zh_point": "伊朗宣布再次封鎖霍爾木茲海峽，全球航運受到影響，可能引發全球油價上漲和供應鏈混亂。"
+          "published": "2026-06-23 01:03:33",
+          "ts": 1782176613.0,
+          "zh_title": "Flex Ltd 的 Form 4 報告：2022 年 6 月 22 日",
+          "zh_point": "Flex Ltd 發布了 2022 年 6 月 22 日的 Form 4 報告，內容可能與公司管理層股權變更或交易有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Dollar firms as cracks emerge in peace deal, pound dips on Starmer uncertainty",
-          "url": "https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707",
+          "title": "Form 4 BJs Restaurants Inc For: 22 June",
+          "url": "https://www.investing.com/news/filings/form-4-bjs-restaurants-inc-for-22-june-93CH-4754537",
           "summary": "",
-          "published": "2026-06-22 01:30:57",
-          "ts": 1782091857.0,
-          "zh_title": "美元穩固，和平協議裂縫出現，英鎊因斯塔默不確定而下跌",
-          "zh_point": "美元在和平協議裂縫出現的情況下穩固，英鎊因斯塔默領導人地位不確定而下跌。"
+          "published": "2026-06-23 01:03:18",
+          "ts": 1782176598.0,
+          "zh_title": "BJ的餐廳公司 Form 4 報告： 2023 年 6 月 22 日",
+          "zh_point": "BJ的餐廳公司發布 Form 4 報告，內容可能與公司高級管理人員的股票交易有關。"
         }
       ]
     }
