@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今日市場情緒呈現出多元化的走向，道瓊未來指數上漲，韓國Kospi指數反彈，FedEx和Cerebras下跌，Micron即將出現。強勁股價讓強力股息股票如強生、阿爾特利亞、威訊等大幅上漲，表明投資者正在尋找穩定的投資選擇。太空探索公司和英偉達的競爭也引起了投資者的關注。另外，美國國會通過房屋租賃法案，旨在降低房屋買賣成本和限制私募股權公司的行為。\n\n【結語】\n今日市場的情緒波動讓投資者需要謹慎行事。投資者應該保持冷靜，避免過度追求短期收益。同時，投資者也應該關注公司的基本面，選擇那些有穩定財務基礎和良好前景的公司。投資者應該保持耐心，長期持有股票，等待市場的波動平息。\n\n【精選個股】\nNVDA - 英偉達 - 英偉達的GPU業務仍然領先業界，公司的技術優勢和市場佔有率使其成為投資者的首選。\nAAPL - 蘋果 - 蘋果的財務表現穩定，公司的業務範圍廣泛，包括智能手機、電腦和服務等。\nMSFT - 微軟 - 微軟的雲計算業務快速發展，公司的技術優勢和市場佔有率使其成為投資者的首選。\n\n風險提醒：投資股票總是伴隨著風險，投資者應該謹慎行事，保持耐心和冷靜。",
+  "analysis": "【今日摘要】\n今天市場情緒主要受到晶片股價大幅上漲和美聯儲即將公布的PCE通膨報告的影響。韓國半導體股價大幅上漲，SK Hynix和三星電子股價分別上漲11.6%和6.2%，受到Micron的財報和預測影響。美聯儲即將公布的PCE通膨報告可能會讓華爾街感到放心，或是引發對美聯儲會加息的恐懼。同時，SpaceX的股價大幅下跌，可能迫使馬斯克採取極端措施。\n\n【結語】\n今天市場的情緒波動很大，投資者需要保持冷靜和耐心。不要被短期市場波動影響，長期投資才是最好的選擇。投資者需要了解自己的風險承受能力和投資目標，才能做出明智的決策。\n\n【精選個股】\nMU - Micron Technology - Micron Technology 表示其高階記憶體 (HBM) 市場潛力（TAM）將在 2027 年達到 1000 億美元。\nVST - Vestas Wind Systems - 維斯塔是一家公用事業公司，公司的績效受到其業務穩定性和營運效率的影響。\nFRC - First Republic Bank - 費爾艾薩克公司的盈利成長表現亮眼，評估價格再次變得吸引人。\n風險提醒：投資者需要了解自己的風險承受能力和投資目標，才能做出明智的決策。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures Rise As Kospi Index Rebounds; FedEx, Cerebras Tumble Late With Micron Due",
-          "url": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures-rise-as.html?.tsrc=rss",
-          "summary": "Futures rose as South Korea's Kospi index jumped after the Nasdaq broke support. FedEx and AI chip IPO Cerebras dived late. Micron looms.",
-          "published": "Wed, 24 Jun 2026 01:14:33 +0000",
-          "ts": 1782263673.0,
-          "zh_title": "道瓊未來指數上漲，韓國Kospi指數反彈；FedEx、Cerebras下跌，Micron即將出現",
-          "zh_point": "道瓊未來指數上漲，韓國Kospi指數反彈，FedEx和Cerebras下跌，Micron即將出現。"
+          "title": "American Express Caters to Affluent Spenders. Can That Cushion It If the Consumer Cracks?",
+          "url": "https://www.fool.com/investing/2026/06/24/american-express-caters-to-affluent-spenders-can-t/?.tsrc=rss",
+          "summary": "There's a reason that American Express is one of Warren Buffett's favorite stocks.",
+          "published": "Thu, 25 Jun 2026 00:58:00 +0000",
+          "ts": 1782349080.0,
+          "zh_title": "美國運通迎合高收入消費者。能否藉此抵禦消費者崩盤？",
+          "zh_point": "美國運通是華倫巴菲特最喜愛的股票之一。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why Johnson & Johnson, Altria, Verizon, and Other Safe Dividend Stocks Climbed Today",
-          "url": "https://www.fool.com/investing/2026/06/23/why-johnson-altria-verizon-dividend-stocks-up/?.tsrc=rss",
-          "summary": "Low-risk stocks are back in vogue.",
-          "published": "Wed, 24 Jun 2026 01:10:59 +0000",
-          "ts": 1782263459.0,
-          "zh_title": "強勁股價為何讓強力股息股票如強生、阿爾特利亞、威訊等大幅上漲",
-          "zh_point": "低風險股票再次受到投資者青睞，強生、阿爾特利亞、威訊等公司股價大幅上漲，表明投資者正在尋找穩定的投資選擇。"
+          "title": "Could a $25,000 Investment in Nvidia Stock Make You a Millionaire?",
+          "url": "https://www.fool.com/investing/2026/06/24/could-a-25000-investment-in-nvidia-stock-make-you/?.tsrc=rss",
+          "summary": "If you had invested that much in the chipmaker 10 years ago and held on, your stake would be worth more than $4 million today.",
+          "published": "Thu, 25 Jun 2026 00:56:00 +0000",
+          "ts": 1782348960.0,
+          "zh_title": "投資25萬美元在Nvidia股票是否能讓你成為百萬富翁？",
+          "zh_point": "如果你10年前投資25萬美元在Nvidia這家晶片製造商，並持續持有，現在你的股份將值超過4000萬美元。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia",
-          "url": "https://www.fool.com/investing/2026/06/23/better-artificial-intelligence-ai-stock-to-buy-spa/?.tsrc=rss",
-          "summary": "SpaceX has numerous ambitions in the artificial intelligence arena, but should retail investors favor it over the GPU giant?",
-          "published": "Wed, 24 Jun 2026 00:47:00 +0000",
-          "ts": 1782262020.0,
-          "zh_title": "太空探索公司VS.英偉達：哪一家AI股更值得投資？",
-          "zh_point": "太空探索公司在人工智慧領域有許多野心，但零售投資者是否應該將其優先於GPU巨頭英偉達？"
+          "title": "South Korean chip shares surge after Micron flags strong AI-related demand",
+          "url": "https://finance.yahoo.com/technology/ai/articles/south-korean-chip-shares-surge-001932900.html?.tsrc=rss",
+          "summary": "South Korean semiconductor shares rallied on Thursday after U.S. memory chipmaker Micron ‌Technology's quarterly results and forecast beat expectations, boosting optimism ‌over sustained demand for AI-related chips. Shares of SK Hynix and Samsung Electronics rose ​as much as 11.6% and 6.2%, respectively, in early trade, tracking a rally in U.S. chip stocks after Micron's earnings and outlook reinforced confidence in the memory sector. The rally also followed SK ‌Hynix's announcement on Wednesday ⁠of plans to raise up to 45.45 trillion won ($29.52 billion) through a secondary listing on Nasdaq,",
+          "published": "Thu, 25 Jun 2026 00:19:32 +0000",
+          "ts": 1782346772.0,
+          "zh_title": "韓國晶片股價大幅上漲　微軟旗下Micron強勁AI相關需求預測",
+          "zh_point": "韓國半導體股價大幅上漲，SK Hynix和三星電子股價分別上漲11.6%和6.2%，跟隨美國晶片股價大幅上漲，受到Micron的財報和預測影響，強化對記憶體行業的信心。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Omnichat Launches Annual Product OmniClaw, the New Agentic AI Strategist",
-          "url": "https://finance.yahoo.com/technology/ai/articles/omnichat-launches-annual-product-omniclaw-004400383.html?.tsrc=rss",
-          "summary": "Omnichat, the omnichannel customer experience platform, hosted its annual product launch on June 9th. Under the theme \"The New Era of Agentic AI: Driving the Future of Retail and Omnichannel Revenue Growth,\" the company launched OmniClaw, its AI strategist, alongside Omni AI Message Flow and other Agentic AI solutions. Amid fading traffic dividends and soaring customer acquisition costs, Omnichat partnered with LINE and Meta to explore how enterprises can build sustainable retail models leveragi",
-          "published": "Wed, 24 Jun 2026 00:44:00 +0000",
-          "ts": 1782261840.0,
-          "zh_title": "Omnichat 推出年度產品 OmniClaw，新一代客服 AI 策略師",
-          "zh_point": "Omnichat 將其年度產品發布會定於 6 月 9 日，推出 OmniClaw、Omni AI Message Flow 和其他 Agentic AI 解決方案，為企業提供可持續的零售模型，應對客戶獲取成本上升和流量利潤下滑的挑戰。"
+          "title": "SpaceX’s 32% crash may force Musk into radical move",
+          "url": "https://www.thestreet.com/technology/spacex-tesla-merger-musk-wedbush?.tsrc=rss",
+          "summary": "Less than two weeks ago, SpaceX became the most valuable company ever to go public, raising $75 billion at a valuation north of $1.7 trillion and closing its debut session up 19%, according to CNBC. On June 22, SpaceX posted its worst single-day loss as a public company, plunging 16% to close at ...",
+          "published": "Thu, 25 Jun 2026 00:15:59 +0000",
+          "ts": 1782346559.0,
+          "zh_title": "SpaceX 32% 大跌可能迫使馬斯克採取極端措施",
+          "zh_point": "SpaceX 在剛剛不到兩週前以 1.7 萬億美元的市值成為史上最貴值的上市公司，籌集 7.5 萬億美元融資，首日上市收盤上漲 19%，根據 CNBC 報導。6 月 22 日，SpaceX 作為上市公司的單日最大跌幅，下跌 16% 收盤。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "A Social Security Benefits Cut Seems Inevitable. Here Is When It Could Possibly Happen.",
-          "url": "https://www.fool.com/retirement/2026/06/23/a-social-security-benefits-cut-seems-inevitable-he/?.tsrc=rss",
-          "summary": "Congress needs to find a solution before the issue becomes dire.",
-          "published": "Wed, 24 Jun 2026 00:35:00 +0000",
-          "ts": 1782261300.0,
-          "zh_title": "社會保障金減少似乎已成定局。它何時可能發生？",
-          "zh_point": "美國國會需要盡快找到解決方案，避免社會保障金問題惡化。"
+          "title": "Why MoonLake Immunotherapeutics Stock Wilted on Wednesday",
+          "url": "https://www.fool.com/investing/2026/06/24/why-moonlake-immunotherapeutics-stock-wilted-on-we/?.tsrc=rss",
+          "summary": "The biotech is floating a relatively sizable secondary share issue.",
+          "published": "Thu, 25 Jun 2026 00:09:37 +0000",
+          "ts": 1782346177.0,
+          "zh_title": "為什麼MoonLake Immunotherapeutics股價下跌",
+          "zh_point": "MoonLake Immunotherapeutics正在籌措一筆相對較大的次級股票發行，股價因此下跌。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Asian tech stocks rebound after global rout; Samsung up 9%",
-          "url": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
-          "summary": "Asia's technology stocks rebounded on Wednesday after global equities posted steep losses in the previous session.",
-          "published": "Wed, 24 Jun 2026 01:15:49 GMT",
-          "ts": 1782263749.0,
-          "zh_title": "亞洲科技股反彈　全球股市大跌後Samsung上漲9%",
-          "zh_point": "亞洲科技股在全球股市大跌後反彈，Samsung的股價上漲了9%。"
+          "title": "How much does debt settlement cost?",
+          "url": "https://www.cnbc.com/select/how-much-does-debt-settlement-cost/",
+          "summary": "A debt settlement company could substantially lower your credit card bills. Find out what (and how) they charge for their services.",
+          "published": "Thu, 25 Jun 2026 01:26:01 GMT",
+          "ts": 1782350761.0,
+          "zh_title": "債務協議的費用有多少？",
+          "zh_point": "債務協議公司可能能大幅降低你的信用卡帳單，但你需要了解他們的服務費用是什麼，以及他們如何收費。"
         },
         {
           "source": "CNBC",
-          "title": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP",
-          "url": "https://www.cnbc.com/2026/06/23/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says.html",
-          "summary": "A U.S. official told The Associated Press on Tuesday that one of Anthropic's artificial intelligence models had identified vulnerabilities in highly sensitive and secure U.S. government computer systems during a testing exercise.",
-          "published": "Wed, 24 Jun 2026 00:49:20 GMT",
-          "ts": 1782262160.0,
-          "zh_title": "Anthropic的Mythos模型發現美國政府系統漏洞",
-          "zh_point": "美國政府官員透露，Anthropic的人工智慧模型在測試中發現了美國政府高度敏感且安全的電腦系統漏洞。"
+          "title": "SK Hynix surges 11% after filing for blockbuster Nasdaq listing",
+          "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+          "summary": "Shares of South Korean chip giant SK Hynix surged 11% on Thursday after the company said it is seeking to raise as much as $29.4 billion.",
+          "published": "Thu, 25 Jun 2026 01:14:31 GMT",
+          "ts": 1782350071.0,
+          "zh_title": "SK Hynix 突破11% 上市申請後大躍進",
+          "zh_point": "SK Hynix 股價大幅上升11%，公司宣布申請納斯達克上市，籌集高達294億美元。"
         },
         {
           "source": "CNBC",
-          "title": "Stock futures steady ahead of Micron earnings as traders debate how far tech sell-off will go, Kospi jumps over 3%: Live updates",
-          "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
-          "summary": "A rout in chipmaker names, including Micron, weighed on the S&P 500 and Nasdaq Composite on Tuesday.",
-          "published": "Wed, 24 Jun 2026 00:41:28 GMT",
-          "ts": 1782261688.0,
-          "zh_title": "股市未來指數穩定，等待Micron財報，科技股大跌將如何深入，韓國股市Kospi暴漲逾3%：即時更新",
-          "zh_point": "科技股大跌，包括Micron，對S&P 500和Nasdaq Composite產生負面影響。"
+          "title": "Buildings collapse as quakes rock Venezuela, 'high casualties' likely",
+          "url": "https://www.cnbc.com/2026/06/25/buildings-collapse-as-quakes-rock-venezuela-high-casualties-likely.html",
+          "summary": "A magnitude 7.2 earthquake struck about 160 km (100 miles) west of Caracas, with a magnitude 7.5 tremor hitting less than a minute later, according to the U.S. Geological Survey (USGS).",
+          "published": "Thu, 25 Jun 2026 00:10:41 GMT",
+          "ts": 1782346241.0,
+          "zh_title": "委內瑞拉發生強震，多處建築物倒塌，傷亡慘重",
+          "zh_point": "委內瑞拉發生7.2級地震，接著不到一分鐘又有7.5級地震，美國地質調查局估計傷亡慘重。"
         },
         {
           "source": "CNBC",
-          "title": "MSCI keeps South Korea as emerging market, delays Indonesia review amid downgrade risk",
-          "url": "https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html",
-          "summary": "The review comes amid hopes that Seoul could be included in MSCI's Developed Markets watchlist.",
-          "published": "Wed, 24 Jun 2026 00:16:20 GMT",
-          "ts": 1782260180.0,
-          "zh_title": "MSCI 保持韓國為新興市場，延遲印尼評估期間因下調風險",
-          "zh_point": "MSCI 對韓國的評估結果維持不變，印尼評估則暫時延遲，韓國有望進入 MSCI 發展市場觀察名單。"
+          "title": "Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race",
+          "url": "https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html",
+          "summary": "Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.",
+          "published": "Thu, 25 Jun 2026 00:09:37 GMT",
+          "ts": 1782346177.0,
+          "zh_title": "印度新聞簡訊：印度人教導機器人完成日常任務，進入人工智慧競賽",
+          "zh_point": "印度出現多家公司，提供由人類錄製的視頻資料，用於在美國和中國教導機器人。"
         },
         {
           "source": "CNBC",
-          "title": "House passes affordable housing bill, sends it to Trump's desk",
-          "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
-          "summary": "The House on Tuesday gave final passage to a bill aimed at lowering costs for homebuyers and reining in private equity.",
-          "published": "Tue, 23 Jun 2026 23:42:08 GMT",
-          "ts": 1782258128.0,
-          "zh_title": "國會通過房屋租賃法案，送交特朗普簽署",
-          "zh_point": "國會通過一項房屋租賃法案，旨在降低房屋買賣成本和限制私募股權公司的行為。"
+          "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/06/24/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "A decline in chip stocks dragged down the Nasdaq Composite on Wednesday. The S&P 500 ended the session slightly lower.",
+          "published": "Thu, 25 Jun 2026 00:05:01 GMT",
+          "ts": 1782345901.0,
+          "zh_title": "週四的大股市新聞：什麼可能影響明天的市場走勢",
+          "zh_point": "晶片股下跌拖累了納斯達克指數，標準普爾 500 指數在週三結束時略微下跌。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
-          "url": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
-          "summary": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts said.",
-          "published": "Wed, 24 Jun 2026 00:51:00 GMT",
-          "ts": 1782262260.0,
-          "zh_title": "川普可能說他要禁止華爾街買房，但這個跨黨派房屋法案是否真的這樣做？",
-          "zh_point": "川普可能宣布禁止華爾街買房，但分析師認為這個跨黨派房屋法案實際上並不會對房屋可負擔性產生顯著影響，仍會讓選民對房屋可負擔性感到失望。"
+          "title": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
+          "url": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
+          "summary": "The South Korean memory company could give investors more opportunities beyond Micron, though it may also raise awareness of industry dynamics.",
+          "published": "Thu, 25 Jun 2026 01:09:00 GMT",
+          "ts": 1782349740.0,
+          "zh_title": "SK Hynix 美股上市將對 Micron 股價造成雙重影響",
+          "zh_point": "SK Hynix 美股上市可能為投資者提供更多投資機會，但也可能使投資者更了解記憶體產業的動態。"
         },
         {
           "source": "MarketWatch",
-          "title": "The No. 1 NBA draft pick will make nearly $70 million as TV deals keep money flowing into the NBA",
-          "url": "https://www.marketwatch.com/story/the-no-1-overall-nba-draft-pick-will-make-nearly-70-million-overnight-as-historic-tv-deals-keeping-money-flowing-into-nba-977513f5?mod=mw_rss_topstories",
-          "summary": "There’s so much money at stake in the NBA draft that falling a few slots could cost a player $30 million.",
-          "published": "Wed, 24 Jun 2026 00:30:00 GMT",
-          "ts": 1782261000.0,
-          "zh_title": "NBA選秀會第一順位選秀球員將獲得近70億美元的電視合同收入",
-          "zh_point": "NBA選秀會的電視合同收入讓選秀球員的收入大幅增加，第一順位選秀球員的收入甚至達到近70億美元，落後幾個順位就可能損失30億美元的收入。"
+          "title": "These hidden PCE triggers could force a Fed rate hike — and shock the market",
+          "url": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
+          "summary": "The PCE inflation report will either calm Wall Street or ignite fears of a restrictive Fed.",
+          "published": "Thu, 25 Jun 2026 01:06:00 GMT",
+          "ts": 1782349560.0,
+          "zh_title": "這些隱藏的PCE觸發器可能迫使美聯儲加息 — 並震驚市場",
+          "zh_point": "美聯儲即將公布的PCE通膨報告可能會讓華爾街感到放心，或是引發對美聯儲會加息的恐懼。"
         },
         {
           "source": "MarketWatch",
-          "title": "Alphabet’s stock is set to join the Dow, pivoting index’s industrial roots toward tech",
-          "url": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
-          "summary": "As Alphabet rolls out more data centers — and borrowing money to do it — it can be argued that it is becoming more of an industrial company, says strategist",
-          "published": "Wed, 24 Jun 2026 00:25:00 GMT",
-          "ts": 1782260700.0,
-          "zh_title": "Alphabet 股票將加入道瓊指數，改變指數的產業根基朝向科技",
-          "zh_point": "道瓊指數將邀請 Alphabet 股票加入，標誌著該指數從傳統的產業根基轉向科技領域。Alphabet 的數據中心擴張和借貸活動使其被視為一家工業公司。"
+          "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
+          "url": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
+          "summary": "A strategy that feels like free money actually lags the stock market over the long term.",
+          "published": "Thu, 25 Jun 2026 00:47:00 GMT",
+          "ts": 1782348420.0,
+          "zh_title": "華爾街現在每個人都相信買跌，正是你應該擔心的時候",
+          "zh_point": "買跌策略雖然看似賺到白菜價，但實際上在長期內會落後於股市表現。"
         },
         {
           "source": "MarketWatch",
-          "title": "Cerebras delivers its first earnings report — but it’s not enough to lift the stock",
-          "url": "https://www.marketwatch.com/story/cerebras-delivers-its-first-earnings-report-but-its-not-enough-to-lift-the-stock-8e80cb6d?mod=mw_rss_topstories",
-          "summary": "Despite upbeat revenue figures, Cerebras’s stock was falling in after-hours trading.",
-          "published": "Wed, 24 Jun 2026 00:23:00 GMT",
-          "ts": 1782260580.0,
-          "zh_title": "Cerebras 首次公布財報，但股價未能受益",
-          "zh_point": "Cerebras 公布首次財報，收入表現亮眼，但股價在盤後交易中仍下跌。"
+          "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
+          "url": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
+          "summary": "“What drives me crazy is that she didn’t mention it.”",
+          "published": "Thu, 25 Jun 2026 00:45:00 GMT",
+          "ts": 1782348300.0,
+          "zh_title": "我房客在桌子上留下了熱印，直到她走了我才發現。該問她賠償嗎？",
+          "zh_point": "房客在出租屋的桌子上留下熱印，房東發現後該如何處理？"
         },
         {
           "source": "MarketWatch",
-          "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-          "url": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
-          "summary": "“This medication was generic.”",
-          "published": "Tue, 23 Jun 2026 23:15:00 GMT",
-          "ts": 1782256500.0,
-          "zh_title": "一張QR碼折扣券讓我從618元減至15元：藥物是generic藥物",
-          "zh_point": "一位美國女性因為使用QR碼折扣券，將原本618美元的藥物費用降低到15美元，對於這種結果感到驚訝和感謝。"
+          "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
+          "url": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
+          "summary": "“The letter asked whether I had a favorite caregiver and if I would like to make a contribution in their honor.”",
+          "published": "Thu, 25 Jun 2026 00:30:00 GMT",
+          "ts": 1782347400.0,
+          "zh_title": "我在家中康復後，醫院竟然要求我捐款",
+          "zh_point": "一名病人在完成膽囊手術後，回家後收到醫院的捐款請求信，引發對醫院行為的道德疑慮。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大部分下跌，納斯達克指數領跌，AI基礎設施製造商大幅下跌，Nvidia股價下跌16%。"
+          "zh_title": "美國股市大幅下滑，受中國DeepSeek影響",
+          "zh_point": "美國股市大部分下跌，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌，包括Nvidia下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "Comex黃金、白銀下跌收市",
-          "zh_point": "Comex黃金和白銀昨天下跌收市，黃金跌幅達1.4%，連續兩天下跌，白銀跌幅達2.5%，連續三天下跌。"
+          "zh_title": "紐約金屬交易所金銀價格下跌",
+          "zh_point": "紐約金屬交易所的金價和銀價分別下跌1.4%和2.5%，連續兩天和四天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國深度探索的AI：深Seek的秘密",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的晶片。"
+          "zh_title": "中國DeepSeek AI的關鍵知識",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -207,7 +207,7 @@
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
           "zh_title": "深度探索不會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過於誇大。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信週報：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和電信相關公司在最新的市場話題中被提及。"
+          "zh_title": "科技、媒體與通訊業最新動態",
+          "zh_point": "深入探討DeepSeek、SoFi等科技、媒體和通訊業的最新發展。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Axon: Time To Pull The Trigger (Rating Upgrade)",
-          "url": "https://seekingalpha.com/article/4917165-axon-time-to-pull-the-trigger-rating-upgrade?source=feed_all_articles",
+          "title": "Micron signals HBM TAM crossing $100B in 2027 as it lifts FY26 CapEx to around $27B",
+          "url": "https://seekingalpha.com/news/4607044-micron-signals-hbm-tam-crossing-100b-in-2027-as-it-lifts-fy26-capex-to-around-27b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Tue, 23 Jun 2026 21:22:03 -0400",
-          "ts": 1782264123.0,
-          "zh_title": "Axon：該拉動扳機了（評級升級）",
-          "zh_point": "Axon公司評級升級，表明市場對該公司未來表現的看法正逐步改善。"
+          "published": "Wed, 24 Jun 2026 21:23:03 -0400",
+          "ts": 1782350583.0,
+          "zh_title": "Micron signals HBM TAM 跨越 $100B 的里程碑將在 2027 年達成，同時提升 FY26 年度投資額約為 $27B",
+          "zh_point": "Micron Technology 表示其高階記憶體 (HBM) 市場潛力（TAM）將在 2027 年達到 1000 億美元，公司也宣布提升 2026 年度投資額至約 2700 億美元。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Beyond AI: Where Investors Can Still Find Dividend Growth In 2026",
-          "url": "https://seekingalpha.com/article/4917170-beyond-ai-where-investors-can-still-find-dividend-growth-in-2026?source=feed_all_articles",
+          "title": "Micron Technology, Inc. (MU) Q3 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4917532-micron-technology-inc-mu-q3-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 23 Jun 2026 21:10:00 -0400",
-          "ts": 1782263400.0,
-          "zh_title": "超越人工智慧：投資者仍可在2026年找到股息增長機會",
-          "zh_point": "人工智慧技術的發展雖然迅速，但投資者仍可在其他領域找到股息增長的機會，例如能源、基礎設施和製造業等傳統產業，仍有潛力提供穩定的股息收入。"
+          "published": "Wed, 24 Jun 2026 21:22:09 -0400",
+          "ts": 1782350529.0,
+          "zh_title": "Micron Technology, Inc. (MU) 2026 年第三季度財報電話會議記錄",
+          "zh_point": "Micron Technology 公布 2026 年第三季度財報，財報內容未知。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "TBG: Improved Fundamentals But Still Falls Short Of FDVV",
-          "url": "https://seekingalpha.com/article/4917163-tbg-etf-improved-fundamentals-but-still-falls-short-of-fdvv?source=feed_all_articles",
+          "title": "Vistra: A Solid Utility Story With Limited Margin For Error",
+          "url": "https://seekingalpha.com/article/4917534-vistra-stock-solid-utility-story-with-limited-margin-for-error-maintain-hold?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 23 Jun 2026 21:06:55 -0400",
-          "ts": 1782263215.0,
-          "zh_title": "TBG: 提升的基礎，但仍未達到FDVV的標準",
-          "zh_point": "TBG的財務基礎有所改善，但仍未能超越FDVV的表現。"
+          "published": "Wed, 24 Jun 2026 21:19:49 -0400",
+          "ts": 1782350389.0,
+          "zh_title": "維斯塔：堅實的公用事業故事，但犯錯的餘地有限",
+          "zh_point": "維斯塔是一家公用事業公司，公司的績效受到其業務穩定性和營運效率的影響。雖然維斯塔的業務穩定性較高，但公司的利潤率有限，任何錯誤都可能對公司造成重大影響。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "FedEx outlines CY 2026 adjusted EPS of $16.90-$18.10 as it targets $3.9B CapEx and up to $1B in buybacks",
-          "url": "https://seekingalpha.com/news/4606451-fedex-outlines-cy-2026-adjusted-eps-of-16_90-18_10-as-it-targets-3_9b-capex-and-up-to-1b-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Fair Isaac: Strong Earnings Growth Makes The Valuation Attractive Again",
+          "url": "https://seekingalpha.com/article/4917533-fair-isaac-stock-strong-earnings-growth-makes-valuation-attractive-again?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 23 Jun 2026 21:03:02 -0400",
-          "ts": 1782262982.0,
-          "zh_title": "費德斯表達 CY 2026 調整 EPS $16.90-$18.10，目標投資 $3.9 億美元及購回至 $1 億美元",
-          "zh_point": "費德斯預估 2026 年財務表現，將投資 39 億美元於資產更新，並購回至 100 億美元股票。"
+          "published": "Wed, 24 Jun 2026 21:08:24 -0400",
+          "ts": 1782349704.0,
+          "zh_title": "費爾艾薩克：強勁的盈利成長使評估價格再次吸引人",
+          "zh_point": "費爾艾薩克公司的盈利成長表現亮眼，評估價格再次變得吸引人，投資者開始關注其未來發展。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "FedEx Corporation (FDX) Q4 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4917155-fedex-corporation-fdx-q4-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "Micron projects fiscal Q4 revenue of $50B ± $1B as it outlines $100B in SCA RPO",
+          "url": "https://seekingalpha.com/news/4607043-micron-projects-fiscal-q4-revenue-of-50b-1b-as-it-outlines-100b-in-sca-rpo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Tue, 23 Jun 2026 21:02:10 -0400",
-          "ts": 1782262930.0,
-          "zh_title": "費德斯克公司 (FDX) 2026 年第四季財報電話會議記錄",
-          "zh_point": "費德斯克公司第四季財報電話會議記錄，內容包括公司財務表現、營業情況等。"
+          "published": "Wed, 24 Jun 2026 21:03:38 -0400",
+          "ts": 1782349418.0,
+          "zh_title": "Micron 預估財政 Q4 收入 500 億美元 ± 100 億美元，同時公佈 1000 億美元的 SCA RPO",
+          "zh_point": "Micron 公佈財政 Q4 收入預估，同時表示將投資 1000 億美元於 SCA RPO 項目，預計將對公司業務帶來重大影響。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Form 4 RB Global Inc For: 23 June",
-          "url": "https://www.investing.com/news/filings/form-4-rb-global-inc-for-23-june-93CH-4757177",
+          "title": "Trump meets munitions makers amid push to replenish weapons stockpiles",
+          "url": "https://www.investing.com/news/stock-market-news/trump-to-meet-munitions-makers-amid-push-to-replenish-weapons-stockpiles-4757657",
           "summary": "",
-          "published": "2026-06-24 01:18:28",
-          "ts": 1782263908.0,
-          "zh_title": "RB Global Inc 23 日申報",
-          "zh_point": "RB Global Inc 23 日提交了 4 號表格，內容可能與公司股權變動或高管交易有關，但具體內容未有透露。"
+          "published": "2026-06-25 01:18:28",
+          "ts": 1782350308.0,
+          "zh_title": "特朗普會見彈藥製造商　擴充武器儲備",
+          "zh_point": "特朗普政府正致力於補充武器儲備，特朗普與彈藥製造商會面，表明政府對軍事補給的重視。"
         },
         {
           "source": "Investing.com",
-          "title": "Oil prices extend decline on expectations of smoother crude flows via Hormuz",
-          "url": "https://www.investing.com/news/commodities-news/oil-prices-extend-decline-on-expectations-of-smoother-crude-flows-via-hormuz-4757176",
+          "title": "Form 4 Patrick Industries Inc For: 24 June",
+          "url": "https://www.investing.com/news/filings/form-4-patrick-industries-inc-for-24-june-93CH-4759556",
           "summary": "",
-          "published": "2026-06-24 01:18:27",
-          "ts": 1782263907.0,
-          "zh_title": "石油價格繼續下跌，預期霍爾木茲海峽石油流通將更順暢",
-          "zh_point": "石油價格持續下跌，霍爾木茲海峽石油流通的預期改善可能是主要原因。"
+          "published": "2026-06-25 01:15:43",
+          "ts": 1782350143.0,
+          "zh_title": "Patrick Industries Inc 2023 年 6 月 24 日表現",
+          "zh_point": "Patrick Industries Inc 於 2023 年 6 月 24 日發布了最新的財務報告，內容尚未披露。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 144 Dyne Therapeutics For: 23 June",
-          "url": "https://www.investing.com/news/filings/form-144-dyne-therapeutics-for-23-june-93CH-4757175",
+          "title": "Form 4 Omada Health Inc For: 24 June",
+          "url": "https://www.investing.com/news/filings/form-4-omada-health-inc-for-24-june-93CH-4759555",
           "summary": "",
-          "published": "2026-06-24 01:18:09",
-          "ts": 1782263889.0,
-          "zh_title": "Dyne Therapeutics Form 144",
-          "zh_point": "Dyne Therapeutics 發出 Form 144，可能與股票交易或籌碼變動有關。"
+          "published": "2026-06-25 01:14:59",
+          "ts": 1782350099.0,
+          "zh_title": "Omada Health Inc 24 日表單 4",
+          "zh_point": "Omada Health Inc 於 2024 年 6 月 24 日提交了表單 4，內容未有明確摘要。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Motorcar Parts of America Inc For: 23 June",
-          "url": "https://www.investing.com/news/filings/form-4-motorcar-parts-of-america-inc-for-23-june-93CH-4757174",
+          "title": "Form 4 10X Genomics Inc For: 24 June",
+          "url": "https://www.investing.com/news/filings/form-4-10x-genomics-inc-for-24-june-93CH-4759554",
           "summary": "",
-          "published": "2026-06-24 01:17:40",
-          "ts": 1782263860.0,
-          "zh_title": "Motorcar Parts of America Inc 23 June 報告",
-          "zh_point": "Motorcar Parts of America Inc 6月23日發布財務報告，內容待查詢。"
+          "published": "2026-06-25 01:14:06",
+          "ts": 1782350046.0,
+          "zh_title": "10X Genomics Inc Form 4 24 June",
+          "zh_point": "10X Genomics Inc 的高管或重要股東於 2024 年 6 月 24 日提交了 Form 4 報告，可能與公司股票交易或其他財務變動有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Aspirational Consumer Lifestyle Corp For: 23 June",
-          "url": "https://www.investing.com/news/filings/form-4-aspirational-consumer-lifestyle-corp-for-23-june-93CH-4757172",
+          "title": "Form 4 Kayne Anderson MLP Invest Closed For: 24 June",
+          "url": "https://www.investing.com/news/filings/form-4-kayne-anderson-mlp-invest-closed-for-24-june-93CH-4759553",
           "summary": "",
-          "published": "2026-06-24 01:13:50",
-          "ts": 1782263630.0,
-          "zh_title": "Aspirational Consumer Lifestyle Corp 23 June 報告",
-          "zh_point": "Aspirational Consumer Lifestyle Corp 公佈 23 June 的財務報告，內容未知。"
+          "published": "2026-06-25 01:13:49",
+          "ts": 1782350029.0,
+          "zh_title": "Kayne Anderson MLP Invest 關閉Form 4",
+          "zh_point": "Kayne Anderson MLP Invest於2024年6月24日提交Form 4。"
         }
       ]
     }
