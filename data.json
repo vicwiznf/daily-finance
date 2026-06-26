@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒主要受到晶片股價大幅上漲和美聯儲即將公布的PCE通膨報告的影響。韓國半導體股價大幅上漲，SK Hynix和三星電子股價分別上漲11.6%和6.2%，受到Micron的財報和預測影響。美聯儲即將公布的PCE通膨報告可能會讓華爾街感到放心，或是引發對美聯儲會加息的恐懼。同時，SpaceX的股價大幅下跌，可能迫使馬斯克採取極端措施。\n\n【結語】\n今天市場的情緒波動很大，投資者需要保持冷靜和耐心。不要被短期市場波動影響，長期投資才是最好的選擇。投資者需要了解自己的風險承受能力和投資目標，才能做出明智的決策。\n\n【精選個股】\nMU - Micron Technology - Micron Technology 表示其高階記憶體 (HBM) 市場潛力（TAM）將在 2027 年達到 1000 億美元。\nVST - Vestas Wind Systems - 維斯塔是一家公用事業公司，公司的績效受到其業務穩定性和營運效率的影響。\nFRC - First Republic Bank - 費爾艾薩克公司的盈利成長表現亮眼，評估價格再次變得吸引人。\n風險提醒：投資者需要了解自己的風險承受能力和投資目標，才能做出明智的決策。",
+  "analysis": "【今日摘要】\n今日市場情緒不穩，道瓊指數來到歷史新高，但納斯達克指數則再次下跌。微軟股價大幅上漲，但蘋果和其他科技巨頭則下跌。摩根大通宣布 10% 股息大幅增加並啟動 5000 億美元回購計畫，表明公司財務狀況良好。亞馬遜因與OpenAI合併而放棄完成阿爾特曼電影。麥克倫科技因為人工智慧驅動的驚人成長而欣欣向榮。標準普爾500指數未見重大變動，但週五將是下跌週。查恩茲伯克基金會生物中心將開啟新的罕見疾病資助輪次。\n\n【結語】\n今日市場情緒不穩，投資者需要謹慎行事。投資人應該保持冷靜，避免過度炒作。投資者需要評估公司的財務狀況和未來發展方向。投資者也需要注意市場的風險和不確定性。投資者應該保持耐心和謹慎，避免在市場波動中受損。\n\n【精選個股】\nMRNA - 莫德納公司 - 公司正在研發 mRNA 技術，具有強大的潛力。\nCGEH - Capstone Energy+，Inc. - 公司正在轉型為綠能公司，具有良好的未來前景。\nWD-40 - WD-40公司 - 公司正在轉向高級產品，但投資人認為目前的股價已經過高，未來成長可能受到限制。\n\n風險提醒：投資者需要評估公司的財務狀況和未來發展方向，同時需要注意市場的風險和不確定性。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "American Express Caters to Affluent Spenders. Can That Cushion It If the Consumer Cracks?",
-          "url": "https://www.fool.com/investing/2026/06/24/american-express-caters-to-affluent-spenders-can-t/?.tsrc=rss",
-          "summary": "There's a reason that American Express is one of Warren Buffett's favorite stocks.",
-          "published": "Thu, 25 Jun 2026 00:58:00 +0000",
-          "ts": 1782349080.0,
-          "zh_title": "美國運通迎合高收入消費者。能否藉此抵禦消費者崩盤？",
-          "zh_point": "美國運通是華倫巴菲特最喜愛的股票之一。"
+          "title": "Dow Jones Futures Rise Amid Mixed Market Signals; Micron's Gain Is Apple's Pain",
+          "url": "https://finance.yahoo.com/m/39030516-de91-329d-8d9d-9e91b632c186/dow-jones-futures-rise-amid.html?.tsrc=rss",
+          "summary": "The Nasdaq reversed lower again while the Dow came off record highs. Micron soared but Apple led other tech titans lower.",
+          "published": "Fri, 26 Jun 2026 01:20:04 +0000",
+          "ts": 1782436804.0,
+          "zh_title": "道瓊指數未來上漲在市場信號不明的情況下；微軟的漲幅是蘋果的痛苦",
+          "zh_point": "道瓊指數來到歷史新高，而納斯達克指數則再次下跌。微軟股價大幅上漲，但蘋果和其他科技巨頭則下跌。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Could a $25,000 Investment in Nvidia Stock Make You a Millionaire?",
-          "url": "https://www.fool.com/investing/2026/06/24/could-a-25000-investment-in-nvidia-stock-make-you/?.tsrc=rss",
-          "summary": "If you had invested that much in the chipmaker 10 years ago and held on, your stake would be worth more than $4 million today.",
-          "published": "Thu, 25 Jun 2026 00:56:00 +0000",
-          "ts": 1782348960.0,
-          "zh_title": "投資25萬美元在Nvidia股票是否能讓你成為百萬富翁？",
-          "zh_point": "如果你10年前投資25萬美元在Nvidia這家晶片製造商，並持續持有，現在你的股份將值超過4000萬美元。"
+          "title": "JPMorgan Chase Pairs a 10% Dividend Hike With a New $50 Billion Buyback After Clearing the Fed's Stress Test",
+          "url": "https://www.fool.com/investing/2026/06/25/jpmorgan-chase-pairs-a-10-dividend-hike-with-a-new-50-billion-buyback-after-clearing-the-feds-stress-test/?.tsrc=rss",
+          "summary": "From a victor come the spoils.",
+          "published": "Fri, 26 Jun 2026 01:04:37 +0000",
+          "ts": 1782435877.0,
+          "zh_title": "摩根大通宣布 10% 股息大幅增加並啟動 5000 億美元回購計畫",
+          "zh_point": "摩根大通在通過美聯儲壓力測試後，宣布股息大幅增加 10%，並啟動 5000 億美元的股票回購計畫，表明公司財務狀況良好。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "South Korean chip shares surge after Micron flags strong AI-related demand",
-          "url": "https://finance.yahoo.com/technology/ai/articles/south-korean-chip-shares-surge-001932900.html?.tsrc=rss",
-          "summary": "South Korean semiconductor shares rallied on Thursday after U.S. memory chipmaker Micron ‌Technology's quarterly results and forecast beat expectations, boosting optimism ‌over sustained demand for AI-related chips. Shares of SK Hynix and Samsung Electronics rose ​as much as 11.6% and 6.2%, respectively, in early trade, tracking a rally in U.S. chip stocks after Micron's earnings and outlook reinforced confidence in the memory sector. The rally also followed SK ‌Hynix's announcement on Wednesday ⁠of plans to raise up to 45.45 trillion won ($29.52 billion) through a secondary listing on Nasdaq,",
-          "published": "Thu, 25 Jun 2026 00:19:32 +0000",
-          "ts": 1782346772.0,
-          "zh_title": "韓國晶片股價大幅上漲　微軟旗下Micron強勁AI相關需求預測",
-          "zh_point": "韓國半導體股價大幅上漲，SK Hynix和三星電子股價分別上漲11.6%和6.2%，跟隨美國晶片股價大幅上漲，受到Micron的財報和預測影響，強化對記憶體行業的信心。"
+          "title": "Amazon dropped a finished Altman movie amid a $50B OpenAI deal",
+          "url": "https://www.thestreet.com/entertainment/amazon-dropped-artificial-altman-movie-amid-50b-openai-deal?.tsrc=rss",
+          "summary": "Every company likes to believe it can sit through a hard story about itself. The real test arrives when the hard story is about someone the company just handed an enormous check. For about three years, Hollywood and Silicon Valley have circled each other with mutual suspicion. The studios wanted ...",
+          "published": "Fri, 26 Jun 2026 01:03:00 +0000",
+          "ts": 1782435780.0,
+          "zh_title": "亞馬遜因與OpenAI合併而放棄完成阿爾特曼電影",
+          "zh_point": "亞馬遜因與OpenAI合併的交易而放棄完成一部由阿爾特曼導演的電影，展現出公司在面對自己不舒服的故事時的難堪處境。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "SpaceX’s 32% crash may force Musk into radical move",
-          "url": "https://www.thestreet.com/technology/spacex-tesla-merger-musk-wedbush?.tsrc=rss",
-          "summary": "Less than two weeks ago, SpaceX became the most valuable company ever to go public, raising $75 billion at a valuation north of $1.7 trillion and closing its debut session up 19%, according to CNBC. On June 22, SpaceX posted its worst single-day loss as a public company, plunging 16% to close at ...",
-          "published": "Thu, 25 Jun 2026 00:15:59 +0000",
-          "ts": 1782346559.0,
-          "zh_title": "SpaceX 32% 大跌可能迫使馬斯克採取極端措施",
-          "zh_point": "SpaceX 在剛剛不到兩週前以 1.7 萬億美元的市值成為史上最貴值的上市公司，籌集 7.5 萬億美元融資，首日上市收盤上漲 19%，根據 CNBC 報導。6 月 22 日，SpaceX 作為上市公司的單日最大跌幅，下跌 16% 收盤。"
+          "title": "Why Micron Stock Skyrocketed to a New All-Time High Today",
+          "url": "https://www.fool.com/investing/2026/06/25/why-micron-stock-surged-to-new-all-time-high-today/?.tsrc=rss",
+          "summary": "The memory maker is enjoying breathtaking, artificial intelligence (AI)-fueled growth.",
+          "published": "Fri, 26 Jun 2026 00:57:46 +0000",
+          "ts": 1782435466.0,
+          "zh_title": "為什麼麥克倫科技股價今天衝上新高",
+          "zh_point": "麥克倫科技因為人工智慧驅動的驚人成長而欣欣向榮。該公司的記憶體生產能力正因人工智慧技術的快速發展而大幅提升，帶動股價大幅上漲。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why MoonLake Immunotherapeutics Stock Wilted on Wednesday",
-          "url": "https://www.fool.com/investing/2026/06/24/why-moonlake-immunotherapeutics-stock-wilted-on-we/?.tsrc=rss",
-          "summary": "The biotech is floating a relatively sizable secondary share issue.",
-          "published": "Thu, 25 Jun 2026 00:09:37 +0000",
-          "ts": 1782346177.0,
-          "zh_title": "為什麼MoonLake Immunotherapeutics股價下跌",
-          "zh_point": "MoonLake Immunotherapeutics正在籌措一筆相對較大的次級股票發行，股價因此下跌。"
+          "title": "This Memory Stock Has Soared From About $40 to More Than $2,300 in a Year. Is It Too Late to Buy?",
+          "url": "https://www.fool.com/investing/2026/06/25/this-memory-stock-has-soared-from-about-40-to-more/?.tsrc=rss",
+          "summary": "After a gain this large, is there any room left to run?",
+          "published": "Fri, 26 Jun 2026 00:33:00 +0000",
+          "ts": 1782433980.0,
+          "zh_title": "這家記憶體股從約40美元飆升至超過2,300美元一年內，是否已經太晚買入？",
+          "zh_point": "這家記憶體股在一年內的股價大幅上漲，是否還有剩餘的空間讓股價繼續上漲？"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "How much does debt settlement cost?",
-          "url": "https://www.cnbc.com/select/how-much-does-debt-settlement-cost/",
-          "summary": "A debt settlement company could substantially lower your credit card bills. Find out what (and how) they charge for their services.",
-          "published": "Thu, 25 Jun 2026 01:26:01 GMT",
-          "ts": 1782350761.0,
-          "zh_title": "債務協議的費用有多少？",
-          "zh_point": "債務協議公司可能能大幅降低你的信用卡帳單，但你需要了解他們的服務費用是什麼，以及他們如何收費。"
+          "title": "SoftBank sinks 12% as Asia tech rout tracks declines in the U.S.",
+          "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
+          "summary": "SoftBank Group plunged, leading a broad selloff in Asian technology stocks amid mounting concerns over the rising cost of artificial intelligence infrastructure.",
+          "published": "Fri, 26 Jun 2026 01:29:31 GMT",
+          "ts": 1782437371.0,
+          "zh_title": "SoftBank 股價暴跌 12% 因亞洲科技股大跌追隨美股下跌",
+          "zh_point": "SoftBank 集團股價大幅下跌，引發亞洲科技股大跌，市場擔心人工智慧基礎設施成本上升。"
         },
         {
           "source": "CNBC",
-          "title": "SK Hynix surges 11% after filing for blockbuster Nasdaq listing",
-          "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
-          "summary": "Shares of South Korean chip giant SK Hynix surged 11% on Thursday after the company said it is seeking to raise as much as $29.4 billion.",
-          "published": "Thu, 25 Jun 2026 01:14:31 GMT",
-          "ts": 1782350071.0,
-          "zh_title": "SK Hynix 突破11% 上市申請後大躍進",
-          "zh_point": "SK Hynix 股價大幅上升11%，公司宣布申請納斯達克上市，籌集高達294億美元。"
+          "title": "S&P 500 futures are little changed as index heads for losing week: Live updates",
+          "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+          "summary": "The technology-dominant Nasdaq Composite and broad S&P 500 index are both on pace to end the trading week in the red.",
+          "published": "Fri, 26 Jun 2026 01:10:35 GMT",
+          "ts": 1782436235.0,
+          "zh_title": "標準普爾500指數未見重大變動　周五將是下跌週",
+          "zh_point": "標準普爾500指數和科技主導的納斯達克指數都將在週五收盤時跌入紅色。"
         },
         {
           "source": "CNBC",
-          "title": "Buildings collapse as quakes rock Venezuela, 'high casualties' likely",
-          "url": "https://www.cnbc.com/2026/06/25/buildings-collapse-as-quakes-rock-venezuela-high-casualties-likely.html",
-          "summary": "A magnitude 7.2 earthquake struck about 160 km (100 miles) west of Caracas, with a magnitude 7.5 tremor hitting less than a minute later, according to the U.S. Geological Survey (USGS).",
-          "published": "Thu, 25 Jun 2026 00:10:41 GMT",
-          "ts": 1782346241.0,
-          "zh_title": "委內瑞拉發生強震，多處建築物倒塌，傷亡慘重",
-          "zh_point": "委內瑞拉發生7.2級地震，接著不到一分鐘又有7.5級地震，美國地質調查局估計傷亡慘重。"
+          "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/06/25/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "On Thursday, the Nasdaq Composite fell for a fourth straight day as shares of Apple and Microsoft slid.",
+          "published": "Thu, 25 Jun 2026 23:49:25 GMT",
+          "ts": 1782431365.0,
+          "zh_title": "週五的重磅股市新聞：明天市場可能會受到哪些影響",
+          "zh_point": "納斯達克指數第四天下跌，蘋果和微軟股價大幅滑落。"
         },
         {
           "source": "CNBC",
-          "title": "Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race",
-          "url": "https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html",
-          "summary": "Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.",
-          "published": "Thu, 25 Jun 2026 00:09:37 GMT",
-          "ts": 1782346177.0,
-          "zh_title": "印度新聞簡訊：印度人教導機器人完成日常任務，進入人工智慧競賽",
-          "zh_point": "印度出現多家公司，提供由人類錄製的視頻資料，用於在美國和中國教導機器人。"
+          "title": "Chan Zuckerberg Initiative's Biohub to open new rare disease funding round",
+          "url": "https://www.cnbc.com/2026/06/25/chan-zuckerberg-biohub-rare-disease-funding.html",
+          "summary": "Chan Zuckerberg Initiative's Biohub will offer new grants to the rare disease community while expanding its AI drug repurposing partnership with Every Cure.",
+          "published": "Thu, 25 Jun 2026 23:47:49 GMT",
+          "ts": 1782431269.0,
+          "zh_title": "查恩茲伯克基金會生物中心將開啟新的罕見疾病資助輪次",
+          "zh_point": "查恩茲伯克基金會生物中心將為罕見疾病社群提供新的資助，並擴大與Every Cure的AI藥物再利用合作夥伴關係。"
         },
         {
           "source": "CNBC",
-          "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
-          "url": "https://www.cnbc.com/2026/06/24/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-          "summary": "A decline in chip stocks dragged down the Nasdaq Composite on Wednesday. The S&P 500 ended the session slightly lower.",
-          "published": "Thu, 25 Jun 2026 00:05:01 GMT",
-          "ts": 1782345901.0,
-          "zh_title": "週四的大股市新聞：什麼可能影響明天的市場走勢",
-          "zh_point": "晶片股下跌拖累了納斯達克指數，標準普爾 500 指數在週三結束時略微下跌。"
+          "title": "Trump keeps turning Republican wins into loyalty tests — and political liabilities",
+          "url": "https://www.cnbc.com/2026/06/25/trump-gop-housing-bill-save-act-fisa.html",
+          "summary": "President Donald Trump’s moves on housing, FISA, Iran and Washington projects are creating new headaches for Republicans trying to show voters they can govern.",
+          "published": "Thu, 25 Jun 2026 23:45:22 GMT",
+          "ts": 1782431122.0,
+          "zh_title": "川普持續把共和黨的勝利轉化為忠誠度測試 — 並且政治負擔",
+          "zh_point": "川普對房地產、FISA、伊朗和華盛頓項目的行動，讓共和黨人們試圖向選民表明自己能夠有效治理而感到頭痛。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
-          "url": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
-          "summary": "The South Korean memory company could give investors more opportunities beyond Micron, though it may also raise awareness of industry dynamics.",
-          "published": "Thu, 25 Jun 2026 01:09:00 GMT",
-          "ts": 1782349740.0,
-          "zh_title": "SK Hynix 美股上市將對 Micron 股價造成雙重影響",
-          "zh_point": "SK Hynix 美股上市可能為投資者提供更多投資機會，但也可能使投資者更了解記憶體產業的動態。"
+          "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
+          "url": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
+          "summary": "Overhyped IPOs rarely make you money in the short term. That doesn’t mean it’s time to sell your stocks..",
+          "published": "Thu, 25 Jun 2026 23:12:00 GMT",
+          "ts": 1782429120.0,
+          "zh_title": "SpaceX 股票是一個壞買賣 — 這意味著什麼？",
+          "zh_point": "SpaceX IPO 的短期表現不佳，但不代表該股票的長期前景。過度炒作的上市公司通常在短期內不會帶來收益，但不代表該股票的長期前景。"
         },
         {
           "source": "MarketWatch",
-          "title": "These hidden PCE triggers could force a Fed rate hike — and shock the market",
-          "url": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
-          "summary": "The PCE inflation report will either calm Wall Street or ignite fears of a restrictive Fed.",
-          "published": "Thu, 25 Jun 2026 01:06:00 GMT",
-          "ts": 1782349560.0,
-          "zh_title": "這些隱藏的PCE觸發器可能迫使美聯儲加息 — 並震驚市場",
-          "zh_point": "美聯儲即將公布的PCE通膨報告可能會讓華爾街感到放心，或是引發對美聯儲會加息的恐懼。"
+          "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
+          "url": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories",
+          "summary": "Iraq’s hint that it could exit OPEC is yet another source of potential tumult for the global oil market in 2026.",
+          "published": "Thu, 25 Jun 2026 22:29:00 GMT",
+          "ts": 1782426540.0,
+          "zh_title": "世界拒絕OPEC控制，油價可能跌至每桶50美元",
+          "zh_point": "伊拉克暗示可能退出OPEC，2026年全球石油市場可能出現更多動盪。"
         },
         {
           "source": "MarketWatch",
-          "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
-          "url": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
-          "summary": "A strategy that feels like free money actually lags the stock market over the long term.",
-          "published": "Thu, 25 Jun 2026 00:47:00 GMT",
-          "ts": 1782348420.0,
-          "zh_title": "華爾街現在每個人都相信買跌，正是你應該擔心的時候",
-          "zh_point": "買跌策略雖然看似賺到白菜價，但實際上在長期內會落後於股市表現。"
+          "title": "‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?",
+          "url": "https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories",
+          "summary": "“Another option would be for me to purchase the condo myself and have him pay me rent.”",
+          "published": "Thu, 25 Jun 2026 21:48:00 GMT",
+          "ts": 1782424080.0,
+          "zh_title": "我有全權監護：如果我買房給兒子，會否影響他的福利？",
+          "zh_point": "一位父親擔心為兒子購買公寓會否影響其福利，探索其他選擇如自己購買公寓讓兒子租用。"
         },
         {
           "source": "MarketWatch",
-          "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
-          "url": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
-          "summary": "“What drives me crazy is that she didn’t mention it.”",
-          "published": "Thu, 25 Jun 2026 00:45:00 GMT",
-          "ts": 1782348300.0,
-          "zh_title": "我房客在桌子上留下了熱印，直到她走了我才發現。該問她賠償嗎？",
-          "zh_point": "房客在出租屋的桌子上留下熱印，房東發現後該如何處理？"
+          "title": "The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead.",
+          "url": "https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c?mod=mw_rss_topstories",
+          "summary": "The S&P 500 on Thursday finished right on the cusp of a critical support line that, if broken, could portend more losses for stocks in the coming days and weeks.",
+          "published": "Thu, 25 Jun 2026 21:33:00 GMT",
+          "ts": 1782423180.0,
+          "zh_title": "標準普爾500指數處於關鍵交叉點",
+          "zh_point": "標準普爾500指數週四剛好停在一個關鍵支撐線上，如果這條支撐線被打破，可能意味著未來幾天和幾周內股市將會出現更多的下跌。"
         },
         {
           "source": "MarketWatch",
-          "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
-          "url": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
-          "summary": "“The letter asked whether I had a favorite caregiver and if I would like to make a contribution in their honor.”",
-          "published": "Thu, 25 Jun 2026 00:30:00 GMT",
-          "ts": 1782347400.0,
-          "zh_title": "我在家中康復後，醫院竟然要求我捐款",
-          "zh_point": "一名病人在完成膽囊手術後，回家後收到醫院的捐款請求信，引發對醫院行為的道德疑慮。"
+          "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
+          "url": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
+          "summary": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
+          "published": "Thu, 25 Jun 2026 20:54:00 GMT",
+          "ts": 1782420840.0,
+          "zh_title": "失去兒子後，是否錯誤出售新購買的房子搬回故鄉",
+          "zh_point": "一位單親母親在故鄉為兒子生長長大，兒子在那裡離世後，她是否應該出售新購買的房子搬回故鄉。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下滑，受中國DeepSeek影響",
-          "zh_point": "美國股市大部分下跌，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌，包括Nvidia下跌16%。"
+          "zh_title": "美國股市大幅下跌受中國DeepSeek影響",
+          "zh_point": "美國股市大多下跌，納斯達克指數領跌，AI基礎設施製造商股價大幅下跌，多家公司股價下跌10%以上，Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金屬交易所金銀價格下跌",
-          "zh_point": "紐約金屬交易所的金價和銀價分別下跌1.4%和2.5%，連續兩天和四天下跌。"
+          "zh_title": "紐約金屬交易所金、銀價格下跌",
+          "zh_point": "紐約金屬交易所的金價和銀價分別下跌1.4%和2.5%，連續兩天和四天下跌分別兩天和三天。"
         },
         {
           "source": "The Wall Street Journal",
@@ -197,7 +197,7 @@
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
           "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，不需要使用最先進的晶片。"
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，但不需要使用最先進的晶片，成本也相對較低。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過於誇大。"
+          "zh_title": "深度尋求不會淹沒美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊業最新動態",
-          "zh_point": "深入探討DeepSeek、SoFi等科技、媒體和通訊業的最新發展。"
+          "zh_title": "科技、媒體與電信周報：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和電信領域的最新發展，包括市場評論和分析。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Micron signals HBM TAM crossing $100B in 2027 as it lifts FY26 CapEx to around $27B",
-          "url": "https://seekingalpha.com/news/4607044-micron-signals-hbm-tam-crossing-100b-in-2027-as-it-lifts-fy26-capex-to-around-27b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Moderna, Inc. (MRNA) Discusses Advancements in mRNA Technology, Clinical Modalities, and Future Horizons in Science Transcript",
+          "url": "https://seekingalpha.com/article/4917791-moderna-inc-mrna-discusses-advancements-in-mrna-technology-clinical-modalities-and-future?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 24 Jun 2026 21:23:03 -0400",
-          "ts": 1782350583.0,
-          "zh_title": "Micron signals HBM TAM 跨越 $100B 的里程碑將在 2027 年達成，同時提升 FY26 年度投資額約為 $27B",
-          "zh_point": "Micron Technology 表示其高階記憶體 (HBM) 市場潛力（TAM）將在 2027 年達到 1000 億美元，公司也宣布提升 2026 年度投資額至約 2700 億美元。"
+          "published": "Thu, 25 Jun 2026 21:32:11 -0400",
+          "ts": 1782437531.0,
+          "zh_title": "莫德納公司（MRNA）討論mRNA技術的進展、臨床模式和科學未來的新天地",
+          "zh_point": "莫德納公司在mRNA技術的研發、臨床應用和未來發展方向上進行了深入的探討，包括疫苗和治療藥物的開發。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Micron Technology, Inc. (MU) Q3 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4917532-micron-technology-inc-mu-q3-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "Capstone Energy+, Inc. (CGEH) Q4 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4917897-capstone-energy-inc-cgeh-q4-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 24 Jun 2026 21:22:09 -0400",
-          "ts": 1782350529.0,
-          "zh_title": "Micron Technology, Inc. (MU) 2026 年第三季度財報電話會議記錄",
-          "zh_point": "Micron Technology 公布 2026 年第三季度財報，財報內容未知。"
+          "published": "Thu, 25 Jun 2026 21:32:09 -0400",
+          "ts": 1782437529.0,
+          "zh_title": "Capstone Energy+，Inc. (CGEH) 2026 年第四季財報電話會議記錄",
+          "zh_point": "Capstone Energy+，Inc. 公布 2026 年第四季財報電話會議記錄，內容包括財務報告、營運情況和未來發展計畫等。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Vistra: A Solid Utility Story With Limited Margin For Error",
-          "url": "https://seekingalpha.com/article/4917534-vistra-stock-solid-utility-story-with-limited-margin-for-error-maintain-hold?source=feed_all_articles",
+          "title": "First Financial Holding Co., Ltd. (FFHMY) Presents at Goldman Sachs Asia Financials Corporate Day - Slideshow",
+          "url": "https://seekingalpha.com/article/4917899-first-financial-holding-co-ltd-ffhmy-presents-at-goldman-sachs-asia-financials-corporate-day?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 24 Jun 2026 21:19:49 -0400",
-          "ts": 1782350389.0,
-          "zh_title": "維斯塔：堅實的公用事業故事，但犯錯的餘地有限",
-          "zh_point": "維斯塔是一家公用事業公司，公司的績效受到其業務穩定性和營運效率的影響。雖然維斯塔的業務穩定性較高，但公司的利潤率有限，任何錯誤都可能對公司造成重大影響。"
+          "published": "Thu, 25 Jun 2026 21:31:15 -0400",
+          "ts": 1782437475.0,
+          "zh_title": "第一財務控股股份有限公司 (FFHMY) 在高盛亞洲金融企業日發表演說 - 幻燈片",
+          "zh_point": "第一財務控股股份有限公司在高盛亞洲金融企業日發表演說，展現公司的財務情況和未來發展方向。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Fair Isaac: Strong Earnings Growth Makes The Valuation Attractive Again",
-          "url": "https://seekingalpha.com/article/4917533-fair-isaac-stock-strong-earnings-growth-makes-valuation-attractive-again?source=feed_all_articles",
+          "title": "WD-40: A Smart Shift To Premium Products, But Not At This Valuation",
+          "url": "https://seekingalpha.com/article/4917893-wd-40-stock-smart-shift-to-premium-products-high-valuation?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 24 Jun 2026 21:08:24 -0400",
-          "ts": 1782349704.0,
-          "zh_title": "費爾艾薩克：強勁的盈利成長使評估價格再次吸引人",
-          "zh_point": "費爾艾薩克公司的盈利成長表現亮眼，評估價格再次變得吸引人，投資者開始關注其未來發展。"
+          "published": "Thu, 25 Jun 2026 21:23:35 -0400",
+          "ts": 1782437015.0,
+          "zh_title": "WD-40：轉向高級產品，但價值不合理",
+          "zh_point": "WD-40公司正在轉向高級產品，但投資人認為目前的股價已經過高，未來成長可能受到限制。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Micron projects fiscal Q4 revenue of $50B ± $1B as it outlines $100B in SCA RPO",
-          "url": "https://seekingalpha.com/news/4607043-micron-projects-fiscal-q4-revenue-of-50b-1b-as-it-outlines-100b-in-sca-rpo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Hanover: More Than An Inflation Hedge, But A Hold",
+          "url": "https://seekingalpha.com/article/4917891-hanover-more-than-an-inflation-hedge-but-a-hold?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 24 Jun 2026 21:03:38 -0400",
-          "ts": 1782349418.0,
-          "zh_title": "Micron 預估財政 Q4 收入 500 億美元 ± 100 億美元，同時公佈 1000 億美元的 SCA RPO",
-          "zh_point": "Micron 公佈財政 Q4 收入預估，同時表示將投資 1000 億美元於 SCA RPO 項目，預計將對公司業務帶來重大影響。"
+          "published": "Thu, 25 Jun 2026 21:11:06 -0400",
+          "ts": 1782436266.0,
+          "zh_title": "漢諾威：不僅是通膨避險工具，還是持有股票",
+          "zh_point": "漢諾威的股價表現出色，但投資者需要注意公司的財務狀況和未來發展方向。該公司的業務範圍包括能源和工業等領域，投資者需要評估公司在這些領域的競爭力和成長潛力。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Trump meets munitions makers amid push to replenish weapons stockpiles",
-          "url": "https://www.investing.com/news/stock-market-news/trump-to-meet-munitions-makers-amid-push-to-replenish-weapons-stockpiles-4757657",
+          "title": "Soccer-Pulisic on the bench as U.S., Turkey make wholesale changes",
+          "url": "https://www.investing.com/news/general-news/soccerpulisic-on-the-bench-as-us-turkey-make-wholesale-changes-4761955",
           "summary": "",
-          "published": "2026-06-25 01:18:28",
-          "ts": 1782350308.0,
-          "zh_title": "特朗普會見彈藥製造商　擴充武器儲備",
-          "zh_point": "特朗普政府正致力於補充武器儲備，特朗普與彈藥製造商會面，表明政府對軍事補給的重視。"
+          "published": "2026-06-26 01:13:11",
+          "ts": 1782436391.0,
+          "zh_title": "美國、土耳其兩隊在對戰中進行大幅陣容調整",
+          "zh_point": "美國國家足球隊在對土耳其的比賽中，將多名球員從首發名單中拿下，土耳其隊也進行了相應的調整。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Patrick Industries Inc For: 24 June",
-          "url": "https://www.investing.com/news/filings/form-4-patrick-industries-inc-for-24-june-93CH-4759556",
+          "title": "Oil edges lower amid resumption of strait shipments even as vessel hit near Oman",
+          "url": "https://www.investing.com/news/commodities-news/oil-edges-lower-amid-resumption-of-strait-shipments-even-as-vessel-hit-near-oman-4761954",
           "summary": "",
-          "published": "2026-06-25 01:15:43",
-          "ts": 1782350143.0,
-          "zh_title": "Patrick Industries Inc 2023 年 6 月 24 日表現",
-          "zh_point": "Patrick Industries Inc 於 2023 年 6 月 24 日發布了最新的財務報告，內容尚未披露。"
+          "published": "2026-06-26 01:12:32",
+          "ts": 1782436352.0,
+          "zh_title": "石油價格微幅下跌，海峽運輸恢復，近奧曼海域船隻受損",
+          "zh_point": "石油價格出現微幅下跌，儘管海峽運輸已恢復，但近奧曼海域一艘船隻受損的消息仍引發關注。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Omada Health Inc For: 24 June",
-          "url": "https://www.investing.com/news/filings/form-4-omada-health-inc-for-24-june-93CH-4759555",
+          "title": "SoftBank shares slide after report OpenAI may delay IPO until next year",
+          "url": "https://www.investing.com/news/stock-market-news/softbank-shares-slide-after-report-openai-may-delay-ipo-until-next-year-4761952",
           "summary": "",
-          "published": "2026-06-25 01:14:59",
-          "ts": 1782350099.0,
-          "zh_title": "Omada Health Inc 24 日表單 4",
-          "zh_point": "Omada Health Inc 於 2024 年 6 月 24 日提交了表單 4，內容未有明確摘要。"
+          "published": "2026-06-26 01:10:34",
+          "ts": 1782436234.0,
+          "zh_title": "SoftBank 股票下滑　報導 OpenAI 可能延遲上市至明年",
+          "zh_point": "軟銀旗下 OpenAI 的上市可能會延遲至明年，這項消息導致軟銀的股票價格下滑。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 10X Genomics Inc For: 24 June",
-          "url": "https://www.investing.com/news/filings/form-4-10x-genomics-inc-for-24-june-93CH-4759554",
+          "title": "Apple supplier Lingyi iTech set for Hong Kong debut after $1.06 billion IPO",
+          "url": "https://www.investing.com/news/stock-market-news/apple-supplier-lingyi-itech-debuts-in-hong-kong-after-106-billion-ipo-4761951",
           "summary": "",
-          "published": "2026-06-25 01:14:06",
-          "ts": 1782350046.0,
-          "zh_title": "10X Genomics Inc Form 4 24 June",
-          "zh_point": "10X Genomics Inc 的高管或重要股東於 2024 年 6 月 24 日提交了 Form 4 報告，可能與公司股票交易或其他財務變動有關。"
+          "published": "2026-06-26 01:10:01",
+          "ts": 1782436201.0,
+          "zh_title": "蘋果供應商凌翼iTechเตร備於香港上市後 $106億美元IPO",
+          "zh_point": "凌翼iTech將在香港進行首次公開募股，募集估值達$106億美元，預計將成為香港上市的新公司之一。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Kayne Anderson MLP Invest Closed For: 24 June",
-          "url": "https://www.investing.com/news/filings/form-4-kayne-anderson-mlp-invest-closed-for-24-june-93CH-4759553",
+          "title": "Yen wobbles near 40-year low as dollar pauses for breath",
+          "url": "https://www.investing.com/news/economy-news/yen-wobbles-near-40year-low-as-dollar-pauses-for-breath-4761950",
           "summary": "",
-          "published": "2026-06-25 01:13:49",
-          "ts": 1782350029.0,
-          "zh_title": "Kayne Anderson MLP Invest 關閉Form 4",
-          "zh_point": "Kayne Anderson MLP Invest於2024年6月24日提交Form 4。"
+          "published": "2026-06-26 01:06:29",
+          "ts": 1782435989.0,
+          "zh_title": "日圓近40年來最低波動",
+          "zh_point": "日圓近40年來最低波動，美元暫停呼吸。"
         }
       ]
     }
