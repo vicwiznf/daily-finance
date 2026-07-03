@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒較為複雜，道瓊未來指數下跌，但Meta的股價大幅上漲，影響了SpaceX、Micron和許多AI股。特斯拉即將達到買點，而6月就業報告也即將公佈。另外，Vanguard的科技ETF被指出有高達數萬美元的重疊成本。亞馬遜加大對企業人工智慧的投資，與Palantir的前沿部署工程師模式有所不同。General Mills的股價今日大漲，試圖對抗通膨。三星電子和SK Hynix的股價暴跌超過7%，因為晶片市場的下挫。\n\n【結語】\n投資者應該保持冷靜，避免被市場情緒左右。應該考慮孩子的投資組合，避免將全部資產投資在美股上。投資者也應該注意公司的財務表現和未來前景，避免投資於高估值的公司。\n\n【精選個股】\nAMD - AMD：EPYC，非Instinct，領導AI成長 - 持有：AMD最新發表指出，EPYC系列處理器在AI領域的成長率遠超Instinct GPU，投資者建議持續持有AMD股票。\nNvidia - Nvidia投入人工智慧機器人市場，預計達到千億美元的市場規模：Nvidia CEO Jensen Huang認為人工智慧機器人是一個「數兆美元的經濟機會」，公司正積極投資於此領域。\nSprout Social - Sprout Social：不夠說服力的高檔推廣（評級下調）：Sprout Social 的高檔推廣策略未能獲得投資者的信任，導致評級下調。該公司的財務表現未能符合市場預期，投資者對其未來前景感到憂慮。\n\n風險提醒：投資者應該注意公司的財務表現和未來前景，避免投資於高估值的公司。",
+  "analysis": "【今日摘要】\n今天市場情緒兩極化，晶片業績下滑影響市場情緒。道瓊指數創下新高，但美國勞工薪資卻沒有得到提高，市場分析師認為，2026年剩下的時間將關注勞工的薪資和就業市場。美國股市大幅下跌受中國DeepSeek影響，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌。同時，Tesla Q2 交付數字超越市場預期，但股價大幅下跌。\n\n【結語】\n投資者應該謹慎評估公司的財務狀況和未來發展前景。市場情緒容易受到短期波動的影響，投資者應該保持冷靜和耐心。同時，投資者也應該注意到市場的長期趨勢和基礎面，避免被短期波動所左右。\n\n【精選個股】\nNVDA - NVIDIA - NVIDIA 的業務正逐漸被美國軍方採用，為公司的股價帶來了新的支撐點。\nTSLA - Tesla - Tesla Q2 交付數字超越市場預期，但股價大幅下跌。\nAVAV - AeroVironment - AeroVironment 的業務正因此而受益，該公司的無人機和相關技術正逐漸被美國軍方採用。\n\n風險提醒：投資者應該謹慎評估公司的財務狀況和未來發展前景，避免被短期波動所左右。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
-          "url": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures%3A-meta-jumps.html?.tsrc=rss",
-          "summary": "Stocks fell as Meta buzz hit SpaceX, Micron and many AI stocks. Tesla is near a buy point with deliveries due. The June jobs report also is on tap.",
-          "published": "Thu, 02 Jul 2026 01:19:50 +0000",
-          "ts": 1782955190.0,
-          "zh_title": "道瓊未來指數：Meta大躍進但打擊SpaceX、Micron；特斯拉、就業報告即將來臨",
-          "zh_point": "道瓊未來指數今日下跌，Meta的股價大幅上漲，但影響了SpaceX、Micron和許多AI股。特斯拉即將達到買點，而6月就業報告也即將公佈。"
+          "title": "Micron Day Is Here!",
+          "url": "https://www.fool.com/investing/2026/07/02/micron-day-is-here/?.tsrc=rss",
+          "summary": "Micron's latest earnings report will tell us a great deal about the future of memory and compute demand.",
+          "published": "Fri, 03 Jul 2026 00:53:19 +0000",
+          "ts": 1783039999.0,
+          "zh_title": "Micron Day 到來了！",
+          "zh_point": "Micron 最新財報將揭示記憶體和計算需求的未來走向。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "VGT’s 0.09% Fee Hides a Bigger Problem: Overlap Costs That Could Add Up to Tens of Thousands",
-          "url": "https://247wallst.com/investing/2026/07/01/vgts-0-09-fee-hides-a-bigger-problem-overlap-costs-that-could-add-up-to-tens-of-thousands/?.tsrc=rss",
-          "summary": "Vanguard’s tech ETF sells itself on cost. At 0.09%, Vanguard Information Technology Index Fund ETF (NYSEARCA:VGT) sits near the floor of sector ETF pricing. That headline number is real. It is also the least interesting cost in the fund. What You Are Actually Paying The sticker fee reflects the fund’s 0.09% net expense ratio disclosed ... VGT’s 0.09% Fee Hides a Bigger Problem: Overlap Costs That Could Add Up to Tens of Thousands",
-          "published": "Thu, 02 Jul 2026 01:19:11 +0000",
-          "ts": 1782955151.0,
-          "zh_title": "VGT的 0.09% 費用隱藏著更大的問題：重疊成本可能高達數萬美元",
-          "zh_point": "Vanguard 的科技 ETF 以低費用為賣點，但其實 0.09% 的費率只是表面上的低成本，實際上還有更高的重疊成本可能高達數萬美元。"
+          "title": "Is Tilray a Textbook Value Trap -- or the Most Undervalued Cannabis Stock on the Market?",
+          "url": "https://www.fool.com/investing/2026/07/02/is-tilray-a-textbook-value-trap-or-the-most-underv/?.tsrc=rss",
+          "summary": "There are much better ways to spend $5.",
+          "published": "Fri, 03 Jul 2026 00:50:00 +0000",
+          "ts": 1783039800.0,
+          "zh_title": "蒂拉伊是否是一個典型的價值陷阱 -- 或是市場上最被低估的菸草股",
+          "zh_point": "蒂拉伊股價低迷，是否值得投資？分析指出，蒂拉伊的股價可能被低估，但投資前仍需謹慎評估公司的財務狀況和未來發展前景。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Amazon doubles down on enterprise AI bet",
-          "url": "https://www.thestreet.com/technology/amazon-doubles-down-on-enterprise-ai-bet?.tsrc=rss",
-          "summary": "Palantir invented the forward-deployed engineer model more than a decade ago. The firm's engineers became known for living inside government agencies and Fortune 500 companies for months at a time, not to train employees on software, but to build systems alongside them from the inside. On June 30, ...",
-          "published": "Thu, 02 Jul 2026 01:17:00 +0000",
-          "ts": 1782955020.0,
-          "zh_title": "亞馬遜加大企業人工智慧投資",
-          "zh_point": "亞馬遜正加大對企業人工智慧的投資，與 Palantir 的前沿部署工程師模式有所不同，亞馬遜的工程師不僅僅是為員工提供軟體訓練，而是與企業內部一起建造系統。"
+          "title": "Why AeroVironment Stock Climbed Today",
+          "url": "https://www.fool.com/investing/2026/07/02/why-aerovironment-stock-climbed-today/?.tsrc=rss",
+          "summary": "Defending against drones is an imperative for the U.S. military.",
+          "published": "Fri, 03 Jul 2026 00:36:44 +0000",
+          "ts": 1783039004.0,
+          "zh_title": "為什麼AeroVironment股價上漲",
+          "zh_point": "美國軍方防禦無人機已經變成迫在眉睫的任務，AeroVironment的業務正因此而受益。該公司的無人機和相關技術正逐漸被美國軍方採用，為公司的股價帶來了新的支撐點。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why General Mills Stock Jumped Today",
-          "url": "https://www.fool.com/investing/2026/07/01/why-general-mills-stock-jumped-today/?.tsrc=rss",
-          "summary": "The packaged goods giant is slashing costs as it battles inflation.",
-          "published": "Thu, 02 Jul 2026 00:45:38 +0000",
-          "ts": 1782953138.0,
-          "zh_title": "General Mills 股票今日大漲",
-          "zh_point": "General Mills 這家包裝食品巨頭正試圖對抗通膨，通過削減成本來鞏固財務。"
+          "title": "June 2026 Mailbag: “Do You Know Its Market Cap?”",
+          "url": "https://www.fool.com/investing/2026/07/02/june-2026-mailbag-do-you-know-its-market-cap/?.tsrc=rss",
+          "summary": "In this month’s Mailbag, Fools write in about market caps, parenting, AI, adding to winning investments, and what can happen when decades of patient investing quietly compound into opportunities to help others.",
+          "published": "Fri, 03 Jul 2026 00:34:32 +0000",
+          "ts": 1783038872.0,
+          "zh_title": "2026年6月信箱：你知道它的市值嗎？",
+          "zh_point": "在本月的信箱中，Fools 寫信給我們關於市值、育兒、人工智慧、追加贏利投資以及耐心投資的長期成果如何幫助他人。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "This Palantir Rival Could Soar 36% in a Year, According to Wall Street. Is It a Buy Right Now?",
-          "url": "https://www.fool.com/investing/2026/07/01/this-palantir-rival-could-soar-36-in-a-year-accord/?.tsrc=rss",
-          "summary": "Analysts expect BigBear.ai to emerge from its slump and deliver solid gains over the coming year.",
-          "published": "Thu, 02 Jul 2026 00:43:00 +0000",
-          "ts": 1782952980.0,
-          "zh_title": "這家Palantir競爭對手今年可能漲幅達36%，華爾街是否認為現在買入？",
-          "zh_point": "分析師預測BigBear.ai將從低迷中恢復，今年將取得穩定的收益。"
+          "title": "TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates — Investors And Experts Weigh In",
+          "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-worst-day-in-11-months-after-q2-delivery-blows-past-estimates/cZm97iXR7jO?.tsrc=rss",
+          "summary": "Earlier on Thursday, Tesla said that it delivered 480,126 vehicles in Q2 2026, beating the sell-side consensus of around 406,000 by roughly 18%.",
+          "published": "Fri, 03 Jul 2026 00:31:36 +0000",
+          "ts": 1783038696.0,
+          "zh_title": "TSLA 股票創下11個月來最差一天，Tesla Q2 交付數字超越市場預期",
+          "zh_point": "Tesla Q2 交付數字達480,126輛，遠超市場預期406,000輛，股價大幅下跌。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
-          "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-          "summary": "Shares of Samsung Electronics and SK Hynix plummeted more than 7% in early Thursday trading.",
-          "published": "Thu, 02 Jul 2026 01:02:13 GMT",
-          "ts": 1782954133.0,
-          "zh_title": "三星電子、SK Hynix 股價暴跌超過 7% 因晶片市場大幅下挫",
-          "zh_point": "三星電子和SK Hynix的股價在週四早盤大幅下挫，超過 7%，因為晶片市場的下挫從華爾街蔓延開來。"
+          "title": "Asia markets open mixed as chip slump weighs on sentiment: Live updates",
+          "url": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
+          "summary": "Asia-Pacific markets traded mixed on Friday as investors continued rotating out of technology stocks, tracking declines in the U.S.",
+          "published": "Fri, 03 Jul 2026 00:55:34 GMT",
+          "ts": 1783040134.0,
+          "zh_title": "亞洲市場開盤兩極化，晶片業績下滑影響市場情緒",
+          "zh_point": "亞太市場星期五交易兩極化，投資人持續將資金從科技股轉移出，追蹤美股的下跌趨勢。"
         },
         {
           "source": "CNBC",
-          "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
-          "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
-          "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
-          "published": "Thu, 02 Jul 2026 01:00:01 GMT",
-          "ts": 1782954001.0,
-          "zh_title": "阿里巴巴附屬企業安踏急速進入人工智慧機器人領域",
-          "zh_point": "安踏在18個月內與人工智慧機器人公司簽下十餘筆合約，並在人工智慧機器人公司Zeroth中投資500萬元人民幣（約7,359萬美元），以推動人工智慧機器人領域的發展。"
+          "title": "Trump administration cannot hold migrants without bond hearings past 90 days, court rules",
+          "url": "https://www.cnbc.com/2026/07/03/trump-administration-cannot-hold-migrants-without-bond-hearings-past-90-days.html",
+          "summary": "The ruling could affect thousands of migrants detained in Texas, Louisiana and other states under the court's jurisdiction.",
+          "published": "Thu, 02 Jul 2026 23:57:57 GMT",
+          "ts": 1783036677.0,
+          "zh_title": "川普政府無法在90天內不進行保釋聽證羈押移民，法院裁定",
+          "zh_point": "美國法院裁定，川普政府無法在90天內羈押移民，而不進行保釋聽證，可能影響數千名在德克薩斯州、路易斯安那州和其他州被羈押的移民。"
         },
         {
           "source": "CNBC",
-          "title": "Oil prices fall after U.S.-Iran talks conclude in Doha",
-          "url": "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html",
-          "summary": "Oil prices fell more than 1% on Wednesday after talks between Washington and Tehran concluded.",
-          "published": "Thu, 02 Jul 2026 00:59:34 GMT",
-          "ts": 1782953974.0,
-          "zh_title": "美國與伊朗會談結束後油價下跌",
-          "zh_point": "美國與伊朗的會談在多哈結束後，油價下跌超過1%，成為本周內油價下跌的又一例子。"
+          "title": "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
+          "url": "https://www.cnbc.com/2026/07/02/donald-trump-interview-live-updates.html",
+          "summary": "Trump spoke with CNBC as he prepares to celebrate the 250th birthday of the U.S. on July 4 with an event and fireworks on the National Mall in Washington.",
+          "published": "Thu, 02 Jul 2026 23:04:58 GMT",
+          "ts": 1783033498.0,
+          "zh_title": "川普總統辯護商業交易及子女在CNBC獨家專訪",
+          "zh_point": "川普總統在即將慶祝美國250週年生日前，接受CNBC獨家專訪，表達對商業交易及子女的支持。"
         },
         {
           "source": "CNBC",
-          "title": "Inside India newsletter: Amazon, Walmart-owned Flipkart get ready to shake upIndia's delivery-in-minutes sector",
-          "url": "https://www.cnbc.com/2026/07/02/india-amazon-walmart-flipkart-quick-commerce.html",
-          "summary": "Amazon and Walmart-owned Flipkart are scrambling to expand quick commerce operations in India, not just to chase growth but to remain relevant to consumers.",
-          "published": "Thu, 02 Jul 2026 00:10:37 GMT",
-          "ts": 1782951037.0,
-          "zh_title": "亞馬遜和Flipkart準備搶佔印度即時送貨市場",
-          "zh_point": "亞馬遜和Flipkart正加速在印度推動即時送貨業務，既要追求成長，也要保持與消費者相關性。"
+          "title": "Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer: Live updates",
+          "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
+          "summary": "The Dow Jones Industrial Average scaled to record highs on Thursday as investors reacted to a weaker-than-expected nonfarm payrolls report for June.",
+          "published": "Thu, 02 Jul 2026 21:12:35 GMT",
+          "ts": 1783026755.0,
+          "zh_title": "道瓊指數大幅上漲近 600 點創新高；納斯達克下滑芯片股受創：直播更新",
+          "zh_point": "道瓊指數因為美國 6 月非農就業人口數據出現預期之外的下滑而創下新高，納斯達克則因為芯片股的下滑而出現下滑。"
         },
         {
           "source": "CNBC",
-          "title": "South Korean government discriminated against Coupang, U.S. companies, House report finds",
-          "url": "https://www.cnbc.com/2026/07/01/coupang-south-korea-coupang-house-judiciary.html",
-          "summary": "The House Judiciary Committee said the South Korean government discriminated against Coupang and other U.S. companies, in a new report.",
-          "published": "Thu, 02 Jul 2026 00:01:59 GMT",
-          "ts": 1782950519.0,
-          "zh_title": "韓國政府歧視Coupang和美國公司，美國眾議院報告發現",
-          "zh_point": "美國眾議院司法委員會發表報告指出，韓國政府對Coupang和其他美國公司採取歧視性措施。"
+          "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+          "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+          "summary": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
+          "published": "Thu, 02 Jul 2026 21:03:39 GMT",
+          "ts": 1783026219.0,
+          "zh_title": "特朗普在關稅政策逆轉之前買入蘋果、NVIDIA等科技巨頭",
+          "zh_point": "2025年，特朗普在關稅政策逆轉之前買入蘋果、NVIDIA等科技巨頭，展現出他對市場的敏感性。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
-          "url": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
-          "summary": "“Cat growth is on fire,” one executive said.",
-          "published": "Thu, 02 Jul 2026 00:15:00 GMT",
-          "ts": 1782951300.0,
-          "zh_title": "高蛋白 Cheerios 和貓糧：General Mills 如何應對嚴峻的消費情況",
-          "zh_point": "General Mills 面臨嚴峻的消費環境，公司計劃通過推出高蛋白的 Cheerios 和貓糧等產品來應對挑戰。"
+          "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
+          "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+          "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
+          "published": "Thu, 02 Jul 2026 23:00:00 GMT",
+          "ts": 1783033200.0,
+          "zh_title": "醫生朋友批評醫院籌款手法　管理層是否過度干涉？",
+          "zh_point": "一名醫生朋友因對醫院籌款手法表示不滿，引起爭議。該醫生認為醫院利用醫生與病人的信任關係進行籌款，令人震驚。"
         },
         {
           "source": "MarketWatch",
-          "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.",
-          "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
-          "summary": "The new accounts ban bonds and international stocks, forcing parents to bet their children’s financial future entirely on U.S. equities.",
-          "published": "Wed, 01 Jul 2026 23:48:00 GMT",
-          "ts": 1782949680.0,
-          "zh_title": "為孩子開「川普戶口」？你需要先面對的風險",
-          "zh_point": "為了避免風險，父母應該考慮孩子的投資組合，避免將全部資產投資在美股上。"
+          "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+          "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+          "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+          "published": "Thu, 02 Jul 2026 22:45:00 GMT",
+          "ts": 1783032300.0,
+          "zh_title": "76歲仍在沃爾瑪工作，為什麼我還欠繳薪資稅？",
+          "zh_point": "一名76歲的退休者在沃爾瑪工作，仍然需要繳付薪資稅，原因是他在62歲時領取社會保障金，導致繳稅情況變化。"
         },
         {
           "source": "MarketWatch",
-          "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
-          "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
-          "published": "Wed, 01 Jul 2026 23:11:00 GMT",
-          "ts": 1782947460.0,
-          "zh_title": "Nvidia投入人工智慧機器人市場，預計達到千億美元的市場規模",
-          "zh_point": "Nvidia CEO Jensen Huang認為人工智慧機器人是一個「數兆美元的經濟機會」，公司正積極投資於此領域。"
+          "title": "When does my kid get the free ‘Trump account’ money?",
+          "url": "https://www.marketwatch.com/story/when-does-my-kid-get-the-free-trump-account-money-37c3f503?mod=mw_rss_topstories",
+          "summary": "As the accounts start working, here are 5 things families should know about what’s next",
+          "published": "Thu, 02 Jul 2026 22:41:00 GMT",
+          "ts": 1783032060.0,
+          "zh_title": "當孩子能領取「川普帳戶」免費金額時？",
+          "zh_point": "隨著帳戶啟動，家長應該知道以下五件事：帳戶啟動時間、資金分配方式、申請程序、資金使用限制和未來發展方向。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-          "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-          "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
-          "published": "Wed, 01 Jul 2026 23:01:00 GMT",
-          "ts": 1782946860.0,
-          "zh_title": "我女兒說婆婆給她更多錢，我該怎麼做？",
-          "zh_point": "一位父親在女兒的生日聚會上發現，女兒的婆婆給了她更多的生日禮物，讓他感到困惑，該如何處理這種情況？"
+          "title": "Dow scores fresh record despite tepid jobs report. Why the rest of 2026 is about workers.",
+          "url": "https://www.marketwatch.com/story/dow-scores-fresh-record-despite-tepid-jobs-report-why-the-rest-of-2026-is-about-workers-6247fbed?mod=mw_rss_topstories",
+          "summary": "“American workers are not getting a raise,” says J.P. Morgan Asset Management strategist.",
+          "published": "Thu, 02 Jul 2026 22:38:00 GMT",
+          "ts": 1783031880.0,
+          "zh_title": "道瓊指數創下新高，儘管就業報告疲弱。為什麼2026年剩下的時間關注的是勞工。",
+          "zh_point": "道瓊指數創下新高，但美國勞工薪資卻沒有得到提高，市場分析師認為，2026年剩下的時間將關注勞工的薪資和就業市場。"
         },
         {
           "source": "MarketWatch",
-          "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-          "url": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
-          "summary": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business models.",
-          "published": "Wed, 01 Jul 2026 22:05:00 GMT",
-          "ts": 1782943500.0,
-          "zh_title": "CoreWeave、Nebius股價大跌　Meta將成為雲端新威脅",
-          "zh_point": "Meta宣布利用其人工智慧基礎設施盈利的計畫，引發投資者對新雲端商業模式可持續性的質疑。"
+          "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+          "url": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+          "summary": "Trump, in the interview, also said he continues to plan to remove Fed governor Lisa Cook from the central bank’s board.",
+          "published": "Thu, 02 Jul 2026 22:30:00 GMT",
+          "ts": 1783031400.0,
+          "zh_title": "川普批評「敵對」的美聯儲，稱沃許必須調整利率",
+          "zh_point": "川普在訪談中表示，他仍計劃將美聯儲理事會成員Lisa Cook移除，並批評美聯儲行為敵對，沃許必須調整利率以應對經濟挑戰。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市整體下跌，納斯達克指數領跌，AI基礎設施製造商股價大幅下跌，Nvidia股價跌幅達16%。"
+          "zh_title": "美國股市大幅下跌受中國DeepSeek影響",
+          "zh_point": "美國股市大幅下跌，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌，包括Nvidia下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金屬交易所金銀價格下跌",
-          "zh_point": "紐約金屬交易所金價下跌1.4%，銀價下跌2.5%，連續兩天金價下跌，三天內銀價下跌三次。"
+          "zh_title": "紐約金屬交易所金、銀價格下跌",
+          "zh_point": "紐約金屬交易所的金價下跌 1.4%，銀價下跌 2.5%，連續兩天金價下跌，連續三天銀價下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，且成本低廉，未使用最先進的晶片。"
+          "zh_title": "中國DeepSeek AI的關鍵要點",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的芯片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度尋找未必會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
+          "zh_title": "DeepSeek 不會使美國AI巨頭沉沒",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒過於誇大，實際上DeepSeek對美國AI領域的影響並不那麼嚴重。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊產業回顧：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊產業的最新發展，包括市場趨勢和投資機會。"
+          "zh_title": "科技、媒體與電信周報：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和電信領域的最新市場動向。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "AMD: EPYC, Not Instinct, Is Leading AI Growth - Hold",
-          "url": "https://seekingalpha.com/article/4919322-amd-epyc-not-instinct-leading-ai-growth-hold?source=feed_all_articles",
+          "title": "ISM Manufacturing PMI: Slightly Slower Expansion In June",
+          "url": "https://seekingalpha.com/article/4919616-ism-manufacturing-pmi-slightly-slower-expansion-in-june?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 01 Jul 2026 21:18:29 -0400",
-          "ts": 1782955109.0,
-          "zh_title": "AMD：EPYC，非Instinct，領導AI成長 - 持有",
-          "zh_point": "AMD最新發表指出，EPYC系列處理器在AI領域的成長率遠超Instinct GPU，投資者建議持續持有AMD股票。"
+          "published": "Thu, 02 Jul 2026 21:00:00 -0400",
+          "ts": 1783040400.0,
+          "zh_title": "ISM製造業PMI：六月份擴張速度稍微放緩",
+          "zh_point": "美國製造業活動在六月份出現輕微放緩的趨勢，可能與全球經濟下行和供應鏈瓶頸等因素有關。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Sprout Social: Unconvincing Upmarket Push (Rating Downgrade)",
-          "url": "https://seekingalpha.com/article/4919321-sprout-social-stock-unconvincing-upmarket-push-rating-downgrade?source=feed_all_articles",
+          "title": "PagSeguro Digital: Built To Benefit From Brazil's Next Rate-Cutting Cycle",
+          "url": "https://seekingalpha.com/article/4919615-pagseguro-digital-stock-built-benefit-brazil-next-rate-cutting-cycle?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 01 Jul 2026 21:16:56 -0400",
-          "ts": 1782955016.0,
-          "zh_title": "Sprout Social：不夠說服力的高檔推廣（評級下調）",
-          "zh_point": "Sprout Social 的高檔推廣策略未能獲得投資者的信任，導致評級下調。該公司的財務表現未能符合市場預期，投資者對其未來前景感到憂慮。"
+          "published": "Thu, 02 Jul 2026 20:49:19 -0400",
+          "ts": 1783039759.0,
+          "zh_title": "PagSeguro Digital：準備好迎接巴西下一次降息周期",
+          "zh_point": "PagSeguro Digital是一家巴西電子支付公司，該公司的業務模式和財務狀況使其能夠在巴西下一次降息周期中受益。該公司的業務範圍涵蓋電子支付、線上銀行和金融服務等領域，具有競爭優勢和穩定的財務表現。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Texas Instruments: Rich Valuation, Muted Upside - A Hold For Now",
-          "url": "https://seekingalpha.com/article/4919318-texas-instruments-rich-valuation-muted-upside-a-hold-for-now?source=feed_all_articles",
+          "title": "Natural gas set to surpass oil as top U.S. energy source by 2030",
+          "url": "https://seekingalpha.com/news/4609802-natural-gas-set-to-surpass-oil-as-top-u-s-energy-source-by-2030?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Wed, 01 Jul 2026 20:51:51 -0400",
-          "ts": 1782953511.0,
-          "zh_title": "德州儀器：高估值、消極上升趨勢 - 暫時持有",
-          "zh_point": "德州儀器的股價因高估值而受到質疑，短期內上升趨勢可能不大，投資者暫時應該持有觀望。"
+          "published": "Thu, 02 Jul 2026 20:35:17 -0400",
+          "ts": 1783038917.0,
+          "zh_title": "天然氣將於2030年超越石油成為美國第一大能源來源",
+          "zh_point": "根據預測，天然氣將在未來十年內取代石油，成為美國最主要的能源來源。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Job Openings Rising",
-          "url": "https://seekingalpha.com/article/4919320-job-openings-rising?source=feed_all_articles",
+          "title": "Focusrite plc (FOCIF) 18 Months Period Ending Transcript",
+          "url": "https://seekingalpha.com/article/4919618-focusrite-plc-focif-18-months-period-ending-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 01 Jul 2026 20:10:00 -0400",
-          "ts": 1782951000.0,
-          "zh_title": "求職機會增多",
-          "zh_point": "美國的就業市場正在出現改善的跡象，求職機會增加，可能是經濟復甦的前奏。"
+          "published": "Thu, 02 Jul 2026 20:26:48 -0400",
+          "ts": 1783038408.0,
+          "zh_title": "Focusrite plc (FOCIF) 18 個月結束會議記錄",
+          "zh_point": "Focusrite plc 公開了 18 個月結束會議記錄，內容可能包括財務報告、業績分析和公司未來發展計畫等資訊。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "ADP National Employment Report: 98K Private Jobs Added In June",
-          "url": "https://seekingalpha.com/article/4919319-adp-national-employment-report-98k-private-jobs-added-in-june?source=feed_all_articles",
+          "title": "Asset Class Scoreboard: June 2026",
+          "url": "https://seekingalpha.com/article/4919617-asset-class-scoreboard-june-2026?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 01 Jul 2026 20:05:00 -0400",
-          "ts": 1782950700.0,
-          "zh_title": "ADP 國家就業報告：6月私營就業人數增加98,000人",
-          "zh_point": "美國私營企業在6月份創造了98萬個新工作機會，表明美國就業市場正在持續擴張，但具體數據仍需要等待官方公布的就業數據來確認。"
+          "published": "Thu, 02 Jul 2026 20:10:00 -0400",
+          "ts": 1783037400.0,
+          "zh_title": "資產類別分數板：2026年6月",
+          "zh_point": "資產類別分數板提供了資產市場的綜合評估，包括股票、債券、房地產、商品等各類資產的表現。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "CapsoVision director Joanne Imperial sells $8,586 in common stock",
-          "url": "https://www.investing.com/news/insider-trading-news/capsovision-director-joanne-imperial-sells-8586-in-common-stock-93CH-4772238",
+          "title": "Saba Capital sells $3.5m BlackRock ESG Trust (ECAT) shares",
+          "url": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-35m-blackrock-esg-trust-ecat-shares-93CH-4774919",
           "summary": "",
-          "published": "2026-07-02 01:28:02",
-          "ts": 1782955682.0,
-          "zh_title": "CapsoVision 董事 Joanne Imperial 賣出 8586 美元普通股",
-          "zh_point": "CapsoVision 董事 Joanne Imperial 賣出了價值 8586 美元的普通股，可能是為了籌措資金或調整投資組合。"
+          "published": "2026-07-03 01:07:02",
+          "ts": 1783040822.0,
+          "zh_title": "Saba Capital 賣出 3.5 萬美元 BlackRock ESG 信託 (ECAT) 股票",
+          "zh_point": "Saba Capital 賣出了 BlackRock ESG 信託 (ECAT) 的股票，交易金額達 3.5 萬美元。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Mdu Res Group Inc For: 1 July",
-          "url": "https://www.investing.com/news/filings/form-4-mdu-res-group-inc-for-1-july-93CH-4772237",
+          "title": "Form 4 Hawaiian Electric Industries Inc For: 2 July",
+          "url": "https://www.investing.com/news/filings/form-4-hawaiian-electric-industries-inc-for-2-july-93CH-4774918",
           "summary": "",
-          "published": "2026-07-02 01:27:12",
-          "ts": 1782955632.0,
-          "zh_title": "Mdu Res Group Inc 7月1日 Form 4",
-          "zh_point": "Mdu Res Group Inc 發布了 7 月 1 日的 Form 4 報告，內容可能與公司管理層股權變動有關。"
+          "published": "2026-07-03 01:06:16",
+          "ts": 1783040776.0,
+          "zh_title": "夏威夷電力工業公司 Form 4 報告（2024 年 7 月 2 日）",
+          "zh_point": "夏威夷電力工業公司發布 Form 4 報告，可能與公司內部交易或高管變動有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 CapsoVision Inc For: 1 July",
-          "url": "https://www.investing.com/news/filings/form-4-capsovision-inc-for-1-july-93CH-4772236",
+          "title": "Form 4 Palo Alto Networks Inc For: 2 July",
+          "url": "https://www.investing.com/news/filings/form-4-palo-alto-networks-inc-for-2-july-93CH-4774917",
           "summary": "",
-          "published": "2026-07-02 01:27:09",
-          "ts": 1782955629.0,
-          "zh_title": "CapsoVision Inc 2024 年 7 月 1 日 Form 4",
-          "zh_point": "CapsoVision Inc 的高管人員於 2024 年 7 月 1 日進行了股份交易，相關細節待查詢。"
+          "published": "2026-07-03 01:06:15",
+          "ts": 1783040775.0,
+          "zh_title": "帕洛阿爾托網路公司 2023 年 7 月 2 日表達意見書",
+          "zh_point": "帕洛阿爾托網路公司於 2023 年 7 月 2 日發表了最新的表達意見書，內容可能涉及公司管理層的財務報表或其他相關資訊。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Mdu Res Group Inc For: 1 July",
-          "url": "https://www.investing.com/news/filings/form-4-mdu-res-group-inc-for-1-july-93CH-4772235",
+          "title": "Form 4 Nuo Therapeutics Inc For: 2 July",
+          "url": "https://www.investing.com/news/filings/form-4-nuo-therapeutics-inc-for-2-july-93CH-4774916",
           "summary": "",
-          "published": "2026-07-02 01:27:09",
-          "ts": 1782955629.0,
-          "zh_title": "Mdu Res Group Inc Form 4 1 July",
-          "zh_point": "Mdu Res Group Inc 公布了 1 月 1 日的 Form 4 報告，內容未透露。"
+          "published": "2026-07-03 01:06:15",
+          "ts": 1783040775.0,
+          "zh_title": "Nuo Therapeutics Inc 表現（2023 年 7 月 2 日）",
+          "zh_point": "Nuo Therapeutics Inc 發布了 2023 年 7 月 2 日的財務報告。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 13D/A Gossamer Bio For: 1 July",
-          "url": "https://www.investing.com/news/filings/form-13da-gossamer-bio-for-1-july-93CH-4772234",
+          "title": "Form 4 Nuo Therapeutics Inc For: 2 July",
+          "url": "https://www.investing.com/news/filings/form-4-nuo-therapeutics-inc-for-2-july-93CH-4774915",
           "summary": "",
-          "published": "2026-07-02 01:27:08",
-          "ts": 1782955628.0,
-          "zh_title": "Gossamer Bio Form 13D/A 報告：2024 年 7 月 1 日",
-          "zh_point": "Gossamer Bio 公布了 Form 13D/A 報告，可能與公司股權變動或投資者持股比例變化有關。"
+          "published": "2026-07-03 01:06:07",
+          "ts": 1783040767.0,
+          "zh_title": "Nuo Therapeutics Inc 關於 2 月 7 日的 Form 4",
+          "zh_point": "Nuo Therapeutics Inc 發布了 Form 4 報告，內容可能與公司管理層或重要股東的股票交易有關。"
         }
       ]
     }
