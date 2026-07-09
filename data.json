@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒緊繃，受到多個因素的影響。首先，SpaceX 借貸 2500 億美元並購買 AI 公司，可能會對科技股市場造成重大影響。另外，里維安股價暴跌，環球互聯網集團股價大跌 45%，Netflix 股價從高點跌下 42%。此外，美國對伊朗展開強力攻擊，CENTCOM 表示美國對伊朗展開強力攻擊，同時撤銷伊朗石油銷售授權。市場也關注中國的DeepSeek AI，認為這可能會對美國 AI 巨頭造成影響。總體來說，今天市場情緒緊繃，投資者需要謹慎評估風險。\n\n【結語】\n今天市場情緒緊繃，投資者需要謹慎評估風險。投資者應該注意公司的財務狀況、業績表現和未來發展的風險和機會。投資者不應該過度追求短期收益，而應該關注公司的長期發展潛力。投資者也應該保持耐心和謹慎，避免在市場波動時過度交易。\n\n【精選個股】\nNVDA - NVIDIA - NVIDIA 的股價下跌 16%，受中國的DeepSeek AI 影響，但公司的業務仍然十分穩健。\nAMZN - 亞馬遜 - 亞馬遜計畫借款 25 億美元，同時債券市場對公司的 AI 建設相關債券出現大幅賣空。\nADBE - Adobe - Adobe 的業務仍然十分穩健，且其在數位內容創作領域的領導地位堅不可摧。\n\n風險提醒：投資者需要謹慎評估風險，避免在市場波動時過度交易。",
+  "analysis": "【今日摘要】\n今天市場情緒緊繃，受伊朗問題和石油價格上漲的影響，道瓊指數下跌。科技股尤其是人工智慧（AI）相關產業大幅下挫，Nvidia股價下跌16%。另一方面，蘋果公司宣布與布洛德康簽署合作合約，布洛德康股價大幅上漲5.2%。投資人正在關注藥物股Incyte和TG Therapeutics的快速成長。\n\n【結語】\n投資人們應該保持冷靜，避免過度恐慌。伊朗問題和石油價格上漲可能會對市場造成短期影響，但長期來看，市場仍然有發展空間。投資人們應該關注公司的財務表現和未來發展方向，避免過度依賴市場情緒。\n\n【精選個股】\nAVGO - 布洛德康 - 蘋果公司宣布與布洛德康簽署合作合約，布洛德康股價大幅上漲5.2%。\nINCY - Incyte - 藥物股快速成長，投資人正在關注公司的財務表現和未來發展方向。\nAVAV - AeroVironment - 公司最近舉辦分析師/投資者會議，與投資者分享公司最新發展和未來計畫。\n\n風險提醒：投資市場永遠充滿風險，投資人們應該謹慎評估風險並做出明智的決策。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "SpaceX Borrowed $25 Billion and Is Buying Up AI Companies. Here's What That Means for Every Tech Stock in Your Portfolio.",
-          "url": "https://www.fool.com/investing/2026/07/07/spacex-borrowed-25-billion-and-is-buying-up-ai-com/?.tsrc=rss",
-          "summary": "The pursuit of artificial intelligence ambitions comes at a high cost, and the prices are only going up.",
-          "published": "Wed, 08 Jul 2026 00:35:00 +0000",
-          "ts": 1783470900.0,
-          "zh_title": "SpaceX 借貸 2500 億美元並購買 AI 公司。這對你投資的每一家科技公司都會有什麼影響？",
-          "zh_point": "SpaceX 借貸 2500 億美元，購買 AI 公司，可能會對科技股市場造成重大影響，投資者應該注意這一發展。"
+          "title": "Why Broadcom Stock Fell 15% in June",
+          "url": "https://www.fool.com/investing/2026/07/08/why-broadcom-stock-fell-15-in-june/?.tsrc=rss",
+          "summary": "The diversified semiconductor giant couldn't quite live up to high expectations in its second-quarter earnings report.",
+          "published": "Thu, 09 Jul 2026 00:50:00 +0000",
+          "ts": 1783558200.0,
+          "zh_title": "為什麼布洛德康股價在六月下跌15%",
+          "zh_point": "布洛德康半導體巨頭在第二季財報公布時未能達到市場的高期望，股價因此下跌15%。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why Rivian Stock Plunged Today",
-          "url": "https://www.fool.com/investing/2026/07/07/why-rivian-stock-plunged-today/?.tsrc=rss",
-          "summary": "The EV maker is selling stock -- and investors followed suit.",
-          "published": "Wed, 08 Jul 2026 00:25:13 +0000",
-          "ts": 1783470313.0,
-          "zh_title": "里維安股價暴跌的原因",
-          "zh_point": "里維安電動車製造商正在出售股票，投資者也跟著賣出。"
+          "title": "Dow Jones Futures: Tech Futures Rise, Oil Keeps Climbing; Nvidia, Valero, Dell, SpaceX In Focus",
+          "url": "https://finance.yahoo.com/m/460a0d08-18ee-3417-83ad-76a56f707497/dow-jones-futures%3A-tech.html?.tsrc=rss",
+          "summary": "Tech futures rose overnight after Nvidia, Dell and other AI stocks bounced and SpaceX hit a new low. Oil prices kept rising on Iran news.",
+          "published": "Thu, 09 Jul 2026 00:42:44 +0000",
+          "ts": 1783557764.0,
+          "zh_title": "道瓊未來指數：科技未來指數升高，石油持續攀升；Nvidia、Valero、Dell、SpaceX在焦點",
+          "zh_point": "科技未來指數在Nvidia、Dell等AI股反彈後升高，SpaceX則創下新低。石油價格持續攀升，受伊朗新聞影響。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "How Circle Internet Group Stock Lost 45% Last Month",
-          "url": "https://www.fool.com/investing/2026/07/07/how-circle-internet-group-stock-lost-45-last-month/?.tsrc=rss",
-          "summary": "Circle Internet Group stock crashed 45% in June. A new stablecoin rival and Bitcoin jitters made it a rough month.",
-          "published": "Wed, 08 Jul 2026 00:21:43 +0000",
-          "ts": 1783470103.0,
-          "zh_title": "環球互聯網集團股價大跌 45%",
-          "zh_point": "環球互聯網集團股價在六月大幅下跌 45%，這是由於新穎的穩定幣競爭者和比特幣市場波動所導致。"
+          "title": "2 Fast-Growing Pharmaceutical Stocks to Buy Now",
+          "url": "https://www.fool.com/investing/2026/07/08/2-fast-growing-pharmaceutical-stocks-to-buy-now/?.tsrc=rss",
+          "summary": "Incyte and TG Therapeutics are seeing strong share growth, backed up by booming revenue and earnings.",
+          "published": "Thu, 09 Jul 2026 00:25:00 +0000",
+          "ts": 1783556700.0,
+          "zh_title": "兩家快速成長的藥物股買入時機已到",
+          "zh_point": "Incyte 和 TG Therapeutics 兩家藥物公司因收入和盈餘大幅增長，股價快速上漲，投資人正在關注這兩家股東。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?",
-          "url": "https://www.fool.com/investing/2026/07/07/netflix-stock-is-down-42-from-its-high-with-earnin/?.tsrc=rss",
-          "summary": "The streaming leader keeps growing, yet the stock keeps sliding. Its next report could break the standoff.",
-          "published": "Wed, 08 Jul 2026 00:20:00 +0000",
-          "ts": 1783470000.0,
-          "zh_title": "Netflix 股價從高點跌下 42%，下週將公布財報，買入前該如何評估？",
-          "zh_point": "Netflix 股價持續下跌，儘管公司的成長仍在持續。財報公布後可能會解決股價下跌的僵局。"
+          "title": "Apple scores record 89 Emmy Award nominations, with top category nods for celebrated comedies Widow’s Bay, Shrinking, and Margo’s Got Money Troubles, and global hit dramas Pluribus, Slow Horses, and Your Friends & Neighbors",
+          "url": "https://finance.yahoo.com/media-advertising/articles/apple-scores-record-89-emmy-002100913.html?.tsrc=rss",
+          "summary": "CULVER CITY, Calif., July 09, 2026--Apple scores a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards, and leads as the network with the most nominations in the Best Drama and Best Comedy series categories, respectively, earning top program nominations for comedies Widow’s Bay, Shrinking, and Margo’s Got Money Troubles, alongside dramas Pluribus, Slow Horses, and Your Friends & Neighbors. Apple’s breakout comedy sensation Widow’s Bay leads as one of this year’s most-no",
+          "published": "Thu, 09 Jul 2026 00:21:00 +0000",
+          "ts": 1783556460.0,
+          "zh_title": "蘋果公司在第78屆艾美獎中獲得89項提名，領先於最佳戲劇和最佳喜劇類別",
+          "zh_point": "蘋果公司在第78屆艾美獎中獲得89項提名，包括喜劇《寡婦灣》、《縮小》和《瑪戈的財務困境》以及戲劇《多元體》、《慢馬》和《鄰居朋友》，並在最佳喜劇和最佳戲劇類別中領先。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "NFLX, DIS, YouTube Want FIFA's World Cup US Rights — Why A $2B Bidding War Is Brewing",
-          "url": "https://stocktwits.com/news-articles/markets/equity/nflx-dis-you-tube-want-fifa-s-world-cup-us-rights/cZmVInGR7Zq?.tsrc=rss",
-          "summary": "FIFA is expected to begin talks with media companies in the coming months as competition heats up for the U.S. rights to the 2030 and 2034 men’s World Cups.",
-          "published": "Wed, 08 Jul 2026 00:10:58 +0000",
-          "ts": 1783469458.0,
-          "zh_title": "NFLX、DIS、YouTube爭奪FIFA世界盃美國播權權 — 為什麼會爆發2億美元的競標戰",
-          "zh_point": "FIFA預計在未來幾個月內與媒體公司展開談判，爭奪2030年和2034年男子世界盃美國播權權。NFLX、DIS和YouTube等公司已經表達出對這項權利的興趣。"
+          "title": "Why Broadcom (AVGO) Stock Is Trading Up Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-000244384.html?.tsrc=rss",
+          "summary": "Shares of fabless chip and software maker Broadcom (NASDAQ:AVGO) jumped 5.2% in the afternoon session after the company confirmed an expanded, multi-year partnership with Apple exceeding $30 billion for custom silicon components and wireless technologies.",
+          "published": "Thu, 09 Jul 2026 00:02:44 +0000",
+          "ts": 1783555364.0,
+          "zh_title": "為什麼布洛德康 (AVGO) 股票今天上漲",
+          "zh_point": "布洛德康股價今天下午大幅上漲 5.2%，公司宣布與蘋果簽署了超過 3000 億美元的多年合作合約，涉及定制晶片元件和無線技術。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-          "url": "https://www.cnbc.com/2026/07/07/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-          "summary": "A decline in chip stocks and a spike in oil prices dragged the market down on Tuesday. The Nasdaq lost more than 1%, while the Dow pulled back from 53,000.",
-          "published": "Tue, 07 Jul 2026 23:31:23 GMT",
-          "ts": 1783467083.0,
-          "zh_title": "星期三的重點股市新聞：明天市場可能受到什麼影響",
-          "zh_point": "晶片股價下跌和油價大幅上升，昨天把市場拖下來。納斯達克指數跌超過1%，道瓊指數則從53,000點後回落。"
+          "title": "Platner quits Maine Senate race; Democrats set to pick new nominee",
+          "url": "https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html",
+          "summary": "Maine Democrats must now replace Platner with less than four months until the midterm elections.",
+          "published": "Thu, 09 Jul 2026 00:55:50 GMT",
+          "ts": 1783558550.0,
+          "zh_title": "普拉特尼退出緬因州參議院選舉；民主黨將選出新候選人",
+          "zh_point": "緬因州民主黨必須在四個月內選出新候選人參加中期選舉。"
         },
         {
           "source": "CNBC",
-          "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
-          "url": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
-          "summary": "FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.",
-          "published": "Tue, 07 Jul 2026 22:53:30 GMT",
-          "ts": 1783464810.0,
-          "zh_title": "Netflix、迪士尼和YouTube有意競標2026年美國FIFA世界盃播映權",
-          "zh_point": "Netflix、迪士尼和YouTube等公司有意競標2026年美國FIFA世界盃播映權，估計總價高達20億美元。"
+          "title": "World Cup drives Google Search to record queries per second",
+          "url": "https://www.cnbc.com/2026/07/08/world-cup-drives-google-search-to-record-queries-per-second.html",
+          "summary": "The milestone comes amid Lionel Messi and Argentina's popularity.",
+          "published": "Thu, 09 Jul 2026 00:34:21 GMT",
+          "ts": 1783557261.0,
+          "zh_title": "世界盃足球賽帶動Google搜索量創下每秒查詢新高",
+          "zh_point": "世界盃足球賽期間，Google的搜索量創下新高，與阿根廷球星梅西和球隊的流行度有關。"
         },
         {
           "source": "CNBC",
-          "title": "Kalshi traders see slim odds U.S. government will take a stake in OpenAI this year",
-          "url": "https://www.cnbc.com/2026/07/07/kalshi-traders-give-low-odds-the-us-takes-a-stake-in-openai-in-2026.html",
-          "summary": "Traders on the prediction markets platform see a less than 30% likelihood the federal government will take a stake in AI companies Anthropic and OpenAI.",
-          "published": "Tue, 07 Jul 2026 22:51:08 GMT",
-          "ts": 1783464668.0,
-          "zh_title": "Kalshi交易者看淡美政府今年會投資OpenAI",
-          "zh_point": "Kalshi交易平台上的交易者認為，美政府今年購買AI公司Anthropic和OpenAI的股份機會不到30%。"
+          "title": "Judge orders E. Jean Carroll be paid $5 million in damages from Trump verdict",
+          "url": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
+          "summary": "Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store.",
+          "published": "Thu, 09 Jul 2026 00:27:45 GMT",
+          "ts": 1783556865.0,
+          "zh_title": "法官判令 E. Jean Carroll 得到 5 億美元的賠償金從川普判決中獲得",
+          "zh_point": "川普在紐約一家百貨公司被指控性侵犯 E. Jean Carroll，法官判令他在民事訴訟中負責 5 億美元的賠償金。"
         },
         {
           "source": "CNBC",
-          "title": "U.S. resumes 'powerful strikes' on Iran after Hormuz Strait ship attacks, CENTCOM says",
-          "url": "https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html",
-          "summary": "The U.S. revoked Iran oil sales authorization earlier in the day.",
-          "published": "Tue, 07 Jul 2026 22:34:30 GMT",
-          "ts": 1783463670.0,
-          "zh_title": "美國對伊朗展開強力攻擊，CENTCOM表示",
-          "zh_point": "美國對伊朗展開強力攻擊，同時撤銷伊朗石油銷售授權。"
+          "title": "S&P 500 futures are little changed as traders assess rising tensions between the U.S. and Iran: Live updates",
+          "url": "https://www.cnbc.com/2026/07/08/stock-market-today-live-updates.html",
+          "summary": "The U.S. launched fresh strikes on Iran, after President Donald Trump said earlier in the day he may no longer be interested in negotiating a deal.",
+          "published": "Thu, 09 Jul 2026 00:23:10 GMT",
+          "ts": 1783556590.0,
+          "zh_title": "標準普爾 500 指數未來價格幾乎不變，交易員評估美伊緊張局勢升級：即時更新",
+          "zh_point": "美伊關係緊張升級，美方發動新一輪攻擊，川普總統表示不再願意談判協議，美股未來價格出現波動。"
         },
         {
           "source": "CNBC",
-          "title": "Jim Cramer says the market's reaction to Samsung may signal a shift in AI leadership",
-          "url": "https://www.cnbc.com/2026/07/07/jim-cramer-markets-reaction-samsung-signal-shift-ai-leadership.html",
-          "summary": "CNBC's Jim Cramer said Samsung's earnings sparked a sell-off in AI hardware stocks, while many tech names that have lagged this year rebounded.",
-          "published": "Tue, 07 Jul 2026 22:26:48 GMT",
-          "ts": 1783463208.0,
-          "zh_title": "克雷默認為Samsung的業績反應可能標誌AI領導力的轉變",
-          "zh_point": "克雷默表示Samsung的業績出乎意料地導致AI硬體股價下跌，而今年落後的科技股則反彈回升。"
+          "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/07/08/thursdays-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "Rising oil prices and heightened tensions in the Middle East dragged the Dow lower on Wednesday. Tune in to CNBC Thursday at 10 a.m. to see OpenAI's Sam Altman.",
+          "published": "Thu, 09 Jul 2026 00:14:25 GMT",
+          "ts": 1783556065.0,
+          "zh_title": "星期四的大宗股票新聞：下個交易日市場可能會受到什麼影響",
+          "zh_point": "油價上漲和中東局勢緊張，令道瓊指數星期三下跌。星期四上午10點，請收看CNBC的節目，與OpenAI的Sam Altman交流。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Rivian’s stock sale triggers worst rout for the shares in nearly two years",
-          "url": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories",
-          "summary": "Rivian’s stock falls 18% as Wall Street frets about the EV maker’s cash troubles.",
-          "published": "Wed, 08 Jul 2026 00:35:00 GMT",
-          "ts": 1783470900.0,
-          "zh_title": "里維恩的股票出售引發近兩年來股價最慘烈的下跌",
-          "zh_point": "里維恩的股票價格下跌18%，華爾街投資者擔心該公司的電動汽車生產經營困難。"
+          "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
+          "url": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
+          "summary": "Jeans maker raises its full-year outlook for the second straight time, but shares fall after hours",
+          "published": "Thu, 09 Jul 2026 00:38:00 GMT",
+          "ts": 1783557480.0,
+          "zh_title": "萊維士尋找新客群 — 透過上衣和「牛仔高級品」",
+          "zh_point": "萊維士提高全年預測，第二次連續上調，但股價在交易後下跌。公司正在嘗試透過推出上衣和高級牛仔服裝來吸引新客群。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
-          "url": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
-          "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
-          "published": "Tue, 07 Jul 2026 23:00:00 GMT",
-          "ts": 1783465200.0,
-          "zh_title": "兄弟取代父母財務管理，我該如何處理？",
-          "zh_point": "我哥哥未與我商量，自行申請管理母親財務，導致家庭財務管理權的變動，讓我感到困惑和擔憂，該如何解決這種情況？"
+          "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
+          "url": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
+          "summary": "Wall Street expects President Donald Trump’s call that the Iran cease-fire is over will hurt airlines and home builders more than it will help oil companies.",
+          "published": "Thu, 09 Jul 2026 00:07:00 GMT",
+          "ts": 1783555620.0,
+          "zh_title": "美國與伊朗緊張關係升高，將對多個產業造成影響",
+          "zh_point": "美國與伊朗關係緊張，將對航空公司、房屋建造業等產業造成影響，超越油價上漲的影響。"
         },
         {
           "source": "MarketWatch",
-          "title": "Micron’s stock falls as investors wonder if the memory market is near the top",
-          "url": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
-          "summary": "“Most investor feedback continues to point to a skittish AI tape,” one analyst said.",
-          "published": "Tue, 07 Jul 2026 22:43:00 GMT",
-          "ts": 1783464180.0,
-          "zh_title": "Micron的股價下跌，投資者擔心記憶體市場已經達到頂峰",
-          "zh_point": "Micron的股價下跌，投資者擔心記憶體市場已經達到頂峰，分析師表示投資者反饋仍表達出對人工智慧市場的擔憂。"
+          "title": "I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?",
+          "url": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
+          "summary": "Even if you’re not worried about your normal spending anymore, a long-term-care need is still a problem for any budget.",
+          "published": "Wed, 08 Jul 2026 22:48:00 GMT",
+          "ts": 1783550880.0,
+          "zh_title": "我以3,000萬美元開始退休生活，現在89歲，剩下2,000萬美元。若我生病了？",
+          "zh_point": "即使你不再擔心日常開銷，長期照護的需求仍然會對任何預算造成問題。"
         },
         {
           "source": "MarketWatch",
-          "title": "Adobe’s stock is temptingly cheap. Should investors bite?",
-          "url": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
-          "summary": "Adobe has become a polarizing stock in the face of questions about its AI future.",
-          "published": "Tue, 07 Jul 2026 22:35:00 GMT",
-          "ts": 1783463700.0,
-          "zh_title": "Adobe 股票價格便宜到令人垂涎，投資者該不該買？",
-          "zh_point": "Adobe 因對其人工智慧未來的疑慮而成為極具爭議的股票。該公司的股價已經下跌，讓投資者開始思考是否該買入。然而，Adobe 的業務仍然十分穩健，且其在數位內容創作領域的領導地位堅不可摧。投資者需要仔細評估公司未來發展的風險和機會，才能做出明智的決定。"
+          "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.",
+          "url": "https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories",
+          "summary": "It’s a ‘major taxpayer win,’ according to one advocate inside the IRS",
+          "published": "Wed, 08 Jul 2026 21:40:00 GMT",
+          "ts": 1783546800.0,
+          "zh_title": "IRS 將稅務糾紛的處理方式簡化",
+          "zh_point": "美國聯邦稅務局（IRS）宣布，為了幫助納稅人避免罰款，將稅務糾紛的處理方式簡化。這被視為對納稅人的重要支持。"
         },
         {
           "source": "MarketWatch",
-          "title": "AI-related debt sells off sharply as Amazon looks to borrow another $25 billion",
-          "url": "https://www.marketwatch.com/story/ai-related-debt-sells-off-sharply-as-amazon-borrows-another-25-billion-46928353?mod=mw_rss_topstories",
-          "summary": "Bonds financing the massive artificial-intelligence buildout were hit hard by selling on Tuesday, as Amazon.com set out to borrow another $25 billion in new debt.",
-          "published": "Tue, 07 Jul 2026 22:35:00 GMT",
-          "ts": 1783463700.0,
-          "zh_title": "亞馬遜計畫借款 25 億美元　AI 相關債券大幅賣空",
-          "zh_point": "亞馬遜計畫借款 25 億美元，同時債券市場對公司的 AI 建設相關債券出現大幅賣空，市場對此感到擔憂。"
+          "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
+          "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+          "summary": "Oil prices settled at their highest levels in more than two weeks on Wednesday, then extended their gains in after-hours trading after the U.S. military said it launched additional strikes on Iran.",
+          "published": "Wed, 08 Jul 2026 21:16:00 GMT",
+          "ts": 1783545360.0,
+          "zh_title": "石油價格延續漲勢 美軍對伊朗進行額外空襲",
+          "zh_point": "石油價格在星期三達到兩週來最高點，之後在美軍宣布對伊朗進行額外空襲後持續上漲。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek影響",
-          "zh_point": "美國股市大幅下跌，Nasdaq指數領跌，AI基礎設施製造商股價大幅下跌，其中包括Nvidia下跌16%。"
+          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
+          "zh_point": "美國股市大幅下跌，科技股尤其是人工智慧（AI）相關產業大幅下挫，Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "Comex黃金、白銀結束下跌",
-          "zh_point": "Comex黃金和白銀在最近的交易中下跌，黃金跌幅1.4%，白銀跌幅2.5%，黃金連續兩天下跌，白銀連續三天下跌。"
+          "zh_title": "紐約金屬交易所黃金、白銀價格下跌",
+          "zh_point": "紐約金屬交易所黃金價格下跌 1.4%，連續兩天下跌，白銀價格下跌 2.5%，連續三天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國的DeepSeek AI：你需要知道什麼",
-          "zh_point": "中國的DeepSeek AI宣稱已經訓練出高表現的AI模型，但是在不使用最先進的晶片的情況下。"
+          "zh_title": "中國DeepSeek AI的關鍵知識",
+          "zh_point": "中國新興公司宣稱，使用高階晶片的成本不高，訓練出高表現的AI模型。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會讓美國AI巨頭沉沒",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過於誇大。"
+          "zh_title": "深度尋找不會讓美國AI巨頭沉沒",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒過於誇大。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊業新聞回顧：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊業最新發展，包括市場評論和分析。"
+          "zh_title": "科技、媒體與通訊產業簡報：市場熱話",
+          "zh_point": "DeepSeek、SoFi等科技、媒體和通訊產業的最新發展，包括市場趨勢、股票表現和產業動態。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Zoom: Buying Before The Market Prices In The Anthropic Stake (Upgrade)",
-          "url": "https://seekingalpha.com/article/4920481-zoom-buying-before-the-market-prices-in-the-anthropic-stake-upgrade?source=feed_all_articles",
+          "title": "Tesco: Britain's Premier Supermarket Has Further Upside",
+          "url": "https://seekingalpha.com/article/4920737-tesco-britains-premier-supermarket-has-further-upside?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 07 Jul 2026 20:51:11 -0400",
-          "ts": 1783471871.0,
-          "zh_title": "Zoom：在市場預期中買入人類智慧的利益（升級）",
-          "zh_point": "Zoom 的股價升級，投資者應該在市場預期中買入公司的股權，為未來的人類智慧相關業務創造價值。"
+          "published": "Wed, 08 Jul 2026 21:07:07 -0400",
+          "ts": 1783559227.0,
+          "zh_title": "Tesco：英國頂級超市仍有更大的潛力",
+          "zh_point": "英國頂級超市Tesco，儘管面臨競爭壓力，但仍有發展空間，投資者應關注其未來發展趨勢。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Airbus, MTU Aero Engines form JV to develop fully electric hydrogen fuel cell engine",
-          "url": "https://seekingalpha.com/news/4612121-airbus-mtu-aero-engines-form-jv-to-develop-fully-electric-hydrogen-fuel-cell-engine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "AeroVironment, Inc. (AVAV) Analyst/Investor Day Transcript",
+          "url": "https://seekingalpha.com/article/4920706-aerovironment-inc-avav-analyst-investor-day-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 07 Jul 2026 20:42:51 -0400",
-          "ts": 1783471371.0,
-          "zh_title": "空中巴士、MTU航空發動機公司合資成立公司開發全電氣化氫燃料電池引擎",
-          "zh_point": "空中巴士與MTU航空發動機公司合作，開發全電氣化氫燃料電池引擎，將在未來的飛機上使用。"
+          "published": "Wed, 08 Jul 2026 21:02:30 -0400",
+          "ts": 1783558950.0,
+          "zh_title": "AeroVironment, Inc. (AVAV) 分析師/投資者日記錄稿",
+          "zh_point": "AeroVironment, Inc. 舉辦分析師/投資者會議，與投資者分享公司最新發展和未來計畫。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Commerce Secretary's role in $1.6B USA Rare Earth deal probed by Democrat lawmakers",
-          "url": "https://seekingalpha.com/news/4612120-commerce-secretarys-role-in-16b-usa-rare-earth-deal-probed-by-democrat-lawmakers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Costco Wholesale Corporation (COST) Period Ending/ Trading Statement Call Prepared Remarks Transcript",
+          "url": "https://seekingalpha.com/article/4920739-costco-wholesale-corporation-cost-period-ending-trading-statement-call-prepared-remarks?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 07 Jul 2026 20:14:16 -0400",
-          "ts": 1783469656.0,
-          "zh_title": "商務部長在1.6億美元USA Rare Earth交易中的角色被民主黨立法者調查",
-          "zh_point": "美國商務部長在美國稀土公司交易中的角色受到民主黨立法者的關注，可能涉及違規交易或利益衝突。"
+          "published": "Wed, 08 Jul 2026 21:02:26 -0400",
+          "ts": 1783558946.0,
+          "zh_title": "Costco Wholesale Corporation (COST) 期末/交易聲明電話會議備忘錄稿",
+          "zh_point": "Costco Wholesale Corporation 公布期末交易聲明，內容可能包括公司財務表現、營業成績和未來發展方向等資訊。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Veritone, Inc. (VERI) Discusses AI Solutions, Product Advancements, and Strategic Opportunities in Data Transformation Transcript",
-          "url": "https://seekingalpha.com/article/4920464-veritone-inc-veri-discusses-ai-solutions-product-advancements-and-strategic-opportunities-in?source=feed_all_articles",
+          "title": "The 9,500 S&P 500 Dream Is Dead",
+          "url": "https://seekingalpha.com/article/4920735-the-9500-sp500-dream-is-dead?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 07 Jul 2026 20:02:26 -0400",
-          "ts": 1783468946.0,
-          "zh_title": "Veritone, Inc. (VERI) 討論 AI 解決方案、產品進展和數據轉型戰略機會",
-          "zh_point": "Veritone, Inc. 在會議中討論了 AI 解決方案、產品的進展和數據轉型的戰略機會，公司致力於推動數據轉型的發展。"
+          "published": "Wed, 08 Jul 2026 20:09:29 -0400",
+          "ts": 1783555769.0,
+          "zh_title": "500大公司指數 9,500 的夢想已經破滅",
+          "zh_point": "500大公司指數的目標價格9,500可能已經不再可行，投資者需要重新評估投資策略。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Peabody Energy wins DoE grant to boost rare earth production at Wyoming coal mines",
-          "url": "https://seekingalpha.com/news/4612119-peabody-energy-wins-doe-grant-to-boost-rare-earth-production-at-wyoming-coal-mines?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Caesars Entertainment: Why A Merger Arb Trade Could Be Worth A Flyer",
+          "url": "https://seekingalpha.com/article/4920734-caesars-entertainment-why-a-merger-arb-trade-could-be-worth-a-flyer?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 07 Jul 2026 19:47:59 -0400",
-          "ts": 1783468079.0,
-          "zh_title": "Peabody 能源獲得能源部補助金，以提升懷俄明煤礦的稀土生產",
-          "zh_point": "美國能源部向Peabody 能源提供補助金，以幫助該公司在懷俄明州的煤礦中增加稀土的生產。"
+          "published": "Wed, 08 Jul 2026 20:01:20 -0400",
+          "ts": 1783555280.0,
+          "zh_title": "凱撒娛樂：為什麼一項併購套利交易可能值得投資",
+          "zh_point": "凱撒娛樂可能進行併購交易，投資者可考慮套利交易的機會，盡管風險仍存在。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Japan considering tweaking blueprint language on BOJ, Nikkei reports",
-          "url": "https://www.investing.com/news/economy-news/japan-considering-tweaking-blueprint-language-on-boj-nikkei-reports-4780609",
+          "title": "SK Hynix jumps as $28 billion U.S. ADR pricing nears after strong demand",
+          "url": "https://www.investing.com/news/stock-market-news/sk-hynix-jumps-as-28-billion-us-adr-pricing-nears-after-strong-demand-4782903",
           "summary": "",
-          "published": "2026-07-08 00:37:18",
-          "ts": 1783471038.0,
-          "zh_title": "日本考慮調整BOJ藍圖語言，日經報導",
-          "zh_point": "日本央行的藍圖可能會有所調整，日經新聞報導稱日本政府正在考慮修改對日本央行的描述，以便更好地適應央行的政策變化。"
+          "published": "2026-07-09 01:07:58",
+          "ts": 1783559278.0,
+          "zh_title": "SK Hynix跳躍為28億美元ADR定價臨近後受強烈需求",
+          "zh_point": "SK Hynix因為28億美元ADR的定價臨近而股價大幅上漲，市場預期公司的新發行將受到強烈的需求。"
         },
         {
           "source": "Investing.com",
-          "title": "South Korea to closely watch risks around stock market volatility",
-          "url": "https://www.investing.com/news/economy-news/south-korea-to-closely-watch-risks-around-stock-market-volatility-4780605",
+          "title": "Death toll from Venezuela quakes rises to 3,811 as government seeks frozen funds",
+          "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-3811-4782825",
           "summary": "",
-          "published": "2026-07-08 00:36:54",
-          "ts": 1783471014.0,
-          "zh_title": "韓國密切關注股市波動風險",
-          "zh_point": "韓國政府將密切監測股市波動的風險，防止市場不穩定對經濟造成不利影響。"
+          "published": "2026-07-09 01:07:08",
+          "ts": 1783559228.0,
+          "zh_title": "委內瑞拉地震死亡人數升至3,811名，政府尋求凍結資金",
+          "zh_point": "委內瑞拉近期發生一系列地震，造成嚴重破壞和大量傷亡，政府正在嘗試凍結資金以應對此次災難的經濟影響。"
         },
         {
           "source": "Investing.com",
-          "title": "Amazon aims to raise $25 billion from bond sale",
-          "url": "https://www.investing.com/news/stock-market-news/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports-4779326",
+          "title": "Oregon community foundation sells $49,398 of Jewett Cameron (JCTC) shares.",
+          "url": "https://www.investing.com/news/insider-trading-news/oregon-community-foundation-sells-49398-of-jewett-cameron-jctc-shares-93CH-4782902",
           "summary": "",
-          "published": "2026-07-08 00:36:35",
-          "ts": 1783470995.0,
-          "zh_title": "亞馬遜計劃從債券發行中籌集 2500 億美元",
-          "zh_point": "亞馬遜計劃籌集 2500 億美元的資金，透過債券發行來籌集資金，可能用於公司的投資和業務發展。"
+          "published": "2026-07-09 01:07:03",
+          "ts": 1783559223.0,
+          "zh_title": "俄勒岡社區基金會出售49,398股Jewett Cameron (JCTC)股份",
+          "zh_point": "俄勒岡社區基金會出售49,398股Jewett Cameron (JCTC)股份，交易金額為49,398美元。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 SUI Group Holdings Ltd For: 7 July",
-          "url": "https://www.investing.com/news/filings/form-4-sui-group-holdings-ltd-for-7-july-93CH-4780608",
+          "title": "Glaukos chief development officer Navratil sells $99,566 stock",
+          "url": "https://www.investing.com/news/insider-trading-news/glaukos-chief-development-officer-navratil-sells-99566-stock-93CH-4782901",
           "summary": "",
-          "published": "2026-07-08 00:33:07",
-          "ts": 1783470787.0,
-          "zh_title": "SUI集團控股有限公司表格4（2023年7月7日）",
-          "zh_point": "SUI集團控股有限公司發布了表格4，內容未有明確摘要，僅知日期為2023年7月7日。"
+          "published": "2026-07-09 01:06:56",
+          "ts": 1783559216.0,
+          "zh_title": "Glaukos 首席開發官 Navratil 賣出 99,566 股股票",
+          "zh_point": "Glaukos 首席開發官 Navratil 賣出公司股票，交易金額達 99,566 美元。"
         },
         {
           "source": "Investing.com",
-          "title": "South Korean chip stocks slide after overnight US selloff on AI boom concerns",
-          "url": "https://www.investing.com/news/economy-news/south-korean-chip-stocks-slide-after-overnight-us-selloff-on-ai-boom-concerns-4780607",
+          "title": "US military says it is carrying out fresh strikes on Iran, after Trump says accord is ’over’",
+          "url": "https://www.investing.com/news/commodities-news/iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes-4780656",
           "summary": "",
-          "published": "2026-07-08 00:30:48",
-          "ts": 1783470648.0,
-          "zh_title": "韓國晶片股價下滑　美國過夜抛售引發人工智慧泡沫擔憂",
-          "zh_point": "韓國晶片股價下滑，受美國過夜抛售的影響，市場擔憂人工智慧技術的快速發展可能導致市場泡沫。"
+          "published": "2026-07-09 01:06:48",
+          "ts": 1783559208.0,
+          "zh_title": "美國軍方稱正在對伊朗進行新的轟炸行動，美國前總統川普稱協議已經失效",
+          "zh_point": "美國軍方表示正在對伊朗進行新的軍事行動，美國前總統川普表示美國與伊朗的協議已經失效，這可能引發新的伊朗問題。"
         }
       ]
     }
