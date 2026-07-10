@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒緊繃，受伊朗問題和石油價格上漲的影響，道瓊指數下跌。科技股尤其是人工智慧（AI）相關產業大幅下挫，Nvidia股價下跌16%。另一方面，蘋果公司宣布與布洛德康簽署合作合約，布洛德康股價大幅上漲5.2%。投資人正在關注藥物股Incyte和TG Therapeutics的快速成長。\n\n【結語】\n投資人們應該保持冷靜，避免過度恐慌。伊朗問題和石油價格上漲可能會對市場造成短期影響，但長期來看，市場仍然有發展空間。投資人們應該關注公司的財務表現和未來發展方向，避免過度依賴市場情緒。\n\n【精選個股】\nAVGO - 布洛德康 - 蘋果公司宣布與布洛德康簽署合作合約，布洛德康股價大幅上漲5.2%。\nINCY - Incyte - 藥物股快速成長，投資人正在關注公司的財務表現和未來發展方向。\nAVAV - AeroVironment - 公司最近舉辦分析師/投資者會議，與投資者分享公司最新發展和未來計畫。\n\n風險提醒：投資市場永遠充滿風險，投資人們應該謹慎評估風險並做出明智的決策。",
+  "analysis": "【今日摘要】\n今日市場情緒呈現出來的是對於人工智慧和記憶體晶片的投資熱潮。小型股ETF表現出色，標普500指數的最大七家公司（Mag 7）今年表現不佳，為小型股ETF提供了機會。Micron和SanDisk因Nasdaq重奪關鍵支撐而大幅上漲，但是否可作為買賣依據？Delta、台積電、SK Hynix的表現值得關注。另外，OpenAI執行長Fidji Simo因為慢性疾病辭職，將轉任顧問。美聯儲新任務小組成員對人工智慧持正面態度，表明美聯儲正逐步採用人工智慧技術。\n\n【結語】\n投資者們應該保持謹慎和耐心。人工智慧和記憶體晶片的投資熱潮可能會持續一段時間，但也可能會出現波動。投資者們應該評估公司的基本面和財務狀況，避免被市場情緒所左右。另外，投資者們也應該注意到市場的風險，包括投資熱潮的破裂和公司的財務問題。\n\n【精選個股】\nATZ:CA - Aritzia Inc. - 公司的財務表現和技術指標均有進一步改善，表明公司的財務狀況正在穩步好轉。\nWIX - Wix.com - 公司與Elavon合作推出統一商業解決方案，重新引起投資者關注。\nRAX - Rackspace - 因為與人工智慧相關的夥伴關係而扭轉了其成長趨勢，投資者是否該買跌？\n風險提醒：投資者們應該注意到市場的風險，包括投資熱潮的破裂和公司的財務問題。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Why Broadcom Stock Fell 15% in June",
-          "url": "https://www.fool.com/investing/2026/07/08/why-broadcom-stock-fell-15-in-june/?.tsrc=rss",
-          "summary": "The diversified semiconductor giant couldn't quite live up to high expectations in its second-quarter earnings report.",
-          "published": "Thu, 09 Jul 2026 00:50:00 +0000",
-          "ts": 1783558200.0,
-          "zh_title": "為什麼布洛德康股價在六月下跌15%",
-          "zh_point": "布洛德康半導體巨頭在第二季財報公布時未能達到市場的高期望，股價因此下跌15%。"
+          "title": "Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
+          "url": "http://www.etf.com/sections/features/small-cap-etfs-are-beating-sp-500-mag-7-stumble?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss&.tsrc=rss",
+          "summary": "A rough year for most of the megacaps has opened the door for funds that tilt away from the biggest stocks.",
+          "published": "Fri, 10 Jul 2026 01:06:19 +0000",
+          "ts": 1783645579.0,
+          "zh_title": "小型股ETF超越標普500指數　Mag 7出現滑坡",
+          "zh_point": "小型股ETF在大型股出現滑坡的情況下表現出色，標普500指數的最大七家公司（Mag 7）今年表現不佳，為小型股ETF提供了機會。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures: Tech Futures Rise, Oil Keeps Climbing; Nvidia, Valero, Dell, SpaceX In Focus",
-          "url": "https://finance.yahoo.com/m/460a0d08-18ee-3417-83ad-76a56f707497/dow-jones-futures%3A-tech.html?.tsrc=rss",
-          "summary": "Tech futures rose overnight after Nvidia, Dell and other AI stocks bounced and SpaceX hit a new low. Oil prices kept rising on Iran news.",
-          "published": "Thu, 09 Jul 2026 00:42:44 +0000",
-          "ts": 1783557764.0,
-          "zh_title": "道瓊未來指數：科技未來指數升高，石油持續攀升；Nvidia、Valero、Dell、SpaceX在焦點",
-          "zh_point": "科技未來指數在Nvidia、Dell等AI股反彈後升高，SpaceX則創下新低。石油價格持續攀升，受伊朗新聞影響。"
+          "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+          "url": "https://finance.yahoo.com/m/6e8baca0-b324-3166-b745-36b306c19567/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
+          "summary": "Micron and Sandisk soared as the Nasdaq reclaimed key support, but are they actionable? Delta, Taiwan Semi, SK Hynix loom.",
+          "published": "Fri, 10 Jul 2026 00:38:53 +0000",
+          "ts": 1783643933.0,
+          "zh_title": "道瓊指數未來：Micron、SanDisk跳升 Nasdaq重奪關鍵水平；Delta、台積電、SK Hynix待命",
+          "zh_point": "Micron和SanDisk因Nasdaq重奪關鍵支撐而大幅上漲，但是否可作為買賣依據？Delta、台積電、SK Hynix的表現值得關注。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "2 Fast-Growing Pharmaceutical Stocks to Buy Now",
-          "url": "https://www.fool.com/investing/2026/07/08/2-fast-growing-pharmaceutical-stocks-to-buy-now/?.tsrc=rss",
-          "summary": "Incyte and TG Therapeutics are seeing strong share growth, backed up by booming revenue and earnings.",
-          "published": "Thu, 09 Jul 2026 00:25:00 +0000",
-          "ts": 1783556700.0,
-          "zh_title": "兩家快速成長的藥物股買入時機已到",
-          "zh_point": "Incyte 和 TG Therapeutics 兩家藥物公司因收入和盈餘大幅增長，股價快速上漲，投資人正在關注這兩家股東。"
+          "title": "Why ServiceNow Stock Crushed it on Thursday",
+          "url": "https://www.fool.com/investing/2026/07/09/why-servicenow-stock-crushed-it-on-thursday/?.tsrc=rss",
+          "summary": "A large international electronics company is teaming up with it for a new product.",
+          "published": "Fri, 10 Jul 2026 00:21:12 +0000",
+          "ts": 1783642872.0,
+          "zh_title": "為什麼ServiceNow股價大幅上漲",
+          "zh_point": "ServiceNow與一家全球知名電子公司合作開發新產品，股價因此大幅上漲。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Apple scores record 89 Emmy Award nominations, with top category nods for celebrated comedies Widow’s Bay, Shrinking, and Margo’s Got Money Troubles, and global hit dramas Pluribus, Slow Horses, and Your Friends & Neighbors",
-          "url": "https://finance.yahoo.com/media-advertising/articles/apple-scores-record-89-emmy-002100913.html?.tsrc=rss",
-          "summary": "CULVER CITY, Calif., July 09, 2026--Apple scores a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards, and leads as the network with the most nominations in the Best Drama and Best Comedy series categories, respectively, earning top program nominations for comedies Widow’s Bay, Shrinking, and Margo’s Got Money Troubles, alongside dramas Pluribus, Slow Horses, and Your Friends & Neighbors. Apple’s breakout comedy sensation Widow’s Bay leads as one of this year’s most-no",
-          "published": "Thu, 09 Jul 2026 00:21:00 +0000",
-          "ts": 1783556460.0,
-          "zh_title": "蘋果公司在第78屆艾美獎中獲得89項提名，領先於最佳戲劇和最佳喜劇類別",
-          "zh_point": "蘋果公司在第78屆艾美獎中獲得89項提名，包括喜劇《寡婦灣》、《縮小》和《瑪戈的財務困境》以及戲劇《多元體》、《慢馬》和《鄰居朋友》，並在最佳喜劇和最佳戲劇類別中領先。"
+          "title": "Is XRP Priced Too High for What It Actually Delivers?",
+          "url": "https://www.fool.com/investing/2026/07/09/is-xrp-priced-too-high-for-what-it-actually-delive/?.tsrc=rss",
+          "summary": "XRP has more growth catalysts than before, but investors should still assess how much the XRP Ledger network is actually being used.",
+          "published": "Fri, 10 Jul 2026 00:20:00 +0000",
+          "ts": 1783642800.0,
+          "zh_title": "XRP 價格是否已經過高？",
+          "zh_point": "XRP 有更多的成長驅動力，但投資者仍應該評估 XRP Ledger 網路實際上被使用的程度。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why Broadcom (AVGO) Stock Is Trading Up Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-000244384.html?.tsrc=rss",
-          "summary": "Shares of fabless chip and software maker Broadcom (NASDAQ:AVGO) jumped 5.2% in the afternoon session after the company confirmed an expanded, multi-year partnership with Apple exceeding $30 billion for custom silicon components and wireless technologies.",
-          "published": "Thu, 09 Jul 2026 00:02:44 +0000",
-          "ts": 1783555364.0,
-          "zh_title": "為什麼布洛德康 (AVGO) 股票今天上漲",
-          "zh_point": "布洛德康股價今天下午大幅上漲 5.2%，公司宣布與蘋果簽署了超過 3000 億美元的多年合作合約，涉及定制晶片元件和無線技術。"
+          "title": "Wix.com (WIX) Could Be 37% Undervalued On Elavon Partnership News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-could-37-001734316.html?.tsrc=rss",
+          "summary": "Wix.com (WIX) stock is back in focus after the company announced a partnership with Elavon to power unified commerce solutions that link payments, online stores, and in person sales for small businesses. See our latest analysis for Wix.com. Despite the Elavon and Microsoft 365 Copilot partnerships putting Wix.com back on investors’ radar, the 90 day share price return is down 24.4% and the year to date share price return is down 51.23%, while the 1 year total shareholder return is down...",
+          "published": "Fri, 10 Jul 2026 00:17:34 +0000",
+          "ts": 1783642654.0,
+          "zh_title": "Wix.com (WIX) 可能被低估 37% 因 Elavon 合作消息",
+          "zh_point": "Wix.com (WIX) 股票因與 Elavon 合作推出統一商業解決方案，重新引起投資者關注。儘管與 Elavon 和 Microsoft 365 Copilot 合作消息使 Wix.com 重回投資者視線，但近 90 天股價回報下跌 24.4%，今年頭股價回報下跌 51.23%，一年內股東回報率下跌..."
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Platner quits Maine Senate race; Democrats set to pick new nominee",
-          "url": "https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html",
-          "summary": "Maine Democrats must now replace Platner with less than four months until the midterm elections.",
-          "published": "Thu, 09 Jul 2026 00:55:50 GMT",
-          "ts": 1783558550.0,
-          "zh_title": "普拉特尼退出緬因州參議院選舉；民主黨將選出新候選人",
-          "zh_point": "緬因州民主黨必須在四個月內選出新候選人參加中期選舉。"
+          "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+          "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
+          "summary": "Fidji Simo stepped away from OpenAI in April for a medical leave, says she now has to focus on recovery.",
+          "published": "Thu, 09 Jul 2026 23:38:13 GMT",
+          "ts": 1783640293.0,
+          "zh_title": "OpenAI 執行長 Fidji Simo 表示因為慢性疾病而辭職，將轉任顧問",
+          "zh_point": "OpenAI 執行長 Fidji Simo 因為慢性疾病而辭職，將轉任顧問，並於四月份因為健康理由離開公司。"
         },
         {
           "source": "CNBC",
-          "title": "World Cup drives Google Search to record queries per second",
-          "url": "https://www.cnbc.com/2026/07/08/world-cup-drives-google-search-to-record-queries-per-second.html",
-          "summary": "The milestone comes amid Lionel Messi and Argentina's popularity.",
-          "published": "Thu, 09 Jul 2026 00:34:21 GMT",
-          "ts": 1783557261.0,
-          "zh_title": "世界盃足球賽帶動Google搜索量創下每秒查詢新高",
-          "zh_point": "世界盃足球賽期間，Google的搜索量創下新高，與阿根廷球星梅西和球隊的流行度有關。"
+          "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/07/09/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "Cooling oil prices and rising chip stocks lifted the major averages to a winning session on Thursday. The Nasdaq Composite gained 1.3%.",
+          "published": "Thu, 09 Jul 2026 23:24:11 GMT",
+          "ts": 1783639451.0,
+          "zh_title": "週五的大宗股票新聞：明天交易會影響市場的什麼？",
+          "zh_point": "石油價格下跌和晶片股上漲，週四讓大盤大幅上漲，納斯達克指數上漲1.3%。"
         },
         {
           "source": "CNBC",
-          "title": "Judge orders E. Jean Carroll be paid $5 million in damages from Trump verdict",
-          "url": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
-          "summary": "Trump was held civilly liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store.",
-          "published": "Thu, 09 Jul 2026 00:27:45 GMT",
-          "ts": 1783556865.0,
-          "zh_title": "法官判令 E. Jean Carroll 得到 5 億美元的賠償金從川普判決中獲得",
-          "zh_point": "川普在紐約一家百貨公司被指控性侵犯 E. Jean Carroll，法官判令他在民事訴訟中負責 5 億美元的賠償金。"
+          "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
+          "url": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
+          "summary": "Steve Sedgwick goes behind the scenes of NATO's dramatic 48 hours, where Trump's changing tone reshaped diplomacy and left allies guessing.",
+          "published": "Thu, 09 Jul 2026 23:00:52 GMT",
+          "ts": 1783638052.0,
+          "zh_title": "納托48小時內幕：川普掌控全球外交的驚人變化",
+          "zh_point": "川普在納托峰會期間的態度改變，讓全球外交局勢出現重大變化，盟國們對此感到困惑。"
         },
         {
           "source": "CNBC",
-          "title": "S&P 500 futures are little changed as traders assess rising tensions between the U.S. and Iran: Live updates",
-          "url": "https://www.cnbc.com/2026/07/08/stock-market-today-live-updates.html",
-          "summary": "The U.S. launched fresh strikes on Iran, after President Donald Trump said earlier in the day he may no longer be interested in negotiating a deal.",
-          "published": "Thu, 09 Jul 2026 00:23:10 GMT",
-          "ts": 1783556590.0,
-          "zh_title": "標準普爾 500 指數未來價格幾乎不變，交易員評估美伊緊張局勢升級：即時更新",
-          "zh_point": "美伊關係緊張升級，美方發動新一輪攻擊，川普總統表示不再願意談判協議，美股未來價格出現波動。"
+          "title": "New Fed task force members share Chairman Kevin Warsh's embrace of AI",
+          "url": "https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html",
+          "summary": "The three members of a task force advising the Fed on artificial intelligence are strong proponents of the technology.",
+          "published": "Thu, 09 Jul 2026 23:00:10 GMT",
+          "ts": 1783638010.0,
+          "zh_title": "美聯儲新任任務小組成員擁抱人工智慧",
+          "zh_point": "美聯儲任務小組新成員對人工智慧持正面態度，表明美聯儲正逐步採用人工智慧技術。"
         },
         {
           "source": "CNBC",
-          "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
-          "url": "https://www.cnbc.com/2026/07/08/thursdays-stock-stories-whats-likely-to-move-the-market.html",
-          "summary": "Rising oil prices and heightened tensions in the Middle East dragged the Dow lower on Wednesday. Tune in to CNBC Thursday at 10 a.m. to see OpenAI's Sam Altman.",
-          "published": "Thu, 09 Jul 2026 00:14:25 GMT",
-          "ts": 1783556065.0,
-          "zh_title": "星期四的大宗股票新聞：下個交易日市場可能會受到什麼影響",
-          "zh_point": "油價上漲和中東局勢緊張，令道瓊指數星期三下跌。星期四上午10點，請收看CNBC的節目，與OpenAI的Sam Altman交流。"
+          "title": "Where Jim Cramer stands on SK Hynix's massive offering",
+          "url": "https://www.cnbc.com/2026/07/09/jim-cramer-sk-hynix.html",
+          "summary": "CNBC's Jim Cramer said SK Hynix looks remarkably cheap, but warned that buying it is a bet that the AI-driven memory boom won't end like previous cycles.",
+          "published": "Thu, 09 Jul 2026 22:47:01 GMT",
+          "ts": 1783637221.0,
+          "zh_title": "克拉默對SK Hynix大規模發行的看法",
+          "zh_point": "克拉默認為SK Hynix的股價相當便宜，但他警告買入這家公司是一個賭注，賭注的是人工智慧驅動的記憶體市場不會像之前的周期一樣結束。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
-          "url": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
-          "summary": "Jeans maker raises its full-year outlook for the second straight time, but shares fall after hours",
-          "published": "Thu, 09 Jul 2026 00:38:00 GMT",
-          "ts": 1783557480.0,
-          "zh_title": "萊維士尋找新客群 — 透過上衣和「牛仔高級品」",
-          "zh_point": "萊維士提高全年預測，第二次連續上調，但股價在交易後下跌。公司正在嘗試透過推出上衣和高級牛仔服裝來吸引新客群。"
+          "title": "Taco Bell is reportedly pulling produce from some stores. Here’s what to know.",
+          "url": "https://www.marketwatch.com/story/taco-bell-is-reportedly-pulling-produce-from-some-stores-heres-what-to-know-a3569cd8?mod=mw_rss_topstories",
+          "summary": "An outbreak of a parasite-caused illness has sickened more than 1,000 people in Michigan.",
+          "published": "Thu, 09 Jul 2026 22:30:00 GMT",
+          "ts": 1783636200.0,
+          "zh_title": "塔可貝爾可能從某些店面撤走生果",
+          "zh_point": "據報導，密西根州一場由寄生蟲引起的疾病爆發，已經感染超過1,000人。"
         },
         {
           "source": "MarketWatch",
-          "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
-          "url": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
-          "summary": "Wall Street expects President Donald Trump’s call that the Iran cease-fire is over will hurt airlines and home builders more than it will help oil companies.",
-          "published": "Thu, 09 Jul 2026 00:07:00 GMT",
-          "ts": 1783555620.0,
-          "zh_title": "美國與伊朗緊張關係升高，將對多個產業造成影響",
-          "zh_point": "美國與伊朗關係緊張，將對航空公司、房屋建造業等產業造成影響，超越油價上漲的影響。"
+          "title": "Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge",
+          "url": "https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories",
+          "summary": "Traders are completely enthralled by the bull market — but surging Nasdaq volatility suggests it is time to hedge.",
+          "published": "Thu, 09 Jul 2026 22:19:00 GMT",
+          "ts": 1783635540.0,
+          "zh_title": "為什麼VIX與納斯達克波動率之間的隱藏分歧讓聰明的投資者感到緊張",
+          "zh_point": "投資者們對牛市充滿熱情，但納斯達克波動率的急劇上升，可能是時候開始進行對沖了。"
         },
         {
           "source": "MarketWatch",
-          "title": "I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?",
-          "url": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
-          "summary": "Even if you’re not worried about your normal spending anymore, a long-term-care need is still a problem for any budget.",
-          "published": "Wed, 08 Jul 2026 22:48:00 GMT",
-          "ts": 1783550880.0,
-          "zh_title": "我以3,000萬美元開始退休生活，現在89歲，剩下2,000萬美元。若我生病了？",
-          "zh_point": "即使你不再擔心日常開銷，長期照護的需求仍然會對任何預算造成問題。"
+          "title": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
+          "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+          "summary": "U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.",
+          "published": "Thu, 09 Jul 2026 22:07:00 GMT",
+          "ts": 1783634820.0,
+          "zh_title": "SK Hynix即將進軍美國市場：了解這項交易的要點",
+          "zh_point": "SK Hynix即將在美國上市，讓投資者可以更方便地參與記憶體晶片市場的熱潮，了解這項交易的具體內容和影響。"
         },
         {
           "source": "MarketWatch",
-          "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.",
-          "url": "https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories",
-          "summary": "It’s a ‘major taxpayer win,’ according to one advocate inside the IRS",
-          "published": "Wed, 08 Jul 2026 21:40:00 GMT",
-          "ts": 1783546800.0,
-          "zh_title": "IRS 將稅務糾紛的處理方式簡化",
-          "zh_point": "美國聯邦稅務局（IRS）宣布，為了幫助納稅人避免罰款，將稅務糾紛的處理方式簡化。這被視為對納稅人的重要支持。"
+          "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+          "url": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
+          "summary": "“She said it’s the second message they have left.”",
+          "published": "Thu, 09 Jul 2026 22:00:00 GMT",
+          "ts": 1783634400.0,
+          "zh_title": "貸款服務商打電話給朋友：我錯過付款後該怎麼辦？",
+          "zh_point": "貸款服務商打電話給朋友，是否違法？貸款服務商稱為了追蹤欠款，打了多個電話，包括打給朋友。這種做法是否合理？"
         },
         {
           "source": "MarketWatch",
-          "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
-          "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
-          "summary": "Oil prices settled at their highest levels in more than two weeks on Wednesday, then extended their gains in after-hours trading after the U.S. military said it launched additional strikes on Iran.",
-          "published": "Wed, 08 Jul 2026 21:16:00 GMT",
-          "ts": 1783545360.0,
-          "zh_title": "石油價格延續漲勢 美軍對伊朗進行額外空襲",
-          "zh_point": "石油價格在星期三達到兩週來最高點，之後在美軍宣布對伊朗進行額外空襲後持續上漲。"
+          "title": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
+          "url": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
+          "summary": "The Federal Reserve named a former Walmart CEO to a task force to develop contemporaneous data on spending, inflation and growth.",
+          "published": "Thu, 09 Jul 2026 21:52:00 GMT",
+          "ts": 1783633920.0,
+          "zh_title": "沃爾瑪能否幫助美聯儲掌握實時經濟數據？",
+          "zh_point": "美聯儲成立了一個任務小組，包括前沃爾瑪董事長，目的是發展能夠即時追蹤消費、通膨和經濟成長的數據。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下跌，科技股尤其是人工智慧（AI）相關產業大幅下挫，Nvidia股價下跌16%。"
+          "zh_title": "AI產業大幅下挫 美股市場全面下跌",
+          "zh_point": "美國股市大幅下跌，主要由於AI基礎設施製造商大幅下跌，納斯達克指數領跌。Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金屬交易所黃金、白銀價格下跌",
-          "zh_point": "紐約金屬交易所黃金價格下跌 1.4%，連續兩天下跌，白銀價格下跌 2.5%，連續三天下跌。"
+          "zh_title": "紐約黃金交易所金、銀價格下跌",
+          "zh_point": "紐約黃金交易所的黃金價格下跌1.4%，連續兩天下跌；白銀價格下跌2.5%，連續三天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -197,7 +197,7 @@
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
           "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興公司宣稱，使用高階晶片的成本不高，訓練出高表現的AI模型。"
+          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，且成本低廉，且不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度尋找不會讓美國AI巨頭沉沒",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒過於誇大。"
+          "zh_title": "深度探索不會淹沒美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊產業簡報：市場熱話",
-          "zh_point": "DeepSeek、SoFi等科技、媒體和通訊產業的最新發展，包括市場趨勢、股票表現和產業動態。"
+          "zh_title": "科技、媒體與通訊產業回顧：市場論壇",
+          "zh_point": "DeepSeek、SoFi等在最新的市場論壇中，科技、媒體和通訊產業的發展趨勢。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Tesco: Britain's Premier Supermarket Has Further Upside",
-          "url": "https://seekingalpha.com/article/4920737-tesco-britains-premier-supermarket-has-further-upside?source=feed_all_articles",
+          "title": "Aritzia Inc. (ATZ:CA) Q1 2027 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4921040-aritzia-inc-atz-ca-q1-2027-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 08 Jul 2026 21:07:07 -0400",
-          "ts": 1783559227.0,
-          "zh_title": "Tesco：英國頂級超市仍有更大的潛力",
-          "zh_point": "英國頂級超市Tesco，儘管面臨競爭壓力，但仍有發展空間，投資者應關注其未來發展趨勢。"
+          "published": "Thu, 09 Jul 2026 21:01:47 -0400",
+          "ts": 1783645307.0,
+          "zh_title": "Aritzia Inc. (ATZ:CA) 2027 年第一季財報電話會議記錄",
+          "zh_point": "Aritzia Inc. 公布 2027 年第一季財報，公司未公布具體內容，但有關電話會議記錄將提供更多資訊。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "AeroVironment, Inc. (AVAV) Analyst/Investor Day Transcript",
-          "url": "https://seekingalpha.com/article/4920706-aerovironment-inc-avav-analyst-investor-day-transcript?source=feed_all_articles",
+          "title": "Selling Winners, Buying Losers",
+          "url": "https://seekingalpha.com/article/4921057-selling-winners-buying-losers?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 08 Jul 2026 21:02:30 -0400",
-          "ts": 1783558950.0,
-          "zh_title": "AeroVironment, Inc. (AVAV) 分析師/投資者日記錄稿",
-          "zh_point": "AeroVironment, Inc. 舉辦分析師/投資者會議，與投資者分享公司最新發展和未來計畫。"
+          "published": "Thu, 09 Jul 2026 21:00:00 -0400",
+          "ts": 1783645200.0,
+          "zh_title": "賣出勝利者，買入失敗者",
+          "zh_point": "投資者出售過去表現良好的股票，購買過去表現不佳的股票，可能是投資策略的一部分，目的是找出未來可能會改善的股票。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Costco Wholesale Corporation (COST) Period Ending/ Trading Statement Call Prepared Remarks Transcript",
-          "url": "https://seekingalpha.com/article/4920739-costco-wholesale-corporation-cost-period-ending-trading-statement-call-prepared-remarks?source=feed_all_articles",
+          "title": "Huntington Bancshares: Financials Have Improving Technicals And Fundamentals",
+          "url": "https://seekingalpha.com/article/4921052-huntington-bancshares-financials-have-improving-technicals-and-fundamentals?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 08 Jul 2026 21:02:26 -0400",
-          "ts": 1783558946.0,
-          "zh_title": "Costco Wholesale Corporation (COST) 期末/交易聲明電話會議備忘錄稿",
-          "zh_point": "Costco Wholesale Corporation 公布期末交易聲明，內容可能包括公司財務表現、營業成績和未來發展方向等資訊。"
+          "published": "Thu, 09 Jul 2026 20:59:48 -0400",
+          "ts": 1783645188.0,
+          "zh_title": "漢通銀：財務指標和基礎面均有改善",
+          "zh_point": "漢通銀的財務表現和技術指標均有進一步改善，表明公司的財務狀況正在穩步好轉。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "The 9,500 S&P 500 Dream Is Dead",
-          "url": "https://seekingalpha.com/article/4920735-the-9500-sp500-dream-is-dead?source=feed_all_articles",
+          "title": "Rackspace: Worth Buying The Dip As AI Partnerships Turn Growth Trajectory Around",
+          "url": "https://seekingalpha.com/article/4921051-rackspace-stock-worth-buying-dip-ai-partnerships-turn-growth-trajectory-around?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 08 Jul 2026 20:09:29 -0400",
-          "ts": 1783555769.0,
-          "zh_title": "500大公司指數 9,500 的夢想已經破滅",
-          "zh_point": "500大公司指數的目標價格9,500可能已經不再可行，投資者需要重新評估投資策略。"
+          "published": "Thu, 09 Jul 2026 20:52:27 -0400",
+          "ts": 1783644747.0,
+          "zh_title": "Rackspace：買跌值得嗎？人工智慧夥伴關係扭轉成長趨勢",
+          "zh_point": "Rackspace 因為與人工智慧相關的夥伴關係而扭轉了其成長趨勢，投資者是否該買跌？"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Caesars Entertainment: Why A Merger Arb Trade Could Be Worth A Flyer",
-          "url": "https://seekingalpha.com/article/4920734-caesars-entertainment-why-a-merger-arb-trade-could-be-worth-a-flyer?source=feed_all_articles",
+          "title": "Initial Unemployment Claims Down 2K, Lower Than Expected",
+          "url": "https://seekingalpha.com/article/4921055-initial-unemployment-claims-down-2k-lower-than-expected?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 08 Jul 2026 20:01:20 -0400",
-          "ts": 1783555280.0,
-          "zh_title": "凱撒娛樂：為什麼一項併購套利交易可能值得投資",
-          "zh_point": "凱撒娛樂可能進行併購交易，投資者可考慮套利交易的機會，盡管風險仍存在。"
+          "published": "Thu, 09 Jul 2026 20:50:00 -0400",
+          "ts": 1783644600.0,
+          "zh_title": "初次失業申報人數下降 2,000 人，低於預期",
+          "zh_point": "美國初次失業申報人數下降，低於預期，表明勞動市場正在改善，但仍需觀察市場變化。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "SK Hynix jumps as $28 billion U.S. ADR pricing nears after strong demand",
-          "url": "https://www.investing.com/news/stock-market-news/sk-hynix-jumps-as-28-billion-us-adr-pricing-nears-after-strong-demand-4782903",
+          "title": "US House to vote on bill to make daylight saving time permanent",
+          "url": "https://www.investing.com/news/commodities-news/us-house-to-vote-on-bill-to-make-daylight-saving-time-permanent-4785146",
           "summary": "",
-          "published": "2026-07-09 01:07:58",
-          "ts": 1783559278.0,
-          "zh_title": "SK Hynix跳躍為28億美元ADR定價臨近後受強烈需求",
-          "zh_point": "SK Hynix因為28億美元ADR的定價臨近而股價大幅上漲，市場預期公司的新發行將受到強烈的需求。"
+          "published": "2026-07-09 22:48:30",
+          "ts": 1783637310.0,
+          "zh_title": "美國國會將投票通過法案，將夏令時間永久化",
+          "zh_point": "美國國會即將投票通過一項法案，將夏令時間永久化，意味著美國不再需要每年更改時間。"
         },
         {
           "source": "Investing.com",
-          "title": "Death toll from Venezuela quakes rises to 3,811 as government seeks frozen funds",
-          "url": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-3811-4782825",
+          "title": "Neurocrine Biosciences chief regulatory officer sells $2.6m stock",
+          "url": "https://www.investing.com/news/insider-trading-news/neurocrine-biosciences-chief-regulatory-officer-sells-26m-stock-93CH-4785144",
           "summary": "",
-          "published": "2026-07-09 01:07:08",
-          "ts": 1783559228.0,
-          "zh_title": "委內瑞拉地震死亡人數升至3,811名，政府尋求凍結資金",
-          "zh_point": "委內瑞拉近期發生一系列地震，造成嚴重破壞和大量傷亡，政府正在嘗試凍結資金以應對此次災難的經濟影響。"
+          "published": "2026-07-09 22:45:57",
+          "ts": 1783637157.0,
+          "zh_title": "Neurocrine Biosciences 首席監管官出售 2.6 萬美元股票",
+          "zh_point": "Neurocrine Biosciences 首席監管官出售公司股票，交易金額達 2.6 萬美元。"
         },
         {
           "source": "Investing.com",
-          "title": "Oregon community foundation sells $49,398 of Jewett Cameron (JCTC) shares.",
-          "url": "https://www.investing.com/news/insider-trading-news/oregon-community-foundation-sells-49398-of-jewett-cameron-jctc-shares-93CH-4782902",
+          "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
+          "url": "https://www.investing.com/news/stock-market-news/sk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-4782931",
           "summary": "",
-          "published": "2026-07-09 01:07:03",
-          "ts": 1783559223.0,
-          "zh_title": "俄勒岡社區基金會出售49,398股Jewett Cameron (JCTC)股份",
-          "zh_point": "俄勒岡社區基金會出售49,398股Jewett Cameron (JCTC)股份，交易金額為49,398美元。"
+          "published": "2026-07-09 22:42:21",
+          "ts": 1783636941.0,
+          "zh_title": "SK Hynix 在美發行 2,600 億美元，ADR 價格為 149 美元",
+          "zh_point": "SK Hynix 這家韓國半導體公司在美國發行股票，籌集了 2,600 億美元的資金，ADR 的價格設定為 149 美元。"
         },
         {
           "source": "Investing.com",
-          "title": "Glaukos chief development officer Navratil sells $99,566 stock",
-          "url": "https://www.investing.com/news/insider-trading-news/glaukos-chief-development-officer-navratil-sells-99566-stock-93CH-4782901",
+          "title": "Form 144 Arcus Biosciences For: 9 July",
+          "url": "https://www.investing.com/news/filings/form-144-arcus-biosciences-for-9-july-93CH-4785142",
           "summary": "",
-          "published": "2026-07-09 01:06:56",
-          "ts": 1783559216.0,
-          "zh_title": "Glaukos 首席開發官 Navratil 賣出 99,566 股股票",
-          "zh_point": "Glaukos 首席開發官 Navratil 賣出公司股票，交易金額達 99,566 美元。"
+          "published": "2026-07-09 22:39:06",
+          "ts": 1783636746.0,
+          "zh_title": "Arcus Biosciences Form 144",
+          "zh_point": "Arcus Biosciences 進行了 Form 144 的申報，可能與公司股權交易或其他財務活動有關。"
         },
         {
           "source": "Investing.com",
-          "title": "US military says it is carrying out fresh strikes on Iran, after Trump says accord is ’over’",
-          "url": "https://www.investing.com/news/commodities-news/iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes-4780656",
+          "title": "Form 4 EverCommerce Inc For: 9 July",
+          "url": "https://www.investing.com/news/filings/form-4-evercommerce-inc-for-9-july-93CH-4785141",
           "summary": "",
-          "published": "2026-07-09 01:06:48",
-          "ts": 1783559208.0,
-          "zh_title": "美國軍方稱正在對伊朗進行新的轟炸行動，美國前總統川普稱協議已經失效",
-          "zh_point": "美國軍方表示正在對伊朗進行新的軍事行動，美國前總統川普表示美國與伊朗的協議已經失效，這可能引發新的伊朗問題。"
+          "published": "2026-07-09 22:37:10",
+          "ts": 1783636630.0,
+          "zh_title": "EverCommerce Inc Form 4",
+          "zh_point": "EverCommerce Inc 發布 Form 4 報告，內容未有具體披露。"
         }
       ]
     }
