@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒緊繃，受美伊衝突影響，石油價格大幅上升，美股未來指數下跌。蘋果公司起訴OpenAI違反商業秘密，標誌著人工智慧硬體和軟體之間的競爭加劇。投資者正在觀察中東局勢發展，並準備面對本週股東大會報告的出現。\n\n【結語】\n投資者應該保持冷靜，避免過度恐慌。美伊衝突可能會對全球經濟造成影響，但市場也會有反彈機會。投資者應該關注公司的財務表現和預測，避免過度依賴短期市場波動。\n\n【精選個股】\nNVDA - Nvidia - Nvidia的股價下跌可能是短期市場波動的結果，但公司的財務表現和預測仍然良好。\nAAPL - 蘋果公司 - 蘋果公司的股價下跌可能是短期市場波動的結果，但公司的財務表現和預測仍然良好。\nTSM - 台積電 - 台積電的股價下跌可能是短期市場波動的結果，但公司的財務表現和預測仍然良好。\n\n風險提醒：投資市場的波動可能會對投資者造成重大損失，投資者應該謹慎評估風險並做出明智的決策。",
+  "analysis": "【今日摘要】\n今天市場主軸圍繞著中東局勢升高、石油價格大幅上升、川普政府重新實施霍爾木茲海峽封鎖等事件。投資者們正在等待財報與通膨數據的公布，以了解市場的走向。同時，全球晶片行業都在等待台灣積體電路製造公司（TSMC）即將發布的一份關鍵報告。市場情緒緊張，投資者們需要謹慎評估風險和機會。\n\n【結語】\n投資者們需要保持冷靜和謹慎，避免被市場情緒所左右。今天的市場變化可能會對未來的投資產生重大影響。投資者們需要仔細評估風險和機會，確保自己的投資策略是合理和可行的。同時，投資者們也需要保持耐心和持續學習，以適應市場的變化和挑戰。\n\n【精選個股】\nAAPL - 蘋果公司 - 蘋果公司的訴訟對OpenAI的影響可能會對公司的未來發展產生重大影響。\nTSM - 台積電公司 - 台積電公司即將發布的一份關鍵報告可能會對全球晶片行業產生重大影響。\nNVDA - NVIDIA公司 - NVIDIA公司的股價下跌可能是由於中國DeepSeek事件的影響。\nSHAK - Shake Shack公司 - Shake Shack公司的財務狀況和未來發展前景仍然樂觀，投資者們可以考慮買入。\n風險提醒：投資者們需要謹慎評估風險和機會，避免被市場情緒所左右。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Why Strategy Stock Collapsed In The First Half of 2026",
-          "url": "https://www.fool.com/investing/2026/07/12/why-strategy-stock-collapsed-in-the-first-half-of/?.tsrc=rss",
-          "summary": "The company's Bitcoin accumulation strategy is beginning to unravel.",
-          "published": "Mon, 13 Jul 2026 00:50:21 +0000",
-          "ts": 1783903821.0,
-          "zh_title": "為什麼策略股在2026年上半年崩盤了",
-          "zh_point": "策略股在2026年上半年出現了嚴重的崩盤，原因是公司的比特幣積累策略開始出現裂痕。"
+          "title": "The whole chip trade is waiting on one report",
+          "url": "https://www.thestreet.com/investing/stocks/chip-trade-waiting-on-taiwan-semiconductor-tsm-report?.tsrc=rss",
+          "summary": "Almost every advanced AI chip on the planet is built in one place. Nvidia's Blackwell processors, Apple's silicon, custom accelerators for Meta and AMD — they all run through the same foundry in Taiwan. That foundry is Taiwan Semiconductor Manufacturing Company (TSM). TSMC is set to ...",
+          "published": "Tue, 14 Jul 2026 00:37:00 +0000",
+          "ts": 1783989420.0,
+          "zh_title": "全球晶片行業都在等待一份報告",
+          "zh_point": "全球大多數先進AI晶片都在台灣一家工廠生產，包括Nvidia的Blackwell處理器、Apple的晶片、Meta和AMD的自訂加速器。這家工廠是台灣積體電路製造公司（TSMC），即將發布一份關鍵報告，影響全球晶片行業的未來。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-          "url": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
-          "summary": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points.",
-          "published": "Mon, 13 Jul 2026 00:48:10 +0000",
-          "ts": 1783903690.0,
-          "zh_title": "道瓊未來指數下跌，石油價格上升 美伊最新攻擊中",
-          "zh_point": "道瓊未來指數下跌，石油價格上升，美伊最新攻擊持續發酵。台積電、金馬士銀行和通用電氣將公布財報。Nvidia、Sandisk和Micron近期有買點。"
+          "title": "Jim Cramer Calls Apple’s OpenAI Lawsuit “Heavyweight.” Tim Cook Must Believe OpenAI Was Stealing",
+          "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-calls-apples-openai-lawsuit-heavyweight-tim-cook-must-believe-openai-was-stealing/?.tsrc=rss",
+          "summary": "Apple almost never sues, so when Tim Cook personally greenlit a complaint accusing OpenAI of stealing trade secrets and smuggling hardware prototypes out the door, Wall Street and Silicon Valley both took notice. The question now is whether the case disrupts OpenAI's IPO plans before a single share is priced.",
+          "published": "Tue, 14 Jul 2026 00:33:23 +0000",
+          "ts": 1783989203.0,
+          "zh_title": "克拉默稱蘋果對OpenAI的訴訟是重量級案件，蒂姆·庫克必須相信OpenAI偷竊了蘋果的機密",
+          "zh_point": "蒂姆·庫克親自批准對OpenAI的訴訟，指控其偷竊蘋果的機密和運送硬體原型，對OpenAI即將上市的IPO產生了影響。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "401(k) Champions and Soaring Value Stocks",
-          "url": "https://www.fool.com/investing/2026/07/12/401k-champions-and-soaring-value-stocks/?.tsrc=rss",
-          "summary": "Most of the education about work-sponsored retirement plans comes from the employer or the plan provider. But what if you could be a source of knowledge too?",
-          "published": "Mon, 13 Jul 2026 00:32:48 +0000",
-          "ts": 1783902768.0,
-          "zh_title": "401(k)贏家和飛躍的價值股",
-          "zh_point": "在工作贊助的退休計畫方面，多數的教育來自於雇主或計畫提供者。然而，是否你也能成為知識的來源？"
+          "title": "Why Thomson Reuters Stock Crushed it on Monday",
+          "url": "https://www.fool.com/investing/2026/07/13/why-thomson-reuters-stock-crushed-it-on-monday/?.tsrc=rss",
+          "summary": "The company is apparently handing out pink slips to members of its engineering team.",
+          "published": "Tue, 14 Jul 2026 00:12:02 +0000",
+          "ts": 1783987922.0,
+          "zh_title": "湯森路透股價大漲：公司裁員工程團隊",
+          "zh_point": "湯森路透股價大漲，原因是公司正在裁員工程團隊，對股價產生正面影響。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "This Vanguard ETF Would Have Quadrupled Your Money Over the Last Decade. History Says Now Is a Smart Time to Invest. (It's Likely to Outperform SpaceX, Too.)",
-          "url": "https://www.fool.com/investing/2026/07/12/vanguard-etf-would-have-quadrupled-your-money-voo/?.tsrc=rss",
-          "summary": "This fund has been a strong performer for a long time, and thanks to its diversification, it's less risky than many growth stocks.",
-          "published": "Mon, 13 Jul 2026 00:21:00 +0000",
-          "ts": 1783902060.0,
-          "zh_title": "這支道瓊斯 ETF 在過去十年內將你的錢翻倍。歷史表明現在是投資的好時機。（它很可能會超越太空探索公司 SpaceX 的表現。）",
-          "zh_point": "這支基金以長期的表現而聞名，透過多元化投資降低風險，成為許多成長股的替代選擇。"
+          "title": "Perryman says data centers can be beneficial with protections",
+          "url": "https://www.oaoa.com/?p=366403&.tsrc=rss",
+          "summary": "With Microsoft and Chevron joining forces to build a self-powered $7-billion AI data center 20 miles south of Pecos and with other companies envisaging similar plans, Waco economist Ray Perryman says there are justifiable concerns about ensuring that data centers do not lead to problems with the electricity supply or transmission capacity, although many of those concerns are being addressed. ...",
+          "published": "Tue, 14 Jul 2026 00:01:00 +0000",
+          "ts": 1783987260.0,
+          "zh_title": "佩里曼認為資料中心若加強保護措施，對電力供應有益",
+          "zh_point": "資料中心建設引發關注，佩里曼認為若能夠有效保護電力供應，資料中心將對電力供應有益，避免可能出現的問題。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Apple (AAPL) Sues OpenAI Over AI Hardware Trade Secrets",
-          "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-sues-openai-over-001458718.html?.tsrc=rss",
-          "summary": "Apple (NasdaqGS:AAPL) has filed a federal lawsuit against OpenAI alleging theft of trade secrets tied to its AI hardware work. The complaint centers on claims that former Apple employees took confidential materials and shared them with OpenAI. The filing escalates a public feud involving senior tech leaders and highlights rising rivalry across AI hardware and software. Apple enters this legal fight while its stock trades at $315.32, with the company up 16.4% year to date and 49.9% over the...",
-          "published": "Mon, 13 Jul 2026 00:14:58 +0000",
-          "ts": 1783901698.0,
-          "zh_title": "蘋果公司起訴 OpenAI 違反商業秘密",
-          "zh_point": "蘋果公司指控 OpenAI former 員工竊取其人工智慧硬體相關商業秘密，並將其與 OpenAI 共享。這起訴訟升級了業界高層之間的公開爭端，並凸顯人工智慧硬體和軟體之間的競爭。"
+          "title": "Senior Analyst: Banks Are Set for 25% Earnings Growth as the Capital Markets Boom Accelerates",
+          "url": "https://247wallst.com/investing/2026/07/13/senior-analyst-banks-are-set-for-25-earnings-growth-as-the-capital-markets-boom-accelerates/?.tsrc=rss",
+          "summary": "Q2 bank earnings kick off Tuesday with the biggest names on Wall Street reporting at once, and one senior analyst thinks the results could shock even the optimists. But his most interesting call has nothing to do with JPMorgan or Goldman.",
+          "published": "Mon, 13 Jul 2026 23:58:24 +0000",
+          "ts": 1783987104.0,
+          "zh_title": "銀行業預期收益增長25%　資本市場熱潮加速",
+          "zh_point": "一位高級分析師預測銀行業第二季收益將大幅增長25%，並認為這些結果可能會超出樂觀派的預期，但他的最有趣的預測與摩根士丹利或高盛無關。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates",
-          "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
-          "summary": "Traders weighed the latest events in the Middle East and braced for a slew of corporate earnings reports due out later in the week.",
-          "published": "Mon, 13 Jul 2026 01:02:40 GMT",
-          "ts": 1783904560.0,
-          "zh_title": "美伊再度交火 股指未來趨勢不明朗",
-          "zh_point": "美伊再度交火，美國股市未來趨勢不明朗，投資者正在觀察中東局勢發展，並準備面對本週股東大會報告的出現。"
+          "title": "Stock futures are little changed as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
+          "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
+          "summary": "Oil prices surged and stocks slid on Monday after President Donald Trump said he would reinstate a blockade on Iranian shipping through the Strait of Hormuz.",
+          "published": "Tue, 14 Jul 2026 00:18:50 GMT",
+          "ts": 1783988330.0,
+          "zh_title": "股市未來指數微幅波動 中東局勢升高 交易者等待財報與通膨數據",
+          "zh_point": "中東局勢升高導致石油價格大幅上升，股市則出現下跌。美國總統唐納德·川普宣布將恢復對伊朗航運的封鎖，影響石油運輸。交易者正在等待財報與通膨數據的公布，以了解市場的走向。"
         },
         {
           "source": "CNBC",
-          "title": "Khosla family agrees to purchase defending Super Bowl champion Seattle Seahawks for $9.612 billion, sources say",
-          "url": "https://www.cnbc.com/2026/07/12/khosla-family-to-purchase-seattle-seahawks-ap.html",
-          "summary": "Paul Allen's estate announced on Feb. 18 that it was selling the team, which is coming off its second Super Bowl victory in franchise history.",
-          "published": "Sun, 12 Jul 2026 23:07:39 GMT",
-          "ts": 1783897659.0,
-          "zh_title": "科斯拉家族同意購買衛冕超級碗冠軍西雅圖海鷹球隊 961 億美元",
-          "zh_point": "科斯拉家族同意以 961 億美元購買西雅圖海鷹球隊，球隊在去年奪得第二個超級碗冠軍。"
+          "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/07/13/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "summary": "President Donald Trump said he planned to reinstate what he called a blockade on Iranian shipping, sending oil prices higher and stocks lower on Monday.",
+          "published": "Mon, 13 Jul 2026 23:36:15 GMT",
+          "ts": 1783985775.0,
+          "zh_title": "星期二的大宗股票新聞：未來交易日市場可能的動向",
+          "zh_point": "川普總統宣布重新實施對伊朗航運的禁運，油價上升，股市下跌。"
         },
         {
           "source": "CNBC",
-          "title": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
-          "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
-          "summary": "McConnell is the longest-serving party leader in Senate history.",
-          "published": "Sun, 12 Jul 2026 22:51:13 GMT",
-          "ts": 1783896673.0,
-          "zh_title": "麥康奈爾公布健康狀況，承認長期缺席是因為跌倒和肺炎",
-          "zh_point": "麥康奈爾是參議院歷史上最長時間擔任黨派領導人的人物，近期因長期缺席引起關注。"
+          "title": "Japan’s bond market is back in play after decades in the wilderness",
+          "url": "https://www.cnbc.com/2026/07/14/japan-bond-jgb-yields-.html",
+          "summary": "JGBs have been selling off amid policy normalization and concerns over Tokyo's spending plans, but experts say that they deserve another look from investors.",
+          "published": "Mon, 13 Jul 2026 23:19:08 GMT",
+          "ts": 1783984748.0,
+          "zh_title": "日本國債市場終於回歸市場焦點",
+          "zh_point": "日本國債市場在多年來的冷漠之後終於重新引起投資者的關注，儘管市場正面臨政策正常化和東京政府開支計畫的擔憂。專家認為，日本國債仍值得投資者重視。"
         },
         {
           "source": "CNBC",
-          "title": "I’ve studied more than 200 kids: Parents whose children actually enjoy talking to them do 7 things",
-          "url": "https://www.cnbc.com/2026/07/12/ive-studied-more-than-200-kids-parents-whose-children-actually-enjoy-talking-to-them-do-7-things.html",
-          "summary": "After studying more than 200 parent-child relationships, parenting expert Reem Raouda shares the habits that help kids feel comfortable talking to their parents — from childhood through adulthood.",
-          "published": "Sun, 12 Jul 2026 22:37:58 GMT",
-          "ts": 1783895878.0,
-          "zh_title": "我研究了200多對父母子女：孩子願意與父母溝通的7個習慣",
-          "zh_point": "研究指出，父母子女之間願意溝通的關鍵在於父母的行為和態度，包括建立信任、傾聽孩子的需求、避免批評和評判等。"
+          "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+          "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+          "summary": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare\" fund that has since been scrapped.",
+          "published": "Mon, 13 Jul 2026 22:52:19 GMT",
+          "ts": 1783983139.0,
+          "zh_title": "法官認為川普訴訟IRS為「不當目的」；指示律師參與律師公會",
+          "zh_point": "川普對IRS的訴訟最終被司法部與IRS達成和解，同意成立一億八千萬美元的「法律戰爭基金」，但該基金後來被撤銷。"
         },
         {
           "source": "CNBC",
-          "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
-          "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-          "summary": "Graham, a prominent Republican senator from South Carolina, had just returned from a trip to Ukraine.",
-          "published": "Sun, 12 Jul 2026 21:23:23 GMT",
-          "ts": 1783891403.0,
-          "zh_title": "南卡羅來納州共和黨參議員格雷厄姆去世，享年 71 歲",
-          "zh_point": "南卡羅來納州共和黨參議員格雷厄姆因短暫疾病去世，享年 71 歲。"
+          "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+          "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+          "summary": "The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+          "published": "Mon, 13 Jul 2026 22:24:15 GMT",
+          "ts": 1783981455.0,
+          "zh_title": "川普建議霍爾木茲海峽貨物徵稅20%；重新啟動伊朗封鎖",
+          "zh_point": "川普建議對霍爾木茲海峽貨物徵收20%稅款，重新啟動對伊朗的封鎖，霍爾木茲海峽是主要石油運輸路線，也是美國和以色列與伊朗的持續戰爭的核心。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
-          "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
-          "summary": "Oil prices rose and U.S. stock-index futures slipped on Sunday, after the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz over the weekend.",
-          "published": "Mon, 13 Jul 2026 00:58:00 GMT",
-          "ts": 1783904280.0,
-          "zh_title": "石油價格上升 美股未來指數下跌",
-          "zh_point": "美國與伊朗周末在霍爾木茲海峽爆發軍事衝突，石油價格上升，美股未來指數下跌。"
+          "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+          "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
+          "summary": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
+          "published": "Tue, 14 Jul 2026 00:45:00 GMT",
+          "ts": 1783989900.0,
+          "zh_title": "美國耗盡戰略石油儲備　川普承諾控制霍爾木茲海峽",
+          "zh_point": "美國戰略石油儲備的儲備量已經極度不足，政府報告指出儲備遭受嚴重設備故障、泄漏和洩漏的影響。"
         },
         {
           "source": "MarketWatch",
-          "title": "Why Citigroup is the one to watch when banks report earnings this week",
-          "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-          "summary": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
-          "published": "Sun, 12 Jul 2026 19:31:00 GMT",
-          "ts": 1783884660.0,
-          "zh_title": "當銀行業公佈財報時，為什麼要關注花旗集團",
-          "zh_point": "花旗集團預計將在美國銀行業中表現最大的改善，但仍有很長的一段路要走才能達到自己的績效目標。"
+          "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+          "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+          "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+          "published": "Mon, 13 Jul 2026 23:30:00 GMT",
+          "ts": 1783985400.0,
+          "zh_title": "我的兄弟在70歲時領取社會安全金，卻因癌症在領取第一筆金額後不久去世。為何要等待領取？",
+          "zh_point": "一位女性分享了她的兄弟在70歲領取社會安全金後不久去世的故事，質疑政府鼓勵延遲領取福利的建議。"
         },
         {
           "source": "MarketWatch",
-          "title": "You don’t have to be rich to be financially independent. Here’s how to take control of your money.",
-          "url": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
-          "summary": "Relying on a high salary or a hot stock is a dangerous trap. Why the most secure people plan for sudden crisis.",
-          "published": "Sun, 12 Jul 2026 19:27:00 GMT",
-          "ts": 1783884420.0,
-          "zh_title": "你不需要富有就能擁有財務獨立",
-          "zh_point": "不必依賴高薪水或炙熱的股票，才能擁有財務獨立。最穩定的人為什麼會計劃面對突發的危機？"
+          "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+          "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+          "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
+          "published": "Mon, 13 Jul 2026 23:03:00 GMT",
+          "ts": 1783983780.0,
+          "zh_title": "我67歲，有$140,000年金，該等到70歲領取社保讓妻子多領嗎？",
+          "zh_point": "一位67歲的退休者擔心自己的年金會被減少到$30,000年後，考慮延遲領取社保讓妻子多領取。"
         },
         {
           "source": "MarketWatch",
-          "title": "Earnings estimates have been following an unusual pattern this time around",
-          "url": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-          "summary": "Analysts generally lower their estimates in the months before earnings. But thanks to the energy and tech sectors, expectations have actually climbed heading into second-quarter results.",
-          "published": "Sun, 12 Jul 2026 14:00:00 GMT",
-          "ts": 1783864800.0,
-          "zh_title": "這次財報預期出現異常模式",
-          "zh_point": "今年第二季財報前，分析師通常會降低預期，但由於能源和科技業的影響，預期反而上升。"
+          "title": "Why a borrowing binge by investors is a warning sign for the stock market",
+          "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
+          "summary": "Investors are increasingly borrowing to buy stocks, a reflection of greed in the stock market as they seek to amplify returns with margin debt. The growing pile of borrowed money has some on Wall Street nervous.",
+          "published": "Mon, 13 Jul 2026 22:19:00 GMT",
+          "ts": 1783981140.0,
+          "zh_title": "投資者借貸狂潮是股市警訊",
+          "zh_point": "投資者借貸購股的行為越來越普遍，反映出股市中的貪婪心理，透過借貸購股以擴大投資收益。這種借貸購股的趨勢讓一些華爾街人士感到擔憂。"
         },
         {
           "source": "MarketWatch",
-          "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?",
-          "url": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
-          "summary": "Why staying in your longtime home requires more planning than you think.",
-          "published": "Sun, 12 Jul 2026 13:30:00 GMT",
-          "ts": 1783863000.0,
-          "zh_title": "退休老人面臨的關鍵選擇：留在家中還是搬入老年社區？",
-          "zh_point": "留在自己長期居住的家中，似乎是一個簡單的決定，但實際上它需要更進一步的規劃。"
+          "title": "SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?",
+          "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
+          "summary": "The company has shed more than $800 billion in market value from its $2.67 trillion peak in less than a month.",
+          "published": "Mon, 13 Jul 2026 22:08:00 GMT",
+          "ts": 1783980480.0,
+          "zh_title": "SpaceX 股票價格恐跌破首次公開發行價格",
+          "zh_point": "SpaceX 股票價格在短短一個月內從 2.67 萬億美元的峰值下跌超過 8 萬億美元，投資者是否面臨危機？"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下挫 受中國DeepSeek引發的AI全面大跌影響",
-          "zh_point": "美國股市大多下跌，納斯達克指數領跌，AI基礎設施製造商股價大幅下跌，多家公司股價跌幅超過10%，Nvidia股價跌幅達16%。"
+          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
+          "zh_point": "美國股市大幅下跌，納斯達克指數領跌，AI基礎設施製造商大幅下跌，Nvidia股價跌幅達16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約黃金交易所黃金、白銀價格下跌",
-          "zh_point": "紐約黃金交易所黃金價格下跌 1.4%，連續兩天下跌，白銀價格下跌 2.5%，連續三天下跌。"
+          "zh_title": "紐約黃金交易所金銀價格下跌",
+          "zh_point": "紐約黃金交易所金價下跌1.4%，銀價下跌2.5%，連續兩天三天跌勢。"
         },
         {
           "source": "The Wall Street Journal",
@@ -197,7 +197,7 @@
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
           "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，但不需要使用最先進的晶片，成本也相當便宜。"
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，並且不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,7 +206,7 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度尋找不會讓美國AI巨頭沉沒",
+          "zh_title": "深度探索不會淹沒美國AI巨頭",
           "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
         },
         {
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊產業匯報：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊產業的最新動態，包括市場分析和投資趨勢。"
+          "zh_title": "科技、媒體與通訊產業匯總：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊產業的最新發展，包括市場趨勢、投資機會和業界動態。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Duolingo Is Still Impressive, But No Longer Cheap (Rating Downgrade)",
-          "url": "https://seekingalpha.com/article/4921458-duolingos-still-impressive-but-no-longer-cheap-downgrade?source=feed_all_articles",
+          "title": "Chewy: Steady Growth And Undervalued",
+          "url": "https://seekingalpha.com/article/4921724-chewy-steady-growth-and-undervalued?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 12 Jul 2026 20:50:00 -0400",
-          "ts": 1783903800.0,
-          "zh_title": "杜林戈仍然令人印象深刻，但不再便宜（評級下調）",
-          "zh_point": "杜林戈雖然仍然是一款令人印象深刻的語言學習平台，但其價格已經不再是最便宜的選擇。"
+          "published": "Mon, 13 Jul 2026 20:29:33 -0400",
+          "ts": 1783988973.0,
+          "zh_title": "切威：穩健增長與低估值",
+          "zh_point": "切威公司一直保持穩健的增長趨勢，其股價被認為低估了公司的實際價值。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Ooma: Stock Could Outperform On Above-Average Growth And A Low Valuation",
-          "url": "https://seekingalpha.com/article/4921456-ooma-stock-could-outperform-on-above-average-growth-low-valuation?source=feed_all_articles",
+          "title": "Shake Shack: A Buy On A Deeper Dip",
+          "url": "https://seekingalpha.com/article/4921723-shake-shack-a-buy-on-a-deeper-dip?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 12 Jul 2026 20:33:38 -0400",
-          "ts": 1783902818.0,
-          "zh_title": "歐馬股份：股價有望超越平均成長率並因低估值而上升",
-          "zh_point": "歐馬股份的股價可能因為公司出色的成長率和低估值而上升，投資者應該關注這個公司的發展前景。"
+          "published": "Mon, 13 Jul 2026 20:15:50 -0400",
+          "ts": 1783988150.0,
+          "zh_title": "Shake Shack：下跌後買入",
+          "zh_point": "Shake Shack 的股價可能會下跌，但投資者仍可考慮買入，因為公司的財務狀況和未來發展前景仍然樂觀。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "AH Realty Trust: An Unsafe 8% Dividend, But A Strong Long-Term Buy",
-          "url": "https://seekingalpha.com/article/4921451-ah-realty-trust-an-unsafe-8-percent-dividend-but-a-strong-long-term-buy?source=feed_all_articles",
+          "title": "Crude oil soars more than 9% as Trump reimposes Hormuz blockade, resumes military strikes",
+          "url": "https://seekingalpha.com/news/4613406-crude-oil-soars-more-than-9-as-trump-reimposes-hormuz-blockade-resumes-military-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Sun, 12 Jul 2026 20:20:00 -0400",
-          "ts": 1783902000.0,
-          "zh_title": "AH Realty Trust：一個不安全的8%股息，但是一個強勁的長期買入",
-          "zh_point": "AH Realty Trust 的 8% 股息看似誘人，但實際上可能存在風險。投資者應該考慮公司的財務狀況和未來發展前景，才能做出明智的決策。"
+          "published": "Mon, 13 Jul 2026 19:56:29 -0400",
+          "ts": 1783986989.0,
+          "zh_title": "原油暴漲逾9%  川普重新實施霍爾木茲海峽封鎖、恢復軍事攻擊",
+          "zh_point": "川普政府重新實施霍爾木茲海峽封鎖和恢復對伊朗的軍事攻擊，導致原油價格大幅上漲逾9%。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Similarweb: Large LLM Contracts Represent A New Era For This Analytics Company",
-          "url": "https://seekingalpha.com/article/4921453-similarweb-large-llm-contracts-represent-a-new-era-for-this-analytics-company?source=feed_all_articles",
+          "title": "World Markets Watchlist: July 13, 2026",
+          "url": "https://seekingalpha.com/article/4921725-world-markets-watchlist-july-13-2026?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 12 Jul 2026 20:14:30 -0400",
-          "ts": 1783901670.0,
-          "zh_title": "Similarweb：大型LLM合約標誌著這家分析公司的新時代",
-          "zh_point": "Similarweb 這家分析公司因為與大型LLM 合約相關的新業務而受到關注。這些合約可能會為公司帶來新的收入來源，並標誌著公司進入人工智慧分析領域。"
+          "published": "Mon, 13 Jul 2026 19:50:00 -0400",
+          "ts": 1783986600.0,
+          "zh_title": "全球市場觀察清單：2026年7月13日",
+          "zh_point": "全球市場在7月13日出現多種波動，包括美元、歐元、日元的走勢變化，以及各大股市的表現。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Apple: AI Toll Booth Myth",
-          "url": "https://seekingalpha.com/article/4921441-apple-ai-toll-booth-myth?source=feed_all_articles",
+          "title": "Psychedelic drugmakers could get boost from HHS, VA memorandum",
+          "url": "https://seekingalpha.com/news/4613407-psychedelic-drugmakers-could-get-boost-hhs-va-memorandum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Sun, 12 Jul 2026 20:00:00 -0400",
-          "ts": 1783900800.0,
-          "zh_title": "蘋果：人工智慧收費站謠言",
-          "zh_point": "蘋果公司被指控在未經使用者同意的情況下，利用人工智慧技術收集和分析使用者行為資料，引發對隱私保護的關注。"
+          "published": "Mon, 13 Jul 2026 19:36:16 -0400",
+          "ts": 1783985776.0,
+          "zh_title": "精神藥物製造商可能從HHS、VA備忘錄中受益",
+          "zh_point": "美國衛生及公共服務部（HHS）和退伍軍人事務部（VA）發佈備忘錄，可能對精神藥物製造商帶來新機會。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Oil prices jump over 3% after Iran declares Strait of Hormuz closed",
-          "url": "https://www.investing.com/news/commodities-news/oil-prices-jump-over-3-after-iran-declares-strait-of-hormuz-closed-4787390",
+          "title": "Vault and Genesis agree to merge and create $8.71 billion Australian gold producer",
+          "url": "https://www.investing.com/news/stock-market-news/vault-and-genesis-agree-to-merge-and-create-871-billion-australian-gold-producer-4789590",
           "summary": "",
-          "published": "2026-07-13 00:13:20",
-          "ts": 1783901600.0,
-          "zh_title": "伊朗宣布霍爾木茲海峽封閉 石油價格大幅上升",
-          "zh_point": "伊朗宣布封閉霍爾木茲海峽，石油價格大幅上升逾 3%，全球油價市場出現波動。"
+          "published": "2026-07-14 00:48:27",
+          "ts": 1783990107.0,
+          "zh_title": "Vault 和 Genesis 農業合併，創造 8.71 億澳元金礦生產商",
+          "zh_point": "Vault 和 Genesis 農業公司宣布合併，將創造澳大利亞規模最大的金礦生產商之一，預計合併後的公司市值將達到 8.71 億澳元。"
         },
         {
           "source": "Investing.com",
-          "title": "US stock futures fall amid more Iran strikes; Q2 earnings on tap",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-amid-more-iran-strikes-q2-earnings-on-tap-4787389",
+          "title": "Australia consumer sentiment climbs in July as fuel, rate worries ease",
+          "url": "https://www.investing.com/news/economy-news/australia-consumer-sentiment-climbs-in-july-as-fuel-rate-worries-ease-4789635",
           "summary": "",
-          "published": "2026-07-13 00:11:07",
-          "ts": 1783901467.0,
-          "zh_title": "美股未來指數下跌 美國對伊朗發動更多攻擊；二季度財報即將公布",
-          "zh_point": "美股未來指數下跌，市場關注美國對伊朗的軍事行動對全球經濟的影響。同時，美國企業將公布二季度財報，投資者將密切關注企業的財務表現和預測。"
+          "published": "2026-07-14 00:44:54",
+          "ts": 1783989894.0,
+          "zh_title": "澳洲消費者信心在七月上升，燃油和利率擔憂減輕",
+          "zh_point": "澳洲消費者信心在七月上升，燃油和利率擔憂逐漸減輕，對於未來的經濟前景感到較為樂觀。"
         },
         {
           "source": "Investing.com",
-          "title": "EU ministers to debate curbing trade with Israeli settlements",
-          "url": "https://www.investing.com/news/world-news/eu-ministers-to-debate-curbing-trade-with-israeli-settlements-4787388",
+          "title": "Form 4 Yext Inc For: 13 July",
+          "url": "https://www.investing.com/news/filings/form-4-yext-inc-for-13-july-93CH-4789634",
           "summary": "",
-          "published": "2026-07-13 00:06:29",
-          "ts": 1783901189.0,
-          "zh_title": "歐盟部長將討論限制與以色列定居點的貿易",
-          "zh_point": "歐盟部長將在會議上討論限制與以色列定居點進行貿易的措施，以表達對巴勒斯坦問題的關注。"
+          "published": "2026-07-14 00:42:58",
+          "ts": 1783989778.0,
+          "zh_title": "Yext Inc. 13 日報告",
+          "zh_point": "Yext Inc. 13 日提交了 Form 4 報告，內容可能與公司高管或重要股東的股票交易相關。"
         },
         {
           "source": "Investing.com",
-          "title": "Traffic accident in Mexico leaves 9 dead and 10 injured, four of them Americans",
-          "url": "https://www.investing.com/news/world-news/traffic-accident-in-mexico-leaves-9-dead-and-10-injured-four-of-them-americans-4787386",
+          "title": "South Korea central bank to raise rates for first time in over three years on July 16: Reuters poll",
+          "url": "https://www.investing.com/news/economy-news/south-korea-central-bank-to-raise-rates-for-first-time-in-over-three-years-on-july-16-reuters-poll-4789633",
           "summary": "",
-          "published": "2026-07-12 23:30:09",
-          "ts": 1783899009.0,
-          "zh_title": "墨西哥交通事故造成9死10傷，4人為美國公民",
-          "zh_point": "墨西哥發生嚴重交通事故，造成至少9人死亡，10人受傷，其中包括4名美國公民。"
+          "published": "2026-07-14 00:42:25",
+          "ts": 1783989745.0,
+          "zh_title": "南韓央行將於7月16日首次在三年半內調升利率：路透社民調",
+          "zh_point": "根據路透社的民調，南韓央行將在7月16日第一次在三年半內調升利率，表明央行正採取措施應對通膨。"
         },
         {
           "source": "Investing.com",
-          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
-          "url": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
+          "title": "Mesoblast reaches 300-patient enrollment in back pain trial",
+          "url": "https://www.investing.com/news/company-news/mesoblast-reaches-300patient-enrollment-in-back-pain-trial-93CH-4789632",
           "summary": "",
-          "published": "2026-07-12 23:24:21",
-          "ts": 1783898661.0,
-          "zh_title": "伊朗擴大對海灣國家的攻擊後，美國轟炸後，霍爾木茲海峽關閉",
-          "zh_point": "伊朗在美國轟炸後，對海灣國家展開了更大規模的攻擊，霍爾木茲海峽已經關閉，可能會對全球石油供應造成重大影響。"
+          "published": "2026-07-14 00:40:53",
+          "ts": 1783989653.0,
+          "zh_title": "Mesoblast 達成背痛試驗 300 名受試者入選",
+          "zh_point": "Mesoblast 這家公司正在進行一項背痛試驗，試圖開發新的治療方法，已經達成 300 名受試者的入選，試驗的進展可能對未來的背痛治療帶來重要影響。"
         }
       ]
     }
