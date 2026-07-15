@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場主軸圍繞著中東局勢升高、石油價格大幅上升、川普政府重新實施霍爾木茲海峽封鎖等事件。投資者們正在等待財報與通膨數據的公布，以了解市場的走向。同時，全球晶片行業都在等待台灣積體電路製造公司（TSMC）即將發布的一份關鍵報告。市場情緒緊張，投資者們需要謹慎評估風險和機會。\n\n【結語】\n投資者們需要保持冷靜和謹慎，避免被市場情緒所左右。今天的市場變化可能會對未來的投資產生重大影響。投資者們需要仔細評估風險和機會，確保自己的投資策略是合理和可行的。同時，投資者們也需要保持耐心和持續學習，以適應市場的變化和挑戰。\n\n【精選個股】\nAAPL - 蘋果公司 - 蘋果公司的訴訟對OpenAI的影響可能會對公司的未來發展產生重大影響。\nTSM - 台積電公司 - 台積電公司即將發布的一份關鍵報告可能會對全球晶片行業產生重大影響。\nNVDA - NVIDIA公司 - NVIDIA公司的股價下跌可能是由於中國DeepSeek事件的影響。\nSHAK - Shake Shack公司 - Shake Shack公司的財務狀況和未來發展前景仍然樂觀，投資者們可以考慮買入。\n風險提醒：投資者們需要謹慎評估風險和機會，避免被市場情緒所左右。",
+  "analysis": "【今日摘要】\n今日市場情緒活躍，受美國政府多個高級安全機構發出新警告，關注網路安全威脅的影響，帕洛阿爾托網路系統股價大漲近 7%。道瓊未來指數上漲，但仍面臨關鍵阻力。高盛和CrowdStrike發生大幅的買盤動作。投資者應該關注Robinhood進入加密貨幣市場的新發展。AI 股票出現下滑趨勢，投資者對此感到擔憂。布洛德康股價上漲，部分原因是投資者轉向了從軟體公司轉向硬體製造商。\n\n【結語】\n投資者應該保持冷靜和謹慎，避免被市場情緒左右。投資的目的是為了長期收益，而不是短期風險。投資者應該根據自己的風格和目標選擇合適的投資策略，並且保持持續學習和調整的態度。\n\n【精選個股】\nNVDA - NVIDIA - NVIDIA 的技術優勢和市場領導地位使其成為人工智慧領域的重要玩家。\nBROAD - 布洛德康 - 布洛德康的硬體製造能力和軟體公司轉向硬體的趨勢使其股價上漲。\nCRWD - CrowdStrike - CrowdStrike 的安全軟體和服務使其成為網路安全領域的重要玩家。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "The whole chip trade is waiting on one report",
-          "url": "https://www.thestreet.com/investing/stocks/chip-trade-waiting-on-taiwan-semiconductor-tsm-report?.tsrc=rss",
-          "summary": "Almost every advanced AI chip on the planet is built in one place. Nvidia's Blackwell processors, Apple's silicon, custom accelerators for Meta and AMD — they all run through the same foundry in Taiwan. That foundry is Taiwan Semiconductor Manufacturing Company (TSM). TSMC is set to ...",
-          "published": "Tue, 14 Jul 2026 00:37:00 +0000",
-          "ts": 1783989420.0,
-          "zh_title": "全球晶片行業都在等待一份報告",
-          "zh_point": "全球大多數先進AI晶片都在台灣一家工廠生產，包括Nvidia的Blackwell處理器、Apple的晶片、Meta和AMD的自訂加速器。這家工廠是台灣積體電路製造公司（TSMC），即將發布一份關鍵報告，影響全球晶片行業的未來。"
+          "title": "Why Palo Alto Networks Stock Zoomed Almost 7% Higher Today",
+          "url": "https://www.fool.com/investing/2026/07/14/why-palo-alto-networks-stock-zoomed-almost-7-highe/?.tsrc=rss",
+          "summary": "Several top-level government security agencies issued a fresh warning about cyber threats.",
+          "published": "Tue, 14 Jul 2026 23:59:25 +0000",
+          "ts": 1784073565.0,
+          "zh_title": "帕洛阿爾托網路系統股價今日大漲近 7%",
+          "zh_point": "美國政府多個高級安全機構發出新警告，關注網路安全威脅，帕洛阿爾托網路系統股價因此大幅上漲。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Jim Cramer Calls Apple’s OpenAI Lawsuit “Heavyweight.” Tim Cook Must Believe OpenAI Was Stealing",
-          "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-calls-apples-openai-lawsuit-heavyweight-tim-cook-must-believe-openai-was-stealing/?.tsrc=rss",
-          "summary": "Apple almost never sues, so when Tim Cook personally greenlit a complaint accusing OpenAI of stealing trade secrets and smuggling hardware prototypes out the door, Wall Street and Silicon Valley both took notice. The question now is whether the case disrupts OpenAI's IPO plans before a single share is priced.",
-          "published": "Tue, 14 Jul 2026 00:33:23 +0000",
-          "ts": 1783989203.0,
-          "zh_title": "克拉默稱蘋果對OpenAI的訴訟是重量級案件，蒂姆·庫克必須相信OpenAI偷竊了蘋果的機密",
-          "zh_point": "蒂姆·庫克親自批准對OpenAI的訴訟，指控其偷竊蘋果的機密和運送硬體原型，對OpenAI即將上市的IPO產生了影響。"
+          "title": "Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
+          "url": "https://finance.yahoo.com/m/ff2fea6d-f6fc-389f-b0c6-62b745afe36d/dow-jones-futures-rise%3B.html?.tsrc=rss",
+          "summary": "The Nasdaq and AI stocks rallied, but still face key resistance. Goldman and CrowdStrike make big bullish moves.",
+          "published": "Tue, 14 Jul 2026 23:47:50 +0000",
+          "ts": 1784072870.0,
+          "zh_title": "道瓊未來指數上漲；高盛、CrowdStrike躍升，但AI股仍需突破關鍵阻力",
+          "zh_point": "道瓊未來指數和AI股漲升，但仍面臨關鍵阻力。高盛和CrowdStrike發生大幅的買盤動作。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why Thomson Reuters Stock Crushed it on Monday",
-          "url": "https://www.fool.com/investing/2026/07/13/why-thomson-reuters-stock-crushed-it-on-monday/?.tsrc=rss",
-          "summary": "The company is apparently handing out pink slips to members of its engineering team.",
-          "published": "Tue, 14 Jul 2026 00:12:02 +0000",
-          "ts": 1783987922.0,
-          "zh_title": "湯森路透股價大漲：公司裁員工程團隊",
-          "zh_point": "湯森路透股價大漲，原因是公司正在裁員工程團隊，對股價產生正面影響。"
+          "title": "Robinhood Just Launched a New Blockchain. Here's Why Investors Should Care.",
+          "url": "https://www.fool.com/investing/2026/07/14/robinhood-just-launched-a-new-blockchain/?.tsrc=rss",
+          "summary": "Robinhood's entry into crypto means there's a new top dog to beat.",
+          "published": "Tue, 14 Jul 2026 23:47:00 +0000",
+          "ts": 1784072820.0,
+          "zh_title": "Robinhood 就發佈了一個新區塊鏈。投資者應該關心什麼？",
+          "zh_point": "Robinhood 進入加密貨幣市場，意味著有新的強者出現，投資者應該關注這個新發展。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Perryman says data centers can be beneficial with protections",
-          "url": "https://www.oaoa.com/?p=366403&.tsrc=rss",
-          "summary": "With Microsoft and Chevron joining forces to build a self-powered $7-billion AI data center 20 miles south of Pecos and with other companies envisaging similar plans, Waco economist Ray Perryman says there are justifiable concerns about ensuring that data centers do not lead to problems with the electricity supply or transmission capacity, although many of those concerns are being addressed. ...",
-          "published": "Tue, 14 Jul 2026 00:01:00 +0000",
-          "ts": 1783987260.0,
-          "zh_title": "佩里曼認為資料中心若加強保護措施，對電力供應有益",
-          "zh_point": "資料中心建設引發關注，佩里曼認為若能夠有效保護電力供應，資料中心將對電力供應有益，避免可能出現的問題。"
+          "title": "AI Stocks: Falling Knife or Once-in-a-Decade Buying Opportunity?",
+          "url": "https://www.fool.com/investing/2026/07/14/ai-stocks-falling-knife-or-once-in-a-decade-buying/?.tsrc=rss",
+          "summary": "AI stocks have slipped in recent weeks.",
+          "published": "Tue, 14 Jul 2026 23:30:00 +0000",
+          "ts": 1784071800.0,
+          "zh_title": "AI 股票：跌落劍或一次十年難逢買機會？",
+          "zh_point": "最近幾周，AI 股票出現下滑趨勢。投資者對此感到擔憂，是否該趨之若鶩或避之如瘟？"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Senior Analyst: Banks Are Set for 25% Earnings Growth as the Capital Markets Boom Accelerates",
-          "url": "https://247wallst.com/investing/2026/07/13/senior-analyst-banks-are-set-for-25-earnings-growth-as-the-capital-markets-boom-accelerates/?.tsrc=rss",
-          "summary": "Q2 bank earnings kick off Tuesday with the biggest names on Wall Street reporting at once, and one senior analyst thinks the results could shock even the optimists. But his most interesting call has nothing to do with JPMorgan or Goldman.",
-          "published": "Mon, 13 Jul 2026 23:58:24 +0000",
-          "ts": 1783987104.0,
-          "zh_title": "銀行業預期收益增長25%　資本市場熱潮加速",
-          "zh_point": "一位高級分析師預測銀行業第二季收益將大幅增長25%，並認為這些結果可能會超出樂觀派的預期，但他的最有趣的預測與摩根士丹利或高盛無關。"
+          "title": "Why Broadcom Stock Ticked Higher on Tuesday",
+          "url": "https://www.fool.com/investing/2026/07/14/why-broadcom-stock-ticked-higher-on-tuesday/?.tsrc=rss",
+          "summary": "This was partially due to a broad investor pivot away from software companies into hardware makers.",
+          "published": "Tue, 14 Jul 2026 23:28:00 +0000",
+          "ts": 1784071680.0,
+          "zh_title": "為什麼布洛德康股價在星期二上漲",
+          "zh_point": "布洛德康股價在星期二上漲，部分原因是投資者轉向了從軟體公司轉向硬體製造商。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Stock futures are little changed as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
-          "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
-          "summary": "Oil prices surged and stocks slid on Monday after President Donald Trump said he would reinstate a blockade on Iranian shipping through the Strait of Hormuz.",
-          "published": "Tue, 14 Jul 2026 00:18:50 GMT",
-          "ts": 1783988330.0,
-          "zh_title": "股市未來指數微幅波動 中東局勢升高 交易者等待財報與通膨數據",
-          "zh_point": "中東局勢升高導致石油價格大幅上升，股市則出現下跌。美國總統唐納德·川普宣布將恢復對伊朗航運的封鎖，影響石油運輸。交易者正在等待財報與通膨數據的公布，以了解市場的走向。"
+          "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
+          "url": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
+          "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
+          "published": "Tue, 14 Jul 2026 23:58:53 GMT",
+          "ts": 1784073533.0,
+          "zh_title": "美國對伊朗進行打擊行動前伊朗封鎖霍爾木茲海峽將重新啟動",
+          "zh_point": "美國總統唐納德·川普表示，美國與伊朗的停火協議已經結束，該地區多次發生軍事衝突。"
         },
         {
           "source": "CNBC",
-          "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-          "url": "https://www.cnbc.com/2026/07/13/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-          "summary": "President Donald Trump said he planned to reinstate what he called a blockade on Iranian shipping, sending oil prices higher and stocks lower on Monday.",
-          "published": "Mon, 13 Jul 2026 23:36:15 GMT",
-          "ts": 1783985775.0,
-          "zh_title": "星期二的大宗股票新聞：未來交易日市場可能的動向",
-          "zh_point": "川普總統宣布重新實施對伊朗航運的禁運，油價上升，股市下跌。"
+          "title": "Stock futures are flat after soft inflation reading lifts market: Live updates",
+          "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+          "summary": "Stocks climbed Tuesday after a cooler-than-expected inflation report bolstered hopes that the Fed may not need to raise interest rates as aggressively.",
+          "published": "Tue, 14 Jul 2026 23:32:22 GMT",
+          "ts": 1784071942.0,
+          "zh_title": "股市未來指數平穩，軟膠通膨數據提振市場",
+          "zh_point": "股市昨日上漲，軟膠通膨數據讓市場寄望美聯儲不需要大幅提高利率。"
         },
         {
           "source": "CNBC",
-          "title": "Japan’s bond market is back in play after decades in the wilderness",
-          "url": "https://www.cnbc.com/2026/07/14/japan-bond-jgb-yields-.html",
-          "summary": "JGBs have been selling off amid policy normalization and concerns over Tokyo's spending plans, but experts say that they deserve another look from investors.",
-          "published": "Mon, 13 Jul 2026 23:19:08 GMT",
-          "ts": 1783984748.0,
-          "zh_title": "日本國債市場終於回歸市場焦點",
-          "zh_point": "日本國債市場在多年來的冷漠之後終於重新引起投資者的關注，儘管市場正面臨政策正常化和東京政府開支計畫的擔憂。專家認為，日本國債仍值得投資者重視。"
+          "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/07/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "summary": "Stocks closed higher on Tuesday, helped by signs of easing inflation, which boosted investor hopes that the Federal Reserve can hold off on rate hikes for the moment.",
+          "published": "Tue, 14 Jul 2026 23:12:08 GMT",
+          "ts": 1784070728.0,
+          "zh_title": "星期三的大股市故事：下一交易日市場可能會受到什麼影響",
+          "zh_point": "股市週二收盤升高，受通膨放緩的跡象所助，投資人認為美聯儲可能暫時不會提高利率。"
         },
         {
           "source": "CNBC",
-          "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
-          "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
-          "summary": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare\" fund that has since been scrapped.",
-          "published": "Mon, 13 Jul 2026 22:52:19 GMT",
-          "ts": 1783983139.0,
-          "zh_title": "法官認為川普訴訟IRS為「不當目的」；指示律師參與律師公會",
-          "zh_point": "川普對IRS的訴訟最終被司法部與IRS達成和解，同意成立一億八千萬美元的「法律戰爭基金」，但該基金後來被撤銷。"
+          "title": "Yum's Taco Bell removes select items, says no confirmed link to U.S. cyclosporiasis outbreak",
+          "url": "https://www.cnbc.com/2026/07/14/yums-taco-bell-removes-select-items-says-no-confirmed-link-to-us-cyclosporiasis-outbreak.html",
+          "summary": "Yum Brands' Taco Bell said on Tuesday it had removed limited items from some restaurants as a precaution but said U.S. health officials have not linked the widening outbreak of cyclosporiasis to the chain or any specific food product.",
+          "published": "Tue, 14 Jul 2026 22:26:09 GMT",
+          "ts": 1784067969.0,
+          "zh_title": "塔可士力架將部分菜單移除　否認與美國細菌感染爆發有關",
+          "zh_point": "塔可士力架表示已將部分菜單移除作為預防措施，但美國衛生官員尚未確認該連鎖店或任何特定食物產品與目前的細菌感染爆發有關。"
         },
         {
           "source": "CNBC",
-          "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
-          "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-          "summary": "The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
-          "published": "Mon, 13 Jul 2026 22:24:15 GMT",
-          "ts": 1783981455.0,
-          "zh_title": "川普建議霍爾木茲海峽貨物徵稅20%；重新啟動伊朗封鎖",
-          "zh_point": "川普建議對霍爾木茲海峽貨物徵收20%稅款，重新啟動對伊朗的封鎖，霍爾木茲海峽是主要石油運輸路線，也是美國和以色列與伊朗的持續戰爭的核心。"
+          "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
+          "url": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
+          "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
+          "published": "Tue, 14 Jul 2026 22:20:46 GMT",
+          "ts": 1784067646.0,
+          "zh_title": "克拉默稱人工智慧市場泡沫關注過度",
+          "zh_point": "克拉默認為目前股市比過去的網路泡沫危機更為穩定，市場泡沫關注過度。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
-          "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
-          "summary": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
-          "published": "Tue, 14 Jul 2026 00:45:00 GMT",
-          "ts": 1783989900.0,
-          "zh_title": "美國耗盡戰略石油儲備　川普承諾控制霍爾木茲海峽",
-          "zh_point": "美國戰略石油儲備的儲備量已經極度不足，政府報告指出儲備遭受嚴重設備故障、泄漏和洩漏的影響。"
+          "title": "This overlooked index is a better investment than the S&P 500",
+          "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+          "summary": "We did the math over a 30-year period, and it’s not even close.",
+          "published": "Tue, 14 Jul 2026 23:32:00 GMT",
+          "ts": 1784071920.0,
+          "zh_title": "這個被忽略的指數比標準普爾500指數更好投資",
+          "zh_point": "我們計算了30年內的數據，結果差距明顯。"
         },
         {
           "source": "MarketWatch",
           "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
           "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
           "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-          "published": "Mon, 13 Jul 2026 23:30:00 GMT",
-          "ts": 1783985400.0,
-          "zh_title": "我的兄弟在70歲時領取社會安全金，卻因癌症在領取第一筆金額後不久去世。為何要等待領取？",
-          "zh_point": "一位女性分享了她的兄弟在70歲領取社會安全金後不久去世的故事，質疑政府鼓勵延遲領取福利的建議。"
+          "published": "Tue, 14 Jul 2026 22:15:00 GMT",
+          "ts": 1784067300.0,
+          "zh_title": "為什麼要等到70歲才領取社會保障？我的兄弟就是如此",
+          "zh_point": "一名男子在70歲時領取社會保障，但僅領取了一筆款項後便因癌症去世。這個故事讓他對政府鼓勵延遲領取福利的做法產生了質疑。"
         },
         {
           "source": "MarketWatch",
-          "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-          "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
-          "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
-          "published": "Mon, 13 Jul 2026 23:03:00 GMT",
-          "ts": 1783983780.0,
-          "zh_title": "我67歲，有$140,000年金，該等到70歲領取社保讓妻子多領嗎？",
-          "zh_point": "一位67歲的退休者擔心自己的年金會被減少到$30,000年後，考慮延遲領取社保讓妻子多領取。"
+          "title": "Your monthly Netflix bill is up 29% in just over a year. Critics say Washington needs to fix it.",
+          "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
+          "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
+          "published": "Tue, 14 Jul 2026 22:11:00 GMT",
+          "ts": 1784067060.0,
+          "zh_title": "你的Netflix月費已經上漲29%，超過一年。批評者認為華盛頓需要介入。",
+          "zh_point": "Netflix仍然是華爾街的寵兒，但政府監管者卻將其視為目標。"
         },
         {
           "source": "MarketWatch",
-          "title": "Why a borrowing binge by investors is a warning sign for the stock market",
-          "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
-          "summary": "Investors are increasingly borrowing to buy stocks, a reflection of greed in the stock market as they seek to amplify returns with margin debt. The growing pile of borrowed money has some on Wall Street nervous.",
-          "published": "Mon, 13 Jul 2026 22:19:00 GMT",
-          "ts": 1783981140.0,
-          "zh_title": "投資者借貸狂潮是股市警訊",
-          "zh_point": "投資者借貸購股的行為越來越普遍，反映出股市中的貪婪心理，透過借貸購股以擴大投資收益。這種借貸購股的趨勢讓一些華爾街人士感到擔憂。"
+          "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+          "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+          "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+          "published": "Tue, 14 Jul 2026 21:38:00 GMT",
+          "ts": 1784065080.0,
+          "zh_title": "三大力量正在掠奪家庭財富 — 你的遺產計畫完全未準備好",
+          "zh_point": "醫療補助費用削減、退休金稅陷阱等三大威脅可能會毀滅你的家人的遺產，了解這些風險並做好準備是非常重要的。"
         },
         {
           "source": "MarketWatch",
-          "title": "SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?",
-          "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
-          "summary": "The company has shed more than $800 billion in market value from its $2.67 trillion peak in less than a month.",
-          "published": "Mon, 13 Jul 2026 22:08:00 GMT",
-          "ts": 1783980480.0,
-          "zh_title": "SpaceX 股票價格恐跌破首次公開發行價格",
-          "zh_point": "SpaceX 股票價格在短短一個月內從 2.67 萬億美元的峰值下跌超過 8 萬億美元，投資者是否面臨危機？"
+          "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
+          "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+          "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
+          "published": "Tue, 14 Jul 2026 21:10:00 GMT",
+          "ts": 1784063400.0,
+          "zh_title": "IBM的盈餘警告意味著硬體正在「吃掉」所有人的午餐",
+          "zh_point": "IBM發布盈餘警告，指出軟體和基礎設施業務短缺與客戶在價格上升前購買記憶體相關。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下跌，納斯達克指數領跌，AI基礎設施製造商大幅下跌，Nvidia股價跌幅達16%。"
+          "zh_title": "美國股市大幅下跌，受中國DeepSeek影響",
+          "zh_point": "美國股市大部分下跌，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌，多家公司股價下跌超過10%，Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約黃金交易所金銀價格下跌",
-          "zh_point": "紐約黃金交易所金價下跌1.4%，銀價下跌2.5%，連續兩天三天跌勢。"
+          "zh_title": "紐約金屬交易所金銀價格下跌",
+          "zh_point": "紐約金屬交易所的金價和銀價在過去的交易中分別下跌1.4%和2.5%，這是金價連續下跌兩次，銀價連續下跌三次。"
         },
         {
           "source": "The Wall Street Journal",
@@ -197,7 +197,7 @@
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
           "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，並且不需要使用最先進的晶片。"
+          "zh_point": "中國新興公司宣稱通過低成本的方式訓練出高表現的AI模型，且不使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
+          "zh_title": "DeepSeek 不會淹沒美國 AI 巨頭",
+          "zh_point": "對於 Nvidia、Broadcom 等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊產業匯總：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊產業的最新發展，包括市場趨勢、投資機會和業界動態。"
+          "zh_title": "科技、媒體與通訊產業回顧：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊產業的最新發展，包括市場趨勢、投資機會和產業動態。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Chewy: Steady Growth And Undervalued",
-          "url": "https://seekingalpha.com/article/4921724-chewy-steady-growth-and-undervalued?source=feed_all_articles",
+          "title": "Consumer Price Index: Inflation At 3.5% In June",
+          "url": "https://seekingalpha.com/article/4922091-consumer-price-index-inflation-at-3-5-percent-in-june?source=feed_all_articles",
           "summary": "",
-          "published": "Mon, 13 Jul 2026 20:29:33 -0400",
-          "ts": 1783988973.0,
-          "zh_title": "切威：穩健增長與低估值",
-          "zh_point": "切威公司一直保持穩健的增長趨勢，其股價被認為低估了公司的實際價值。"
+          "published": "Tue, 14 Jul 2026 20:10:00 -0400",
+          "ts": 1784074200.0,
+          "zh_title": "消費者物價指數：六月通膨率達3.5%",
+          "zh_point": "美國政府公布的消費者物價指數顯示，六月通膨率為3.5%，表明美國經濟正在經歷一定程度的通膨。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Shake Shack: A Buy On A Deeper Dip",
-          "url": "https://seekingalpha.com/article/4921723-shake-shack-a-buy-on-a-deeper-dip?source=feed_all_articles",
+          "title": "Celebrus Technologies plc 2026 Q4 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4922092-celebrus-technologies-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Mon, 13 Jul 2026 20:15:50 -0400",
-          "ts": 1783988150.0,
-          "zh_title": "Shake Shack：下跌後買入",
-          "zh_point": "Shake Shack 的股價可能會下跌，但投資者仍可考慮買入，因為公司的財務狀況和未來發展前景仍然樂觀。"
+          "published": "Tue, 14 Jul 2026 20:09:28 -0400",
+          "ts": 1784074168.0,
+          "zh_title": "Celebrus Technologies plc 2026 年第四季度 - 業績 - 盈利電話會議簡報",
+          "zh_point": "Celebrus Technologies plc 公布 2026 年第四季度的財務業績，可能包含公司營收、利潤、投資人問答等內容。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Crude oil soars more than 9% as Trump reimposes Hormuz blockade, resumes military strikes",
-          "url": "https://seekingalpha.com/news/4613406-crude-oil-soars-more-than-9-as-trump-reimposes-hormuz-blockade-resumes-military-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Celebrus Technologies plc (DFORF) Q4 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4922082-celebrus-technologies-plc-dforf-q4-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Mon, 13 Jul 2026 19:56:29 -0400",
-          "ts": 1783986989.0,
-          "zh_title": "原油暴漲逾9%  川普重新實施霍爾木茲海峽封鎖、恢復軍事攻擊",
-          "zh_point": "川普政府重新實施霍爾木茲海峽封鎖和恢復對伊朗的軍事攻擊，導致原油價格大幅上漲逾9%。"
+          "published": "Tue, 14 Jul 2026 20:09:05 -0400",
+          "ts": 1784074145.0,
+          "zh_title": "Celebus Technologies plc (DFORF) 2026 年第四季度財報電話會議記錄",
+          "zh_point": "Celebus Technologies plc 公布 2026 年第四季度財報電話會議記錄，內容包括財務報告和管理層的問答部分。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "World Markets Watchlist: July 13, 2026",
-          "url": "https://seekingalpha.com/article/4921725-world-markets-watchlist-july-13-2026?source=feed_all_articles",
+          "title": "IBM: Fake AI Story Unravels",
+          "url": "https://seekingalpha.com/article/4922070-ibm-fake-ai-story-unravels?source=feed_all_articles",
           "summary": "",
-          "published": "Mon, 13 Jul 2026 19:50:00 -0400",
-          "ts": 1783986600.0,
-          "zh_title": "全球市場觀察清單：2026年7月13日",
-          "zh_point": "全球市場在7月13日出現多種波動，包括美元、歐元、日元的走勢變化，以及各大股市的表現。"
+          "published": "Tue, 14 Jul 2026 20:00:56 -0400",
+          "ts": 1784073656.0,
+          "zh_title": "IBM：虛假AI故事揭露",
+          "zh_point": "IBM發現一則虛假的AI新聞，可能涉及到對公司形象的攻擊或誤導。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Psychedelic drugmakers could get boost from HHS, VA memorandum",
-          "url": "https://seekingalpha.com/news/4613407-psychedelic-drugmakers-could-get-boost-hhs-va-memorandum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Oil eases off day's highs after Trump nixes proposed 20% Strait of Hormuz transit fee",
+          "url": "https://seekingalpha.com/news/4613799-oil-eases-off-days-highs-after-trump-nixes-proposed-20-strait-of-hormuz-transit-fee?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Mon, 13 Jul 2026 19:36:16 -0400",
-          "ts": 1783985776.0,
-          "zh_title": "精神藥物製造商可能從HHS、VA備忘錄中受益",
-          "zh_point": "美國衛生及公共服務部（HHS）和退伍軍人事務部（VA）發佈備忘錄，可能對精神藥物製造商帶來新機會。"
+          "published": "Tue, 14 Jul 2026 19:58:34 -0400",
+          "ts": 1784073514.0,
+          "zh_title": "特朗普否決霍爾木茲海峽通行費案　石油價格回落",
+          "zh_point": "美國總統特朗普否決了對霍爾木茲海峽通行費的提案，石油價格因此暫時回落至當日高點之下。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Vault and Genesis agree to merge and create $8.71 billion Australian gold producer",
-          "url": "https://www.investing.com/news/stock-market-news/vault-and-genesis-agree-to-merge-and-create-871-billion-australian-gold-producer-4789590",
+          "title": "Form 13D/A Phunware For: 14 July",
+          "url": "https://www.investing.com/news/filings/form-13da-phunware-for-14-july-93CH-4792035",
           "summary": "",
-          "published": "2026-07-14 00:48:27",
-          "ts": 1783990107.0,
-          "zh_title": "Vault 和 Genesis 農業合併，創造 8.71 億澳元金礦生產商",
-          "zh_point": "Vault 和 Genesis 農業公司宣布合併，將創造澳大利亞規模最大的金礦生產商之一，預計合併後的公司市值將達到 8.71 億澳元。"
+          "published": "2026-07-14 23:57:05",
+          "ts": 1784073425.0,
+          "zh_title": "Phunware Form 13D/A：14 July",
+          "zh_point": "Phunware 發布 Form 13D/A 報告，內容未知。"
         },
         {
           "source": "Investing.com",
-          "title": "Australia consumer sentiment climbs in July as fuel, rate worries ease",
-          "url": "https://www.investing.com/news/economy-news/australia-consumer-sentiment-climbs-in-july-as-fuel-rate-worries-ease-4789635",
+          "title": "Form 4 Butler National Corp For: 14 July",
+          "url": "https://www.investing.com/news/filings/form-4-butler-national-corp-for-14-july-93CH-4792034",
           "summary": "",
-          "published": "2026-07-14 00:44:54",
-          "ts": 1783989894.0,
-          "zh_title": "澳洲消費者信心在七月上升，燃油和利率擔憂減輕",
-          "zh_point": "澳洲消費者信心在七月上升，燃油和利率擔憂逐漸減輕，對於未來的經濟前景感到較為樂觀。"
+          "published": "2026-07-14 23:55:28",
+          "ts": 1784073328.0,
+          "zh_title": "Butler National Corp 14日表達",
+          "zh_point": "Butler National Corp於2023年7月14日提交了Form 4，內容未有詳細摘要。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Yext Inc For: 13 July",
-          "url": "https://www.investing.com/news/filings/form-4-yext-inc-for-13-july-93CH-4789634",
+          "title": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveai-cloud-company-coreweave-explores-wall-street-playbook-to-hedge-memorychip-price-risk-4792033",
           "summary": "",
-          "published": "2026-07-14 00:42:58",
-          "ts": 1783989778.0,
-          "zh_title": "Yext Inc. 13 日報告",
-          "zh_point": "Yext Inc. 13 日提交了 Form 4 報告，內容可能與公司高管或重要股東的股票交易相關。"
+          "published": "2026-07-14 23:54:30",
+          "ts": 1784073270.0,
+          "zh_title": "CoreWeave 探索 Wall Street 戲法減少記憶體晶片價格風險",
+          "zh_point": "CoreWeave 這家專注於人工智慧雲端服務的公司，正在研究如何利用 Wall Street 的策略來降低因記憶體晶片價格波動而帶來的風險。"
         },
         {
           "source": "Investing.com",
-          "title": "South Korea central bank to raise rates for first time in over three years on July 16: Reuters poll",
-          "url": "https://www.investing.com/news/economy-news/south-korea-central-bank-to-raise-rates-for-first-time-in-over-three-years-on-july-16-reuters-poll-4789633",
+          "title": "Zeff Capital sells $238,624 of Butler National (BUKS) stock",
+          "url": "https://www.investing.com/news/insider-trading-news/zeff-capital-sells-238624-of-butler-national-buks-stock-93CH-4792032",
           "summary": "",
-          "published": "2026-07-14 00:42:25",
-          "ts": 1783989745.0,
-          "zh_title": "南韓央行將於7月16日首次在三年半內調升利率：路透社民調",
-          "zh_point": "根據路透社的民調，南韓央行將在7月16日第一次在三年半內調升利率，表明央行正採取措施應對通膨。"
+          "published": "2026-07-14 23:52:06",
+          "ts": 1784073126.0,
+          "zh_title": "Zeff Capital 賣出 238,624 股 Butler National (BUKS) 股票",
+          "zh_point": "投資公司 Zeff Capital 賣出了價值 238,624 美元的 Butler National 股票。"
         },
         {
           "source": "Investing.com",
-          "title": "Mesoblast reaches 300-patient enrollment in back pain trial",
-          "url": "https://www.investing.com/news/company-news/mesoblast-reaches-300patient-enrollment-in-back-pain-trial-93CH-4789632",
+          "title": "Form 4 Accel Entertainment Inc For: 14 July",
+          "url": "https://www.investing.com/news/filings/form-4-accel-entertainment-inc-for-14-july-93CH-4792031",
           "summary": "",
-          "published": "2026-07-14 00:40:53",
-          "ts": 1783989653.0,
-          "zh_title": "Mesoblast 達成背痛試驗 300 名受試者入選",
-          "zh_point": "Mesoblast 這家公司正在進行一項背痛試驗，試圖開發新的治療方法，已經達成 300 名受試者的入選，試驗的進展可能對未來的背痛治療帶來重要影響。"
+          "published": "2026-07-14 23:51:08",
+          "ts": 1784073068.0,
+          "zh_title": "Accel Entertainment Inc 14 日財報",
+          "zh_point": "Accel Entertainment Inc 7 月 14 日發布財報，內容未知。"
         }
       ]
     }
