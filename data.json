@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒較為波動，受中國DeepSeek影響，美國股市大幅下跌，納斯達克指數跌幅最為明顯。同時，巴菲特首次自2006年以來不捐贈給蓋茨基金會，轉至兒童慈善機構。另外，J.B. Hunt的股價在收市後大幅上漲8%，因為燃料費用和其鐵路連接業務需求的增加使得業績受益。投資人正在等待零售銷售數據和失業申報數據，以了解經濟是否足夠放緩以控制通膨。\n\n【結語】\n今天市場情緒較為波動，投資人需要保持冷靜和耐心。不要被短期市場波動影響，應該根據長期的投資計畫和基本面進行投資決策。同時，投資人需要注意公司的財務表現和未來發展計畫，以確保投資的安全性和收益性。\n\n【精選個股】\nAAPL - 蘋果 - 因為蘋果股價下跌掩蓋了戴爾、Sandisk、Micron的大幅下跌。\nJBLU - 聯合航空 - 股價下跌可能會對航空公司造成重大影響。\nPYPL - PayPal - 可能會提高投標價格以競爭其他支付平台。",
+  "analysis": "【今日摘要】\n今天市場情緒緊繃，受中國DeepSeek事件影響，美國股市大幅下跌，科技股尤其是人工智慧基礎設施相關股價大幅下跌。Nvidia股價下跌16%，成為跌幅最大的科技股之一。同時，Netflix財報表現不佳，公司決定減少公開觀看數據報告，華爾街股價因此下跌。另外，SpaceX星艦發射取消，導致股價下跌。\n\n【結語】\n投資者應該保持冷靜，避免因恐慌情緒而做出錯誤的投資決定。應該根據公司的實際業績和未來發展方向進行評估，而不是單純地跟隨市場情緒。另外，投資者也應該注意自己的風險承受能力和投資目標，避免過度投資或過度風險。\n\n【精選個股】\nNVDA - Nvidia - 人工智慧基礎設施領導者，下跌16%的機會仍然存在。\nINTU - Intuitive - 手術程序增長預測13.5%-15.5%，非GAAP毛利率68%-69%。\nNEPH - Nephros, Inc. - 水安全策略的最新發展和公司未來發展方向令人期待。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
-          "url": "https://finance.yahoo.com/m/9b2a3551-5bcd-34f5-9f61-00ac74d553c1/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
-          "summary": "Dell, Sandisk and Micron led an AI sell-off, masked by megacaps such as Apple. SpaceX undercut its IPO price. Taiwan Semi, GE Aerospace earnings are due.",
-          "published": "Thu, 16 Jul 2026 00:38:53 +0000",
-          "ts": 1784162333.0,
-          "zh_title": "道瓊未來指數：蘋果、谷歌掩蓋戴爾、Sandisk、Micron大幅下跌；J.B. Hunt晚場大漲",
-          "zh_point": "戴爾、Sandisk和Micron領導AI行業的大幅下跌，被蘋果等大型科技股掩蓋。SpaceX的首次公開募股價格低於預期。台積電和GE Aerospace即將公布財報。"
+          "title": "Warren Buffett Just Revealed He -- Not Greg Abel -- Made Berkshire's Big Alphabet Bet. Should You Follow Him In?",
+          "url": "https://www.fool.com/investing/2026/07/16/warren-buffett-just-revealed-he-not-greg-abel-made/?.tsrc=rss",
+          "summary": "The conviction belongs to Buffett. But is the oracle of Omaha right?",
+          "published": "Fri, 17 Jul 2026 00:53:00 +0000",
+          "ts": 1784249580.0,
+          "zh_title": "沃倫巴菲特突然宣布自己而非格雷格阿卜爾負責伯克希爾在阿爾法貝塔的投資。您是否應該效仿他？",
+          "zh_point": "沃倫巴菲特承認自己是伯克希爾在阿爾法貝塔的投資決策人，但他的判斷是否正確？"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Warren Buffett Just Cut the Bill Gates Foundation From His Annual Donation for the First Time Since 2006. The Missing $4.5 Billion Goes to His Children's Charities.",
-          "url": "https://www.fool.com/investing/2026/07/15/warren-buffett-just-cut-the-bill-gates-foundation/?.tsrc=rss",
-          "summary": "Buffett shifted his plan, but he's still on track to provide the world with billions in giving for decades to come.",
-          "published": "Thu, 16 Jul 2026 00:35:00 +0000",
-          "ts": 1784162100.0,
-          "zh_title": "巴菲特首次自2006年以來不捐贈給蓋茨基金會，$4.5億美元轉至兒童慈善機構",
-          "zh_point": "巴菲特改變捐贈計畫，但仍將為數十年內提供數十億美元的慈善捐款。"
+          "title": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, Netflix Dives Late; SpaceX Starship Launch Scrubbed",
+          "url": "https://finance.yahoo.com/m/b5c1ad7a-e72b-3a9b-bb20-11f0979acb67/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
+          "summary": "The Nasdaq tumbled on Sandisk, Micron, other AI stocks, but regional banks and transports rose. SpaceX fell late as a Starship launch was scrubbed.",
+          "published": "Fri, 17 Jul 2026 00:47:03 +0000",
+          "ts": 1784249223.0,
+          "zh_title": "道瓊未來指數：微軟、西數、谷歌領導人工智慧大跌，Netflix下半場大跌，SpaceX星艦發射取消",
+          "zh_point": "道瓊未來指數受人工智慧股價大幅下跌影響，西數和微軟股價大跌，谷歌股價也下跌，Netflix股價下半場大跌，SpaceX星艦發射取消，導致股價下跌。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why Phoenix Education Partners Dived by Almost 13% Today",
-          "url": "https://www.fool.com/investing/2026/07/15/why-phoenix-education-partners-dived-by-almost-13/?.tsrc=rss",
-          "summary": "The parent company of the University of Phoenix published its third-quarter results.",
-          "published": "Thu, 16 Jul 2026 00:26:44 +0000",
-          "ts": 1784161604.0,
-          "zh_title": "鳳凰城教育夥伴公司股價暴跌近13%",
-          "zh_point": "鳳凰城教育夥伴公司股價今日大幅下跌近13%，原因是該公司的母公司在第三季度發布財務報告。"
+          "title": "Nebius lands $1 billion AI deal as one major risk looms",
+          "url": "https://www.thestreet.com/investing/stocks/nebius-lands-1-billion-ai-deal-as-one-major-risk-looms?.tsrc=rss",
+          "summary": "Nebius Group’s latest $1 billion artificial intelligence contract suggests customer demand is not the company’s biggest problem. Paying to build the capacity may be. AI startup Reflection said on July 14 that it had signed a deal worth more than $1 billion to secure computing capacity from Nebius ...",
+          "published": "Fri, 17 Jul 2026 00:37:00 +0000",
+          "ts": 1784248620.0,
+          "zh_title": "Nebius 獲得 1 億美元 AI 合約　但巨大風險在所難免",
+          "zh_point": "Nebius Group 獲得 1 億美元的人工智慧合約，表明客戶需求並非公司最大問題，但支付建置能力可能會是重大風險。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
-          "url": "https://247wallst.com/investing/2026/07/15/the-top-mag-7-stock-headed-into-q2-earnings-jefferies-says-buy-amazon-over-tesla-or-apple/?.tsrc=rss",
-          "summary": "With Q2 earnings closing in, Jefferies just named its top Magnificent 7 pick and the choice cuts across some of the most widely held retirement stocks in America. One of these three tech giants wins on valuation, one wins on income, and one barely shows up to the fight.",
-          "published": "Thu, 16 Jul 2026 00:13:55 +0000",
-          "ts": 1784160835.0,
-          "zh_title": "Jefferies 選出 Q2 財報前七大股票，建議買入亞馬遜而非特斯拉或蘋果",
-          "zh_point": "Jefferies 公布了 Q2 財報前七大股票名單，其中包括三大科技巨頭。其中一家公司因價值優勢被選中，一家因收入優勢被選中，而一家則被認為缺乏競爭力。"
+          "title": "TSMC Just Announced Fantastic News for Nvidia Shareholders",
+          "url": "https://www.fool.com/investing/2026/07/16/tsmc-just-announced-fantastic-news-for-nvidia-shar/?.tsrc=rss",
+          "summary": "TSMC manufactures Nvidia's market-leading AI chips.",
+          "published": "Fri, 17 Jul 2026 00:30:00 +0000",
+          "ts": 1784248200.0,
+          "zh_title": "TSMC宣布對Nvidia股東的驚人好消息",
+          "zh_point": "TSMC是Nvidia市場領導的AI晶片製造商，最新消息對Nvidia股東來說是一個好兆頭。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "The Real Risk Inside Marvell Stock",
-          "url": "https://www.trefis.com/articles/607294/the-real-risk-inside-marvell-stock/2026-07-15?.tsrc=rss",
-          "summary": "If you hold Marvell (MRVL) stock, you’ve been on a wild ride. The shares have gained +207% over the past year, even after pulling back from their recent peak. But with that performance comes a new kind of pressure. Management has laid out a vision for growth so ambitious that the stock is now priced for near-flawless execution, leaving very little room for error.",
-          "published": "Thu, 16 Jul 2026 00:12:43 +0000",
-          "ts": 1784160763.0,
-          "zh_title": "馬威股份的真實風險",
-          "zh_point": "持有馬威股份的投資者經歷了狂野的行情，股價在過去的一年內上漲了 207%，儘管最近曾經回落。然而，這種表現也帶來了新的壓力。公司高層已經提出了一個如此雄心勃勃的成長計畫，股價現在被定價為近乎完美的執行，留下了很少的容錯空間。"
+          "title": "Why Union Pacific Stock Chugged Almost 4% Higher on Thursday",
+          "url": "https://www.fool.com/investing/2026/07/16/why-union-pacific-stock-chugged-almost-4-higher-on/?.tsrc=rss",
+          "summary": "It was the subject of a bullish analyst's price target raise.",
+          "published": "Fri, 17 Jul 2026 00:19:06 +0000",
+          "ts": 1784247546.0,
+          "zh_title": "為什麼聯合太平洋股價上漲近4%",
+          "zh_point": "聯合太平洋股價上漲原因是某位樂觀的分析師提高了股價目標。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "$100M New Jersey deli fraud defendant Patten wants no prison time despite past conviction",
-          "url": "https://www.cnbc.com/2026/07/15/new-jersey-deli-fraud-james-patten-sentencing-request.html",
-          "summary": "James Patten is the person to be sentenced for a scheme that sent the market capitalization of a company that owned just a small New Jersey deli soaring.",
-          "published": "Wed, 15 Jul 2026 23:56:25 GMT",
-          "ts": 1784159785.0,
-          "zh_title": "新澤西百貨店詐騙案告訴人帕頓要求無刑期償責",
-          "zh_point": "帕頓被控犯下一項詐騙案，該案涉及一家擁有新澤西小型百貨店的公司股價大幅上漲。"
+          "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+          "url": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+          "summary": "Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.",
+          "published": "Fri, 17 Jul 2026 00:49:45 GMT",
+          "ts": 1784249385.0,
+          "zh_title": "馬斯克的美孚AI帝國成為資料中心反彈的焦點",
+          "zh_point": "美孚的資料中心引發全國性抗議和訴訟，警告他人注意。"
         },
         {
           "source": "CNBC",
-          "title": "Stock futures are little changed as traders await retail sales and labor data: Live updates",
-          "url": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
-          "summary": "Investors are looking ahead to retail sales data and jobless claims for further signs the economy is slowing enough to keep inflation under control.",
-          "published": "Wed, 15 Jul 2026 23:39:26 GMT",
-          "ts": 1784158766.0,
-          "zh_title": "股市未來指數持續不變，投資人等待零售銷售數據和就業數據",
-          "zh_point": "投資人正在等待零售銷售數據和失業申報數據，以了解經濟是否足夠放緩以控制通膨。"
+          "title": "SpaceX aborts Starship test flight, sending stock lower",
+          "url": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
+          "summary": "Elon Musk said it would make another attempt \"hopefully in a few days.\"  SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
+          "published": "Fri, 17 Jul 2026 00:16:37 GMT",
+          "ts": 1784247397.0,
+          "zh_title": "SpaceX放棄星艦試驗飛行，股價下跌",
+          "zh_point": "SpaceX星艦V3試驗飛行失敗，公司創辦人埃隆·穆斯克表示將在幾天內再次嘗試。"
         },
         {
           "source": "CNBC",
-          "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
-          "url": "https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html",
-          "summary": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
-          "published": "Wed, 15 Jul 2026 22:51:22 GMT",
-          "ts": 1784155882.0,
-          "zh_title": "克拉默表示需要見證AI投資的實質成果",
-          "zh_point": "克拉默認為企業應該能夠顯示出其AI投資的可量化財務回報。"
+          "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+          "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+          "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+          "published": "Thu, 16 Jul 2026 23:45:16 GMT",
+          "ts": 1784245516.0,
+          "zh_title": "微軟的納德拉批評 Anthropic 的 Fable 為「編輯控制」",
+          "zh_point": "微軟與 Anthropic 有密切關係，但微軟也致力於幫助公司優化私有資料的模型。"
         },
         {
           "source": "CNBC",
-          "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
-          "url": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
-          "summary": "Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.",
-          "published": "Wed, 15 Jul 2026 22:48:57 GMT",
-          "ts": 1784155737.0,
-          "zh_title": "美聯儲主席沃許表示與川普政府「經常」會面，辯護獨立性",
-          "zh_point": "美聯儲主席沃許表示，他與財政部長貝森特除了每週例會外，還經常進行其他會面，強調美聯儲的獨立性。"
+          "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/07/16/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "The S&P 500 and the Nasdaq Composite fell on Thursday, weighed down by declines in chip stocks and shares of Alphabet.",
+          "published": "Thu, 16 Jul 2026 22:52:31 GMT",
+          "ts": 1784242351.0,
+          "zh_title": "週五的大宗股票新聞：下一交易日市場可能會受哪些因素影響",
+          "zh_point": "標準普爾500指數和納斯達克指數在週四下跌，受晶片股和Alphabet股票下跌的影響。"
         },
         {
           "source": "CNBC",
-          "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-          "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-          "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
-          "published": "Wed, 15 Jul 2026 22:05:14 GMT",
-          "ts": 1784153114.0,
-          "zh_title": "美聯儲主席華許在參議院銀行委員會的證詞針對經濟與利率進行討論",
-          "zh_point": "美聯儲主席華許在參議院銀行委員會的證詞中，針對經濟與利率進行了討論，並就美聯儲政策進行了評估。"
+          "title": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
+          "url": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
+          "summary": "Federal Reserve Chair Kevin Warsh was on Capitol Hill for two days of testimony this week.",
+          "published": "Thu, 16 Jul 2026 22:28:40 GMT",
+          "ts": 1784240920.0,
+          "zh_title": "聯邦儲備委員會銀行委員會議員羅恩斯讚賞沃許的「語氣」",
+          "zh_point": "聯邦儲備委員會主席沃許在本週兩天的國會聽證會上表達了對美聯儲的看法。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-          "url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
-          "summary": "Investors zero in on United’s potentially fatter jet-fuel bill — the airline said it expects nearly $6 billion in additional fuel expenses for the year.",
-          "published": "Thu, 16 Jul 2026 00:25:00 GMT",
-          "ts": 1784161500.0,
-          "zh_title": "聯合航空遭遇6億美元額外燃油成本風險",
-          "zh_point": "聯合航空預估今年額外燃油費用將達6億美元，投資人關注這可能會對航空公司造成重大影響。"
+          "title": "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
+          "url": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
+          "summary": "Netflix’s stock is falling in the wake of mixed earnings and a new plan to cut back on the publication of ‘What We Watched’ reports.",
+          "published": "Fri, 17 Jul 2026 00:14:00 GMT",
+          "ts": 1784247240.0,
+          "zh_title": "Netflix越來越節儉地公開觀看數據，華爾街不滿",
+          "zh_point": "Netflix最新財報表現不佳，公司決定減少公開「觀看數據報告」，華爾街股價因此下跌。"
         },
         {
           "source": "MarketWatch",
-          "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
-          "url": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
-          "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
-          "published": "Thu, 16 Jul 2026 00:22:00 GMT",
-          "ts": 1784161320.0,
-          "zh_title": "卡車運輸市場比過去多年來都緊張，但投資者對J.B. Hunt感到樂觀",
-          "zh_point": "J.B. Hunt的股價在收市後大幅上漲8%，因為燃料費用和其鐵路連接業務需求的增加使得業績受益。"
+          "title": "10 U.S. metro areas where builders are slashing prices on new homes",
+          "url": "https://www.marketwatch.com/story/10-u-s-metro-areas-where-builders-are-slashing-prices-on-new-homes-1eb19355?mod=mw_rss_topstories",
+          "summary": "Existing-home prices just hit a new record high — but there are plenty of newly built homes selling at a discount, as desperate builders cut prices.",
+          "published": "Fri, 17 Jul 2026 00:10:00 GMT",
+          "ts": 1784247000.0,
+          "zh_title": "10個美國城市新建房屋建商大幅降價",
+          "zh_point": "美國新建房屋建商因需求下降而大幅降價，10個城市的新建房屋價格已經開始下滑。根據數據，美國已售房屋的價格創下新高，但建商仍在努力出售新建房屋，為了吸引買家，建商開始降低價格。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
-          "url": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
-          "summary": "“Since her death, her bank balance fell to $9,000 from $16,000.”",
-          "published": "Thu, 16 Jul 2026 00:00:00 GMT",
-          "ts": 1784160000.0,
-          "zh_title": "母親過世後銀行帳戶陡降九千美元：到底發生了什麼事？",
-          "zh_point": "一位女士發現母親過世後銀行帳戶從十六萬美元降至九萬美元，銀行的網路服務被切斷後，女士無法查詢帳戶狀況，銀行的處理方式引起了她的疑惑。"
+          "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+          "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+          "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+          "published": "Thu, 16 Jul 2026 23:38:00 GMT",
+          "ts": 1784245080.0,
+          "zh_title": "帕洛阿爾托網路的股票已經大幅上漲 — 並且可能還會繼續上漲，根據這些買盤",
+          "zh_point": "帕洛阿爾托網路的股票在過去三個月內大約翻倍，投資者對於人工智慧增加了對安全性產品的需求感到欣賞。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
-          "url": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-          "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
-          "published": "Wed, 15 Jul 2026 23:00:00 GMT",
-          "ts": 1784156400.0,
-          "zh_title": "為什麼要根據預期壽命來申請社會保障？我們隨時都可能去世。",
-          "zh_point": "根據預期壽命來申請社會保障，主要是因為死亡日期最終只會影響繼承人的權益。"
+          "title": "As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch",
+          "url": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
+          "summary": "The megarocket’s success is SpaceX’s “single most important watch item,” one analyst says.",
+          "published": "Thu, 16 Jul 2026 23:36:00 GMT",
+          "ts": 1784244960.0,
+          "zh_title": "SpaceX 股票首度跌破 IPO 價格，公司正準備關鍵發射",
+          "zh_point": "SpaceX 的巨型火箭發射成功是公司的「關鍵關注點」，一位分析師表示。"
         },
         {
           "source": "MarketWatch",
-          "title": "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
-          "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-          "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
-          "published": "Wed, 15 Jul 2026 22:40:00 GMT",
-          "ts": 1784155200.0,
-          "zh_title": "你的Netflix帳單已經在一年多時間內漲了29%。時候讓華盛頓出面干預了。",
-          "zh_point": "Netflix仍然是華爾街的寵兒，但政府監管機構卻將其視為目標。"
+          "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
+          "url": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
+          "summary": "More than 80% of Americans worry about running out of money in retirement: “It really keeps them up at night.”",
+          "published": "Thu, 16 Jul 2026 23:17:00 GMT",
+          "ts": 1784243820.0,
+          "zh_title": "美國人認為退休需要 1.2 萬美元，但大多數人欠債太多無法達成",
+          "zh_point": "美國超過 80% 的人擔心退休後會缺錢，「這真的會讓他們失眠」。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌 受中國DeepSeek影響",
-          "zh_point": "美國股市大部分下跌，納斯達克指數跌幅最為明顯，AI基礎設施製造商股價大幅下跌，多家公司股價跌幅超過10%，Nvidia股價跌幅達16%。"
+          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
+          "zh_point": "美國股市大幅下跌，科技股尤其是人工智慧基礎設施相關股價大幅下跌，Nvidia股價下跌16%，成為跌幅最大的科技股之一。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "倫敦金、銀市場收市下跌",
-          "zh_point": "倫敦金價下跌1.4%，連續兩天下跌；倫敦銀價下跌2.5%，連續三天下跌。"
+          "zh_title": "紐約黃金、白銀結束交易下跌",
+          "zh_point": "紐約黃金和白銀昨天結束交易下跌，黃金跌幅達1.4%，白銀跌幅達2.5%，黃金連續下跌兩天，白銀連續下跌三天。"
         },
         {
           "source": "The Wall Street Journal",
@@ -197,7 +197,7 @@
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
           "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興企業DeepSeek宣稱已經訓練出高表現的AI模型，而且成本低廉，並且不需要使用最先進的晶片。"
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，且不使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會淹沒美國AI巨頭",
-          "zh_point": "Nvidia、Broadcom等科技巨頭的股價下跌引起恐慌，但這種情況被認為是過度恐慌。"
+          "zh_title": "深度尋找不會讓美國AI巨頭沉沒",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價大幅下跌，恐慌情緒可能過於誇大。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信周報：市場話題",
-          "zh_point": "DeepSeek、SoFi 等公司在科技、媒體和電信領域的最新發展，包括市場分析和投資趨勢。"
+          "zh_title": "科技、媒體與通訊業匯報：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊業最新動向。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Kathmandu Capital Q1 2026 Letter To Investors",
-          "url": "https://seekingalpha.com/article/4922454-kathmandu-capital-q1-2026-letter-to-investors?source=feed_all_articles",
+          "title": "NAHB Housing Market Index: Affordability Challenges Pull Down Builder Sentiment",
+          "url": "https://seekingalpha.com/article/4922814-nahb-housing-market-index-affordability-challenges-pull-down-builder-sentiment?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 15 Jul 2026 20:40:00 -0400",
-          "ts": 1784162400.0,
-          "zh_title": "卡達木尼首都2026年第一季度給投資者信函",
-          "zh_point": "卡達木尼首都於2026年第一季度發布財務報告，內容可能包括公司財務表現、營運情況和未來發展計畫等資訊。"
+          "published": "Thu, 16 Jul 2026 20:50:00 -0400",
+          "ts": 1784249400.0,
+          "zh_title": "NAHB房屋市場指數：房價負擔挑戰削弱建商信心",
+          "zh_point": "房屋市場指數出現下滑，建商對房價負擔的擔憂加劇，影響了他們的信心。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "TMC the metals company Inc. (TMC) Discusses Project Progress and Addresses Investor Questions in Special Call Transcript",
-          "url": "https://seekingalpha.com/article/4922438-tmc-the-metals-company-inc-tmc-discusses-project-progress-and-addresses-investor-questions-in?source=feed_all_articles",
+          "title": "Ocado Group plc (OCDDY) Q2 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4922713-ocado-group-plc-ocddy-q2-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 15 Jul 2026 20:27:56 -0400",
-          "ts": 1784161676.0,
-          "zh_title": "TMC metals company Inc. (TMC) 進行專案進展討論和投資者問題回答電話會議記錄",
-          "zh_point": "TMC metals company Inc. 進行電話會議，與投資者討論公司專案進展和相關問題。"
+          "published": "Thu, 16 Jul 2026 20:46:16 -0400",
+          "ts": 1784249176.0,
+          "zh_title": "奧卡多集團股份有限公司 Q2 2026 年財報電話會議記錄",
+          "zh_point": "奧卡多集團股份有限公司在 2026 年第二季度財報電話會議中發表財報結果，內容尚待查詢。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "PayPal: Gotta Raise The Bid",
-          "url": "https://seekingalpha.com/article/4922434-paypal-gotta-raise-the-bid?source=feed_all_articles",
+          "title": "Retail Sales Rise For Fifth Straight Month",
+          "url": "https://seekingalpha.com/article/4922813-retail-sales-rise-for-fifth-straight-month?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 15 Jul 2026 20:00:53 -0400",
-          "ts": 1784160053.0,
-          "zh_title": "PayPal：要抬高投標價格",
-          "zh_point": "PayPal可能會提高投標價格以競爭其他支付平台。"
+          "published": "Thu, 16 Jul 2026 20:40:00 -0400",
+          "ts": 1784248800.0,
+          "zh_title": "連續五個月零售額增長",
+          "zh_point": "連續五個月零售額增長，表明消費者對經濟的信心正在恢復。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Producer Price Index: Wholesale Inflation Unexpectedly Falls In June",
-          "url": "https://seekingalpha.com/article/4922449-producer-price-index-wholesale-inflation-unexpectedly-falls-in-june?source=feed_all_articles",
+          "title": "Nephros, Inc. (NEPH) Discusses Evolving Water Safety Strategies and Expansion Beyond Filtration Transcript",
+          "url": "https://seekingalpha.com/article/4922765-nephros-inc-neph-discusses-evolving-water-safety-strategies-and-expansion-beyond-filtration?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 15 Jul 2026 20:00:00 -0400",
-          "ts": 1784160000.0,
-          "zh_title": "生產者物價指數：六月批發通膨意外下降",
-          "zh_point": "六月生產者物價指數出乎意料地下降，表明批發通膨率正在放緩。"
+          "published": "Thu, 16 Jul 2026 20:26:16 -0400",
+          "ts": 1784247976.0,
+          "zh_title": "Nephros, Inc. (NEPH) 討論水安全策略的演進和超越過濾技術的擴展",
+          "zh_point": "Nephros, Inc. 在會議中分享了水安全策略的最新發展和公司未來發展方向，包括不僅僅是過濾技術的應用。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Oil stockpiles running dangerously low as Hormuz shuts again, traders warn",
-          "url": "https://seekingalpha.com/news/4614322-oil-stockpiles-close-to-running-on-empty-as-hormuz-shuts-again-traders-warn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Intuitive maintains 13.5%-15.5% 2026 da Vinci procedure growth outlook while outlining 68%-69% non-GAAP gross margin range",
+          "url": "https://seekingalpha.com/news/4614736-intuitive-maintains-13_5-percentminus-15_5-percent-2026-da-vinci-procedure-growth-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Wed, 15 Jul 2026 19:55:50 -0400",
-          "ts": 1784159750.0,
-          "zh_title": "霍爾木茲海峽再次關閉，石油儲備急速耗盡",
-          "zh_point": "霍爾木茲海峽再次關閉，石油儲備急速耗盡，市場交易商警告，全球石油儲備可能會因為霍爾木茲海峽的關閉而急速耗盡。"
+          "published": "Thu, 16 Jul 2026 20:18:47 -0400",
+          "ts": 1784247527.0,
+          "zh_title": "Intuitive維持2026年da Vinci手術程序增長預測13.5%-15.5%，非GAAP毛利率68%-69%",
+          "zh_point": "Intuitive公司預測2026年da Vinci手術程序增長率將在13.5%-15.5%之間，非GAAP毛利率則將在68%-69%之間。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "CoreWeave CFO Nitin Agrawal sells $5.5m in company stock",
-          "url": "https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-55m-in-company-stock-93CH-4794557",
+          "title": "Form 13D/A SPAR Group For: 16 July",
+          "url": "https://www.investing.com/news/filings/form-13da-spar-group-for-16-july-93CH-4797329",
           "summary": "",
-          "published": "2026-07-16 00:24:54",
-          "ts": 1784161494.0,
-          "zh_title": "CoreWeave CFO Nitin Agrawal 賣出公司股票 550 萬美元",
-          "zh_point": "CoreWeave 公司財務長 Nitin Agrawal 賣出公司股票 550 萬美元，可能與公司財務或股價表現相關。"
+          "published": "2026-07-17 00:45:06",
+          "ts": 1784249106.0,
+          "zh_title": "SPAR集團13D/A表格（16日）",
+          "zh_point": "SPAR集團發布了13D/A表格，內容未有明確摘要，可能與公司股權變動或投資者持股比例變化有關。"
         },
         {
           "source": "Investing.com",
-          "title": "New York Times seeks to block subpoenas to reporters over Air Force One reporting",
-          "url": "https://www.investing.com/news/politics-news/new-york-times-seeks-to-block-subpoenasto-reporters-over-air-force-one-reporting-4794538",
+          "title": "Form 4 Electronic Arts Inc For: 16 July",
+          "url": "https://www.investing.com/news/filings/form-4-electronic-arts-inc-for-16-july-93CH-4797328",
           "summary": "",
-          "published": "2026-07-16 00:24:49",
-          "ts": 1784161489.0,
-          "zh_title": "紐約時報試圖阻止記者受調查",
-          "zh_point": "紐約時報試圖阻止美國空軍一號專機採訪記者被傳喚作證，可能涉及調查記者與政府機關之間的資訊交換。"
+          "published": "2026-07-17 00:43:31",
+          "ts": 1784249011.0,
+          "zh_title": "電子藝術公司 Inc. 16 日表達書",
+          "zh_point": "電子藝術公司 Inc. 公布了 16 日的表達書，內容未有具體的摘要。"
         },
         {
           "source": "Investing.com",
-          "title": "Eli Lilly in talks to buy psychedelic drugmaker AtaiBeckley - Bloomberg",
-          "url": "https://www.investing.com/news/stock-market-news/eli-lilly-in-talks-to-buy-psychedelic-drugmaker-ataibeckley--bloomberg-4794556",
+          "title": "Form 4 Electronic Arts Inc For: 16 July",
+          "url": "https://www.investing.com/news/filings/form-4-electronic-arts-inc-for-16-july-93CH-4797327",
           "summary": "",
-          "published": "2026-07-16 00:17:57",
-          "ts": 1784161077.0,
-          "zh_title": "利利公司與精神藥物製造商AtaiBeckley進行談判",
-          "zh_point": "利利公司正與精神藥物製造商AtaiBeckley進行收購談判，相關細節尚未公布。"
+          "published": "2026-07-17 00:43:13",
+          "ts": 1784248993.0,
+          "zh_title": "Electronic Arts Inc 16 日財報",
+          "zh_point": "Electronic Arts Inc 公布 16 日財報，內容未有明確摘要，可能與公司股東變更或董事會改選有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Frequency Electronics earnings missed by $0.89, revenue fell short of estimates",
-          "url": "https://www.investing.com/news/earnings/frequency-electronics-earnings-missed-by-089-revenue-fell-short-of-estimates-4794555",
+          "title": "Trump to give speech on election security after years of unfounded claims",
+          "url": "https://www.investing.com/news/politics-news/with-midterms-on-deck-trump-to-deliver-primetime-speech-on-election-security-4795124",
           "summary": "",
-          "published": "2026-07-16 00:13:07",
-          "ts": 1784160787.0,
-          "zh_title": "Frequency Electronics 利潤低於預期，收入未達估計",
-          "zh_point": "Frequency Electronics 的財務報告顯示，其利潤低於預期，收入也未達估計值。這可能是由於公司面臨的挑戰和市場變化所導致。"
+          "published": "2026-07-17 00:42:29",
+          "ts": 1784248949.0,
+          "zh_title": "川普將發表演說關於選舉安全",
+          "zh_point": "川普將在多年來的無據指控之後發表關於選舉安全的演說。"
         },
         {
           "source": "Investing.com",
-          "title": "Great Southern Bancorp earnings beat by $0.07, revenue topped estimates",
-          "url": "https://www.investing.com/news/earnings/great-southern-bancorp-earnings-beat-by-007-revenue-topped-estimates-4794554",
+          "title": "Form 4 Lumentum Holdings Inc For: 16 July",
+          "url": "https://www.investing.com/news/filings/form-4-lumentum-holdings-inc-for-16-july-93CH-4797326",
           "summary": "",
-          "published": "2026-07-16 00:12:58",
-          "ts": 1784160778.0,
-          "zh_title": "南方銀行集團盈餘超越預期，收入超越估計",
-          "zh_point": "南方銀行集團最新財報顯示，其盈餘超越市場預期，收入也遠超估計，表明公司的財務表現良好。"
+          "published": "2026-07-17 00:42:06",
+          "ts": 1784248926.0,
+          "zh_title": "Lumentum Holdings Inc 16 日財報",
+          "zh_point": "Lumentum Holdings Inc 16 日發布財報，內容待查詢。"
         }
       ]
     }
