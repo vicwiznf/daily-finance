@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場主軸在於科技股和石油價格的波動。Meta宣布推出新一代人工智慧模型和晶片製造技術，引起業界的評估。谷歌和特斯拉將公布財報，對市場產生重大影響。石油價格因美伊衝突加劇而大幅上漲，美股未來指數則保持平穩。投資者正在等待本週科技股的財報公布。\n\n【結語】\n投資者需要保持冷靜和謹慎，避免被市場情緒左右。今天的市場波動可能是短期的，投資者需要關注公司的基本面和長期發展潛力。投資者也需要注意風險管理，避免過度投資和過度風險。\n\n【精選個股】\nNVDA - NVIDIA - 公司的AI基礎設施業務正在快速成長，投資者可以考慮買進。\nGOOGL - Alphabet (Google) - 公司的財報公布將對市場產生重大影響，投資者可以考慮買進。\nTSLA - Tesla - 公司的電動汽車業務正在快速成長，投資者可以考慮買進。\nGLOB - Globant - 公司的軟體服務業務正在快速成長，投資者可以考慮買進。\nCGO - CG Oncology - 公司的未來管道成果可能會讓股價大幅上漲，投資者可以考慮買進。\n\n風險提醒：投資者需要注意公司的基本面和長期發展潛力，避免被市場情緒左右。",
+  "analysis": "【今日摘要】\n今天市場情緒緊繃，受美伊衝突和石油價格上漲影響，S&P 500收盤下跌0%。微軟平台推動亞太區AI現代化，IREN 美元 2.8 億美元 AI 雲端合約改變了 IREN 的投資理念。Netflix 因過去一年大幅下跌，最新財報出爐後再度跌落。戴蒙 Chase CEO 表示市場低估風險，目前不會買入股票或國債。克拉默認為應該超越科技業，因為人工智慧的不確定性搖擺市場。\n\n【結語】\n投資者應該保持冷靜，避免被市場情緒左右。現在是風險評估和調整投資組合的好時機。投資者應該考慮多元化投資組合，減少對任何單一股票或行業的依賴。同時，投資者也應該密切關注市場發展和經濟情況，隨時準備調整投資策略。\n\n【精選個股】\nNVDA - NVIDIA - NVIDIA 股價下跌 16%，但仍然是人工智慧領域的領導者。風險提醒：人工智慧領域的不確定性可能會導致股價波動。\nMSFT - 微軟 - 微軟平台推動亞太區AI現代化，提供了投資機會。風險提醒：微軟的競爭對手可能會挑戰其市場領導地位。\nC - Citigroup - Citigroup 的財務表現良好，投資者可以考慮買入。風險提醒：銀行業的風險可能會導致股價波動。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Meta Makes Big Moves Around AI Models and Chip Production",
-          "url": "https://www.fool.com/investing/2026/07/19/meta-makes-big-moves-around-ai-models-and-chip-production/?.tsrc=rss",
-          "summary": "The team debates whether Meta's new AI, semiconductor manufacturing, and prediction market initiatives are value-added ideas or wasted capital for the tech juggernaut.",
-          "published": "Mon, 20 Jul 2026 00:49:01 +0000",
-          "ts": 1784508541.0,
-          "zh_title": "Meta在人工智慧模型和晶片生產上大動作",
-          "zh_point": "Meta宣布推出新一代人工智慧模型、晶片製造技術和預測市場平台，引起業界對這些新動作的評估。有人認為這些新動作能夠為Meta帶來新的收入來源和競爭優勢，有人則認為這些投資可能是浪費資源。"
+          "title": "Netflix Has Plummeted Over the Past Year and Just Dropped Again on Earnings. At 22 Times Profits, Is It a Buy?",
+          "url": "https://www.fool.com/investing/2026/07/20/netflix-has-fallen-40-in-a-year-and-just-dropped-a/?.tsrc=rss",
+          "summary": "The quarter itself was solid. So why does the stock keep falling?",
+          "published": "Tue, 21 Jul 2026 00:26:00 +0000",
+          "ts": 1784593560.0,
+          "zh_title": "Netflix 因過去一年大幅下跌，最新財報出爐後再度跌落。22 倍利潤是否值得買入？",
+          "zh_point": "Netflix 的股價在過去一年大幅下跌，最新財報出爐後再度跌落。雖然季度財報表現良好，但股價仍持續下跌。分析師們認為 Netflix 的股價是否值得買入，尤其是考慮到其 22 倍利潤的高估值。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures: Oil Prices Rise As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
-          "url": "https://finance.yahoo.com/m/6c8dacfc-1037-32fc-a343-353600ff0076/dow-jones-futures%3A-oil-prices.html?.tsrc=rss",
-          "summary": "Dow Jones futures: Iran attacks killed three U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
-          "published": "Mon, 20 Jul 2026 00:37:29 +0000",
-          "ts": 1784507849.0,
-          "zh_title": "道瓊未來指數：石油價格上升 美伊攻擊升級；谷歌、特斯拉領先",
-          "zh_point": "道瓊未來指數受到美伊攻擊升級的影響，石油價格上升。谷歌將公布財報和資本支出指引，對市場產生重大影響。特斯拉、英特爾和GE Vernova也將發布財報。"
+          "title": "Does US$2.8 Billion in AI Cloud Deals with Tech Giants Change The Bull Case For IREN (IREN)?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/does-us-2-8-billion-001801443.html?.tsrc=rss",
+          "summary": "In July 2026, IREN Limited announced it had secured US$2.80 billion in new multi-year AI cloud services contracts with customers including Microsoft, NVIDIA, and several AI developers, lifting its 2026 AI Cloud annualized run-rate revenue target to more than US$4.00 billion, about 85% of which is now under contract. A key feature of these agreements is sizable customer prepayments covering roughly 45% of related GPU capital expenditure, which, together with IREN’s US$7.60 billion cash...",
+          "published": "Tue, 21 Jul 2026 00:18:01 +0000",
+          "ts": 1784593081.0,
+          "zh_title": "IREN 美元 2.8 億美元 AI 雲端合約改變了 IREN 的投資理念？",
+          "zh_point": "IREN 公布與微軟、NVIDIA 等科技巨頭簽下 2.8 億美元 AI 雲端服務合約，提高 2026 年 AI 雲端年度化收入目標至 4 億美元，約 85% 的收入已經簽下合約。這些合約的關鍵特點是客戶提前支付了大量費用，覆蓋了約 45% 的相關 GPU 資本支出，與 IREN 的 76 億美元現金儲備一起，為公司未來發展提供了穩固的基礎。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why Did IBM Stock Plunge 25% in One Day? Preliminary Q2 Results Were Weak, But Not Terrible",
-          "url": "https://www.fool.com/investing/2026/07/19/ibm-stock-q2-preliminary-warning-ai-capex/?.tsrc=rss",
-          "summary": "The biggest concern among investors is that IBM will lower its full-year 2026 guidance when it releases its full, official Q2 report.",
-          "published": "Mon, 20 Jul 2026 00:37:09 +0000",
-          "ts": 1784507829.0,
-          "zh_title": "IBM 股價暴跌 25%：IBM 預計 Q2 業績不佳，但非惡劣",
-          "zh_point": "IBM 股價大幅下跌，投資人擔心 IBM 將在公佈完整 Q2 報告時降低全年 2026 年的預期業績指標。"
+          "title": "Amazon may be losing its biggest competitive edge",
+          "url": "https://www.thestreet.com/retail/amazon-losing-competitive-edge-price-more-important-then-speed?.tsrc=rss",
+          "summary": "As a longtime Amazon Prime member, I've come to expect my orders to arrive fairly quickly. Sometimes, though, Amazon exceeds my expectations. Not long ago, I placed an order for some first-aid supplies, expecting them to show up the next day. Roughly two hours later, my dogs started barking ...",
+          "published": "Tue, 21 Jul 2026 00:03:00 +0000",
+          "ts": 1784592180.0,
+          "zh_title": "亞馬遜可能正在失去最大的競爭優勢",
+          "zh_point": "亞馬遜的快速配送服務可能已經不是其競爭優勢的關鍵所在。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Should You Buy $1,000 Worth of SpaceX Stock Before Its First Earnings Report?",
-          "url": "https://www.fool.com/investing/2026/07/19/should-you-buy-1000-worth-of-spacex-stock-before-i/?.tsrc=rss",
-          "summary": "After all, those official figures probably won't be made public for weeks yet.",
-          "published": "Mon, 20 Jul 2026 00:20:00 +0000",
-          "ts": 1784506800.0,
-          "zh_title": "你該在SpaceX首次財報前購買$1,000美元的股票嗎？",
-          "zh_point": "儘管官方財報數據可能在數週後才公佈，但是在此期間購買SpaceX股票是否值得考慮？"
+          "title": "Microsoft Platforms Drive AI Modernization in Asia Pacific",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-platforms-drive-ai-modernization-000000102.html?.tsrc=rss",
+          "summary": "SYDNEY, July 21, 2026--Companies in Asia Pacific are incorporating Microsoft cloud and AI platforms into operating environments for compliance and competitiveness, ISG says.",
+          "published": "Tue, 21 Jul 2026 00:00:00 +0000",
+          "ts": 1784592000.0,
+          "zh_title": "微軟平台推動亞太區AI現代化",
+          "zh_point": "微軟雲端和人工智慧平台正被亞太地區公司納入營運環境，以符合法規要求和提高競爭力。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Memory Chips Just Fell Into a Bear Market. Micron Is Down 30% From Its High Even as AI Demand Booms.",
-          "url": "https://www.fool.com/investing/2026/07/19/memory-chips-just-fell-into-a-bear-market-micron-i/?.tsrc=rss",
-          "summary": "The fundamentals say boom. The stock price says the boom is ending. One of them is wrong.",
-          "published": "Mon, 20 Jul 2026 00:03:00 +0000",
-          "ts": 1784505780.0,
-          "zh_title": "記憶體晶片已經跌入熊市。Micron 跌幅達 30% 但 AI 需求卻在增長",
-          "zh_point": "記憶體晶片業績看似繁榮，但股價卻在下跌，究竟是業績或股價錯誤？"
+          "title": "Review & Preview: Rough Start",
+          "url": "https://finance.yahoo.com/m/8bc95bd9-0e6a-3070-a835-6e5524283a63/review-%26-preview%3A-rough-start.html?.tsrc=rss",
+          "summary": "REVIEW PREVIEW NEWSLETTER Losing Streak. Markets started off the week on slippery footing as fighting over the weekend between the U.S. and Iran pushed oil prices higher. The S&P 500 ended the day down 0.",
+          "published": "Mon, 20 Jul 2026 23:55:00 +0000",
+          "ts": 1784591700.0,
+          "zh_title": "週初惡鬥開局",
+          "zh_point": "美伊衝突導致石油價格上升，S&P 500收盤下跌0%，市場在週初出現波動。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
-          "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
-          "summary": "Speaking in an interview with CNBC, TSMC's Wendell Huang said the fresh investment comes on the back of robust customer demand.",
-          "published": "Mon, 20 Jul 2026 01:01:17 GMT",
-          "ts": 1784509277.0,
-          "zh_title": "台積電加速亞利桑那工廠建設以趁住AI大趨勢，財務長表示",
-          "zh_point": "台積電財務長表示，新投資是因應客戶需求強勁而加速亞利桑那工廠建設，希望趁住AI大趨勢。"
+          "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/07/20/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "A turn higher in oil prices kept stocks under pressure on Monday. The Dow Industrials slid more than 300 points as Apple shares lost 2%.",
+          "published": "Mon, 20 Jul 2026 23:12:07 GMT",
+          "ts": 1784589127.0,
+          "zh_title": "星期二的大股市故事：什麼會影響明天的市場走勢",
+          "zh_point": "石油價格上漲使股市在星期一維持壓力，道瓊工業指數下跌逾300點，蘋果股價下跌2%。"
         },
         {
           "source": "CNBC",
-          "title": "U.S. hits Iran for ninth consecutive night as American casualties mount",
-          "url": "https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html",
-          "summary": "The U.S. military began a ninth consecutive night of strikes against Iran, escalating a campaign aimed at destroying Tehran's ability to disrupt shipping in the Strait of Hormuz.",
-          "published": "Mon, 20 Jul 2026 00:59:37 GMT",
-          "ts": 1784509177.0,
-          "zh_title": "美軍第九晚對伊朗展開轟炸 美軍傷亡人數不斷上升",
-          "zh_point": "美軍對伊朗展開連續九晚的轟炸行動，目標是摧毀伊朗干擾霍爾木茲海峽航運的能力。"
+          "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+          "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+          "summary": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
+          "published": "Mon, 20 Jul 2026 23:01:01 GMT",
+          "ts": 1784588461.0,
+          "zh_title": "戴蒙警告市場低估風險，認為現價不買股票或國債",
+          "zh_point": "戴蒙 Chase CEO 表示市場低估風險，目前不會買入股票或國債，與投資者近期對戰爭、關稅等震撼事件的忽略形成對比。"
         },
         {
           "source": "CNBC",
-          "title": "Plenty of stocks are working in this market — you just have to look beyond tech",
-          "url": "https://www.cnbc.com/2026/07/19/plenty-of-stocks-are-working-in-this-market-just-look-beyond-tech.html",
-          "summary": "The big unanswered question is how long there can be such terrific opportunities outside tech before it dawns on those overweight the sector.",
-          "published": "Mon, 20 Jul 2026 00:33:52 GMT",
-          "ts": 1784507632.0,
-          "zh_title": "市場中有許多股票在運作著——你只需要看向非科技領域",
-          "zh_point": "市場中有許多非科技領域的股票表現良好，但未來這種情況是否能持續下去，尚待觀察。"
+          "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
+          "url": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
+          "summary": "CNBC's Jim Cramer says the AI trade has become too unpredictable, making this a better time to put new money into high-quality companies outside of technology.",
+          "published": "Mon, 20 Jul 2026 22:20:22 GMT",
+          "ts": 1784586022.0,
+          "zh_title": "克拉默認為應該超越科技業，因為人工智慧的不確定性搖擺市場",
+          "zh_point": "克拉默認為人工智慧的不確定性已經使得投資人難以預測，因此是時候將新資金投資在非科技業的優質公司上。"
         },
         {
           "source": "CNBC",
-          "title": "World Cup 2026 final in photos: Spain triumphs as football crowns a new champion",
-          "url": "https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html",
-          "summary": "Spain reclaimed football's biggest prize on Sunday, defeating Argentina 1-0 after extra time in a tense World Cup final.",
-          "published": "Mon, 20 Jul 2026 00:09:27 GMT",
-          "ts": 1784506167.0,
-          "zh_title": "2026年世界盃決賽照片：西班牙奪冠，足球新王者誕生",
-          "zh_point": "西班牙在加時賽中以1-0擊敗阿根廷，奪得世界盃冠軍。"
+          "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
+          "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+          "summary": "Canada's relationship with the U.S. has frayed amid Trump's tariff-heavy agenda and vocal displeasure with the nations' trilateral trade pact with Mexico.",
+          "published": "Mon, 20 Jul 2026 22:13:57 GMT",
+          "ts": 1784585637.0,
+          "zh_title": "特朗普對某些加拿大商品徵收 50%關稅",
+          "zh_point": "特朗普政府因為貿易歧視問題，對某些加拿大商品徵收 50% 關稅，進一步惡化美加關係。這一決定與美國對墨西哥的三邊貿易協議有關，美國總統特朗普對此表示不滿。"
         },
         {
           "source": "CNBC",
-          "title": "Spain wins the World Cup by beating Argentina 1-0 on Ferran Torres' goal in extra time",
-          "url": "https://www.cnbc.com/2026/07/19/spain-wins-the-world-cup-by-beating-argentina-1-0-on-ferran-torres-goal-in-extra-time.html",
-          "summary": "Ferran Torres' first goal of this year's World Cup was the goal of his life, and it put Spain back atop the soccer world.",
-          "published": "Sun, 19 Jul 2026 22:47:25 GMT",
-          "ts": 1784501245.0,
-          "zh_title": "西班牙在加時階段以1-0擊敗阿根廷，奪得世界盃冠軍",
-          "zh_point": "西班牙在世界盃決賽中以1-0擊敗阿根廷，奪得冠軍，費蘭·托雷斯在加時階段射入致勝球，為西班牙帶來世界足球的頂峰。"
+          "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
+          "url": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+          "summary": "Israel's prime minister, Benjamin Netanyahu, is the target of an arrest warrant issued by the International Criminal Court related to the war on Gaza.",
+          "published": "Mon, 20 Jul 2026 21:50:17 GMT",
+          "ts": 1784584217.0,
+          "zh_title": "特朗普稱紐約不會逮捕內塔尼亞胡，反駁馬曼迪尼",
+          "zh_point": "特朗普表示，美國紐約不會逮捕以色列總理內塔尼亞胡，內塔尼亞胡因涉及加沙戰爭而被國際刑事法院發布逮捕令。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies",
-          "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-          "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
-          "published": "Mon, 20 Jul 2026 00:16:00 GMT",
-          "ts": 1784506560.0,
-          "zh_title": "石油價格大幅上漲 美股未來指數平穩",
-          "zh_point": "石油價格因美伊衝突加劇而大幅上漲，美股未來指數則保持平穩，投資者正在等待本週科技股的財報公布。"
+          "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+          "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
+          "summary": "The Trump administration on Monday said it would slap 50% tariffs on some goods imported from Canada, in an effort to end what it sees as discriminatory trade practices by Ottawa against the U.S. automobile, dairy and alcohol industries.",
+          "published": "Tue, 21 Jul 2026 00:13:00 GMT",
+          "ts": 1784592780.0,
+          "zh_title": "美國對加拿大祭出嚴厲新關稅，升級貿易緊張局勢",
+          "zh_point": "美國政府宣布對來自加拿大的部分商品徵收 50% 高關稅，試圖結束對美國汽車、乳品和酒精行業的歧視性貿易行為。"
         },
         {
           "source": "MarketWatch",
-          "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
-          "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
-          "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
-          "published": "Sun, 19 Jul 2026 22:29:00 GMT",
-          "ts": 1784500140.0,
-          "zh_title": "世界盃冠軍西班牙獲得 50 億美元獎金 — 但美國稅務局也要一份",
-          "zh_point": "世界盃冠軍西班牙獲得 50 億美元獎金，但美國稅務局會從中抽取一部分稅款。"
+          "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+          "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+          "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
+          "published": "Mon, 20 Jul 2026 23:15:00 GMT",
+          "ts": 1784589300.0,
+          "zh_title": "我欠了 35,000 美元的信用卡債務，該不該申請破產？",
+          "zh_point": "一位年輕人因信用卡債務累積達 35,000 美元，正在考慮申請破產或與信用評估機構合作，尋求解決方案。"
         },
         {
           "source": "MarketWatch",
-          "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
-          "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
-          "summary": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
-          "published": "Sun, 19 Jul 2026 19:06:00 GMT",
-          "ts": 1784487960.0,
-          "zh_title": "能否讓「七大奇才」拯救即將走向絕境的股市？",
-          "zh_point": "蘋果、亞馬遜、Nvidia 等股價逐漸回暖，可能會讓目前沉靜的股市重新活躍。"
+          "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+          "url": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+          "summary": "The spread between the cost of barrels of gasoline and crude oil — known as the “crack spread” — has widened sharply.",
+          "published": "Mon, 20 Jul 2026 22:55:00 GMT",
+          "ts": 1784588100.0,
+          "zh_title": "為什麼汽油價格上漲速度快於原油價格？ blame it on the ‘crack.’",
+          "zh_point": "汽油價格與原油價格之間的差距——稱為「crack spread」——已經大幅擴張。"
         },
         {
           "source": "MarketWatch",
-          "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
-          "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
-          "summary": "Some children who don’t qualify for the government contribution may be eligible for an initial $250.",
-          "published": "Sun, 19 Jul 2026 15:43:00 GMT",
-          "ts": 1784475780.0,
-          "zh_title": "是否有截止日期要領取兒童「川普帳戶」贊助金額？",
-          "zh_point": "有些兒童不符合政府贊助資格，但可能仍可領取初期250美元贊助金。"
+          "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+          "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+          "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+          "published": "Mon, 20 Jul 2026 22:30:00 GMT",
+          "ts": 1784586600.0,
+          "zh_title": "我會提早領取社會保障金。為什麼這麼少人提到這個問題？",
+          "zh_point": "提早領取社會保障金的理由，遠遠超出傳統的成本效益分析。"
         },
         {
           "source": "MarketWatch",
-          "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
-          "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
-          "summary": "There are two main ways to move money from your workplace retirement plan when you leave your job. One can cost you.",
-          "published": "Sun, 19 Jul 2026 14:45:00 GMT",
-          "ts": 1784472300.0,
-          "zh_title": "離職時前僱主能否扣除你的401(k)退休金？",
-          "zh_point": "離職時，你可以透過兩種方式將工作退休計畫的錢轉移到自己的口袋，但其中一種方法可能會讓你付出代價。"
+          "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+          "url": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
+          "summary": "Moonshot AI’s Kimi K3 could encourage a surge in enterprise workloads and provide a long-term tailwind to chip demand.",
+          "published": "Mon, 20 Jul 2026 22:21:00 GMT",
+          "ts": 1784586060.0,
+          "zh_title": "為什麼廉價的中國人工智慧模型可能對Nvidia、Micron等晶片股帶來好處",
+          "zh_point": "廉價的中國人工智慧模型可能會刺激企業負載的增長，從而為晶片需求帶來長期的尾風。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下跌，科技股領跌，Nvidia股價下跌16%，AI基礎設施股價大幅下跌。"
+          "zh_title": "美國股市大幅下跌　中國DeepSeek事件引發整體AI路線的大規模崩盤",
+          "zh_point": "美國股市大幅下跌，納斯達克指數領跌，AI基礎設施製造商遭遇大幅下跌，多家公司股價下跌超過10%，Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約黃金交易所黃金、白銀下跌",
-          "zh_point": "紐約黃金交易所的黃金和白銀價格下跌，黃金跌幅達1.4%，連續兩天下跌，白銀跌幅達2.5%，連續三天下跌。"
+          "zh_title": "倫敦金銀市場結算下跌",
+          "zh_point": "倫敦金價跌幅達1.4%，連續兩天下跌；銀價跌幅達2.5%，連續三天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，且成本低廉，並不依靠最先進的晶片。"
+          "zh_title": "中華深尋AI：你需要知道什麼",
+          "zh_point": "中華深尋AI宣稱已經訓練出高表現的AI模型，成本低廉，並不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度搜尋不會沉淪美國AI巨頭",
-          "zh_point": "深度搜尋的問題並不會對美國的AI領導者造成重大影響，投資人們的恐慌情緒可能是過度的，導致Nvidia、Broadcom等科技巨頭的股價下跌。"
+          "zh_title": "深度尋求不會讓美國AI巨頭沉淪",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭股價大幅下跌的恐慌情緒被認為是過度擴大。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊業報導：市場話題",
-          "zh_point": "DeepSeek、SoFi 等公司在科技、媒體和通訊業的最新發展。"
+          "zh_title": "科技、媒體與通訊業新聞回顧：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊業公司在最新的市場話題中佔據了關注焦點。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Netflix: The Market Isn't Giving Enough Respect To The Streaming Giant (Upgrade)",
-          "url": "https://seekingalpha.com/article/4923334-netflix-the-market-isnt-giving-enough-respect-to-the-streaming-giant-upgrade?source=feed_all_articles",
+          "title": "Lansing Street Advisors Q2 2026 Letter",
+          "url": "https://seekingalpha.com/article/4923596-lansing-street-advisors-q2-2026-letter?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 19 Jul 2026 20:49:28 -0400",
-          "ts": 1784508568.0,
-          "zh_title": "Netflix：市場對串流巨頭給予的尊嚴不足（升級）",
-          "zh_point": "投資者認為Netflix的實力遠超市場預期，建議升級評級，以反映其在串流市場的領導地位和未來成長潛力。"
+          "published": "Mon, 20 Jul 2026 20:45:00 -0400",
+          "ts": 1784594700.0,
+          "zh_title": "蘭辛街諮詢公司 2026 年第二季度信函",
+          "zh_point": "蘭辛街諮詢公司在最新的信函中分享了關於市場趨勢和投資策略的見解。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Xencor: Strong Buy, XmAb819 Presentation, And End Of 2026 XmAb942 Interim Data",
-          "url": "https://seekingalpha.com/article/4923333-xencor-strong-buy-xmab819-presentation-and-end-of-2026-xmab942-interim-data?source=feed_all_articles",
+          "title": "Realty Income: Not Attractive After The Latest Move",
+          "url": "https://seekingalpha.com/article/4923590-realty-income-not-attractive-after-the-latest-move?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 19 Jul 2026 20:42:50 -0400",
-          "ts": 1784508170.0,
-          "zh_title": "Xencor：強買評級， XmAb819 發表會，2026 年 XmAb942 中期數據結束",
-          "zh_point": "Xencor 的 XmAb819 項目將於近期發表會上公布最新進展，同時公司也將於 2026 年年底公布 XmAb942 項目的中期數據，投資人對這些項目的表現感到興趣。"
+          "published": "Mon, 20 Jul 2026 20:19:55 -0400",
+          "ts": 1784593195.0,
+          "zh_title": "Realty Income：不再吸引人",
+          "zh_point": "Realty Income 進行最新的動作後，其投資吸引力不再明顯。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "CG Oncology: Priced To Perfection On Future Pipeline Success",
-          "url": "https://seekingalpha.com/article/4923331-cg-oncology-priced-to-perfection-on-future-pipeline-success?source=feed_all_articles",
+          "title": "ServisFirst projects 4% to 6% quarterly net interest margin expansion as repricing opportunities exceed $2B",
+          "url": "https://seekingalpha.com/news/4615647-servisfirst-projects-4-percent-to-6-percent-quarterly-net-interest-margin-expansion-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Sun, 19 Jul 2026 20:26:41 -0400",
-          "ts": 1784507201.0,
-          "zh_title": "CG Oncology：未來管道成功的絕佳價格",
-          "zh_point": "CG Oncology的未來管道成果可能會讓股價大幅上漲，目前的股價被認為是理想的買入時機。"
+          "published": "Mon, 20 Jul 2026 20:15:06 -0400",
+          "ts": 1784592906.0,
+          "zh_title": "ServisFirst 預估四分之一營業淨利息利差將擴大 4% 至 6%",
+          "zh_point": "ServisFirst 預估四分之一營業淨利息利差將擴大 4% 至 6%，並表示重新定價機會超過 200 億美元。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Titan International: Industry Weakness Offsets A Cheap Valuation",
-          "url": "https://seekingalpha.com/article/4923329-titan-international-industry-weakness-offsets-cheap-valuation?source=feed_all_articles",
+          "title": "ServisFirst Bancshares, Inc. (SFBS) Q2 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4923584-servisfirst-bancshares-inc-sfbs-q2-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 19 Jul 2026 20:03:47 -0400",
-          "ts": 1784505827.0,
-          "zh_title": "泰坦國際：產業弱點抵消低估值",
-          "zh_point": "泰坦國際因產業弱點而面臨挑戰，儘管其股價被認為低估，但仍面臨業績下滑的風險。公司的財務表現受到輪胎和農用機械產業的影響，導致股價波動。投資者需要關注公司的產業趨勢和財務健康狀況。"
+          "published": "Mon, 20 Jul 2026 20:11:41 -0400",
+          "ts": 1784592701.0,
+          "zh_title": "ServisFirst Bancshares, Inc. (SFBS) 2026年第二季財報電話會議記錄",
+          "zh_point": "ServisFirst Bancshares, Inc. 公布第二季財報，財務表現將在電話會議中公佈。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Globant: A Strong Way To Play The 'Software Isn't Dead' Case",
-          "url": "https://seekingalpha.com/article/4923328-globant-stock-strong-way-to-play-the-software-isnt-dead-case?source=feed_all_articles",
+          "title": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+          "url": "https://seekingalpha.com/article/4923593-celestica-the-cheapest-way-to-invest-in-growth-in-ai-trends?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 19 Jul 2026 19:56:21 -0400",
-          "ts": 1784505381.0,
-          "zh_title": "Globant：軟體行業未死的強力投資選擇",
-          "zh_point": "Globant 是一家全球軟體服務公司，致力於提供高質量的軟體開發和技術支援服務，公司的業務模式和成長潛力值得投資者關注。"
+          "published": "Mon, 20 Jul 2026 20:10:00 -0400",
+          "ts": 1784592600.0,
+          "zh_title": "Celestica：AI趨勢投資最便宜的方法",
+          "zh_point": "Celestica是一間全球知名的電子製造服務供應商，正在投資人工智能（AI）技術，為投資者提供了便宜的機會投資AI趨勢。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Asia shares hesitant as oil climbs, earnings loom",
-          "url": "https://www.investing.com/news/economy-news/asia-shares-hesitant-as-oil-climbs-earnings-loom-4799763",
+          "title": "Why is Nebius stock rising after-hours today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-rising-afterhours-today-93CH-4801813",
           "summary": "",
-          "published": "2026-07-20 00:36:32",
-          "ts": 1784507792.0,
-          "zh_title": "亞洲股市猶豫不決　油價上漲　業績公布即將來臨",
-          "zh_point": "亞洲股市出現猶豫不決的情況，油價上漲對市場造成壓力，企業即將公布業績，市場投資者預期業績公布將對股市產生重大影響。"
+          "published": "2026-07-21 00:51:10",
+          "ts": 1784595070.0,
+          "zh_title": "為什麼 Nebius 股票在今天的延長交易時間內上漲？",
+          "zh_point": "Nebius 股票在延長交易時間內出現上漲，原因尚未明確，但可能與公司的財務表現、業績預期或市場情緒等因素有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Foxconn wins estimated $52 billion SpaceX AI server order - Economic Daily",
-          "url": "https://www.investing.com/news/stock-market-news/foxconn-wins-estimated-52-billion-spacex-ai-server-order--economic-daily-4799762",
+          "title": "Chinese destroyer held live-fire drill in Japan’s EEZ, Japan says",
+          "url": "https://www.investing.com/news/world-news/chinese-destroyer-held-livefire-drill-in-japans-eez-japan-says-4801812",
           "summary": "",
-          "published": "2026-07-20 00:33:10",
-          "ts": 1784507590.0,
-          "zh_title": "富士康贏得估計52億美元太空探索技術AI伺服器訂單 - 經濟日報",
-          "zh_point": "富士康獲得太空探索技術公司的巨額AI伺服器訂單，估計價值52億美元，這可能是科技業的重大合作。"
+          "published": "2026-07-21 00:48:29",
+          "ts": 1784594909.0,
+          "zh_title": "中國驅逐艦在日本海域實施實彈演習，日本表示",
+          "zh_point": "日本政府指出，中國一艘驅逐艦在日本的經濟海域內進行實彈演習，引起日本政府關注，日本政府要求中國解釋此事。"
         },
         {
           "source": "Investing.com",
-          "title": "Soccer-Substitute Torres rescues grim final to make Spain world champions",
-          "url": "https://www.investing.com/news/world-news/soccertorres-grabs-extratime-winner-as-spain-beat-toothless-argentina-to-win-their-second-world-cup-4799749",
+          "title": "Oil holds gains as traders weigh U.S.-Iran conflict, Houthi Saudi blockade",
+          "url": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-traders-weigh-usiran-conflict-houthi-saudi-blockade-4801811",
           "summary": "",
-          "published": "2026-07-20 00:30:30",
-          "ts": 1784507430.0,
-          "zh_title": "足球-替補球員托雷斯救援慘烈的最後一刻讓西班牙成為世界冠軍",
-          "zh_point": "托雷斯在最後一刻替補上場，幫助西班牙在世界盃決賽中取得勝利，奪得冠軍。"
+          "published": "2026-07-21 00:46:57",
+          "ts": 1784594817.0,
+          "zh_title": "石油持續上漲，交易商考慮美伊衝突和胡塞派沙烏地封鎖",
+          "zh_point": "石油價格持續上漲，交易商正在衡量美伊關係緊張和胡塞派對沙烏地的封鎖對石油供應的影響。"
         },
         {
           "source": "Investing.com",
-          "title": "Samsung Biologics to launch $1.8 billion all-cash bid for PolyPeptide",
-          "url": "https://www.investing.com/news/stock-market-news/samsung-biologics-to-launch-18-billion-allcash-bid-for-polypeptide-4799761",
+          "title": "US stock futures steady with Iran tensions, megacap tech earnings in focus",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-tensions-megacap-tech-earnings-in-focus-4801810",
           "summary": "",
-          "published": "2026-07-20 00:24:29",
-          "ts": 1784507069.0,
-          "zh_title": "三星生物科技將發動18億美元全現金收購PolyPeptide",
-          "zh_point": "三星生物科技將發動18億美元全現金收購PolyPeptide，標誌著該公司進一步擴展生物製劑業務。"
+          "published": "2026-07-21 00:45:24",
+          "ts": 1784594724.0,
+          "zh_title": "美股期貨穩定中，伊朗局勢與大型科技股報酬在焦點",
+          "zh_point": "美股期貨在伊朗局勢緊張的情況下保持穩定，投資人將關注大型科技股的財報成績。"
         },
         {
           "source": "Investing.com",
-          "title": "Brent oil tops $90 as US, Iran intensify attacks in Middle East",
-          "url": "https://www.investing.com/news/commodities-news/brent-oil-tops-90-as-us-iran-intensify-attacks-in-middle-east-4799760",
+          "title": "South Korean economy likely slowed in Q2 after robust Q1 growth: Reuters poll",
+          "url": "https://www.investing.com/news/economic-indicators/south-korean-economy-likely-slowed-in-q2-after-robust-q1-growth-reuters-poll-4801809",
           "summary": "",
-          "published": "2026-07-20 00:18:26",
-          "ts": 1784506706.0,
-          "zh_title": "布蘭特原油突破 90 美元 美國和伊朗在中東加緊攻勢",
-          "zh_point": "美國和伊朗在中東地區的軍事攻勢加劇，布蘭特原油價格因此上升至 90 美元以上。"
+          "published": "2026-07-21 00:42:47",
+          "ts": 1784594567.0,
+          "zh_title": "韓國經濟料在二季度放緩，前一季增長強勁：路透社民意調查",
+          "zh_point": "路透社最新民意調查顯示，韓國經濟在二季度可能放緩，與前一季的強勁增長形成對比。"
         }
       ]
     }
