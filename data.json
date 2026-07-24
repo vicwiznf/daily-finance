@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒較為複雜，道瓊未來指數微幅上升，但谷歌和特斯拉因獲利和投資計畫而下跌。人工智慧硬體股價則上升，表明市場對人工智慧的投資仍然樂觀。另外，石油價格升高，美國總統對伊朗威脅升級，可能會對全球經濟產生影響。IBM下修全年預測，投資人感到擔憂。南方航空第三季度預測短缺，燃油費用攀升，可能會對航空業產生影響。\n\n【結語】\n今天市場情緒較為複雜，投資人需要謹慎觀察和分析市場情況。人工智慧硬體股價上升，表明市場對人工智慧的投資仍然樂觀，但投資人也需要注意IBM下修全年預測和南方航空第三季度預測短缺的風險。投資人需要保持謹慎和耐心，盡量避免在市場波動時進行大幅度的買賣或賣出。\n\n【精選個股】\nGOOGL - Alphabet - 股價因2026 年投資額增加而下跌，但公司的雲端業務增長達 82%，表明公司仍然具有強勁的財務能力。\nNVDA - Nvidia - 股價下跌16%，但公司仍然是人工智慧硬體領域的領導者。\nMAR - Marvell Technology - 股價上升，因為公司的人工智慧晶片的熱潮和行業的樂觀情緒。",
+  "analysis": "【今日摘要】\n今天市場情緒緊繃，受中國DeepSeek事件影響，AI產業全面受創，Nvidia股價下跌16%。另一方面，英特爾轉型之下，CEO 陳立波帶領公司再創佳績。市場話題還包括川普賬戶上線、亞馬遜限制使用AI圖像的賣家、Allianz購買HSBC的新加坡保險業務等。整體而言，市場情緒偏於悲觀，但仍有機會出現反彈。\n\n【結語】\n投資者們應該保持冷靜，避免過度恐慌。市場波動是正常的，投資者們應該關注公司的基本面和長期發展。不要被短期市場情緒影響，保持耐心和謹慎的投資態度。投資者們也應該注意風險管理，分散投資和避免過度集中。\n\n【精選個股】\nNVDA - NVIDIA - NVIDIA擁有55%的淨利潤率和堅固的資產負債表。\nSKYW - SkyWest - SkyWest 預估 2026 年稅前盈餘每股將達到約 $11。\nENVA - Enova - Enova 預估 2026 年調整 EPS 增長 30% 至 35%。\n風險提醒：投資市場有風險，投資者們應該謹慎投資並注意風險管理。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures Rise; Google, Tesla Fall On Earnings, Capex, But AI Stocks Climb",
-          "url": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures-rise%3B.html?.tsrc=rss",
-          "summary": "Futures edged higher. Google and Tesla retreated on earnings and heavy capital spending, but AI hardware plays rose.",
-          "published": "Thu, 23 Jul 2026 00:40:35 +0000",
-          "ts": 1784767235.0,
-          "zh_title": "道瓊未來指數升高；谷歌、特斯拉因獲利和投資計畫而下跌，但人工智慧股價上升",
-          "zh_point": "道瓊未來指數微幅上升，但谷歌和特斯拉因獲利和投資計畫而下跌，人工智慧硬體股價則上升。"
+          "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Rises Late, SpaceX Starship Launch Delayed",
+          "url": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html?.tsrc=rss",
+          "summary": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due.",
+          "published": "Fri, 24 Jul 2026 00:47:02 +0000",
+          "ts": 1784854022.0,
+          "zh_title": "道瓊未來指數：市場因油價上漲、谷歌、特斯拉下跌，英特爾晚上反彈，史太克太空船發射延期",
+          "zh_point": "道瓊未來指數因油價大幅上漲和谷歌、特斯拉股價下跌而出現大幅下跌，英特爾晚上反彈，史太克太空船發射計畫也因天氣原因延期。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Alphabet Just Delivered 82% Cloud Growth. Why It Wasn't Enough",
-          "url": "https://www.fool.com/investing/2026/07/22/alphabet-just-tripled-profit-in-this-ai-centric-ca/?.tsrc=rss",
-          "summary": "The Google Cloud business is booming.",
-          "published": "Thu, 23 Jul 2026 00:37:43 +0000",
-          "ts": 1784767063.0,
-          "zh_title": "Alphabet Just Delivered 82% Cloud Growth. Why It Wasn't Enough",
-          "zh_point": "Alphabet 的雲端業務增長達 82%，但仍未達到市場預期。"
+          "title": "NVIDIA vs. Planet Labs: Which High-Growth Tech Stock Is a Better Buy in 2026?",
+          "url": "https://www.fool.com/coverage/better-buy/2026/07/23/nvidia-vs-planet-labs-which-high-growth-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+          "summary": "NVIDIA commands a 55% net margin and fortress balance sheet, while Planet Labs burns cash despite 26% revenue growth, a tale of profitability versus potential.",
+          "published": "Fri, 24 Jul 2026 00:46:01 +0000",
+          "ts": 1784853961.0,
+          "zh_title": "NVIDIA vs. Planet Labs：哪家高成長科技股在 2026 年更值得買入？",
+          "zh_point": "NVIDIA擁有55%的淨利潤率和堅固的資產負債表，而Planet Labs卻因26%的收入成長而虧損，展現了盈利能力與潛力之間的對比。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Where Will Solana Be in 3 Years?",
-          "url": "https://www.fool.com/investing/2026/07/22/where-will-solana-be-in-3-years/?.tsrc=rss",
-          "summary": "The biggest prize at stake is the market for tokenized stocks.",
-          "published": "Thu, 23 Jul 2026 00:31:00 +0000",
-          "ts": 1784766660.0,
-          "zh_title": "三年後的索拉納將如何？",
-          "zh_point": "索拉納的未來發展，尤其是與tokenized股票市場的競爭關係，將是觀察的焦點。"
+          "title": "Trump Accounts Are Live, But Are They the Best Choice?",
+          "url": "https://www.fool.com/investing/2026/07/23/trump-accounts-are-live-but-are-they-the-best-choice/?.tsrc=rss",
+          "summary": "The team discusses the pros and cons of this new investment option for children.",
+          "published": "Fri, 24 Jul 2026 00:36:03 +0000",
+          "ts": 1784853363.0,
+          "zh_title": "川普賬戶已上線，但它們是最佳選擇嗎？",
+          "zh_point": "川普家族的投資選擇已經上線，但它們是否適合孩子的投資需求？這個新選擇的優缺點值得商榷。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Alibaba Group Holding (BABA) Joins Apple Intelligence In China, Is The Stock Still Undervalued?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-joins-001630752.html?.tsrc=rss",
-          "summary": "Alibaba Group Holding (BABA) is back in the spotlight after confirming its Qwen large language model will power Apple Intelligence features on Apple devices in China, following regulatory approval that clears a key AI commercialization milestone. See our latest analysis for Alibaba Group Holding. That Apple Qwen partnership comes as Alibaba Group Holding's share price has risen about 11.0% over the past month but remains down roughly 25.2% year to date. The 3 year total shareholder return of...",
-          "published": "Thu, 23 Jul 2026 00:16:30 +0000",
-          "ts": 1784765790.0,
-          "zh_title": "阿里巴巴集團 (BABA) 加入蘋果智慧中國合作，股價是否仍低估？",
-          "zh_point": "阿里巴巴集團 (BABA) 因其大型語言模型 Qwen 將與蘋果智慧功能合作，獲得中國監管機構批准，進一步推動 AI 商業化。阿里巴巴集團的股價近期上漲約 11.0%，但仍下跌約 25.2% 年內。"
+          "title": "2 Missions, 3 Launches, and Up to $300 Million for Rocket Lab",
+          "url": "https://www.fool.com/investing/2026/07/23/2-missions-3-launches-300-million-for-rocket-lab/?.tsrc=rss",
+          "summary": "Rocket Lab stock is down 32% in July, but it's still winning contracts.",
+          "published": "Fri, 24 Jul 2026 00:25:00 +0000",
+          "ts": 1784852700.0,
+          "zh_title": "兩個任務、三次發射，火箭實驗室最高可獲得 30 億美元",
+          "zh_point": "儘管股價下跌 32%，火箭實驗室仍然在贏得合約。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Did AI-Euphoria and Volatile Options Pricing Just Shift Marvell Technology's (MRVL) Investment Narrative?",
-          "url": "https://finance.yahoo.com/markets/options/articles/did-ai-euphoria-volatile-options-001600472.html?.tsrc=rss",
-          "summary": "In recent months, Marvell Technology has been at the center of renewed AI-chip enthusiasm, buoyed by sector-wide optimism, accelerating AI-related bookings, and high-profile endorsements such as Nvidia CEO Jensen Huang’s “next trillion-dollar company” remark and its addition to the S&P 500 index. At the same time, options markets are signaling very large ranges for potential outcomes and elevated implied volatility, underlining how ambitious growth expectations and dependence on hyperscaler...",
-          "published": "Thu, 23 Jul 2026 00:16:00 +0000",
-          "ts": 1784765760.0,
-          "zh_title": "是否人工智慧狂潮和選擇權定價波動改變了 Marvell Technology 的投資故事？",
-          "zh_point": "近期，Marvell Technology 因人工智慧晶片的熱潮而受到關注，受到行業的樂觀情緒、人工智慧相關訂單的加速和高調推薦等因素影響。同時，選擇權市場預示了巨大的範圍和高的隱含波動性，突出了對超級雲端商的依賴和雄心勃勃的成長預期。"
+          "title": "Tesla's Operating Margin Just Fell to 1.4% and Free Cash Flow Went Negative. Here's Where the Money Is Going.",
+          "url": "https://www.fool.com/investing/2026/07/23/teslas-operating-margin-just-fell-to-14-and-free-c/?.tsrc=rss",
+          "summary": "A record quarter for revenue was also the thinnest for profit in a while. But the spending behind that gap is the real story.",
+          "published": "Fri, 24 Jul 2026 00:20:00 +0000",
+          "ts": 1784852400.0,
+          "zh_title": "特斯拉營業利潤率跌至 1.4%，自由現金流轉負。",
+          "zh_point": "特斯拉近期營收創下新高，但利潤卻是近期最低。公司花費的真實故事正在背後展開。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
-          "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
-          "summary": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
-          "published": "Thu, 23 Jul 2026 00:55:28 GMT",
-          "ts": 1784768128.0,
-          "zh_title": "石油價格升高 美國總統對伊朗威脅升級",
-          "zh_point": "美國總統唐納德·川普威脅對伊朗的軍事行動，石油價格因而上升。"
+          "title": "Amazon cracks down on use of AI images by sellers after New York law",
+          "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+          "summary": "A recently enacted New York law mandates that companies disclose when an ad includes a \"synthetic performer\" in place of a human actor.",
+          "published": "Fri, 24 Jul 2026 00:36:42 GMT",
+          "ts": 1784853402.0,
+          "zh_title": "亞馬遜嚴格限制使用AI圖像的賣家",
+          "zh_point": "亞馬遜因紐約州新頒布的法律而開始嚴格限制賣家使用人工智能生成的圖像，尤其是那些以人工智能取代真實人士的廣告。"
         },
         {
           "source": "CNBC",
-          "title": "IBM lowers full-year forecast after earnings warning",
-          "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-          "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
-          "published": "Thu, 23 Jul 2026 00:17:38 GMT",
-          "ts": 1784765858.0,
-          "zh_title": "IBM 下修全年預測後發出警告",
-          "zh_point": "IBM 因發出盈餘警告，下修全年預測，公司正在嘗試透過人工智慧提升生產力，包括推出新的程式碼工具「Bob」。"
+          "title": "Japan core inflation rate in June creeps up from 4-year low as higher oil prices bite",
+          "url": "https://www.cnbc.com/2026/07/24/japan-cpi-june-inflation-oil-prices-yen.html",
+          "summary": "This is the first rise in core inflation since March, and was in line with the1.6% growth expected by economists polled by Reuters.",
+          "published": "Fri, 24 Jul 2026 00:23:08 GMT",
+          "ts": 1784852588.0,
+          "zh_title": "日本核心通膨率6月微升至4年低點以後",
+          "zh_point": "日本6月核心通膨率首次升高，達1.6%，超越經濟學家預期。"
         },
         {
           "source": "CNBC",
-          "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
-          "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
-          "summary": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
-          "published": "Wed, 22 Jul 2026 23:25:25 GMT",
-          "ts": 1784762725.0,
-          "zh_title": "南方航空第三季度預測短缺，燃油費用攀升",
-          "zh_point": "南方航空第二季度利潤超過9%增長，航空公司因為票價上漲而逐漸能夠承擔燃油費用。"
+          "title": "Allianz to buy HSBC’s Singapore insurance unit for $2.09 billion",
+          "url": "https://www.cnbc.com/2026/07/24/allianz-to-buy-hsbcs-singapore-insurance-unit-for-2billion.html",
+          "summary": "Allianz to acquire Singapore insurance business from HSBC",
+          "published": "Fri, 24 Jul 2026 00:18:30 GMT",
+          "ts": 1784852310.0,
+          "zh_title": "Allianz 將購買 HSBC 的新加坡保險業務 209 億美元",
+          "zh_point": "德國金融巨頭 Allianz 將以 209 億美元的價格收購英國銀行 HSBC 的新加坡保險業務。這項交易將使 Allianz 在亞太區的保險業務擴展。"
         },
         {
           "source": "CNBC",
-          "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
-          "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
-          "summary": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
-          "published": "Wed, 22 Jul 2026 23:21:42 GMT",
-          "ts": 1784762502.0,
-          "zh_title": "Alphabet 利潤公佈：Q2 收入超預期，GOOGL 股價因2026 年投資額增加而下跌",
-          "zh_point": "Alphabet 的母公司 Google 公佈了第二季度財報，收入超出了市場預期，但股價因為2026 年的投資額增加而下跌。"
+          "title": "Intel's turnaround under CEO Lip-Bu Tan gains steam with another strong quarter",
+          "url": "https://www.cnbc.com/2026/07/23/intels-turnaround-under-ceo-lip-bu-tan-gains-steam-with-another-strong-quarter.html",
+          "summary": "It's hard not to be impressed by Tan, who, in a little more than a year, has transformed the company.",
+          "published": "Thu, 23 Jul 2026 23:53:57 GMT",
+          "ts": 1784850837.0,
+          "zh_title": "英特爾轉型之下，CEO 陳立波帶領公司再創佳績",
+          "zh_point": "英特爾在CEO 陳立波領導下，僅一年多時間內已經展現出顯著的轉型成果。"
         },
         {
           "source": "CNBC",
-          "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
-          "url": "https://www.cnbc.com/2026/07/22/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-          "summary": "Oil prices pressured stocks on Wednesday. Tune in to \"Squawk Box\" Thursday for Robert Isom, CEO of American Airlines, and Bob Jordan, Southwest Airlines' CEO.",
-          "published": "Wed, 22 Jul 2026 23:20:51 GMT",
-          "ts": 1784762451.0,
-          "zh_title": "週四大股市新聞：週五市場何時會出現波動？",
-          "zh_point": "週三石油價格下跌壓縮了股市。週四的「Squawk Box」節目將邀請美國航空公司CEO羅伯特·伊森（Robert Isom）和南西航空公司CEO鮑伯·瓊丹（Bob Jordan）作客。"
+          "title": "How to save for retirement when you're living paycheck to paycheck",
+          "url": "https://www.cnbc.com/select/how-to-save-for-retirement-living-paycheck-to-paycheck/",
+          "summary": "CNBC Select provides a decade-by-decade guide to building retirement savings on a tight budget.",
+          "published": "Thu, 23 Jul 2026 23:47:44 GMT",
+          "ts": 1784850464.0,
+          "zh_title": "如何在每月挪零頭的生活中儲蓄退休金",
+          "zh_point": "為了在退休前儲蓄足夠的金額，CNBC Select 提供了一個十年一期的指南，幫助你在緊縮預算下建立退休儲蓄計畫。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
-          "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
-          "summary": "Treasury yields are approaching the highest levels seen since the Iran war started in February as oil prices rise",
-          "published": "Thu, 23 Jul 2026 00:27:00 GMT",
-          "ts": 1784766420.0,
-          "zh_title": "美股牛市面臨美聯儲加息風險升高",
-          "zh_point": "美聯儲可能加息，美股牛市面臨挑戰。美聯儲加息風險升高，美股牛市面臨挑戰。"
+          "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
+          "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+          "summary": "The FDA is deciding whether seven peptides can be legally compounded, potentially opening the door to broader use in Americans.",
+          "published": "Thu, 23 Jul 2026 23:43:00 GMT",
+          "ts": 1784850180.0,
+          "zh_title": "美國FDA顧問多數認為BPC-157和TB-500等肽類物質應該在美國可供購買",
+          "zh_point": "美國食品藥物管理局（FDA）正在決定七種肽類物質是否可合法合成，可能會開放這些物質在美國更廣泛的使用。"
         },
         {
           "source": "MarketWatch",
-          "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-          "url": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
-          "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
-          "published": "Thu, 23 Jul 2026 00:18:00 GMT",
-          "ts": 1784765880.0,
-          "zh_title": "ServiceNow 股價上升 因為財報顯示網路安全業務增長",
-          "zh_point": "ServiceNow 在軟體業景氣惡化的情況下，仍然超越了收入預期，股價因此上升。"
+          "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+          "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
+          "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
+          "published": "Thu, 23 Jul 2026 22:12:00 GMT",
+          "ts": 1784844720.0,
+          "zh_title": "八月股市暴跌只是傳說 — 為什麼華爾街仍重複這個謊言？",
+          "zh_point": "根據超過200年的數據顯示，股市通常在八月會上漲，市場波動率也遠低於平均值。"
         },
         {
           "source": "MarketWatch",
-          "title": "IBM just cut its outlook, but not by as much as investors feared",
-          "url": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
-          "summary": "IBM’s official earnings report comes after a bruising profit warning last week.",
-          "published": "Thu, 23 Jul 2026 00:17:00 GMT",
-          "ts": 1784765820.0,
-          "zh_title": "IBM 切割預期，但不如投資人擔心的那樣嚴重",
-          "zh_point": "IBM 公佈財報，接踵而來的是上週的利潤警告。IBM 的財報出乎意料地不如投資人預期的那樣惡劣，投資人稍微鬆了一口氣。"
+          "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+          "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+          "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
+          "published": "Thu, 23 Jul 2026 22:03:00 GMT",
+          "ts": 1784844180.0,
+          "zh_title": "標準普爾 500 指數出現賣出信號 — 選擇權交易者準備迎接蘋果、元宇宙和微軟股價大幅波動",
+          "zh_point": "投資人們因為擔心股市大幅波動而準備迎接蘋果、元宇宙和微軟等大型企業股價大幅波動，尤其是在公司財報出爐後。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
-          "url": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
-          "summary": "“I never heard a rock hit the windshield.”",
-          "published": "Wed, 22 Jul 2026 23:00:00 GMT",
-          "ts": 1784761200.0,
-          "zh_title": "租車公司可以收取我$2,000的費用嗎？",
-          "zh_point": "租車公司Hertz要求我支付$2,000的費用，因為我的租借車輛的玻璃破裂了，但我堅持自己沒有聽到玻璃被石頭擊中。"
+          "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+          "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+          "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+          "published": "Thu, 23 Jul 2026 22:02:00 GMT",
+          "ts": 1784844120.0,
+          "zh_title": "AI 股票大跌看似恐怖，但可能會拯救牛市",
+          "zh_point": "2026 年最熱門的科技交易被狠狠打跌，但聰明的投資者卻在買進。"
         },
         {
           "source": "MarketWatch",
-          "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-          "url": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-          "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
-          "published": "Wed, 22 Jul 2026 22:46:00 GMT",
-          "ts": 1784760360.0,
-          "zh_title": "我想轉讓 17,000 美元的信用卡債務，為什麼華盛頓銀行只給我 4,000 美元的信用額度？",
-          "zh_point": "一名信用卡持有人詢問華盛頓銀行為什麼只給他 4,000 美元的信用額度，銀行員卻無法給出合理的解釋。"
+          "title": "AMD’s rivalry with Nvidia is increasingly moving into a new realm",
+          "url": "https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories",
+          "summary": "The chip makers are best known for competing in the GPU business, but they’re stepping up their offerings in the attractive market for server CPUs.",
+          "published": "Thu, 23 Jul 2026 21:59:00 GMT",
+          "ts": 1784843940.0,
+          "zh_title": "AMD與Nvidia之間的競爭越來越轉移到新的領域",
+          "zh_point": "AMD和Nvidia在GPU市場上競爭已久，但現在他們正積極進入伺服器CPU市場，展開新的競爭。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下滑 受中國DeepSeek事件影響",
-          "zh_point": "美國股市大幅下滑，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌，其中許多股價下跌超過10%，Nvidia股價下跌16%。"
+          "zh_title": "美股大幅下挫，受中國DeepSeek事件影響的AI產業全面受創",
+          "zh_point": "美國股市大幅下跌，納斯達克指數領跌，AI基礎設施製造商大幅下跌，多家公司股價跌幅超過10%，Nvidia股價下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金價、白銀價格下跌",
-          "zh_point": "紐約金價和白銀價格昨天下跌，金價跌幅達1.4%，連續兩個交易日下跌，白銀跌幅達2.5%，連續三個交易日下跌。"
+          "zh_title": "紐約黃金交易所金、銀價格下跌",
+          "zh_point": "紐約黃金交易所的黃金價格下跌1.4%，連續兩天下跌，白銀價格則下跌2.5%，連續三天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "關於中國深度探索AI的要點",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，但不使用最先進的晶片，成本相對較低。"
+          "zh_title": "關於中國DeepSeek AI的要點",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，但不使用最先進的晶片，成本也相當低廉。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "DeepSeek 不會淹沒美國AI巨頭",
-          "zh_point": "Nvidia、Broadcom 等科技巨頭的股價下跌引起的恐慌情緒被認為是過度擴大，DeepSeek 的影響不會對美國的AI領域造成重大影響。"
+          "zh_title": "深度尋求未必會淹沒美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭股價大幅下跌的恐慌情緒可能過度膨脹。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊產業回顧：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊產業的最新發展，包括市場趨勢、投資機會和企業動態等。"
+          "zh_title": "科技、媒體與電信周報：市場話題",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和電信領域的最新市場動態。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Las Vegas Sands targets $700M quarterly Macau EBITDA while Marina Bay Sands expansion remains on track for early 2031",
-          "url": "https://seekingalpha.com/news/4617112-las-vegas-sands-targets-700m-quarterly-macau-ebitda-while-marina-bay-sands-expansion-remains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Enova forecasts 30% to 35% adjusted EPS growth in 2026 as Grasshopper deal remains on track for later this year",
+          "url": "https://seekingalpha.com/news/4617870-enova-forecasts-30-percent-to-35-percent-adjusted-eps-growth-in-2026-as-grasshopper-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Wed, 22 Jul 2026 20:52:41 -0400",
-          "ts": 1784767961.0,
-          "zh_title": "拉斯維加斯沙灘目標達成7000萬美元的季度澳門EBITDA，馬林灣沙灘擴建仍按時進行，預計2029年初完成",
-          "zh_point": "拉斯維加斯沙灘公司在澳門的營運目標達到7000萬美元的季度EBITDA，同時馬林灣沙灘的擴建工程仍在按時進行，預計2029年初完成。"
+          "published": "Thu, 23 Jul 2026 20:51:47 -0400",
+          "ts": 1784854307.0,
+          "zh_title": "Enova 預估 2026 年調整 EPS 增長 30% 至 35%",
+          "zh_point": "Enova 預估 2026 年調整 EPS 增長 30% 至 35%，草蜢交易仍在今年晚些時候的路上。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "WhiteHawk Limited (WHTHF) Discusses CEO 100-Day Plan and Strategic Direction Including AI Governance and Partner-Led Growth Prepared Remarks Transcript",
-          "url": "https://seekingalpha.com/article/4924454-whitehawk-limited-whthf-discusses-ceo-100-day-plan-and-strategic-direction-including-ai?source=feed_all_articles",
+          "title": "Digi Power X: The Business Improved While Shareholders Were Diluted",
+          "url": "https://seekingalpha.com/article/4925072-digi-power-x-stock-business-improved-while-shareholders-diluted?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 22 Jul 2026 20:50:26 -0400",
-          "ts": 1784767826.0,
-          "zh_title": "白鷹有限公司 (WHTHF) CEO 100 天計畫與策略方向討論，包括人工智慧管治和夥伴領導成長備忘錄",
-          "zh_point": "白鷹有限公司CEO就公司100天計畫、人工智慧管治和夥伴領導成長等議題進行了討論。"
+          "published": "Thu, 23 Jul 2026 20:47:03 -0400",
+          "ts": 1784854023.0,
+          "zh_title": "Digi Power X：業務改善中，但股東被稀釋",
+          "zh_point": "Digi Power X 的業務表現有所改善，但是在這個過程中，股東的權益卻被稀釋，可能會對股東造成不利影響。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Las Vegas Sands Corp. (LVS) Q2 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4924434-las-vegas-sands-corp-lvs-q2-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "SkyWest projects 2026 GAAP EPS in the $11 area while outlining $700M CapEx",
+          "url": "https://seekingalpha.com/news/4617869-skywest-projects-2026-gaap-eps-in-the-11-area-while-outlining-700m-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Wed, 22 Jul 2026 20:50:25 -0400",
-          "ts": 1784767825.0,
-          "zh_title": "拉斯維加斯沙灘公司2026年第二季財報電話會議記錄",
-          "zh_point": "拉斯維加斯沙灘公司公布2026年第二季財報，內容可能包括公司財務表現、營業收入、利潤等相關數據。"
+          "published": "Thu, 23 Jul 2026 20:41:42 -0400",
+          "ts": 1784853702.0,
+          "zh_title": "SkyWest 預估 2026 年 GAAP EPS 在 $11 領域",
+          "zh_point": "SkyWest 預估 2026 年稅前盈餘每股將達到約 $11，同時計劃投資約 700 億美元於資產更新與擴充。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Cryptocurrencies: Bitcoin Climbs To 7-Week High",
-          "url": "https://seekingalpha.com/article/4924461-cryptocurrencies-bitcoin-climbs-to-7-week-high?source=feed_all_articles",
+          "title": "SkyWest, Inc. (SKYW) Q2 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4925031-skywest-inc-skyw-q2-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 22 Jul 2026 20:45:00 -0400",
-          "ts": 1784767500.0,
-          "zh_title": "比特幣升至7週新高",
-          "zh_point": "比特幣價格在近期內升至7週新高，市場分析師預測這可能是市場反彈的跡象，但仍需觀察市場情況以確定趨勢。"
+          "published": "Thu, 23 Jul 2026 20:40:26 -0400",
+          "ts": 1784853626.0,
+          "zh_title": "SkyWest, Inc. (SKYW) 2026 年 2 季度財報電話會議文字稿",
+          "zh_point": "SkyWest, Inc. 公布 2026 年 2 季度財報，公司財務表現將在電話會議中公布詳情。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Europe seen failing to reach 80% gas storage target by winter, Equinor CEO says",
-          "url": "https://seekingalpha.com/news/4617106-europe-seen-failing-to-reach-80-percent-gas-storage-target-equinor-ceo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "CGVV: High Quality Value-Focused Equity Strategy Deserves Attention",
+          "url": "https://seekingalpha.com/article/4925070-cgvv-high-quality-value-focused-equity-strategy-deserves-attention?source=feed_all_articles",
           "summary": "",
-          "published": "Wed, 22 Jul 2026 20:42:40 -0400",
-          "ts": 1784767360.0,
-          "zh_title": "歐洲未能達成冬季天然氣儲備80%目標，埃克諾爾CEO表示",
-          "zh_point": "埃克諾爾CEO表示，歐洲未能達成冬季天然氣儲備80%的目標，可能會對天然氣供應造成影響。"
+          "published": "Thu, 23 Jul 2026 20:38:49 -0400",
+          "ts": 1784853529.0,
+          "zh_title": "CGVV：高品質價值投資策略值得關注",
+          "zh_point": "CGVV是一種注重價值的股票投資策略，通過嚴格的評估和篩選，尋找高品質的投資機會，旨在為投資者提供穩健的長期回報。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Form 4 CrowdStrike Holdings Inc For: 22 July",
-          "url": "https://www.investing.com/news/filings/form-4-crowdstrike-holdings-inc-for-22-july-93CH-4807320",
+          "title": "Bowdens Silver at Noosa Mining Conference 2026: permit path in focus",
+          "url": "https://www.investing.com/news/transcripts/bowdens-silver-at-noosa-mining-conference-2026-permit-path-in-focus-93CH-4810345",
           "summary": "",
-          "published": "2026-07-23 00:37:54",
-          "ts": 1784767074.0,
-          "zh_title": "CrowdStrike Holdings Inc 22 日提交的 Form 4 報告",
-          "zh_point": "CrowdStrike Holdings Inc 的高管或大股東可能有關公司股票買賣的新資訊。"
+          "published": "2026-07-24 00:35:27",
+          "ts": 1784853327.0,
+          "zh_title": "Bowdens銀礦在2026年諾斯礦業會議上：許可證路線在聚焦",
+          "zh_point": "Bowdens銀礦公司在最近的諾斯礦業會議上，將重點放在取得相關許可證上，以便於未來的礦業開發。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 SenesTech Inc For: 22 July",
-          "url": "https://www.investing.com/news/filings/form-4-senestech-inc-for-22-july-93CH-4807319",
+          "title": "Form 4 CoreWeave Inc For: 23 July",
+          "url": "https://www.investing.com/news/filings/form-4-coreweave-inc-for-23-july-93CH-4810344",
           "summary": "",
-          "published": "2026-07-23 00:37:44",
-          "ts": 1784767064.0,
-          "zh_title": "SenesTech Inc Form 4",
-          "zh_point": "SenesTech Inc. 公布了 2022 年 7 月 22 日的 Form 4 報告，內容可能與公司高管或重要人物的股權變更有關。"
+          "published": "2026-07-24 00:34:57",
+          "ts": 1784853297.0,
+          "zh_title": "CoreWeave Inc 23 日表達文件",
+          "zh_point": "CoreWeave Inc 23 日發表了表達文件，內容未有明確的摘要。"
         },
         {
           "source": "Investing.com",
-          "title": "Ballard Resources at Noosa Mining Conference 2026: cash, permits and scale",
-          "url": "https://www.investing.com/news/transcripts/ballard-resources-at-noosa-mining-conference-2026-cash-permits-and-scale-93CH-4807318",
+          "title": "Iran rejects U.S.-backed ceasefire proposal as Trump threatens escalation",
+          "url": "https://www.investing.com/news/economy-news/iran-rejects-usbacked-ceasefire-proposal-as-trump-threatens-escalation-4810343",
           "summary": "",
-          "published": "2026-07-23 00:34:57",
-          "ts": 1784766897.0,
-          "zh_title": "巴拉德資源參與2026年諾沙礦業會議：現金、許可證和規模",
-          "zh_point": "巴拉德資源在2026年諾沙礦業會議上展示了其財務實力、取得的許可證以及企業規模的擴大，表明公司正朝著發展礦業業務的方向邁進。"
+          "published": "2026-07-24 00:32:13",
+          "ts": 1784853133.0,
+          "zh_title": "伊朗拒絕美國支持的停火建議，特朗普威脅升級",
+          "zh_point": "伊朗拒絕美國提出的停火建議，美國總統特朗普威脅將行動升級，伊朗和美國之間的緊張關係持續升級。"
         },
         {
           "source": "Investing.com",
-          "title": "Amazon faces Senate probe over alleged China influence, Bloomberg reports",
-          "url": "https://www.investing.com/news/stock-market-news/amazon-faces-senate-probe-over-alleged-china-influence-bloomberg-reports-4807317",
+          "title": "CoreWeave CEO Michael Intrator sells $24.07m in company shares",
+          "url": "https://www.investing.com/news/insider-trading-news/coreweave-ceo-michael-intrator-sells-2407m-in-company-shares-93CH-4810342",
           "summary": "",
-          "published": "2026-07-23 00:33:37",
-          "ts": 1784766817.0,
-          "zh_title": "亞馬遜面臨參議院調查：涉嫌中共影響力",
-          "zh_point": "據彭博報導，美國參議院正在調查亞馬遜公司是否受到中共的影響，內容包括公司在中國的業務、員工與中國政府的關係等。"
+          "published": "2026-07-24 00:31:17",
+          "ts": 1784853077.0,
+          "zh_title": "CoreWeave CEO Michael Intrator 賣出公司股份 24.07 萬美元",
+          "zh_point": "CoreWeave CEO Michael Intrator 賣出公司股份 24.07 萬美元，可能與公司財務或經營策略有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Crowdstrike CEO George Kurtz sells $1.9 million in shares",
-          "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-19-million-in-shares-93CH-4807316",
+          "title": "Cathie Wood’s ARK sells Figma stock, buys Tesla and Circle Internet",
+          "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-figma-stock-buys-tesla-and-circle-internet-93CH-4810341",
           "summary": "",
-          "published": "2026-07-23 00:32:58",
-          "ts": 1784766778.0,
-          "zh_title": "Crowdstrike CEO George Kurtz 賣出 1.9 億美元股權",
-          "zh_point": "Crowdstrike CEO George Kurtz 近日出售公司股份，總值達 1.9 億美元。"
+          "published": "2026-07-24 00:30:47",
+          "ts": 1784853047.0,
+          "zh_title": "Cathie Wood的ARK出售Figma股票，購買特斯拉和Circle Internet",
+          "zh_point": "Cathie Wood的投資公司ARK出售了Figma股票，並購買了特斯拉和Circle Internet的股票。這可能意味著ARK對特斯拉和Circle Internet的投資信心增強，而對Figma的投資信心則下降。"
         }
       ]
     }
