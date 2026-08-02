@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒仍然保持樂觀，投資人開始看好市場底部已經出現，甚至可能已經到來。亞馬遜股價上漲15%，巴克斯國際股價上漲19%，而標準普爾 500 指數將加入一家不為人知的工業股 Ferguson Enterprises。然而，中國DeepSeek事件影響美國股市大幅下跌，納斯達克指數領跌。\n\n【結語】\n投資人們應該保持冷靜和謹慎，避免過度追捧市場上漲的股價。同時，應該關注公司的財務表現和未來發展方向，避免忽略公司的風險和挑戰。投資人們也應該保持耐心和長期視野，避免被市場波動所左右。\n\n【精選個股】\nLYG - Lloyds Banking Group plc - 公司財務表現良好，股價有升值空間。\nWFG:CA - West Fraser 森林工業股份有限公司 - 公司營業額持續增長，股價有升值空間。\nTWODY - 泰勒溫佩伊集團 - 公司財務表現良好，股價有升值空間。\n風險提醒：投資市場風險高，投資人應該謹慎評估風險並做好風險管理。",
+  "analysis": "【今日摘要】\n今天市場情緒緊繃，受美國與伊朗軍事行動威脅影響，美元走強，科技股下跌。蘋果公司第四季度財報出色，收入16%增長至1090億美元，利潤26%增長至290億美元。馬克·祖克伯格的社交媒體股價在7月29日公布第二季財務報告後立即下跌10%。亞馬遜的公平價值估計從312.99美元調整至319.69美元，分析師對公司未來潛力上調了一點。\n\n【結語】\n市場情緒緊繃，投資者務必保持冷靜。不要被短期市場波動影響，長期投資是最佳選擇。投資者應該保持多元化投資組合，避免過度集中於單一股票或行業。同時，投資者也應該密切關注公司財務報表和管理層的評論，以便做出明智的投資決策。\n\n【精選個股】\nGOOG - Alphabet Inc. - Alphabet Inc. 的第四季度財報表現出色，收入增長達 18%，利潤增長達 25%。\nAAPL - Apple Inc. - Apple Inc. 的第四季度財報表現出色，收入增長達 16%，利潤增長達 26%。\nAMZN - Amazon.com Inc. - Amazon.com Inc. 的公平價值估計從 312.99 美元調整至 319.69 美元，分析師對公司未來潛力上調了一點。\n\n風險提醒：投資者應該注意公司財務報表和管理層的評論，以便做出明智的投資決策。同時，投資者也應該保持多元化投資組合，避免過度集中於單一股票或行業。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Here Are 3 Things Every Successful Passive Income Investor Has in Common -- and They're Simpler Than You Might Think",
-          "url": "https://www.fool.com/investing/2026/07/31/3-things-every-successful-passive-income-investor/?.tsrc=rss",
-          "summary": "It's important to have the right game plan when it comes to the stock market.",
-          "published": "Sat, 01 Aug 2026 00:35:00 +0000",
-          "ts": 1785544500.0,
-          "zh_title": "成功的被動收入投資者都有這三樣東西 -- 並且比你想像的簡單",
-          "zh_point": "成功的被動收入投資者通常具備明確的投資目標、長期耐心和適當的風險管理策略。"
+          "title": "Apple’s record iPhone boom just became a Wall Street trap",
+          "url": "https://www.thestreet.com/investing/apples-record-iphone-boom-just-became-a-wall-street-trap?.tsrc=rss",
+          "summary": "Apple (AAPL) reported the type of quarter that should have sent its stock price skyrocketing. Revenue rose 16% from a year earlier to $109 billion, while profit increased 26% to $29 billion. iPhone sales jumped 22%, Mac revenue climbed 25%, and the iPhone 17 produced the biggest product launch in ...",
+          "published": "Sun, 02 Aug 2026 01:03:00 +0000",
+          "ts": 1785632580.0,
+          "zh_title": "蘋果的破紀錄iPhone狂潮變成華爾街陷阱",
+          "zh_point": "蘋果公司第四季度財報出色，收入16%增長至1090億美元，利潤26%增長至290億美元，iPhone銷售量22%增長，Mac收入25%增長，iPhone 17的產品發布創下最大規模。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Amazon's Free Cash Flow Swung $26 Billion in the Wrong Direction. The Stock Rose 15% Anyway.",
-          "url": "https://www.fool.com/investing/2026/07/31/amazons-free-cash-flow-swung-26-billion-in-the-wro/?.tsrc=rss",
-          "summary": "Why would investors cheer an e-commerce giant that just burned through billions of dollars?",
-          "published": "Sat, 01 Aug 2026 00:34:00 +0000",
-          "ts": 1785544440.0,
-          "zh_title": "亞馬遜的免費現金流量逆轉了26億美元。股價卻仍上漲15%",
-          "zh_point": "投資人為什麼會歡迎一家剛剛耗盡數十億美元的電子商務巨頭？"
+          "title": "Mark Zuckerberg Is Betting Up to $145 Billion on AI Infrastructure in 2026",
+          "url": "https://www.fool.com/investing/2026/08/01/zuckerberg-bet-145-billion-ai-infrastructure-2026/?.tsrc=rss",
+          "summary": "The social media stock fell 10% immediately after it reported Q2 financial results on July 29.",
+          "published": "Sun, 02 Aug 2026 00:27:00 +0000",
+          "ts": 1785630420.0,
+          "zh_title": "馬克·祖克伯格在2026年投入高達1450億美元在人工智慧基礎設施",
+          "zh_point": "馬克·祖克伯格的社交媒體股價在7月29日公布第二季財務報告後立即下跌10%。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why Baxter International Stock Skyrocketed by 19% This Week",
-          "url": "https://www.fool.com/investing/2026/07/31/why-baxter-international-stock-skyrocketed-by-19-t/?.tsrc=rss",
-          "summary": "The company's second-quarter performance was impressive.",
-          "published": "Sat, 01 Aug 2026 00:23:19 +0000",
-          "ts": 1785543799.0,
-          "zh_title": "巴克斯國際股價上漲 19% 這周的原因",
-          "zh_point": "巴克斯國際在第二季度的業績表現令人印象深刻，股價因此大幅上漲。"
+          "title": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-fair-value-002042933.html?.tsrc=rss",
+          "summary": "The fair value estimate for Amazon.com has shifted to US$319.69 from US$312.99, signaling a modest adjustment in how analysts are framing potential upside. That move sits alongside fresh Street commentary that puts AWS execution, heavy AI and data center spending, and mixed consumer signals at the center of the price target debate. As you read on, you will see how these moving parts shape the evolving analyst narrative and what to watch next in the Amazon.com story. Analyst Price Targets...",
+          "published": "Sun, 02 Aug 2026 00:20:42 +0000",
+          "ts": 1785630042.0,
+          "zh_title": "亞馬遜 (AMZN) 股票公平價值微幅上升，AWS 和 AI 價格目標辯論",
+          "zh_point": "亞馬遜的公平價值估計從 312.99 美元調整至 319.69 美元，分析師對公司未來潛力上調了一點。這次調整與分析師對 AWS 執行、AI 和數據中心開支、以及消費者信號的混合反應有關。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Amazon (AMZN) Wins First US Approval For Commercial Driverless Robotaxis",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-wins-first-us-001405545.html?.tsrc=rss",
-          "summary": "Amazon subsidiary Zoox received the first U.S. federal approval to deploy a commercial, driverless robotaxi service without traditional human controls. The approval from NHTSA allows Zoox to begin commercial operations in Las Vegas, subject to state level requirements. This is the first time a fully autonomous vehicle without a steering wheel or pedals has been cleared for commercial ride hailing in the U.S. For Amazon.com, Inc. (NasdaqGS:AMZN), Zoox represents a move into autonomous ride...",
-          "published": "Sat, 01 Aug 2026 00:14:05 +0000",
-          "ts": 1785543245.0,
-          "zh_title": "亞馬遜（AMZN）首次獲得美國商用無人駕駛汽車批准",
-          "zh_point": "亞馬遜子公司Zoox獲得美國聯邦政府批准，將在拉斯維加斯推出無人駕駛汽車計程車服務，成為美國首家獲得商用無人駕駛汽車許可的公司。"
+          "title": "Berkshire Hathaway's Record $397 Billion Cash Pile Gives Greg Abel Room for Buybacks or a Big Acquisition",
+          "url": "https://www.fool.com/investing/2026/08/01/berkshire-hathaway-397-billion-cash-pile-greg-abel/?.tsrc=rss",
+          "summary": "The new CEO took over the conglomerate with a massive nest egg that he must try to deploy.",
+          "published": "Sun, 02 Aug 2026 00:05:00 +0000",
+          "ts": 1785629100.0,
+          "zh_title": "伯克希爾哈撒韋持有史上最大紀錄金額3970億美元現金，給新CEO格雷格·阿貝爾空間進行股票回購或大型收購",
+          "zh_point": "新任CEO格雷格·阿貝爾接手該公司時，擁有龐大的資產儲備，需要尋找合適的投資機會。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "AMZN Q2 Deep Dive: AI-Driven AWS Growth and Cost Leverage Shape Outlook",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amzn-q2-deep-dive-ai-001157242.html?.tsrc=rss",
-          "summary": "Cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) beat Wall Street’s revenue expectations in Q2 CY2026, with sales up 19.6% year on year to $200.6 billion. On the other hand, next quarter’s revenue guidance of $199.5 billion was less impressive, coming in 2.1% below analysts’ estimates. Its non-GAAP profit of $5.75 per share was significantly above analysts’ consensus estimates.",
-          "published": "Sat, 01 Aug 2026 00:11:57 +0000",
-          "ts": 1785543117.0,
-          "zh_title": "AMZN Q2 深度分析：AI驅動 AWS 成長與成本控制影響未來預測",
-          "zh_point": "Amazon Q2 銷售額達 200.6 億美元，同比增長 19.6%，但未來季度預測略低於市場預期，非 GAAP 盈利每股 5.75 美元遠超市場預期。"
+          "title": "US Schools Are Ditching Chromebooks for MacBooks by the Thousands— Apple Just Named Names",
+          "url": "https://finance.yahoo.com/technology/articles/us-schools-ditching-chromebooks-macbooks-233015401.html?.tsrc=rss",
+          "summary": "Apple‘s latest earnings call revealed a wave of K-12 districts abandoning Chromebooks and Windows machines in favor of the company’s new MacBook Neo, with Chief Financial Officer Kevan Parekh naming specific schools driving the shift. Districts Go All-In on MacBook...",
+          "published": "Sat, 01 Aug 2026 23:30:15 +0000",
+          "ts": 1785627015.0,
+          "zh_title": "美國學校大規模棄用Chromebook，轉向MacBook Neo",
+          "zh_point": "美國多個K-12學區正在棄用Chromebook和Windows電腦，轉向Apple新推出的MacBook Neo，公司財務長Kevan Parekh公布了具體的學校名單。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Soccer-FIFA scraps World Cup sell-off plan after resistance from members",
-          "url": "https://www.cnbc.com/2026/07/31/soccer-fifa-scraps-world-cup-sell-off-plan-after-resistance-from-members.html",
-          "summary": "FIFA said on Friday it will not proceed with its proposal to sell a piece of its business empire to outside investors after the project was met with fierce resistance from some of its member associations.",
-          "published": "Sat, 01 Aug 2026 00:16:41 GMT",
-          "ts": 1785543401.0,
-          "zh_title": "FIFA擱置世界盃賣股計畫",
-          "zh_point": "FIFA因部分會員反對而擱置出售部分業務給外部投資者的計畫。"
+          "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+          "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+          "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+          "published": "Sat, 01 Aug 2026 23:19:46 GMT",
+          "ts": 1785626386.0,
+          "zh_title": "美國大使館警告美國人出行風險升高 美國與伊朗軍事行動可能在未來幾天發生",
+          "zh_point": "美國大使館發出警告，美國與伊朗可能在未來幾天發生軍事行動，美國總統唐納德·川普準備對伊朗進行新的軍事攻擊。"
         },
         {
           "source": "CNBC",
-          "title": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+          "title": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
           "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
           "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
-          "published": "Fri, 31 Jul 2026 23:19:16 GMT",
-          "ts": 1785539956.0,
-          "zh_title": "皮羅決定撤銷對奧運選手的訴訟，指責反映池損壞是由於「設計有缺陷」",
-          "zh_point": "皮羅表示，反映池損壞的原因是由於設計有缺陷，而非奧運選手的行為。這項聲明與前總統川普在推特上宣傳的反映池更新計畫有關。"
+          "published": "Sat, 01 Aug 2026 22:48:05 GMT",
+          "ts": 1785624485.0,
+          "zh_title": "川普批評皮羅，指她放棄反映池破壞案，說「設計有缺陷」",
+          "zh_point": "川普總統曾經宣傳反映池的更新計畫，該計畫是他為了慶祝美國250週年而下令進行的多項重建工程之一。"
         },
         {
           "source": "CNBC",
-          "title": "The CFTC orders ex-GOP Rep. George Santos to pay $35,000 over trades on Kalshi",
-          "url": "https://www.cnbc.com/2026/07/31/the-cftc-orders-ex-gop-rep-george-santos-to-pay-35000-over-trades-on-kalshi.html",
-          "summary": "The CFTC has ordered George Santos to pay $35,000 after the agency found the former Republican congressman traded on Kalshi event contracts in February.",
-          "published": "Fri, 31 Jul 2026 22:35:23 GMT",
-          "ts": 1785537323.0,
-          "zh_title": "CFTC命令前共和黨議員喬治桑托斯支付 35,000 美元",
-          "zh_point": "美國商品期貨交易委員會 (CFTC) 指控前共和黨議員喬治桑托斯在 Kalshi 交易平台上進行不當交易，要求他支付 35,000 美元罰款。"
+          "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+          "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+          "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+          "published": "Sat, 01 Aug 2026 20:22:15 GMT",
+          "ts": 1785615735.0,
+          "zh_title": "高盛交易員今年的表現將創下新高。了解他們是如何做到的",
+          "zh_point": "高盛交易員今年的表現將創下新高，高盛執行官在CNBC的採訪中解釋了股市的驅動力、市場的走向以及銀行股市部門的成長動力。"
         },
         {
           "source": "CNBC",
-          "title": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
-          "url": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
-          "summary": "Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor.",
-          "published": "Fri, 31 Jul 2026 22:04:03 GMT",
-          "ts": 1785535443.0,
-          "zh_title": "川普上訴判決，批評他對IRS的訴訟遭到駁回並要求律師到律師公會",
-          "zh_point": "川普對IRS的訴訟遭到駁回，要求律師到律師公會，涉及IRS承包商泄露其稅務資料一案。"
+          "title": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
+          "url": "https://www.cnbc.com/2026/08/01/trumps-settlement-fund-threat-injects-uncertainty-into-ag-talks.html",
+          "summary": "A new announcement from Trump appeared to put the fund back on the table — and dinged the two senators who are leaving Capitol Hill when their terms end.",
+          "published": "Sat, 01 Aug 2026 17:41:47 GMT",
+          "ts": 1785606107.0,
+          "zh_title": "特朗普威脅推動定居點基金，進一步搖擺律政長官談判",
+          "zh_point": "特朗普最新的聲明似乎將基金重新納入考慮範圍，並對即將離任的兩名參議員造成打擊。"
         },
         {
           "source": "CNBC",
-          "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-          "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-          "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-          "published": "Fri, 31 Jul 2026 21:49:40 GMT",
-          "ts": 1785534580.0,
-          "zh_title": "清街財經推出私人市場平台，讓投資者搶先投資Databricks",
-          "zh_point": "清街財經推出私人市場平台，讓投資者能夠搶先投資Databricks等晚期創業公司，包括全球AI巨頭Databricks，總市值達1880億美元。"
+          "title": "The best 5-year CD rates of August 2026: Up to 4.35%",
+          "url": "https://www.cnbc.com/select/best-5-year-cds/",
+          "summary": "Lock in a high interest rate for a long-term savings goal with one of these top five-year CDs.",
+          "published": "Sat, 01 Aug 2026 16:24:15 GMT",
+          "ts": 1785601455.0,
+          "zh_title": "2026年8月最佳5年定期存款利率：最高4.35%",
+          "zh_point": "為長期儲蓄目標鎖定高利率，選擇其中一款頂尖的5年定期存款。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-          "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-          "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
-          "published": "Sat, 01 Aug 2026 00:45:00 GMT",
-          "ts": 1785545100.0,
-          "zh_title": "為什麼費雪要求我提供已故姊姊的死亡證明？",
-          "zh_point": "一位女性因為已故姊姊的死訊傳來，卻收到費雪要求提供死亡證明的通知，令人感到困惑。"
+          "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+          "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+          "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+          "published": "Sat, 01 Aug 2026 22:00:00 GMT",
+          "ts": 1785621600.0,
+          "zh_title": "我的女朋友62歲，能否領取已故丈夫的全額社會保障金？",
+          "zh_point": "她丈夫10年前去世，兩人結婚超過20年。她的女朋友是否能夠領取已故丈夫的全額社會保障金，還是需要等待一段時間？"
         },
         {
           "source": "MarketWatch",
           "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
           "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
           "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
-          "published": "Sat, 01 Aug 2026 00:25:00 GMT",
-          "ts": 1785543900.0,
-          "zh_title": "如果社會保障的資金危機是大家都知道的巨象，那麼這隻小老鼠卻被大家忽略了。你被警告了。",
-          "zh_point": "延遲社會保障到70歲領取，會導致每月領取金額增加，同時也會導致生活費用調整的成本增加。"
+          "published": "Sat, 01 Aug 2026 21:15:00 GMT",
+          "ts": 1785618900.0,
+          "zh_title": "如果社會保障的資金危機是房間裡的巨象，那麼這是大家忽略的老鼠。你已經被警告了。",
+          "zh_point": "延遲社會保障到 70 歲領取，會導致月度領取金額增加，並且與此相關的物價調整也會有相應的增加。"
         },
         {
           "source": "MarketWatch",
-          "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
-          "url": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
-          "summary": "Investors are seeing more signs that the bottom is near, if not already in.",
-          "published": "Fri, 31 Jul 2026 22:21:00 GMT",
-          "ts": 1785536460.0,
-          "zh_title": "7月份以樂觀的態度結束，市場動能交易遭遇自2000年以來最大規模的洗牌",
-          "zh_point": "投資人開始看好市場底部已經出現，甚至可能已經到來。"
+          "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+          "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+          "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+          "published": "Sat, 01 Aug 2026 21:00:00 GMT",
+          "ts": 1785618000.0,
+          "zh_title": "姊姊拒絕取代我擔任遺產執行人，我可以在她去世前辭職嗎？",
+          "zh_point": "一名男子因與姊姊關係疏遠，無法與她溝通，試圖辭去遺產執行人職務，但姊姊拒絕取代他。"
         },
         {
           "source": "MarketWatch",
-          "title": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison",
-          "url": "https://www.marketwatch.com/story/situational-awareness-vs-long-term-capital-management-a-side-by-side-comparison-e3e047b7?mod=mw_rss_topstories",
-          "summary": "There are more similarities between the two hedge-fund blowups than one might expect.",
-          "published": "Fri, 31 Jul 2026 22:09:00 GMT",
-          "ts": 1785535740.0,
-          "zh_title": "情境意識與長期資本管理：兩者比較",
-          "zh_point": "長期資本管理和情境意識這兩個知名投資公司的崩潰事件，似乎有更多相似之處。"
+          "title": "Let’s elect candidates who will make the wealthy pay taxes",
+          "url": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+          "summary": "We can use some of those revenues to make Social Security contributions more equitable.",
+          "published": "Sat, 01 Aug 2026 18:30:00 GMT",
+          "ts": 1785609000.0,
+          "zh_title": "讓選出會讓富人繳稅的候選人",
+          "zh_point": "我們可以利用這些收入來使社會安全金賦更公平。"
         },
         {
           "source": "MarketWatch",
-          "title": "The S&P 500 is making a change by adding this little-known industrial stock",
-          "url": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
-          "summary": "Ferguson Enterprises’ stock was rallying more than 8% after news the Newport News, Va., company will be joining the S&P 500 index, edging out better-known names for inclusion.",
-          "published": "Fri, 31 Jul 2026 21:53:00 GMT",
-          "ts": 1785534780.0,
-          "zh_title": "標準普爾 500 指數將加入一家不為人知的工業股",
-          "zh_point": "標準普爾 500 指數將新增 Ferguson Enterprises 股票，該公司的股價上漲超過 8%，並將取代較為知名的公司加入指數。"
+          "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+          "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+          "summary": "“I will file a complaint with the Better Business Bureau.”",
+          "published": "Sat, 01 Aug 2026 18:15:00 GMT",
+          "ts": 1785608100.0,
+          "zh_title": "錯誤的護照網站：我花了185美元，能否退款？",
+          "zh_point": "一名美國人因錯誤地支付了185美元至非法的護照網站，目前正嘗試向Better Business Bureau提出投訴，以爭取退款。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌 受中國DeepSeek事件影響",
-          "zh_point": "美國股市大部分下跌，納斯達克指數領跌，人工智慧基礎設施製造商股價大幅下跌，包括Nvidia下跌16%。"
+          "zh_title": "美國股市大跌，AI產業深受影響",
+          "zh_point": "美國股市大幅下跌，科技股尤其是AI基礎設施製造商受累，Nvidia股價下跌16%，NASDAQ指數領跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金屬交易所金、銀價格下跌",
-          "zh_point": "紐約金屬交易所金價跌1.4%，銀價跌2.5%，連續兩、三天金價下跌，三、四天內銀價連續下跌三天。"
+          "zh_title": "倫敦金銀市場結算跌落",
+          "zh_point": "倫敦金價跌1.4%，銀價跌2.5%，連續兩天或三天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的晶片。"
+          "zh_title": "關於中國DeepSeek AI的要點",
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，但不使用最先進的晶片，成本也相當便宜。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會讓美國AI巨頭沉沒",
-          "zh_point": "Nvidia、Broadcom等科技巨頭的股價下跌引起的恐慌是過度的。"
+          "zh_title": "深度尋找不會淹沒美國AI巨頭",
+          "zh_point": "深度尋找事件雖然引發了Nvidia、Broadcom等科技巨頭的股價下跌，但這種恐慌情緒可能過度。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊業新聞彙整：市場話題",
-          "zh_point": "深度尋、SoFi等科技、媒體和通訊業最新動向。"
+          "zh_title": "科技、媒體與通訊業新聞匯報：市場話題",
+          "zh_point": "DeepSeek、SoFi等在最新的市場話題中被提及，涉及科技、媒體和通訊業的發展。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Lloyds Banking Group plc (LYG) Q2 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4928176-lloyds-banking-group-plc-lyg-q2-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "Jardine Cycle & Carriage Limited 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4929273-jardine-cycle-and-carriage-limited-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Fri, 31 Jul 2026 20:53:14 -0400",
-          "ts": 1785545594.0,
-          "zh_title": "Lloyds Banking Group plc (LYG) 2026 年第二季財報電話會議稿",
-          "zh_point": "Lloyds Banking Group plc 公布 2026 年第二季財報，內容包括財務表現和未來發展方向等。"
+          "published": "Sat, 01 Aug 2026 19:32:48 -0400",
+          "ts": 1785627168.0,
+          "zh_title": "嘉登輪胎與汽車有限公司 2026 年第二季度 - 業績 - 盈餘電話會議簡報",
+          "zh_point": "嘉登輪胎與汽車有限公司於 2026 年第二季度公佈業績，內容包括財務報告和盈餘電話會議簡報，可能包含公司業績分析、財務指標和未來發展方向等內容。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "West Fraser Timber Co. Ltd. (WFG:CA) Q2 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4929065-west-fraser-timber-co-ltd-wfg-ca-q2-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "lastminute.com N.V. 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4929272-lastminute-com-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Fri, 31 Jul 2026 20:53:12 -0400",
-          "ts": 1785545592.0,
-          "zh_title": "West Fraser 森林工業股份有限公司 (WFG:CA) 2026 年第二季財報電話會議記錄",
-          "zh_point": "West Fraser 森林工業股份有限公司在 2026 年第二季財報電話會議中發表財經報告，內容包括公司財務表現、營業情況等。"
+          "published": "Sat, 01 Aug 2026 19:32:31 -0400",
+          "ts": 1785627151.0,
+          "zh_title": "最後一刻.com N.V. 2026 年第二季度 - 業績 - 盈利電話會議簡報",
+          "zh_point": "最後一刻.com N.V. 公布 2026 年第二季度業績，內容可能包括營業收入、營業利益、股東收益等財務數據，同時可能有管理層的電話會議簡報。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Taylor Wimpey plc (TWODY) Q2 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4929063-taylor-wimpey-plc-twody-q2-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "Wisr Limited 2026 Q4 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4929271-wisr-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Fri, 31 Jul 2026 20:53:08 -0400",
-          "ts": 1785545588.0,
-          "zh_title": "泰勒溫佩伊集團 (TWODY) 2026 年第二季財報電話會議記錄",
-          "zh_point": "泰勒溫佩伊集團公布 2026 年第二季財報，財務表現將在電話會議中公布。"
+          "published": "Sat, 01 Aug 2026 19:32:14 -0400",
+          "ts": 1785627134.0,
+          "zh_title": "Wisr Limited 2026 年第四季度 - 業績 - 盈利電話會議簡報",
+          "zh_point": "Wisr Limited 公布 2026 年第四季度財務報告，內容包括財務表格和管理層評論。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Brunswick Corporation (BC) Q2 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4927948-brunswick-corporation-bc-q2-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "Zehnder Group AG 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4929270-zehnder-group-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Fri, 31 Jul 2026 19:53:08 -0400",
-          "ts": 1785541988.0,
-          "zh_title": "布魯南斯康卡公司2026年第二季財報電話會議記錄",
-          "zh_point": "布魯南斯康卡公司2026年第二季財報電話會議記錄，內容包括公司財務表現、營業額、利潤等相關資訊。"
+          "published": "Sat, 01 Aug 2026 19:31:54 -0400",
+          "ts": 1785627114.0,
+          "zh_title": "Zehnder Group AG 2026 Q2 - Results - Earnings Call Presentation",
+          "zh_point": "Zehnder Group AG 2026 年第二季度財報會議簡報。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Chubu Electric Power Company, Incorporated 2027 Q1 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4929057-chubu-electric-power-company-incorporated-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "NS Solutions Corporation 2027 Q1 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4929269-ns-solutions-corporation-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Fri, 31 Jul 2026 19:41:40 -0400",
-          "ts": 1785541300.0,
-          "zh_title": "中部電力公司股份有限公司 2027 年第一季度財報結果 - 監事會發言人發言",
-          "zh_point": "中部電力公司於 2027 年第一季度發布財報結果，內容包括財務表格、財務分析和管理層發言。"
+          "published": "Sat, 01 Aug 2026 19:31:34 -0400",
+          "ts": 1785627094.0,
+          "zh_title": "NS Solutions Corporation 2027 Q1 - Results - Earnings Call Presentation",
+          "zh_point": "NS Solutions Corporation 公布 2027 年第一季度財務報告，內容包括財務數據和財務分析，可能會對投資者有重要影響。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Russia pounds Kyiv with missiles, killing at least three",
-          "url": "https://www.investing.com/news/stock-market-news/russia-pounds-kyiv-with-missiles-4829396",
+          "title": "Capital One says Trump Organization accounts closed after AML review",
+          "url": "https://www.investing.com/news/economy-news/capital-one-says-trump-organization-accounts-closed-after-aml-review-4829659",
           "summary": "",
-          "published": "2026-08-01 00:50:00",
-          "ts": 1785545400.0,
-          "zh_title": "俄羅斯轟炸基輔導彈，至少三人喪生",
-          "zh_point": "俄羅斯對基輔發動轟炸，導彈擊中基輔，造成至少三人死亡。"
+          "published": "2026-08-02 00:41:23",
+          "ts": 1785631283.0,
+          "zh_title": "首都一號表示特朗普組織帳戶關閉後AML審查",
+          "zh_point": "首都一號銀行表示，對特朗普組織進行的反洗錢審查後，決定關閉該組織的帳戶。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Figma Inc For: 31 July",
-          "url": "https://www.investing.com/news/filings/form-4-figma-inc-for-31-july-93CH-4829458",
+          "title": "Iran threatens to strike other nations’ energy fields if US launches fresh attacks",
+          "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
           "summary": "",
-          "published": "2026-08-01 00:49:45",
-          "ts": 1785545385.0,
-          "zh_title": "Figma Inc 31 日表達文件",
-          "zh_point": "Figma Inc 31 日發布表達文件，內容未有相關資訊。"
+          "published": "2026-08-02 00:24:25",
+          "ts": 1785630265.0,
+          "zh_title": "伊朗威脅若美軍再度攻擊將攻擊其他國家的能源領域",
+          "zh_point": "伊朗對美軍可能的新一輪攻擊做出回應，威脅將攻擊其他國家的能源領域。"
         },
         {
           "source": "Investing.com",
-          "title": "Figma CFO Praveer Melwani sells $9.58m in stock",
-          "url": "https://www.investing.com/news/insider-trading-news/figma-cfo-praveer-melwani-sells-958m-in-stock-93CH-4829456",
+          "title": "Iran threatens regional energy fields if the U.S. launches fresh attacks",
+          "url": "https://www.investing.com/news/economy-news/iran-threatens-regional-energy-fields-if-the-us-launches-fresh-attacks-4829658",
           "summary": "",
-          "published": "2026-08-01 00:46:04",
-          "ts": 1785545164.0,
-          "zh_title": "Figma 首席財務官 Praveer Melwani 賣出 958 萬美元股票",
-          "zh_point": "Figma 首席財務官 Praveer Melwani 賣出了價值 958 萬美元的股票，可能與財務安排或個人財富管理有關。"
+          "published": "2026-08-02 00:00:06",
+          "ts": 1785628806.0,
+          "zh_title": "伊朗威脅區域能源領域若美國發動新一輪攻擊",
+          "zh_point": "伊朗可能對美國發動新一輪攻擊做出反應，威脅區域能源領域，表明伊朗對美國的軍事行動感到不安。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Paysign Inc For: 31 July",
-          "url": "https://www.investing.com/news/filings/form-4-paysign-inc-for-31-july-93CH-4829455",
+          "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough",
+          "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-at-least-four-in-gaza-despite-trump-announcing-breakthrough-4829657",
           "summary": "",
-          "published": "2026-08-01 00:45:10",
-          "ts": 1785545110.0,
-          "zh_title": "Paysign Inc 31日報告",
-          "zh_point": "Paysign Inc 公布 31 日財務報告，內容可能包含公司財務狀況、營業額、利潤等資訊，但具體內容未提供摘要。"
+          "published": "2026-08-01 23:54:29",
+          "ts": 1785628469.0,
+          "zh_title": "以色列空襲殺害至少四人　儘管川普宣布突破",
+          "zh_point": "以色列軍隊對加沙發動空襲，造成至少四人死亡，儘管前美國總統川普宣布與以色列和巴勒斯坦達成重大突破。"
         },
         {
           "source": "Investing.com",
-          "title": "Form 4 Paysign Inc For: 31 July",
-          "url": "https://www.investing.com/news/filings/form-4-paysign-inc-for-31-july-93CH-4829454",
+          "title": "Thirteen die in tourist plane crash over Peru’s Nazca Lines",
+          "url": "https://www.investing.com/news/world-news/thirteen-die-in-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-4829649",
           "summary": "",
-          "published": "2026-08-01 00:45:08",
-          "ts": 1785545108.0,
-          "zh_title": "Paysign Inc 31 日報告",
-          "zh_point": "Paysign Inc 於 2023 年 7 月 31 日發布財務報告，內容可能包含公司財務數據、營業表等資訊，但具體內容未知。"
+          "published": "2026-08-01 23:42:07",
+          "ts": 1785627727.0,
+          "zh_title": "十三人在秘魯納斯卡線空中觀光飛機失事罹難",
+          "zh_point": "秘魯納斯卡線上空發生空中觀光飛機失事，十三人罹難，納斯卡線是秘魯南部一處著名的地標。"
         }
       ]
     }
