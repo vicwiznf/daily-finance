@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒波動較大，受中國DeepSeek事件影響，美國股市大幅下跌，納斯達克指數領先跌幅，AI基礎設施製造商大幅下跌，Nvidia跌幅達16%。另一方面，CoreWeave股價大漲14%，因收入翻倍迎接AI基礎設施需求加速。另外，Ryanair與Google雲端簽下五年合約，擴大航空公司AI運用。\n\n【結語】\n今日市場情緒波動較大，投資者需要謹慎觀察市場變化。投資者應該注意自己的風險承受能力，並且保持投資組合的多元化。投資者也應該注意公司的財務狀況和未來的展望。\n\n【精選個股】\nNVDA - NVIDIA -_CoreWeave的收入翻倍，推動Nvidia的AI業務快速增長。\nLMT - Lumentum - 公司見到銷售量超過兩倍，人工智慧需求大增。\nSMCI - Super Micro - 公司近期已經在華爾街展現出改善盈利趨勢的跡象。\n風險提醒：投資者應該注意公司的財務狀況和未來的展望，並且保持投資組合的多元化。",
+  "analysis": "【今日摘要】\n今天市場情緒複雜，受到多個因素影響。美聯儲的不確定性對於交易量的增加有所貢獻，CME集團股價過去一個月上漲10%。另一方面，微軟股價預測將在2027年中期發生大幅波動，芯片價格的上升趨勢是否會對股價產生正面影響仍存疑。另外，Nvidia股價跌幅達16%，AI產業領域遭遇重挫。倫敦金價下跌1.4%，連續兩天下跌；銀價下跌2.5%，連續三天下跌。總體而言，市場情緒偏向悲觀，但仍有許多投資機會值得關注。\n\n【結語】\n散戶投資人應該保持冷靜和謹慎。市場情緒容易受到短期波動的影響，但長期投資仍是最好的選擇。投資人應該根據自己的風格和投資目標選擇適合自己的投資策略，並且保持耐心和持續學習。另外，投資人應該注意風險管理，避免過度投資和過度風險。\n\n【精選個股】\n1. Lumentum - Lumentum - 業績表現出色，股價大幅上漲，為光纖網路行業帶來新的動力。\n風險提醒：光纖網路行業的競爭激烈，公司的業績表現可能受到市場波動的影響。\n2. Nebius - Nebius - 財報表現亮眼，股價反應正面，雲端服務熱潮仍在持續。\n風險提醒：雲端服務行業的競爭激烈，公司的財報表現可能受到市場波動的影響。\n3. Energous - Energous - 預計達成 40% 以上的毛利率，海外生產於 Q3 重啟， Q4 大規模擴展。\n風險提醒：公司的財報表現可能受到市場波動的影響，海外生產的風險也需要注意。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late",
-          "url": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-stocks.html?.tsrc=rss",
-          "summary": "The major market indexes pulled back amid higher oil prices and upcoming CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro reported late.",
-          "published": "Tue, 11 Aug 2026 23:52:29 +0000",
-          "ts": 1786492349.0,
-          "zh_title": "道瓊未來指數：股市暫停前待CPI通膨數據；3家Nvidia夥伴晚間公布業績",
-          "zh_point": "道瓊未來指數暫停上揚，受油價上漲和即將公布的CPI通膨數據影響。Nvidia夥伴Lumentum、CoreWeave和Super Micro晚間公布業績。"
+          "title": "Why Octave Intelligence Stock Slumped Today",
+          "url": "https://www.fool.com/investing/2026/08/12/why-octave-intelligence-stock-slumped-today/?.tsrc=rss",
+          "summary": "Investors were reacting to the company's second-quarter earnings release.",
+          "published": "Wed, 12 Aug 2026 23:47:09 +0000",
+          "ts": 1786578429.0,
+          "zh_title": "為什麼Octave Intelligence股價今天下滑",
+          "zh_point": "投資人對公司第二季度財報的發布做出了反應。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "CRWV Stock Rallies 13% After-Hours — AI Compute Demand Has Pushed CoreWeave Revenue To More Than Double",
-          "url": "https://stocktwits.com/news-articles/markets/equity/ai-compute-demand-has-pushed-core-weave-revenue-to-more-than-double/cZoNQHURJXn?.tsrc=rss",
-          "summary": "CoreWeave beat second-quarter top- and bottom-line expectations as soaring artificial intelligence computing demand pushed quarterly revenue up 112% to $2.58 billion and prompted the company to raise its full-year guidance.",
-          "published": "Tue, 11 Aug 2026 23:25:41 +0000",
-          "ts": 1786490741.0,
-          "zh_title": "CoreWeave 股價在盤後大漲 13% — 人工智慧計算需求推動 CoreWeave 收入超過翻倍",
-          "zh_point": "CoreWeave 的第二季度營收達到 2.58 億美元，高達 112%，遠超預期，公司因此提高了全年財務指標。"
+          "title": "CME Group Averaged a Record 27 Million Contracts a Day in July. Here's Why an Unsettled Fed Is Its Best Customer.",
+          "url": "https://www.fool.com/investing/2026/08/12/cme-group-averaged-a-record-27-million-contracts-a/?.tsrc=rss",
+          "summary": "CME stock is up 10% over the past month.",
+          "published": "Wed, 12 Aug 2026 23:25:00 +0000",
+          "ts": 1786577100.0,
+          "zh_title": "CME集團七月平均每天交易27萬張合約，為歷史新高。為什麼美聯儲的不確定性是它最好的客戶？",
+          "zh_point": "CME集團股價過去一個月上漲10%，美聯儲的不確定性對於交易量的增加有所貢獻。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "NuScale Power Looks Like a Generational Wealth-Building Opportunity Right Now",
-          "url": "https://www.fool.com/investing/2026/08/11/nuscale-power-looks-like-a-generational-wealth-bui/?.tsrc=rss",
-          "summary": "NuScale Power could become a much larger company if rising power demand translates into a repeatable commercial business.",
-          "published": "Tue, 11 Aug 2026 23:25:00 +0000",
-          "ts": 1786490700.0,
-          "zh_title": "NuScale Power 看似一項世代財富建設機會",
-          "zh_point": "NuScale Power 有可能成為一個龐大的公司，如果電力需求持續增長，商業化業務也能夠穩定運作。"
+          "title": "The Mega Backdoor Roth: How Tech Workers Add $34,000 Annually to a 401(k) Tax-Free",
+          "url": "https://247wallst.com/personal-finance/2026/08/12/the-mega-backdoor-roth-how-tech-workers-add-34000-annually-to-a-401k-tax-free/?.tsrc=rss",
+          "summary": "Most tech workers who max their 401(k) think they have hit the ceiling, but a quiet provision in the tax code opens a second contribution window that their employer may already support without telling them.",
+          "published": "Wed, 12 Aug 2026 23:22:28 +0000",
+          "ts": 1786576948.0,
+          "zh_title": "科技工作者的超級後門羅斯方案：每年額外儲蓄 34,000 美元免稅",
+          "zh_point": "科技工作者通過最大化 401(k) 儲蓄，錯誤地認為已經達到上限，但稅法中的一個隱藏規定開啟了另一個貢獻窗口，雇主可能已經默默地支持這一方案而未告知員工。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Why OppFi Stock Swooned by Almost 25% Today",
-          "url": "https://www.fool.com/investing/2026/08/11/why-oppfi-stock-swooned-by-almost-25-today/?.tsrc=rss",
-          "summary": "The specialty lender posted a displeasing quarterly earnings report.",
-          "published": "Tue, 11 Aug 2026 23:15:00 +0000",
-          "ts": 1786490100.0,
-          "zh_title": "OppFi 股票暴跌近 25%：專業貸款公司財報令人失望",
-          "zh_point": "OppFi 股票今日大幅下跌近 25%，原因是該公司發布的季度財報令人失望。"
+          "title": "What HD Holders Got Paid While The Stock Fell Behind",
+          "url": "https://www.trefis.com/articles/611103/what-hd-holders-got-paid-while-the-stock-fell-behind/2026-08-12?.tsrc=rss",
+          "summary": "Home Depot sent its owners a torrent of cash, yet the stock trailed the market. Here is the accounting of what that trade-off actually bought, and what it means now.",
+          "published": "Wed, 12 Aug 2026 23:21:15 +0000",
+          "ts": 1786576875.0,
+          "zh_title": "Home Depot 股東收到大量現金，股價卻落後市場",
+          "zh_point": "儘管 Home Depot 股價下跌，但公司卻將大量現金發放給股東，這意味著公司在短期內犧牲長期發展以滿足股東的需求。這種做法是否值得，現在需要重新評估。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ryanair-signs-five-google-cloud-230235225.html?.tsrc=rss",
-          "summary": "Ryanair said on Wednesday it would deploy Google's Gemini AI tools and DeepMind models ‌across its operations under a new five-year cloud partnership, using ‌the technology to help manage crew scheduling and make operational decisions.  Ryanair, Europe's largest airline ​by passenger numbers, said it would roll out Alphabet's Google Workspace and Google Cloud services to 35,000 employees across its network, supporting its efforts towards a goal of carrying 300 million passengers annually by 2034.",
-          "published": "Tue, 11 Aug 2026 23:02:35 +0000",
-          "ts": 1786489355.0,
-          "zh_title": "Ryanair與Google雲端簽下五年合約，擴大航空公司AI運用",
-          "zh_point": "Ryanair與Google簽下五年雲端合約，將Google的AI工具與深度學習模型應用於航空公司的運作，包括飛行員排班和作業決策等，同時將Google Workspace和雲端服務推廣給35,000名員工，為2034年達到每年3億名乘客的目標做準備。"
+          "title": "Wall Street Analysts Are Predicting a Huge Move for Micron by Mid-2027",
+          "url": "https://www.fool.com/investing/2026/08/12/wall-street-analysts-are-predicting-a-huge-move-fo/?.tsrc=rss",
+          "summary": "Chip prices can keep climbing, but which way will the stock move?",
+          "published": "Wed, 12 Aug 2026 23:20:00 +0000",
+          "ts": 1786576800.0,
+          "zh_title": "華爾街分析師預測微軟將在2027年中期發生大幅波動",
+          "zh_point": "華爾街分析師預測微軟股價將在2027年中期發生大幅波動，然而芯片價格的上升趨勢是否會對股價產生正面影響仍存疑。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-          "url": "https://www.cnbc.com/2026/08/11/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-          "summary": "Uncertainty around Iran and a decline in tech stocks pulled the S&P 500 down on Tuesday. Tune into CNBC on Wednesday for CoreWeave CEO Michael Intrator.",
-          "published": "Tue, 11 Aug 2026 23:37:38 GMT",
-          "ts": 1786491458.0,
-          "zh_title": "星期三的大宗股票新聞：下一交易日市場可能受哪些因素影響",
-          "zh_point": "伊朗局勢不明朗和科技股下跌，讓標準普爾500指數星期二下跌。星期三，財經頻道CNBC將播出CoreWeave CEO Michael Intrator的專訪。"
+          "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+          "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+          "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
+          "published": "Wed, 12 Aug 2026 23:49:23 GMT",
+          "ts": 1786578563.0,
+          "zh_title": "Cerebras 股價暴跌 14% 後首次公布 IPO 後的第二季財報",
+          "zh_point": "Cerebras Systems 表示第二季營收超出市場預期，並將全年收益預估提高。"
         },
         {
           "source": "CNBC",
-          "title": "Polls begin to close in primary elections across the country",
-          "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-          "summary": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
-          "published": "Tue, 11 Aug 2026 23:00:01 GMT",
-          "ts": 1786489201.0,
-          "zh_title": "全國各地初選投票開始結束",
-          "zh_point": "進步民主黨在明尼蘇達州和威斯康辛州希望能夠持續保持勝利勢頭。"
+          "title": "Stock futures are little changed as traders await more inflation data: Live updates",
+          "url": "https://www.cnbc.com/2026/08/12/stock-market-today-live-updates.html",
+          "summary": "The July reading of the producer price index, which gauges what wholesalers pay for raw goods and materials, is set for release Thursday at 8:30 a.m. ET.",
+          "published": "Wed, 12 Aug 2026 23:42:05 GMT",
+          "ts": 1786578125.0,
+          "zh_title": "股市未來指數微幅波動，交易員等待通膨數據",
+          "zh_point": "美股未來指數今日微幅波動，交易員關注即將公布的生產者價格指數（PPI），該指數反映供應商對原材料的支付價格。"
         },
         {
           "source": "CNBC",
-          "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
-          "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-          "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
-          "published": "Tue, 11 Aug 2026 22:51:06 GMT",
-          "ts": 1786488666.0,
-          "zh_title": "CoreWeave 股價大漲 14% 因收入翻倍迎接 AI 基礎設施需求加速",
-          "zh_point": "CoreWeave 的收入如火如荼，但公司卻背負著 35 億美元的債務。"
+          "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+          "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+          "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+          "published": "Wed, 12 Aug 2026 23:41:02 GMT",
+          "ts": 1786578062.0,
+          "zh_title": "金價未來走向：美聯儲加息與通膨風險轉變下的變化",
+          "zh_point": "金價在2026年波動不定，但近期的走勢表明投資者對金價有新的興趣，原因是通膨數據趨緩和美聯儲加息預期的變化。"
         },
         {
           "source": "CNBC",
-          "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-          "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-          "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
-          "published": "Tue, 11 Aug 2026 22:42:10 GMT",
-          "ts": 1786488130.0,
-          "zh_title": "GM 農夫山泉達到 450 億美元零件交易，旨在避免供應鏈問題",
-          "zh_point": "通用汽車（GM）與零件供應商達成 450 億美元交易，旨在解決全球汽車供應鏈問題，該問題已經困擾 GM 和其他公司多年。"
+          "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "url": "https://www.cnbc.com/2026/08/12/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "summary": "The S&P 500 ended Wednesday's trading higher, aided by a tame inflation report. Tune in to CNBC on Thursday morning for Cerebras CEO Andrew Feldman.",
+          "published": "Wed, 12 Aug 2026 23:30:28 GMT",
+          "ts": 1786577428.0,
+          "zh_title": "週四的大股市新聞：什麼會影響明天的市場走勢",
+          "zh_point": "標準普爾 500 指數週三的交易結束時上漲，受到通膨率報告的緩和影響。週四早上，請關注 CNBC 頻道，聽聽 Cerebras CEO Andrew Feldman 的專家意見。"
         },
         {
           "source": "CNBC",
-          "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
-          "url": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
-          "summary": "Federal dollars in the two health insurance programs would not go toward gender-affirming care, but states could still cover the treatments.",
-          "published": "Tue, 11 Aug 2026 21:36:03 GMT",
-          "ts": 1786484163.0,
-          "zh_title": "特朗普政府終止兒童性別認同治療的醫療補助",
-          "zh_point": "美國特朗普政府決定終止聯邦醫療補助（Medicaid）和兒童醫療保險計劃（CHIP）中的兒童性別認同治療費用補助，但州政府仍可自行覆蓋相關治療費用。"
+          "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+          "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+          "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+          "published": "Wed, 12 Aug 2026 22:49:44 GMT",
+          "ts": 1786574984.0,
+          "zh_title": "Google Pixel 11 將吉米（Gemini）AI核心打入手機市場與蘋果抗爭",
+          "zh_point": "Google Pixel 11 系列即將發佈，與蘋果即將推出的基於吉米 AI 模型的重建 Siri 相比，展開手機 AI 檔案的激烈競爭。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "CoreWeave’s stock soars as earnings show major AI momentum",
-          "url": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
-          "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
-          "published": "Tue, 11 Aug 2026 23:29:00 GMT",
-          "ts": 1786490940.0,
-          "zh_title": "CoreWeave 股價大幅上漲，財報顯示AI業務快速增長",
-          "zh_point": "CoreWeave 這家提供AI雲端服務的公司，財報表現超出預期，公司CEO 表示這是公司發展的重要轉折點。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-          "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-          "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
-          "published": "Tue, 11 Aug 2026 22:30:00 GMT",
-          "ts": 1786487400.0,
-          "zh_title": "突然來了不少錢：把 20,000 美元存入定期存款是一個聰明的選擇嗎？",
-          "zh_point": "一位投資者分享了他如何將 20,000 美元存入定期存款，讓他的遺產人選能夠輕鬆存取資金。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Lumentum sees sales more than double as AI demand swells",
-          "url": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
-          "summary": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
-          "published": "Tue, 11 Aug 2026 22:22:00 GMT",
-          "ts": 1786486920.0,
-          "zh_title": "Lumentum 見到銷售量超過兩倍，人工智慧需求大增",
-          "zh_point": "Lumentum 公布了驚人的財務成績和樂觀的預測，但其股價在盤後仍然保持平穩。"
-        },
-        {
-          "source": "MarketWatch",
           "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
           "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
           "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
-          "published": "Tue, 11 Aug 2026 22:00:00 GMT",
-          "ts": 1786485600.0,
-          "zh_title": "$1,000,000是否足夠讓一戶家庭退休？答案在變化",
-          "zh_point": "退休金額的標準一直在調整，許多人甚至會感激能夠在這個金額上退休。"
+          "published": "Thu, 13 Aug 2026 00:00:00 GMT",
+          "ts": 1786579200.0,
+          "zh_title": "一百萬美元是否足夠讓一戶家庭退休？答案在不斷變化中",
+          "zh_point": "一百萬美元是否足夠讓一戶家庭退休，答案在不斷變化中。有些讀者和夫妻可能會感激能夠在一半的收入下退休。"
         },
         {
           "source": "MarketWatch",
-          "title": "Super Micro’s earnings report brings more good news, and the stock is climbing",
-          "url": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
-          "summary": "The company impressed Wall Street several weeks ago by teasing an improved profitability trajectory. Super Micro’s latest forecast has exceeded expectations as well.",
-          "published": "Tue, 11 Aug 2026 21:49:00 GMT",
-          "ts": 1786484940.0,
-          "zh_title": "超微電腦最新財報再創佳績 股價攀升",
-          "zh_point": "超微電腦近期已經在華爾街展現出改善盈利趨勢的跡象，其最新財報預測也遠超市場預期，股價因此而上揚。"
+          "title": "China’s next economic ambition: workshop for the Muslim world",
+          "url": "https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories",
+          "summary": "Chinese exporters are moving into halal food, cosmetics and fashion, but success in this vast market depends on something harder to manufacture than cheap goods: trust.",
+          "published": "Wed, 12 Aug 2026 22:35:00 GMT",
+          "ts": 1786574100.0,
+          "zh_title": "中國下一個經濟目標：穆斯林世界的製造中心",
+          "zh_point": "中國出口商正進軍哈拉食品、化妝品和時尚市場，但在這個龐大的市場取得成功，需要比製造廉價商品更難以製造的東西：信任。"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
+          "url": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
+          "summary": "Investors are reacting positively to earnings results and demand signals from neocloud companies CoreWeave and Nebius.",
+          "published": "Wed, 12 Aug 2026 22:34:00 GMT",
+          "ts": 1786574040.0,
+          "zh_title": "Nebius 加入雲端服務熱潮，財報表現亮眼",
+          "zh_point": "投資人對 CoreWeave 和 Nebius 這兩家雲端公司的財報表現和需求信號感到樂觀，股價反應正面。"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Lumentum’s stock surges, giving a further boost to the optical-networking trade",
+          "url": "https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
+          "summary": "Excitement is building for Coherent’s earnings report after upbeat results from Lumentum.",
+          "published": "Wed, 12 Aug 2026 22:31:00 GMT",
+          "ts": 1786573860.0,
+          "zh_title": "Lumentum 股票大幅上漲，為光纖網路行業帶來新的動力",
+          "zh_point": "Lumentum 公布業績後，市場對 Coherent 的財報感到興奮。Lumentum 的業績表現出色，股價大幅上漲，為光纖網路行業帶來新的動力。市場人士認為，這可能是 Coherent 的財報也會出色，股價將上漲。"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+          "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+          "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+          "published": "Wed, 12 Aug 2026 22:00:00 GMT",
+          "ts": 1786572000.0,
+          "zh_title": "我能夠現在索取50%的丈夫退休金，並在70歲時轉換到我的更高退休金？",
+          "zh_point": "我想給與曾經或正在結婚的女性一些建議。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌，受中國DeepSeek事件影響",
-          "zh_point": "美國股市大多下跌，納斯達克指數領先跌幅，AI基礎設施製造商大幅下跌，Nvidia跌幅達16%。"
+          "zh_title": "美國股市大幅下跌，AI產業領域遭遇重挫",
+          "zh_point": "美國股市大多下跌，Nasdaq指數領先跌幅，AI基礎設施製造商遭遇大幅下跌，Nvidia股價跌幅達16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -187,7 +187,7 @@
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
           "zh_title": "倫敦金銀市場結算下跌",
-          "zh_point": "倫敦金價下跌1.4%，連續兩日下跌；銀價下跌2.5%，連續三日下跌。"
+          "zh_point": "倫敦金價下跌1.4%，連續兩天下跌；銀價下跌2.5%，連續三天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -197,7 +197,7 @@
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
           "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的AI模型，且成本低廉，未使用最先進的晶片。"
+          "zh_point": "中國新興公司宣稱已經訓練出高表現的AI模型，且成本低廉，並不需要使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會讓美國AI巨頭沉沒",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
+          "zh_title": "深度尋找不會淹沒美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價大跌，恐慌情緒可能過度膨脹。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊業新聞匯報",
-          "zh_point": "DeepSeek、SoFi等科技、媒體和通訊業最新動向。"
+          "zh_title": "科技、媒體與通訊產業回顧：市場話題",
+          "zh_point": "DeepSeek、SoFi 等公司在最新的市場話題中被提及，內容涵蓋科技、媒體和通訊產業的發展。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Semiannual Letter: How Small-Cap Can Navigate Sustained Leadership",
-          "url": "https://seekingalpha.com/article/4935076-semiannual-letter-how-small-cap-can-navigate-sustained-leadership?source=feed_all_articles",
+          "title": "Consumer Price Index: Inflation At 3.4% In July",
+          "url": "https://seekingalpha.com/article/4935719-consumer-price-index-inflation-at-3-4-percent-in-july?source=feed_all_articles",
           "summary": "",
-          "published": "Tue, 11 Aug 2026 20:00:00 -0400",
-          "ts": 1786492800.0,
-          "zh_title": "半年報告：小型股如何應對持續領導",
-          "zh_point": "小型股公司如何在市場競爭中保持領導地位，避免被大型公司超越。"
+          "published": "Wed, 12 Aug 2026 20:05:00 -0400",
+          "ts": 1786579500.0,
+          "zh_title": "消費者物價指數：七月通膨率達3.4%",
+          "zh_point": "七月消費者物價指數出爐，顯示通膨率達3.4%，較前一月略有上升。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Quantinuum projects $28M-$32M 2026 revenue as Oracle deploys Helios on OCI",
-          "url": "https://seekingalpha.com/news/4631177-quantinuum-projects-28m-32m-2026-revenue-as-oracle-deploys-helios-on-oci?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Data I/O targets 1 to 3 Programming-as-a-Service contracts in Q4 while advancing acquisitions",
+          "url": "https://seekingalpha.com/news/4632019-data-i-o-targets-1-to-3-programming-as-a-service-contracts-in-q4-while-advancing-acquisitions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Tue, 11 Aug 2026 19:59:35 -0400",
-          "ts": 1786492775.0,
-          "zh_title": "Quantinuum 預測 2026 年營收 28 億至 32 億美元，Oracle 部署 Helios 於 OCI",
-          "zh_point": "Quantinuum 預測 2026 年營收，Oracle 部署 Helios 於 OCI，Quantinuum 的業務有所進展。"
+          "published": "Wed, 12 Aug 2026 19:58:43 -0400",
+          "ts": 1786579123.0,
+          "zh_title": "Data I/O 將在 Q4 獲得 1 到 3 個 Programming-as-a-Service 合約並推進收購",
+          "zh_point": "Data I/O 將在第四季度爭取 1 到 3 個 Programming-as-a-Service 合約，並持續推進收購事宜。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Quantinuum Inc. (QNT) Q2 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4935075-quantinuum-inc-qnt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "Andersen reaffirms 2026 revenue of $980M-$1B and adjusted EBITDA margin of 22%-23% while inorganic revenue slows",
+          "url": "https://seekingalpha.com/news/4632018-andersen-reaffirms-2026-revenue-of-980m-1b-and-adjusted-ebitda-margin-of-22-percentminus-23?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Tue, 11 Aug 2026 19:57:30 -0400",
-          "ts": 1786492650.0,
-          "zh_title": "量子因數公司 (QNT) 2026 年第二季財報電話會議記錄",
-          "zh_point": "量子因數公司在2026年第二季度財報電話會議的記錄內容尚未提供摘要。"
+          "published": "Wed, 12 Aug 2026 19:58:07 -0400",
+          "ts": 1786579087.0,
+          "zh_title": "安德森再次確認 2026 年收入 9.8 億至 10 億美元、EBITDA 利潤率 22% 至 23%",
+          "zh_point": "安德森公司再次確認 2026 年的收入預估和利潤率，但公司的非有機收入增長速度放緩。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "U.S. Energy Secretary Wright claims Persian Gulf oil exports near pre-war levels",
-          "url": "https://seekingalpha.com/news/4631169-us-energy-secretary-wright-claims-persian-gulf-oil-exports-near-pre-war-levels?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Energous targets 40%+ gross margins as overseas production resumes in Q3 and scales in Q4",
+          "url": "https://seekingalpha.com/news/4632017-energous-targets-40-percent-gross-margins-as-overseas-production-resumes-in-q3-and-scales-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Tue, 11 Aug 2026 19:57:21 -0400",
-          "ts": 1786492641.0,
-          "zh_title": "美能源部長懷特稱波斯灣石油出口接近戰前水平",
-          "zh_point": "美能源部長懷特表示，波斯灣地區的石油出口已經接近戰前水平，表明全球石油供應正在恢復。"
+          "published": "Wed, 12 Aug 2026 19:58:02 -0400",
+          "ts": 1786579082.0,
+          "zh_title": "Energous 預計達成 40%+ 的毛利率，海外生產於 Q3 重啟， Q4 大規模擴展",
+          "zh_point": "Energous 預計在 Q3 重啟海外生產， Q4 大規模擴展，預計達成 40% 以上的毛利率。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Ryder System, Inc. (R) Presents at Deutsche Bank's Chicago Industrials Summit Transcript",
-          "url": "https://seekingalpha.com/article/4935005-ryder-system-inc-r-presents-at-deutsche-banks-chicago-industrials-summit-transcript?source=feed_all_articles",
+          "title": "Seastar medical targets NEUTRALIZE-AKI enrollment completion around year-end or Q1 2027 as QUELIMMUNE adoption reaches 20 hospitals",
+          "url": "https://seekingalpha.com/news/4632016-seastar-medical-targets-neutralize-aki-enrollment-completion-around-year-end-or-q1-2027-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Tue, 11 Aug 2026 19:57:09 -0400",
-          "ts": 1786492629.0,
-          "zh_title": "Ryder System, Inc. (R) 在德意志銀行芝加哥工業峰會上的演講稿",
-          "zh_point": "Ryder System, Inc. 在德意志銀行芝加哥工業峰會上進行了演講，內容未知。"
+          "published": "Wed, 12 Aug 2026 19:58:00 -0400",
+          "ts": 1786579080.0,
+          "zh_title": "Seastar medical 將目標在年底或2027年第一季完成NEUTRALIZE-AKI註冊",
+          "zh_point": "Seastar medical 的新藥QUELIMMUNE在20間醫院獲得採用，公司預計在年底或2027年第一季完成NEUTRALIZE-AKI註冊，展現出藥物的發展進展。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Beta Technologies president and CEO Kyle Clark sells shares worth $1.15m",
-          "url": "https://www.investing.com/news/insider-trading-news/beta-technologies-president-and-ceo-kyle-clark-sells-shares-worth-115m-93CH-4852981",
+          "title": "Ford to shift Lincoln production to U.S. from China by 2030- Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/ford-to-shift-lincoln-production-to-us-from-china-by-2030-reuters-93CH-4856446",
           "summary": "",
-          "published": "2026-08-11 23:46:01",
-          "ts": 1786491961.0,
-          "zh_title": "Beta Technologies 首席執行官 Kyle Clark 出售 1.15 億美元股票",
-          "zh_point": "Beta Technologies 首席執行官 Kyle Clark 出售價值 1.15 億美元的股票，可能與公司財務或股價變化有關。"
+          "published": "2026-08-12 23:40:19",
+          "ts": 1786578019.0,
+          "zh_title": "福特將林肯車款生產從中國轉移至美國",
+          "zh_point": "福特汽車宣布，將在2030年前將林肯車款的生產從中國轉移到美國，可能是為了應對中美貿易關係的變化和減少對中國的依賴。"
         },
         {
           "source": "Investing.com",
-          "title": "Azz Pres & COO Jeffrey Vellines sells $647,981 of company stock",
-          "url": "https://www.investing.com/news/insider-trading-news/azz-pres--coo-jeffrey-vellines-sells-647981-of-company-stock-93CH-4852980",
+          "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
+          "url": "https://www.investing.com/news/stock-market-news/meta-29-states-head-to-court-in-biggest-test-yet-of-youth-social-media-litigation-4854182",
           "summary": "",
-          "published": "2026-08-11 23:45:53",
-          "ts": 1786491953.0,
-          "zh_title": "Azz Pres & COO Jeffrey Vellines 賣出公司股票 647,981 美元",
-          "zh_point": "Azz公司執行長Jeffrey Vellines出售公司股份，總額達647,981美元。"
+          "published": "2026-08-12 23:36:34",
+          "ts": 1786577794.0,
+          "zh_title": "Meta與29個州前往法庭：社交媒體對青少年的最大挑戰",
+          "zh_point": "Meta公司將面臨29個州的訴訟，針對社交媒體對青少年的影響進行法律審查。"
         },
         {
           "source": "Investing.com",
-          "title": "Commonwealth Bank of Australia FY profit rises to record, outlook cautious",
-          "url": "https://www.investing.com/news/earnings/commonwealth-bank-of-australia-fy-profit-rises-to-record-outlook-cautious-4852979",
+          "title": "Zipalertinib trial meets primary endpoint in lung cancer study",
+          "url": "https://www.investing.com/news/company-news/zipalertinib-trial-meets-primary-endpoint-in-lung-cancer-study-93CH-4856445",
           "summary": "",
-          "published": "2026-08-11 23:42:54",
-          "ts": 1786491774.0,
-          "zh_title": "澳洲聯邦銀行年度盈餘創新高，但展望謹慎",
-          "zh_point": "澳洲聯邦銀行的年度盈餘創下新高，但銀行對未來的展望表現出謹慎態度。"
+          "published": "2026-08-12 23:36:33",
+          "ts": 1786577793.0,
+          "zh_title": "Zipalertinib 試驗達到肺癌研究的主要終點",
+          "zh_point": "Zipalertinib 試驗在肺癌研究中達到主要終點，可能表明該藥物對於治療肺癌具有有效性。"
         },
         {
           "source": "Investing.com",
-          "title": "Air taxi firm Joby acquires defense tech company for $500 million",
-          "url": "https://www.investing.com/news/stock-market-news/air-taxi-firm-joby-acquires-defense-tech-company-for-500-million-4851847",
+          "title": "Intuitive machines director & 10% owner Kamal Ghaffarian sells $4.3m stock",
+          "url": "https://www.investing.com/news/insider-trading-news/intuitive-machines-director--10-owner-kamal-ghaffarian-sells-43m-stock-93CH-4856443",
           "summary": "",
-          "published": "2026-08-11 23:36:48",
-          "ts": 1786491408.0,
-          "zh_title": "空中計程車公司Joby以50億港元收購防務科技公司",
-          "zh_point": "空中計程車公司Joby宣布收購一家防務科技公司，交易金額達50億港元。這次收購可能是Joby為了進一步發展其空中交通業務而進行的投資。"
+          "published": "2026-08-12 23:30:56",
+          "ts": 1786577456.0,
+          "zh_title": "直覺機器人執行長兼 10% 股東卡馬爾·加法里安出售 430 萬美元股票",
+          "zh_point": "直覺機器人公司執行長卡馬爾·加法里安出售大量股票，出售價值達 430 萬美元。"
         },
         {
           "source": "Investing.com",
-          "title": "Vogenx prices IPO at $13 per share, raising $81.3M",
-          "url": "https://www.investing.com/news/stock-market-news/vogenx-prices-ipo-at-13-per-share-raising-813m-432SI-4852971",
+          "title": "Apple in talks to pay publishers for Siri AI content- WSJ",
+          "url": "https://www.investing.com/news/stock-market-news/apple-in-talks-to-pay-publishers-for-siri-ai-content-wsj-93CH-4856441",
           "summary": "",
-          "published": "2026-08-11 23:33:01",
-          "ts": 1786491181.0,
-          "zh_title": "Vogenx IPO定價為每股13美元，籌集81.3億美元",
-          "zh_point": "Vogenx在股票上市前定價為每股13美元，籌集81.3億美元，表明公司在市場上獲得了廣泛的支持。"
+          "published": "2026-08-12 23:26:46",
+          "ts": 1786577206.0,
+          "zh_title": "蘋果與出版商談判為Siri AI內容支付費用- 華爾街日報",
+          "zh_point": "蘋果公司正在與出版商談判，為其Siri人工智能助手提供的內容支付費用。"
         }
       ]
     }
