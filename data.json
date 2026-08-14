@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒主要圍繞著科技股的表現，尤其是人工智慧領域的公司，如亞馬遜、UiPath 和 Salesforce。亞馬遜的雲端服務增長率加速，證明其在人工智慧領域的領先地位。UiPath 股票的營業利潤率遠低於市場平均，但其淨利潤率高於市場平均。Salesforce 股票因 J.P. Morgan 分析師預測公司的某些 AI 特徵有很大的潛力而升值。另外，Reddit 股票因入選 S&P 500 指數而大幅上漲，但其網路流量受 Google AI 搜尋影響的壓力仍未消失。\n\n【結語】\n今天市場情緒主要圍繞著科技股的表現，投資者應該保持謹慎，注意公司的財務表現和營運績效。投資者不應該過度依賴市場預期和短期波動。投資者應該根據自己的投資目標和風險承受能力進行投資決策。\n\n【精選個股】\nAMZN - 亞馬遜 - 亞馬遜的雲端服務增長率加速，證明其在人工智慧領域的領先地位。\nUI - UiPath - UiPath 股票的營業利潤率遠低於市場平均，但其淨利潤率高於市場平均。\nCRM - Salesforce - Salesforce 股票因 J.P. Morgan 分析師預測公司的某些 AI 特徵有很大的潛力而升值。\n\n風險提醒：投資者應該注意公司的財務表現和營運績效，避免過度依賴市場預期和短期波動。",
+  "analysis": "【今日摘要】\n今天市場情緒波動，受中國DeepSeek AI影響的AI產業大幅下跌，包括Nvidia下跌16%。然而，JFrog因提高AI驅動雲安全需求而上漲7.4%。伯克希爾哈撒韋大幅增持Alphabet股權，擴大對Delta和房地產投資。美國監管機構(OCC)批准了世界自由信託公司的國家信託銀行牌照，允許特朗普家族背後的公司發行穩定幣。\n\n【結語】\n投資者務必保持冷靜，避免恐慌性賣出。人工智慧的發展可能會取代一些工作，但也會創造新的職缺和機會。投資者應該關注公司的基本面和長期發展前景，而不是短期市場波動。同時，投資者也應該注意到市場的風險，包括經濟衰退、政治不穩定等因素。\n\n【精選個股】\nFROG - JFrog - 因提高AI驅動雲安全需求而上漲7.4%\nINTC - 英特爾 - 正試圖追趕其他強大的半導體業玩家\nGLP-1需求大幅上升的兩家公司：代號待查 - 公司名待查 - 業務範圍遠超過GLP-1，可能會對投資者帶來更大的回報",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "1 Jaw-Dropping Metric That Shows Why Amazon Is a Force to Be Reckoned With in the AI Arms Race",
-          "url": "https://www.fool.com/investing/2026/08/13/1-jaw-dropping-metric-that-shows-amazon-is-a-force/?.tsrc=rss",
-          "summary": "AWS' growth rate is accelerating.",
-          "published": "Thu, 13 Aug 2026 23:46:00 +0000",
-          "ts": 1786664760.0,
-          "zh_title": "1 個震撼的指標，顯示為什麼亞馬遜在人工智慧大競賽中是一股不可小覷的力量",
-          "zh_point": "亞馬遜雲端服務（AWS）的增長率正在加速，證明亞馬遜在人工智慧領域的領先地位。"
+          "title": "JFrog (FROG) Is Up 7.4% After Raising Guidance On AI-Fueled Cloud Security Demand - Has The Bull Case Changed?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jfrog-frog-7-4-raising-231159451.html?.tsrc=rss",
+          "summary": "In August 2026, JFrog reported Q2 results showing revenue rising to US$163.77 million with a sharply smaller net loss, while also issuing higher full-year revenue guidance and highlighting accelerating demand for its cloud and security offerings amid AI-driven software development. JFrog’s upcoming swampUP 2026 conference in New York, featuring security and AI leaders from Anthropic, Microsoft, NVIDIA and others, underlines its push to position the platform at the center of securing AI-era...",
+          "published": "Fri, 14 Aug 2026 23:11:59 +0000",
+          "ts": 1786749119.0,
+          "zh_title": "JFrog (FROG) 因提高 AI驅動雲安全需求而上漲 7.4% - 牛市論點是否改變？",
+          "zh_point": "JFrog 在 2026 年 8 月公布第二季財報，收入達 16.377 億美元，同時出現較小的淨虧損，並提高全年收入預估，並強調其雲安全產品需求正因 AI驅動軟體開發而快速增長。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "UiPath Stock Carries A Market Multiple On Earnings And A Premium On Sales",
-          "url": "https://www.trefis.com/articles/611359/uipath-stock-carries-a-market-multiple-on-earnings-and-a-premium-on-sales/2026-08-13?.tsrc=rss",
-          "summary": "Its operating margin is a fraction of the market's while its net margin sits above the market's, which is where the earnings comparison stops being about the business.",
-          "published": "Thu, 13 Aug 2026 23:17:16 +0000",
-          "ts": 1786663036.0,
-          "zh_title": "UiPath 股票以營業利潤和銷售為基礎的市場倍數，且以銷售為基礎的溢價",
-          "zh_point": "UiPath 股票的營業利潤率遠低於市場平均，而其淨利潤率則高於市場平均，這使得營業利潤的比較不再關注公司本身。"
+          "title": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
+          "url": "https://finance.yahoo.com/media-advertising/articles/maryland-tax-court-voids-digital-230625946.html?.tsrc=rss",
+          "summary": "A Maryland state tax court has struck down the state’s first-in-the-nation tax on digital advertising and ordered state officials to repay the tax money already collected from big tech firms.  The Maryland Tax Court said the tax violates the federal Internet Tax Freedom Act as well as the First Amendment and the commerce and due process clauses of the U.S. Constitution.  Maryland estimated the tax, approved in 2021, could raise about $250 million a year to help pay for a sweeping K-12 education measure.",
+          "published": "Fri, 14 Aug 2026 23:06:25 +0000",
+          "ts": 1786748785.0,
+          "zh_title": "馬里蘭州稅務法院無效化數位廣告稅，要求回饋蘋果、谷歌和Peacock TV",
+          "zh_point": "馬里蘭州稅務法院判決該州的數位廣告稅違反美國《網際網路稅自由法》和《美國憲法》第一修正案、商業和公平程序條款，要求回收已收集的稅款。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Billionaire Bill Ackman Just Invested 5% of Pershing Square Capital Management's Portfolio in Netflix. Should Investors Follow Suit?",
-          "url": "https://www.fool.com/investing/2026/08/13/billionaire-bill-ackman-just-invested-5-of-pershing-square-capital-management-s-portfolio-in-netflix-should-investors-follow-suit/?.tsrc=rss",
-          "summary": "While the business has been delivering dependable growth, the stock has been crushed, creating an enticing opportunity.",
-          "published": "Thu, 13 Aug 2026 23:12:33 +0000",
-          "ts": 1786662753.0,
-          "zh_title": "億萬富翁Bill Ackman突然投資5%的資產於Netflix，投資者應該跟進嗎？",
-          "zh_point": "億萬富翁Bill Ackman投資Netflix，投資者應該考慮跟進，因為Netflix的業務持續穩定成長，但股價卻遭受重挫，形成投資機會。"
+          "title": "Intel’s stock buybacks: History & investor impact explained",
+          "url": "https://www.thestreet.com/investing/stocks/intel-stock-buybacks?.tsrc=rss",
+          "summary": "Intel once was the biggest chipmaker in the world. During the 1990s through the mid-2010s, Intel’s semiconductor powered most of the personal computers in businesses and homes worldwide. Nowadays, the company is playing catch-up, competing with other powerful players in the semiconductor industry — ...",
+          "published": "Fri, 14 Aug 2026 22:50:04 +0000",
+          "ts": 1786747804.0,
+          "zh_title": "英特爾股票回購：歷史與投資者影響解析",
+          "zh_point": "英特爾曾經是全球最大的晶片製造商，1990年代至2010年代中期，其晶片驅動了全球企業和家庭的個人電腦。然而，現在英特爾正試圖追趕其他強大的半導體業玩家。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Reddit Stock Pops 11% on S&P 500 Inclusion Despite Google AI Traffic Concerns",
-          "url": "https://beincrypto.com/reddit-sp-500-inclusion-google-ai/?.tsrc=rss",
-          "summary": "Reddit shares rose 11% on S&P 500 inclusion news, even as Google's AI Overviews pressure its search traffic.",
-          "published": "Thu, 13 Aug 2026 22:55:17 +0000",
-          "ts": 1786661717.0,
-          "zh_title": "Reddit 股票暴漲 11% 因入選 S&P 500 指數",
-          "zh_point": "Reddit 股票因入選 S&P 500 指數而大幅上漲，但其網路流量受 Google AI 搜尋影響的壓力仍未消失。"
+          "title": "GLP-1 Demand Is Soaring. 2 Stocks That Could Benefit From This (Hint: Not Eli Lilly or Novo Nordisk)",
+          "url": "https://www.fool.com/investing/2026/08/14/glp-1-demand-is-soaring-2-stocks-that-could-benefi/?.tsrc=rss",
+          "summary": "They are way more than just GLP-1 stocks.",
+          "published": "Fri, 14 Aug 2026 22:50:00 +0000",
+          "ts": 1786747800.0,
+          "zh_title": "GLP-1需求大幅上升。這兩家公司有望從中受益（暗示：不是埃利利利或諾沃諾迪斯克）",
+          "zh_point": "GLP-1是一種胰島素類似物，目前正受到投資者的關注。除了埃利利利和諾沃諾迪斯克之外，還有兩家公司有望從這種需求的增長中受益。這兩家公司的業務範圍遠超過GLP-1，可能會對投資者帶來更大的回報。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
-          "url": "https://www.trefis.com/articles/611369/coreweave-is-winning-on-price-and-racing-its-own-interest-bill/2026-08-13?.tsrc=rss",
-          "summary": "What changed against expectations was pricing power rather than the revenue line, and the open question is how fast scale turns into margin against the cost of the debt behind the build.",
-          "published": "Thu, 13 Aug 2026 22:52:33 +0000",
-          "ts": 1786661553.0,
-          "zh_title": "CoreWeave 正在以價格優勢勝出，同時也在競速自己的利息費用",
-          "zh_point": "CoreWeave 的價格競爭力比預期更強，然而問題在於公司如何將規模轉化為利潤，同時面臨著因擴張而累積的債務成本。"
+          "title": "Amazon.com vs. StubHub: Which Consumer Stock Is a Better Buy in 2026?",
+          "url": "https://www.fool.com/coverage/better-buy/2026/08/14/amazon-com-vs-stubhub-which-consumer-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+          "summary": "Amazon's $77.7 billion net income and 10.8% margin showcase profitability at scale, while StubHub's $191 million free cash flow points to a path back from recent losses.",
+          "published": "Fri, 14 Aug 2026 22:28:13 +0000",
+          "ts": 1786746493.0,
+          "zh_title": "亞馬遜 vs. StubHub：哪一家消費股在 2026 年更值得投資？",
+          "zh_point": "亞馬遜以 77.7 億美元的淨利潤和 10.8% 的利潤率展現出其在大規模商業化下的盈利能力，而 StubHub 的 19.1 億美元的免稅現金流則表明該公司正在從近期虧損中恢復。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Reddit stock jumps on inclusion in S&P 500",
-          "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
-          "summary": "Reddit shares jumped on the company's inclusion in the S&P 500.",
-          "published": "Thu, 13 Aug 2026 23:04:21 GMT",
-          "ts": 1786662261.0,
-          "zh_title": "Reddit 股票大漲 因入選 S&P 500",
-          "zh_point": "Reddit 股票因入選 S&P 500 指數而大幅上漲，股價表現出積極的市場反應。"
+          "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+          "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+          "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+          "published": "Fri, 14 Aug 2026 23:41:50 GMT",
+          "ts": 1786750910.0,
+          "zh_title": "特朗普家族背後的加密貨幣公司世界自由獲得銀行牌照批准",
+          "zh_point": "美國監管機構(OCC)批准了世界自由信託公司的國家信託銀行牌照，允許特朗普家族背後的公司發行穩定幣。"
         },
         {
           "source": "CNBC",
-          "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-          "url": "https://www.cnbc.com/2026/08/13/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-          "summary": "The S&P 500 closed at a record on Thursday, aided by cooling oil prices and tame inflation reports. Tune in to CNBC Friday morning for Disney CEO Josh D'Amaro.",
-          "published": "Thu, 13 Aug 2026 22:56:04 GMT",
-          "ts": 1786661764.0,
-          "zh_title": "週五的大宗股票新聞：什麼會在下個交易日影響市場",
-          "zh_point": "標準普爾500指數週四收盤創下新高，受石油價格降溫和通膨報告趨緩的影響。CNBC週五上午將播出迪士尼CEO Josh D'Amaro的專訪。"
+          "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel",
+          "url": "https://www.cnbc.com/2026/08/14/situational-awareness-filing-shows-ai-bets-before-forced-portfolio-sale-to-citadel.html",
+          "summary": "The hedge fund's five largest disclosed stock holdings at the end of June were Sandisk, Micron Technology, Bloom Energy, Taiwan Semiconductor and Nebius Group.",
+          "published": "Fri, 14 Aug 2026 22:27:32 GMT",
+          "ts": 1786746452.0,
+          "zh_title": "Citadel 進行強制出售時，該公司的 AI 投資前已經押注這些股票",
+          "zh_point": "根據最近公布的資訊，該公司在六月底五大股票投資中包括 SanDisk、Micron Technology、Bloom Energy、台積電和 Nebius Group。"
         },
         {
           "source": "CNBC",
-          "title": "Careem’s founders put in $100,000. Seven years later, Uber bought it for $3.1 billion",
-          "url": "https://www.cnbc.com/video/2026/08/13/careem-founder-mudassir-sheikha.html",
-          "summary": "Mudassir Sheikha left McKinsey to co-found Careem in 2012, putting in $50,000 of his own money. Seven years later, Uber agreed to acquire the company for $3.1 billion.",
-          "published": "Thu, 13 Aug 2026 22:00:01 GMT",
-          "ts": 1786658401.0,
-          "zh_title": "卡雷姆創辦人投入100萬美元，七年後被Uber收購3.1億美元",
-          "zh_point": "卡雷姆創辦人穆達西爾·謝赫在2012年離開麥肯錫，與他人共同創辦卡雷姆，投入50萬美元。七年後，Uber同意收購卡雷姆，總價達3.1億美元。"
+          "title": "David Tepper’s Appaloosa sells AI memory stocks while loading up on Magnificent Seven in the second quarter",
+          "url": "https://www.cnbc.com/2026/08/14/david-tepper-appaloosa-13f-q2.html",
+          "summary": "The hedge fund bet big on megacap technology stocks in the second quarter, while selling off former high-flying memory chip manufacturers.",
+          "published": "Fri, 14 Aug 2026 22:13:50 GMT",
+          "ts": 1786745630.0,
+          "zh_title": "特普爾的Appaloosa在第二季度出售AI記憶體股票並大量購買七大名股",
+          "zh_point": "特普爾的Appaloosa在第二季度對大型科技股進行大幅投資，出售前高飛的記憶體晶片製造商。"
         },
         {
           "source": "CNBC",
-          "title": "Mamdani's NYC pied-à-terre tax can continue rollout during court appeal",
-          "url": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
-          "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
-          "published": "Thu, 13 Aug 2026 21:31:44 GMT",
-          "ts": 1786656704.0,
-          "zh_title": "曼達尼紐約市公寓稅案可在上訴期間繼續實施",
-          "zh_point": "紐約市長曼達尼倡議的公寓稅案引發了總統川普的不滿，川普表示該稅必須被停止，並表示將探索聯邦政府的選擇。"
+          "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+          "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+          "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+          "published": "Fri, 14 Aug 2026 21:45:19 GMT",
+          "ts": 1786743919.0,
+          "zh_title": "Nvidia 公布在 SpaceX 的 2,100 億美元投資",
+          "zh_point": "Nvidia 在第二季末透露持有 SpaceX 的 2,100 億美元股份，投資來自於 xAI 的投資。"
         },
         {
           "source": "CNBC",
-          "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
-          "url": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
-          "summary": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
-          "published": "Thu, 13 Aug 2026 21:23:35 GMT",
-          "ts": 1786656215.0,
-          "zh_title": "Apple CEO 蔡力行與霍華德·路德尼克共同揭幕休斯頓製造工廠",
-          "zh_point": "Apple CEO 蔡力行即將卸任，目前正在籌備接下來的角色，透露了一些線索。"
+          "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+          "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+          "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+          "published": "Fri, 14 Aug 2026 21:06:48 GMT",
+          "ts": 1786741608.0,
+          "zh_title": "伯克希爾哈撒韋大幅增持 Alphabet 股權，擴大對 Delta 和房地產投資",
+          "zh_point": "伯克希爾哈撒韋最新財務報告顯示，該公司持有 Alphabet 股權達 10.6 億股，市值達 3739 億美元，同時增加對 Delta 和房地產投資的押注。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
-          "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
-          "summary": "After past snubs, social-media site Reddit has landed a spot on the S&P 500, sending shares on an after-hours rally Thursday.",
-          "published": "Thu, 13 Aug 2026 22:40:00 GMT",
-          "ts": 1786660800.0,
-          "zh_title": "Reddit加入S&P 500，分析師們擔心",
-          "zh_point": "Reddit終於獲得加入S&P 500的機會，股價在周四晚間大幅上漲。分析師們對這一決定感到擔憂，原因可能與公司未來的財務表現和投資者投資風險有關。"
+          "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+          "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+          "summary": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
+          "published": "Fri, 14 Aug 2026 21:34:00 GMT",
+          "ts": 1786743240.0,
+          "zh_title": "伯克希爾哈薩威再度押注美國房市，投資於這家公司",
+          "zh_point": "伯克希爾哈薩威在美國房市投資方面再度增加押注，同時也增持 Alphabet 和 Delta Air Lines 的股份。"
         },
         {
           "source": "MarketWatch",
-          "title": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
-          "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-          "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
-          "published": "Thu, 13 Aug 2026 22:31:00 GMT",
-          "ts": 1786660260.0,
-          "zh_title": "夫妻倆退休，是否應該從 2.3 億投資中取出 3 億美元抵消 2.9% 的房貸？",
-          "zh_point": "夫妻倆退休後，從 2.3 億美元投資中取出 1 億美元年薪，是否應該再從投資中取出 3 億美元抵消 2.9% 的房貸？"
+          "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
+          "url": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+          "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
+          "published": "Fri, 14 Aug 2026 19:09:00 GMT",
+          "ts": 1786734540.0,
+          "zh_title": "美銀分析師喜愛的16隻被壓低的AI股",
+          "zh_point": "美銀分析師認為，與AI相關的股價下跌，為投資者提供了硬體、互聯網和能源等行業的投資機會。"
         },
         {
           "source": "MarketWatch",
-          "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-          "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-          "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
-          "published": "Thu, 13 Aug 2026 22:09:00 GMT",
-          "ts": 1786658940.0,
-          "zh_title": "戴爾的股價今年已經超越了微星和AMD，現在又在繼續上漲",
-          "zh_point": "戴爾的股價今年已經大約四倍上漲，聯想的財報公布幫助推動了戴爾PC和伺服器生產商的最新動能。戴爾的股價今年已經超越了微星和AMD，目前仍在持續上漲。"
+          "title": "Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.",
+          "url": "https://www.marketwatch.com/story/parents-putting-money-in-trump-accounts-could-get-a-2-500-tax-break-heres-how-fb6fb2f7?mod=mw_rss_topstories",
+          "summary": "A proposed rule could let families do a “discount Roth conversion.”",
+          "published": "Fri, 14 Aug 2026 18:51:00 GMT",
+          "ts": 1786733460.0,
+          "zh_title": "父母將錢存入「特朗普帳戶」，可能獲得2.5萬美元退稅",
+          "zh_point": "美國政府規定，父母將錢存入特定帳戶後，可以享受2.5萬美元的退稅優惠。"
         },
         {
           "source": "MarketWatch",
-          "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
-          "url": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-          "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
-          "published": "Thu, 13 Aug 2026 22:07:00 GMT",
-          "ts": 1786658820.0,
-          "zh_title": "Salesforce 股票因 J.P. Morgan 說法寶 AI 憂慮過於誇大而升值",
-          "zh_point": "J.P. Morgan 分析師預測 Salesforce 股票價格將上升 29%，並指出公司的某些 AI 特徵有很大的潛力。"
+          "title": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
+          "url": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
+          "summary": "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances.",
+          "published": "Fri, 14 Aug 2026 18:47:00 GMT",
+          "ts": 1786733220.0,
+          "zh_title": "提高高收入者稅率以挽救社會保障",
+          "zh_point": "美國社會保障基金財政狀況不穩定，提議提高高收入者稅率，讓他們繳付更多稅金，但不會額外獲得社會保障福利。"
         },
         {
           "source": "MarketWatch",
-          "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-          "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-          "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
-          "published": "Thu, 13 Aug 2026 22:05:00 GMT",
-          "ts": 1786658700.0,
-          "zh_title": "SanDisk 股票大幅上升！這些新目標讓華爾街興奮不已",
-          "zh_point": "SanDisk 公佈至 2020 年底的收入增長預測，公司預計維持高盈利率。"
+          "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+          "url": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+          "summary": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.",
+          "published": "Fri, 14 Aug 2026 18:45:00 GMT",
+          "ts": 1786733100.0,
+          "zh_title": "國會修改慈善捐款規則，早年捐款可節省更多錢",
+          "zh_point": "國會今年修改了三項慈善扣除規則，目前最常見的捐款方式可能已經變成最昂貴的方式。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌受中國DeepSeek事件影響",
-          "zh_point": "美國股市大多下跌，納斯達克指數領跌，人工智慧基礎設施製造商遭遇大幅下跌，Nvidia 下跌 16%。"
+          "zh_title": "美國股市大幅下跌 受中國DeepSeek影響的AI產業全面崩盤",
+          "zh_point": "美國股市大多下跌，納斯達克指數領先跌幅，AI基礎設施製造商遭遇大幅下跌，包括Nvidia下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "紐約金屬交易所金、銀價格下跌",
-          "zh_point": "紐約金屬交易所的金價昨天下跌1.4%，連續兩天下跌，銀價則下跌2.5%，連續三天下跌。"
+          "zh_title": "倫敦金銀市場金、銀價格下跌",
+          "zh_point": "倫敦金銀市場的金價和銀價昨天下跌，金價跌幅達1.4%，連續兩天下跌，銀價跌幅達2.5%，連續三天下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國的深度探索 AI：你需要知道什麼",
-          "zh_point": "中國新興企業宣稱已經訓練出高表現的 AI 模型，成本低廉，且不需要使用最先進的晶片。"
+          "zh_title": "中國DeepSeek AI的關鍵知識",
+          "zh_point": "中國的新興公司宣稱已經訓練出高性能的AI模型，但不需要使用最先進的晶片，這讓人產生了關於其成本效益的疑問。"
         },
         {
           "source": "The Wall Street Journal",
@@ -207,7 +207,7 @@
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
           "zh_title": "深度尋找不會淹沒美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒似乎過於誇大。"
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價下跌，恐慌情緒可能過度膨脹。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊產業回顧：市場話題",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊產業的最新動態，包括市場分析和投資趨勢。"
+          "zh_title": "科技、媒體與通訊產業報導：市場話題",
+          "zh_point": "深度尋、SoFi 等科技、媒體與通訊產業的最新發展與市場趨勢。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Xos outlines 2026 revenue of $35M-$43M as Power Hub launch expands focus to power infrastructure",
-          "url": "https://seekingalpha.com/news/4632986-xos-outlines-2026-revenue-of-35m-43m-as-power-hub-launch-expands-focus-to-power?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Motorsport Games outlines U.S. Track Pack follow-ups in September and December while scaling RaceControl to $2.9M ARR",
+          "url": "https://seekingalpha.com/news/4633571-motorsport-games-outlines-u-s-track-pack-follow-ups-in-september-and-december-while-scaling?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Thu, 13 Aug 2026 20:00:36 -0400",
-          "ts": 1786665636.0,
-          "zh_title": "Xos 預估 2026 年收入 3.5 億至 4.3 億美元，Power Hub 推出後著重於電力基礎設施",
-          "zh_point": "Xos 公布 2026 年收入預估，同時宣布 Power Hub 推出後將重點轉向電力基礎設施。"
+          "published": "Fri, 14 Aug 2026 19:27:45 -0400",
+          "ts": 1786750065.0,
+          "zh_title": "Motorsport Games 提出美國賽道包的續集在九月和十二月發布，同時將 RaceControl 的年收入規模擴大至 2.9 萬美元",
+          "zh_point": "Motorsport Games 宣布將在九月和十二月發布美國賽道包的續集，並將旗下平台 RaceControl 的年收入規模擴大至 2.9 萬美元。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Newsmax reiterates $212M-$216M 2026 revenue guidance while targeting about $16M in international licensing fees",
-          "url": "https://seekingalpha.com/news/4632985-newsmax-reiterates-212m-216m-2026-revenue-guidance-while-targeting-about-16m-in-international?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Orora Limited (ORRYY) Q4 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4936406-orora-limited-orryy-q4-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 13 Aug 2026 19:57:58 -0400",
-          "ts": 1786665478.0,
-          "zh_title": "Newsmax 重申 2026 年收入預估為 21.2 億至 21.6 億美元，同時目標將國際授權費收入約 1.6 億美元",
-          "zh_point": "Newsmax 公司重申了 2026 年的收入預估，同時表示將在國際市場收取約 1.6 億美元的授權費收入。"
+          "published": "Fri, 14 Aug 2026 19:27:06 -0400",
+          "ts": 1786750026.0,
+          "zh_title": "奧拉拉有限公司 (ORRYY) 2026 年第四季度財報電話會議記錄",
+          "zh_point": "奧拉拉有限公司於2026年第四季度財報電話會議的記錄已經公佈。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "NextBoat outlines $165M-$170M 2026 revenue guidance while expanding MarineMax partnership and warranty rollout",
-          "url": "https://seekingalpha.com/news/4632983-nextboat-outlines-165m-170m-2026-revenue-guidance-while-expanding-marinemax-partnership-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Motorsport Games Inc. (MSGM) Q2 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4936956-motorsport-games-inc-msgm-q2-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 13 Aug 2026 19:57:53 -0400",
-          "ts": 1786665473.0,
-          "zh_title": "NextBoat 提供 2026 年收入指南 $165M-$170M，同時擴展 MarineMax 合作夥伴關係和保養服務推出",
-          "zh_point": "NextBoat 提供了 2026 年收入指南，同時宣布與 MarineMax 合作夥伴關係的擴展，並推出新的保養服務。"
+          "published": "Fri, 14 Aug 2026 19:27:04 -0400",
+          "ts": 1786750024.0,
+          "zh_title": "Motorsport Games Inc. (MSGM) 2026 年第二季財報電話會議記錄",
+          "zh_point": "Motorsport Games Inc. 公布了 2026 年第二季財報電話會議記錄，內容未知。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Bit Digital expects WhiteFiber to reach full contracted run-rate billing under $865M Nscale agreement later this month",
-          "url": "https://seekingalpha.com/news/4632984-bit-digital-expects-whitefiber-to-reach-full-contracted-run-rate-billing-under-865m-nscale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "title": "Genuit Group plc 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4936982-genuit-group-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 13 Aug 2026 19:57:53 -0400",
-          "ts": 1786665473.0,
-          "zh_title": "Bit Digital 預期 WhiteFiber 將在 Nscale 合同下達到 $865 萬美元的全合同收費率後段時間",
-          "zh_point": "Bit Digital 預期旗下子公司 WhiteFiber 將在 Nscale 合同下達到全合同收費率，相關收費將超過 8.65 億美元。"
+          "published": "Fri, 14 Aug 2026 19:20:15 -0400",
+          "ts": 1786749615.0,
+          "zh_title": "Genuit Group plc 2026 Q2 - Results - Earnings Call Presentation",
+          "zh_point": "Genuit Group plc 2026 年第二季度財報會議簡報"
         },
         {
           "source": "Seeking Alpha",
-          "title": "NextBoat Inc. (NXB) Q2 2026 Earnings Call Transcript",
-          "url": "https://seekingalpha.com/article/4936451-nextboat-inc-nxb-q2-2026-earnings-call-transcript?source=feed_all_articles",
+          "title": "Aumovio SE 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4936981-aumovio-se-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Thu, 13 Aug 2026 19:57:14 -0400",
-          "ts": 1786665434.0,
-          "zh_title": "NextBoat Inc. (NXB) 2026 年第二季財報電話會議記錄",
-          "zh_point": "NextBoat Inc. 公布了 2026 年第二季財報電話會議記錄內容，公司未提供摘要。"
+          "published": "Fri, 14 Aug 2026 19:19:49 -0400",
+          "ts": 1786749589.0,
+          "zh_title": "Aumovio SE 2026 Q2 - Results - Earnings Call Presentation",
+          "zh_point": "Aumovio SE 2026 年第二季度財報發布，內容包括財務報告和財務電話會議簡報。"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Red Cat Holdings director Moe sells $310,600 in shares",
-          "url": "https://www.investing.com/news/insider-trading-news/red-cat-holdings-director-moe-sells-310600-in-shares-93CH-4859562",
+          "title": "Dutch Bros director Todd Penegor buys $103,120 in Bros stock",
+          "url": "https://www.investing.com/news/insider-trading-news/dutch-bros-director-todd-penegor-buys-103120-in-bros-stock-93CH-4861628",
           "summary": "",
-          "published": "2026-08-13 23:49:54",
-          "ts": 1786664994.0,
-          "zh_title": "Red Cat Holdings 董事 Moe 賣出 310,600 美元股票",
-          "zh_point": "Red Cat Holdings 董事 Moe 近期出售公司股票，總計 310,600 美元。"
+          "published": "2026-08-14 23:15:57",
+          "ts": 1786749357.0,
+          "zh_title": "Dutch Bros 董事 Todd Penegor 買入 103,120 美元 Bros 股票",
+          "zh_point": "Dutch Bros 董事 Todd Penegor 在市場上買入公司股票，表明對公司未來發展的信心。"
         },
         {
           "source": "Investing.com",
-          "title": "Why is Hertz stock sliding today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-hertz-stock-sliding-today-93CH-4859561",
+          "title": "Krystal Biotech (NASDAQ:KRYS) director Dino Rossi sells $8.2m shares",
+          "url": "https://www.investing.com/news/insider-trading-news/krystal-biotech-nasdaqkrys-director-dino-rossi-sells-82m-shares-93CH-4861627",
           "summary": "",
-          "published": "2026-08-13 23:48:50",
-          "ts": 1786664930.0,
-          "zh_title": "赫茲股票為何今天下滑",
-          "zh_point": "赫茲公司的股票價格今天出現下滑，原因可能與公司的財務表現、營運績效或市場預期等因素有關。"
+          "published": "2026-08-14 23:15:56",
+          "ts": 1786749356.0,
+          "zh_title": "Krystal Biotech (NASDAQ:KRYS) 董事迪諾羅西出售 8.2 萬美元股票",
+          "zh_point": "Krystal Biotech 的董事迪諾羅西出售公司股票，交易總額達 8.2 萬美元。"
         },
         {
           "source": "Investing.com",
-          "title": "Brazil opens reciprocity process against US over tariffs",
-          "url": "https://www.investing.com/news/economy-news/brazil-opens-reciprocity-process-against-us-over-tariffs-4859555",
+          "title": "Corsair gaming director Sarah Kim sells $121,486 in shares",
+          "url": "https://www.investing.com/news/insider-trading-news/corsair-gaming-director-sarah-kim-sells-121486-in-shares-93CH-4861626",
           "summary": "",
-          "published": "2026-08-13 23:48:27",
-          "ts": 1786664907.0,
-          "zh_title": "巴西對美開啟相互制裁程序",
-          "zh_point": "巴西政府決定對美國的關稅措施進行相互制裁，展開一場新的貿易戰。"
+          "published": "2026-08-14 23:15:50",
+          "ts": 1786749350.0,
+          "zh_title": "Corsair遊戲部門總監Sarah Kim出售$121,486股股份",
+          "zh_point": "Corsair遊戲部門總監Sarah Kim出售了價值$121,486的股份，可能與財務管理或投資策略有關。"
         },
         {
           "source": "Investing.com",
-          "title": "Amgen SVP Rachna Khosla sells $1.35m of stock",
-          "url": "https://www.investing.com/news/insider-trading-news/amgen-svp-rachna-khosla-sells-135m-of-stock-93CH-4859559",
+          "title": "Why AI is unlikely to be an apocalypse for jobs",
+          "url": "https://www.investing.com/news/economy-news/why-ai-is-unlikely-to-be-an-apocalypse-for-jobs-4861625",
           "summary": "",
-          "published": "2026-08-13 23:46:07",
-          "ts": 1786664767.0,
-          "zh_title": "Amgen SVP Rachna Khosla 賣出 1.35 億美元股票",
-          "zh_point": "Amgen 高級副總裁 Rachna Khosla 賣出公司股票，交易金額達 1.35 億美元。"
+          "published": "2026-08-14 23:12:16",
+          "ts": 1786749136.0,
+          "zh_title": "為什麼人工智慧不太可能是工作的末日",
+          "zh_point": "人工智慧的發展可能會取代一些工作，但也會創造新的職缺和機會，最終對就業市場的影響可能不如預期的那樣嚴重。"
         },
         {
           "source": "Investing.com",
-          "title": "AIG executive chair Peter Zaffino sells over $18m in stock",
-          "url": "https://www.investing.com/news/insider-trading-news/aig-executive-chair-peter-zaffino-sells-over-18m-in-stock-93CH-4859558",
+          "title": "Beta Technologies president and CEO Kyle Clark sells $1.11m in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/beta-technologies-president-and-ceo-kyle-clark-sells-111m-in-stock-93CH-4861624",
           "summary": "",
-          "published": "2026-08-13 23:45:59",
-          "ts": 1786664759.0,
-          "zh_title": "AIG行政總裁彼得·扎費諾出售超過1.8億美元股票",
-          "zh_point": "AIG行政總裁彼得·扎費諾出售超過1.8億美元股票，可能與公司財務或股價表現相關。"
+          "published": "2026-08-14 23:01:50",
+          "ts": 1786748510.0,
+          "zh_title": "Beta Technologies 首席執行官 Kyle Clark 賣出 1.11 萬美元股票",
+          "zh_point": "Beta Technologies 首席執行官 Kyle Clark 近期出售公司股票，總值達 1.11 萬美元。"
         }
       ]
     }
