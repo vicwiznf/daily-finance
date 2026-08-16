@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天市場情緒較為波動，受中國DeepSeek事件影響，美國股市大幅下跌，納斯達克指數領跌。倫敦金銀市場金銀價格下跌，中國白銀價格出現意外下跌。投資人應該注意到這些市場變化，並根據自己的投資策略進行調整。同時，布魯克菲爾德公司透過收購擴大其全球保險業務，為全球大型人工智慧基礎設施項目提供融資。\n\n【結語】\n投資人應該保持冷靜和謹慎，避免受到市場情緒的影響。投資應該根據自己的投資策略和風險承受能力進行調整。同時，投資人應該注意到公司的財務表現和未來發展計畫，才能做出明智的投資決定。投資人也應該注意到自己的醫療補助和稅率的變化，才能做出合理的財務安排。\n\n【精選個股】\nBAER - Bridger Aerospace Group Holdings, Inc. - 公司正在發展新的航空技術和服務，具有強大的競爭力。\nPLDT Inc. - 菲律賓電信公司 - 公司正在投資於5G基礎設施和數據中心業務，具有良好的發展前景。\nNVIDIA - NVIDIA公司 - 公司正在領導人工智慧和深度學習的發展，具有強大的競爭力和投資潛力。風險提醒：投資於科技公司的風險較高，需要謹慎評估。",
+  "analysis": "【今日摘要】\n今天的市場情緒相當複雜，股指期貨在S&P 500連續三週的勝利後幾乎沒有變化，投資人等待美聯儲下一步動作，關注利率趨勢。另一方面，川普下令減少美韓聯合軍演，北韓隨後威脅對美韓採取行動。科技業則是焦點，馬斯克和黃仁德的新合作可能結合人工智慧、電動汽車和太空科技等領域，開創下一個科技時代。HIVE 公布 2027 年財年第一季度收入大幅增加 74%，表明公司財政狀況持續改善。\n\n【結語】\n投資人務必保持冷靜和謹慎，避免被市場情緒左右。應該密切關注公司的財務表現和未來計畫，同時考慮個人投資目標和風險承受能力。投資市場永遠充滿變數，投資人應該保持耐心和持續學習，以便在市場波動中找到機會。\n\n【精選個股】\nSKYE - Skye Bioscience, Inc. - 公司正在進行企業併購洽談，展現出其積極的發展步伐。\nRCEL - AVITA Medical, Inc. - 公司股東與分析師進行電話會議，內容將透露公司最新發展與未來計畫。\nNVDA - Nvidia - 公司的新雲端融資可能帶來顯著的收入流，摩根士丹利預測公司的財務表現將受益於此。",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Vanguard's VGLT or Schwab's SCHQ: Which Long-Term Treasury ETF Is the Better Buy?",
-          "url": "https://finance.yahoo.com/markets/options/articles/vanguards-vglt-schwabs-schq-long-231900283.html",
+          "title": "Dave Ramsey: “He Doesn’t Get to Sit on His Butt” – Warehouse Worker Faces Layoff After 26 Years With Company",
+          "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-doesn-t-sit-231737197.html",
           "summary": "",
-          "published": "2026-08-15T23:19:00Z",
-          "ts": 1786835940.0,
-          "zh_title": "道瓊長期國庫ETF：韋爾斯福里斯的VGLT還是史華布的SCHQ較佳選擇？",
-          "zh_point": "在長期國庫ETF市場中，VGLT和SCHQ是兩個受歡迎的選擇。這兩個ETF的投資組合和費用結構有所不同，投資者需要考慮哪一個更符合自己的需求。"
+          "published": "2026-08-16T23:17:37Z",
+          "ts": 1786922257.0,
+          "zh_title": "達夫拉姆塞：他不可以躺在臀部上 – 26年來公司的倉庫工人面臨解僱",
+          "zh_point": "達夫拉姆塞批評公司對於長期僱員的待遇，認為應該為他們提供更好的工作環境和支持。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Block’s (XYZ) EPS Surged 65%, So Why Did the Stock Drop?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/block-xyz-eps-surged-65-231807424.html",
+          "title": "Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology",
+          "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-jensen-huang-partnership-225748686.html",
           "summary": "",
-          "published": "2026-08-15T23:18:07Z",
-          "ts": 1786835887.0,
-          "zh_title": "Block（XYZ）的EPS暴增65%，為什麼股價卻下跌？",
-          "zh_point": "Block（XYZ）最新財報顯示，公司每股盈利（EPS）飆升65%，但股價卻出現下跌。分析師認為，這可能與公司未來財務表現和投資人預期不符。"
+          "published": "2026-08-16T22:57:48Z",
+          "ts": 1786921068.0,
+          "zh_title": "馬斯克和黃仁德的新合作可能開創下一個科技時代",
+          "zh_point": "馬斯克和黃仁德的合作可能會結合人工智慧、電動汽車和太空科技等領域，開創下一個科技時代。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Pandora opens unexpected box as silver price drops",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pandora-opens-unexpected-box-silver-231700677.html",
-          "summary": "",
-          "published": "2026-08-15T23:17:00Z",
-          "ts": 1786835820.0,
-          "zh_title": "潘朵拉開啟意外之盒子，白銀價格下跌",
-          "zh_point": "白銀價格出現意外下跌，可能與市場預期不符或是投資人出現大規模撤資潮有關。"
+          "title": "Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology",
+          "url": "https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/?.tsrc=rss",
+          "summary": "Four seemingly unrelated headlines dropped over two weeks, and when you line them up in sequence, they point to a partnership that could reshape who controls the next trillion dollars of AI infrastructure.",
+          "published": "Sun, 16 Aug 2026 22:57:48 +0000",
+          "ts": 1786921068.0,
+          "zh_title": "馬斯克和黃仁德的新合作可能開啟下一波科技革命",
+          "zh_point": "馬斯克和黃仁德可能合作開發下一波人工智慧基礎設施，將重塑未來一兆美元的控制權。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Brookfield (TSX:BN) Deepens Its Reach In Insurance And AI Infrastructure",
-          "url": "https://finance.yahoo.com/technology/ai/articles/brookfield-tsx-bn-deepens-reach-230850460.html?.tsrc=rss",
-          "summary": "Brookfield Corporation (TSX:BN) expands its global insurance footprint through recently completed acquisitions that add scale to its life and annuity operations. The company announces a major partnership with NVIDIA and other financial institutions to finance large AI infrastructure projects worldwide. Both moves mark a significant broadening of Brookfield's operating scope across insurance and digital infrastructure financing. For readers interested in more ways to get exposure to hard...",
-          "published": "Sat, 15 Aug 2026 23:08:50 +0000",
-          "ts": 1786835330.0,
-          "zh_title": "布魯克菲爾德深入保險業和人工智慧基礎設施",
-          "zh_point": "布魯克菲爾德公司透過最近完成的收購案擴大其全球保險業務，同時與 NVIDIA 和其他金融機構合作，為全球大型人工智慧基礎設施項目提供融資。這兩項行動標誌著布魯克菲爾德在保險和數字基礎設施融資業務的業務範圍擴展。"
+          "title": "The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support",
+          "url": "https://finance.yahoo.com/markets/articles/ramsey-show-gonna-weep-kids-224756893.html",
+          "summary": "",
+          "published": "2026-08-16T22:47:56Z",
+          "ts": 1786920476.0,
+          "zh_title": "拉姆齊秀：單親媽媽因兒童撫養金減少 $1,350/月，將為孩子自己淚流不止",
+          "zh_point": "拉姆齊秀主持人對一位單親媽媽的經歷表達了深切的同情，指出她因兒童撫養金減少 $1,350/月，將面臨嚴重的經濟困難。"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Snowflake vs. Verizon: Which Technology Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-vs-verizon-technology-stock-230622634.html",
+          "title": "HIVE reports 74% revenue jump in fiscal Q1 2027 earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hive-reports-74-revenue-jump-223813201.html",
           "summary": "",
-          "published": "2026-08-15T23:06:22Z",
-          "ts": 1786835182.0,
-          "zh_title": "雪花軟體 vs. 達美樂系統：哪一家科技股是2026年更好的買賣選擇？",
-          "zh_point": "雪花軟體和達美樂系統是兩家競爭激烈的科技公司，各自擁有不同的優勢和劣勢。雪花軟體以其強大的資料分析能力和企業客戶群而聞名，而達美樂系統則以其龐大的網路和寬廣的服務範圍而受到肯定。投資者需要仔細比較這兩家公司的財務表現、市場前景和競爭力，才能做出明智的投資決定。"
+          "published": "2026-08-16T22:38:13Z",
+          "ts": 1786919893.0,
+          "zh_title": "HIVE 公布 2027 年財年第一季度收入大幅增加 74%",
+          "zh_point": "HIVE 公布財年第一季度財報，收入大幅增加 74%，表明公司財政狀況持續改善。"
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
-          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-          "summary": "The draft letter is addressed to the 35 signatories of a U.S. \"AI Opportunity Statement\" signed in June.",
-          "published": "Sat, 15 Aug 2026 22:49:03 GMT",
-          "ts": 1786834143.0,
-          "zh_title": "美國將告知盟友必須在與中國的AI競賽中選擇立場",
-          "zh_point": "美國政府準備向35個簽署了美國「AI機會聲明」的國家發出一封函件，要求他們在與中國的AI競賽中表明立場。"
+          "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
+          "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+          "summary": "The stock market remains near all-time highs.",
+          "published": "Sun, 16 Aug 2026 23:38:01 GMT",
+          "ts": 1786923481.0,
+          "zh_title": "股指期貨在S&P 500連三週勝利後幾乎不變：即時更新",
+          "zh_point": "股市仍然接近歷史新高，股指期貨在S&P 500連續三週的勝利後幾乎沒有變化。"
         },
         {
           "source": "CNBC",
-          "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
-          "url": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
-          "summary": "The Big Island has not experienced a direct hurricane landfall in 155 years.",
-          "published": "Sat, 15 Aug 2026 22:03:53 GMT",
-          "ts": 1786831433.0,
-          "zh_title": "拉拉增強為颶風，威脹向夏威夷大島",
-          "zh_point": "拉拉颶風正向夏威夷大島逼近，預計帶來暴雨和強風。這是大島155年來首次直接遭遇颶風侵襲。"
+          "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+          "url": "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html",
+          "summary": "North Korea on Friday threatened steps against the U.S. and South Korea, describing their military drills as \"a rehearsal for an aggressive war.\"",
+          "published": "Sun, 16 Aug 2026 22:51:28 GMT",
+          "ts": 1786920688.0,
+          "zh_title": "川普下令減少美韓聯合軍演",
+          "zh_point": "川普下令減少美韓聯合軍演，北韓隨後威脅對美韓採取行動，指稱美韓軍演是「侵略戰爭的演習」。"
         },
         {
           "source": "CNBC",
-          "title": "At least 1 student among 5 people shot at Virginia State University as police investigate",
-          "url": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
-          "summary": "A shooting involving several suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday.",
-          "published": "Sat, 15 Aug 2026 20:56:13 GMT",
-          "ts": 1786827373.0,
-          "zh_title": "維吉尼亞州立大學至少1名學生遭槍擊案",
-          "zh_point": "維吉尼亞州立大學發生槍擊案，至少1名學生受傷，校方下令封校，警察正在調查中。"
+          "title": "Believe the unbelievable in this market — things can be different this time",
+          "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
+          "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
+          "published": "Sun, 16 Aug 2026 21:32:25 GMT",
+          "ts": 1786915945.0,
+          "zh_title": "相信不可思議的市場 — 這次可能不同",
+          "zh_point": "這四隻表現驚人但在華爾街被視為最令人恐懼的股票，令人難以置信地仍然受到市場的忽視。"
         },
         {
           "source": "CNBC",
-          "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-          "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-          "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
-          "published": "Sat, 15 Aug 2026 20:38:29 GMT",
-          "ts": 1786826309.0,
-          "zh_title": "伊朗否認川普對霍爾木茲海峽主權的聲稱",
-          "zh_point": "伊朗副外長表示霍爾木茲海峽將永遠屬於伊朗，對川普的主張表示反對，同時有報導指出另一個船艦遭到攻擊。"
+          "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
+          "url": "https://www.cnbc.com/2026/08/16/trumps-envoys-meet-mediators-israel-strikes-gaza.html",
+          "summary": "Hamas officials were present at some of the meetings that mediators held with Trump's envoy and son-in-law Jared Kushner, the diplomat said.",
+          "published": "Sun, 16 Aug 2026 20:55:24 GMT",
+          "ts": 1786913724.0,
+          "zh_title": "川普代表團與埃及、卡達、土耳其調停人在開羅會面　以色列轟炸加沙",
+          "zh_point": "川普代表團與埃及、卡達、土耳其調停人在開羅會面，川普的代表人和兒媳婦賈雷德·柯森與哈馬斯官員會面。"
         },
         {
           "source": "CNBC",
-          "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
-          "url": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
-          "summary": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
-          "published": "Sat, 15 Aug 2026 20:32:04 GMT",
-          "ts": 1786825924.0,
-          "zh_title": "Nvidia 考慮投資 3 億美元在 SoftBank 的 SB Energy 下的 OpenAI 資料中心計畫",
-          "zh_point": "Nvidia 將在與 OpenAI 和 SB Energy 的談判中，投資 3 億美元，以提供 Ohio 資料中心園區的信貸支持。"
+          "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+          "url": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+          "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
+          "published": "Sun, 16 Aug 2026 20:44:26 GMT",
+          "ts": 1786913066.0,
+          "zh_title": "拉拉再度升級為熱帶風暴，降雨和強風橫掃夏威夷群島",
+          "zh_point": "美國國家颶風中心發出警告，預測夏威夷大島可能出現「極度危險的洪水和泥石流」情況，並預測降雨量達25英寸。"
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
+          "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+          "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+          "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
+          "published": "Sun, 16 Aug 2026 22:52:00 GMT",
+          "ts": 1786920720.0,
+          "zh_title": "美股未來指數微幅波動 美股未來指數周日微幅波動",
+          "zh_point": "美股未來指數周日微幅波動，投資人等待美聯儲下一步動作，關注利率趨勢。"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+          "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+          "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+          "published": "Sun, 16 Aug 2026 18:15:00 GMT",
+          "ts": 1786904100.0,
+          "zh_title": "我能夠現在領取丈夫的退休金50%，並在70歲時改為我的更高退休金？",
+          "zh_point": "一位女性詢問是否可以同時領取丈夫的退休金和自己的退休金，並在70歲時改為自己的更高退休金。"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+          "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+          "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+          "published": "Sun, 16 Aug 2026 17:30:00 GMT",
+          "ts": 1786901400.0,
+          "zh_title": "朋友的母親去世，是否可以阻止Medicaid取回家庭房屋？",
+          "zh_point": "朋友的母親去世後，家人試圖避免Medicaid取回房屋，但遇到困難，銀行不願意與家人討論房屋貸款。"
+        },
+        {
+          "source": "MarketWatch",
           "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
           "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
           "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
-          "published": "Sat, 15 Aug 2026 20:30:00 GMT",
-          "ts": 1786825800.0,
-          "zh_title": "夫妻雙重困境：$42,000獎金會否取消我們的醫療補助？",
-          "zh_point": "夫妻一方收到42萬美元獎金，卻擔心會否影響他們的醫療補助，專家建議他們將獎金退回並借款。"
+          "published": "Sun, 16 Aug 2026 17:00:00 GMT",
+          "ts": 1786899600.0,
+          "zh_title": "夫妻得$42,000獎金　會否讓我們的醫療補助金消失？",
+          "zh_point": "夫妻得獎金後，可能會影響他們的醫療補助金，導致他們必須選擇返還獎金或借款。"
         },
         {
           "source": "MarketWatch",
           "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
           "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
           "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
-          "published": "Sat, 15 Aug 2026 20:00:00 GMT",
-          "ts": 1786824000.0,
-          "zh_title": "我是 63 歲退休會計師，401(k) 有 120 萬美金，是否需要進行 Roth 轉換？",
-          "zh_point": "一位 63 歲退休會計師擁有 120 萬美金的 401(k) 計劃，考慮是否需要進行 Roth 轉換，考慮到未來的稅率不太可能有顯著變化。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Think interest rates are high now? These charts offer a different perspective.",
-          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-          "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
-          "published": "Sat, 15 Aug 2026 19:01:00 GMT",
-          "ts": 1786820460.0,
-          "zh_title": "你覺得利率現在很高嗎？這些圖表會給你另一種看法",
-          "zh_point": "根據最新數據，利率的歷史趨勢讓人意外，許多國家的利率曾經高於現在的水平，了解這些數據可以幫助你更好地評估當前的經濟情況。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Owning a home is overrated. Renting is now often a much better money move.",
-          "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
-          "summary": "There are better ways to think about investments than homeownership.",
-          "published": "Sat, 15 Aug 2026 18:23:00 GMT",
-          "ts": 1786818180.0,
-          "zh_title": "買房子根本不值得。租屋現在經常比買房子更划算。",
-          "zh_point": "買房子不再是投資的最佳選擇，租屋可能是一個更好的選擇。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-          "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-          "summary": "For diversification in the stock market, there are actively managed alternatives to index funds.",
-          "published": "Sat, 15 Aug 2026 18:05:00 GMT",
-          "ts": 1786817100.0,
-          "zh_title": "超過800只股票的主動基金，擊敗主要指數，如何做到？",
-          "zh_point": "主動基金可以提供股市多元化的替代方案，超越傳統指數基金的表現。"
+          "published": "Sun, 16 Aug 2026 16:22:00 GMT",
+          "ts": 1786897320.0,
+          "zh_title": "我是 63 歲退休會計師，401(k) 有 1.2 萬美元。是否需要進行 Roth 轉換？",
+          "zh_point": "退休後的財富規劃，是否需要進行 Roth 轉換，取決於未來的稅率變化。"
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌受中國DeepSeek事件影響",
-          "zh_point": "美國股市大多下跌，納斯達克指數領跌，人工智慧基礎設施製造商大幅下跌，包括Nvidia跌幅達16%。"
+          "zh_title": "美國股市大幅下跌　中國DeepSeek引發的AI大規模崩盤",
+          "zh_point": "美國股市大幅下跌，Nasdaq領跌，AI基礎設施製造商股價大幅下跌，包括Nvidia下跌16%。"
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "倫敦金銀市場金銀價格下跌",
-          "zh_point": "倫敦金銀市場金價下跌1.4%，銀價下跌2.5%，連續兩天金價下跌，銀價連續三天下跌。"
+          "zh_title": "倫敦金、銀價格下跌",
+          "zh_point": "倫敦金價格下跌1.4%，連續兩次下跌；銀價下跌2.5%，連續三次下跌。"
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵要點",
-          "zh_point": "中國新興公司表示，它已經訓練出高表現的AI模型，並且成本低廉，沒有使用最先進的晶片。"
+          "zh_title": "中國DeepSeek AI的關鍵知識",
+          "zh_point": "中國新興企業宣稱訓練高表現的AI模型，成本低廉，並不需使用最先進的晶片。"
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深度探索不會讓美國AI巨頭沉沒",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股價大跌，恐慌情緒可能已經過度膨脹。"
+          "zh_title": "深入探索不會沉淪美國AI巨頭",
+          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股市下跌，市場的恐慌情緒可能過於誇大。"
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與電信周報：市場話題",
-          "zh_point": "DeepSeek、SoFi 等公司在科技、媒體和電信領域的最新發展，包括市場分析和投資趨勢。"
+          "zh_title": "科技、媒體與通訊業最新動態",
+          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊業最新消息，包括市場評論和分析。"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Bridger Aerospace Group Holdings, Inc. (BAER) Presents at Canaccord Genuity's 46th Annual Growth Conference - Slideshow",
-          "url": "https://seekingalpha.com/article/4937081-bridger-aerospace-group-holdings-inc-baer-presents-at-canaccord-genuitys-46th-annual-growth?source=feed_all_articles",
+          "title": "Skye Bioscience, Inc. (SKYE) Skye Bioscience, Inc. - M&A Call - Slideshow",
+          "url": "https://seekingalpha.com/article/4937177-skye-bioscience-inc-skye-skye-bioscience-inc-m-and-a-call-slideshow?source=feed_all_articles",
           "summary": "",
-          "published": "Sat, 15 Aug 2026 19:16:56 -0400",
-          "ts": 1786835816.0,
-          "zh_title": "Bridger Aerospace Group Holdings, Inc. (BAER) 在Canaccord Genuity的46屆年度成長會議上發表演說 - 幻燈片",
-          "zh_point": "Bridger Aerospace Group Holdings, Inc. (BAER) 在Canaccord Genuity的46屆年度成長會議上發表演說，內容可能涉及公司最新發展和未來計畫。"
+          "published": "Sun, 16 Aug 2026 19:19:30 -0400",
+          "ts": 1786922370.0,
+          "zh_title": "Skye Bioscience, Inc. (SKYE) Skye Bioscience, Inc. - M&A Call - Slideshow",
+          "zh_point": "Skye Bioscience, Inc. 進行企業併購洽談會議，內容將透過幻燈片展示。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Motorsport Games Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4937080-motorsport-games-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "Computershare Limited 2026 Q4 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4937176-computershare-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Sat, 15 Aug 2026 19:16:14 -0400",
-          "ts": 1786835774.0,
-          "zh_title": "Motorsport Games Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "zh_point": "Motorsport Games Inc. 公布 2026 年第二季度財務報告，內容包括財務數據和財務分析。"
+          "published": "Sun, 16 Aug 2026 19:19:15 -0400",
+          "ts": 1786922355.0,
+          "zh_title": "Computershare Limited 2026 Q4 - Results - Earnings Call Presentation",
+          "zh_point": "Computershare Limited 2026 年第四季度財務報告會議簡報"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Star Equity Holdings, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4937079-star-equity-holdings-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "AVITA Medical, Inc. (RCEL) Shareholder/Analyst Call - Slideshow",
+          "url": "https://seekingalpha.com/article/4937174-avita-medical-inc-rcel-shareholder-analyst-call-slideshow?source=feed_all_articles",
           "summary": "",
-          "published": "Sat, 15 Aug 2026 19:16:03 -0400",
-          "ts": 1786835763.0,
-          "zh_title": "星際資產控股公司 2026 年第二季度 - 業績 - 盈利電話會議簡報",
-          "zh_point": "星際資產控股公司於 2026 年第二季度公布業績，內容包括財務報告、營運成績和未來發展計畫。"
+          "published": "Sun, 16 Aug 2026 19:16:35 -0400",
+          "ts": 1786922195.0,
+          "zh_title": "AVITA Medical, Inc. (RCEL) 股東/分析師電話會議幻燈片",
+          "zh_point": "AVITA Medical, Inc. 股東與分析師進行電話會議，內容將透露公司最新發展與未來計畫。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "PLDT Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4937078-pldt-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "Korea Electric Power Corporation 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4937173-korea-electric-power-corporation-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Sat, 15 Aug 2026 19:14:47 -0400",
-          "ts": 1786835687.0,
-          "zh_title": "PLDT Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "zh_point": "PLDT Inc. 2026 年第二季度財務報告會議簡報，內容可能包括公司財務表現、營收、利潤等相關數據和分析。"
+          "published": "Sun, 16 Aug 2026 19:16:01 -0400",
+          "ts": 1786922161.0,
+          "zh_title": "韓國電力公司 2026 年第二季財報 - 收益電話會議簡報",
+          "zh_point": "韓國電力公司於 2026 年第二季財報中公布財務數據，預計將釋出相關財務報告。"
         },
         {
           "source": "Seeking Alpha",
-          "title": "Wolverine World Wide, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4937077-wolverine-world-wide-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "Envipco Holding N.V. 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4937172-envipco-holding-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Sat, 15 Aug 2026 19:14:06 -0400",
-          "ts": 1786835646.0,
-          "zh_title": "沃爾沃倫世界股份有限公司 2026 年第二季度財報 - 獲利電話會議簡報",
-          "zh_point": "沃爾沃倫世界股份有限公司公布 2026 年第二季度財報，內容包括獲利、營業額和財務表現等。"
+          "published": "Sun, 16 Aug 2026 19:15:27 -0400",
+          "ts": 1786922127.0,
+          "zh_title": "Envipco Holding N.V. 2026 Q2 - Results - Earnings Call Presentation",
+          "zh_point": "Envipco Holding N.V. 2026 年第二季度財務報告會議簡報"
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Avis Budget Group EVP sells $652,574 in company stock",
-          "url": "https://www.investing.com/news/insider-trading-news/avis-budget-group-evp-sells-652574-in-company-stock-93CH-4861879",
+          "title": "Earnings call transcript: Freightways posts strong H2 2026 results as fuel costs bite",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
           "summary": "",
-          "published": "2026-08-15 23:31:04",
-          "ts": 1786836664.0,
-          "zh_title": "Avis Budget Group 執行副總裁出售公司股票 652,574 美元",
-          "zh_point": "Avis Budget Group 的執行副總裁出售公司股票，交易金額達 652,574 美元。"
+          "published": "2026-08-16 23:03:31",
+          "ts": 1786921411.0,
+          "zh_title": "貨運公司 Freightways 第二季 2026 年財報表現佳，但燃油成本仍然是重擔",
+          "zh_point": "貨運公司 Freightways 公布第二季 2026 年財報，表現出色的營收和利潤，但燃油成本的上升仍然對公司造成壓力。"
         },
         {
           "source": "Investing.com",
-          "title": "Allstate president John Dugenske sells $8.89m in company stock",
-          "url": "https://www.investing.com/news/insider-trading-news/allstate-president-john-dugenske-sells-889m-in-company-stock-93CH-4861878",
+          "title": "Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
           "summary": "",
-          "published": "2026-08-15 23:30:56",
-          "ts": 1786836656.0,
-          "zh_title": "全國生命保險公司總裁John Dugenske出售8,890萬美元公司股份",
-          "zh_point": "全國生命保險公司總裁John Dugenske出售公司股份，總價值達8,890萬美元。"
+          "published": "2026-08-16 22:20:48",
+          "ts": 1786918848.0,
+          "zh_title": "比特幣圍繞63,000美元不動",
+          "zh_point": "比特幣價格持續穩定在63,000美元附近，Strategy公司的Saylor表示比特幣是「數位貨幣能源」。"
         },
         {
           "source": "Investing.com",
-          "title": "How could open-weight models impact GenAI ROIC?",
-          "url": "https://www.investing.com/news/economy-news/how-could-openweight-models-impact-genai-roic-4861877",
+          "title": "New AI financing backstops allows compute buyers more control over business models",
+          "url": "https://www.investing.com/news/economy-news/new-ai-financing-backstops-allows-compute-buyers-more-control-over-business-models-4862016",
           "summary": "",
-          "published": "2026-08-15 23:22:36",
-          "ts": 1786836156.0,
-          "zh_title": "開放權重模型可能如何影響基於人工智慧的產生收益率？",
-          "zh_point": "開放權重模型可能會對基於人工智慧的產生收益率（Return on Investment in Capital, ROIC）造成重大影響，可能會改變企業的投資決策和資金配置。"
+          "published": "2026-08-16 22:10:04",
+          "ts": 1786918204.0,
+          "zh_title": "新AI融資保障機制讓計算機購買者更能控制業務模式",
+          "zh_point": "新AI融資保障機制的推出，讓企業購買計算機的買家能夠更好地控制業務模式，從而更好地應對市場變化。"
         },
         {
           "source": "Investing.com",
-          "title": "Tidewater EVP Daniel Hudson sells $445,050 in common stock",
-          "url": "https://www.investing.com/news/insider-trading-news/tidewater-evp-daniel-hudson-sells-445050-in-common-stock-93CH-4861876",
+          "title": "New Zealand’s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
+          "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
           "summary": "",
-          "published": "2026-08-15 23:19:35",
-          "ts": 1786835975.0,
-          "zh_title": "Tidewater EVP Daniel Hudson 賣出 445,050 股普通股",
-          "zh_point": "Tidewater公司執行副總裁Daniel Hudson出售了 445,050 股普通股，交易金額達 445,050 美元。"
+          "published": "2026-08-16 21:48:22",
+          "ts": 1786916902.0,
+          "zh_title": "紐西蘭a2牛奶全年利潤下跌44% 因中國標籤IMF銷售疲弱",
+          "zh_point": "紐西蘭a2牛奶公司全年利潤下跌44%，主要原因是中國銷售疲弱，尤其是IMF標籤的銷售額下降。"
         },
         {
           "source": "Investing.com",
-          "title": "Chemours co president Michael Foley buys $29,999 in stock",
-          "url": "https://www.investing.com/news/insider-trading-news/chemours-co-president-michael-foley-buys-29999-in-stock-93CH-4861875",
+          "title": "Nvidia’s neocloud funding could drive significant revenue stream - Morgan Stanley",
+          "url": "https://www.investing.com/news/company-news/nvidias-neocloud-funding-could-drive-significant-revenue-stream--morgan-stanley-4862014",
           "summary": "",
-          "published": "2026-08-15 23:19:29",
-          "ts": 1786835969.0,
-          "zh_title": "Chemours副總裁Michael Foley購買29,999股股票",
-          "zh_point": "Chemours副總裁Michael Foley近期購買了29,999股公司股票，表明對公司未來發展抱持樂觀態度。"
+          "published": "2026-08-16 21:21:34",
+          "ts": 1786915294.0,
+          "zh_title": "Nvidia的新雲端融資可能帶來顯著的收入流 - Morgan Stanley",
+          "zh_point": "摩根士丹利預測，Nvidia的新雲端融資將為公司帶來新的收入來源，可能對公司的財務表現產生重大影響。"
         }
       ]
     }
