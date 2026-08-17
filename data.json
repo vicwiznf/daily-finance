@@ -1,58 +1,58 @@
 {
-  "analysis": "【今日摘要】\n今天的市場情緒相當複雜，股指期貨在S&P 500連續三週的勝利後幾乎沒有變化，投資人等待美聯儲下一步動作，關注利率趨勢。另一方面，川普下令減少美韓聯合軍演，北韓隨後威脅對美韓採取行動。科技業則是焦點，馬斯克和黃仁德的新合作可能結合人工智慧、電動汽車和太空科技等領域，開創下一個科技時代。HIVE 公布 2027 年財年第一季度收入大幅增加 74%，表明公司財政狀況持續改善。\n\n【結語】\n投資人務必保持冷靜和謹慎，避免被市場情緒左右。應該密切關注公司的財務表現和未來計畫，同時考慮個人投資目標和風險承受能力。投資市場永遠充滿變數，投資人應該保持耐心和持續學習，以便在市場波動中找到機會。\n\n【精選個股】\nSKYE - Skye Bioscience, Inc. - 公司正在進行企業併購洽談，展現出其積極的發展步伐。\nRCEL - AVITA Medical, Inc. - 公司股東與分析師進行電話會議，內容將透露公司最新發展與未來計畫。\nNVDA - Nvidia - 公司的新雲端融資可能帶來顯著的收入流，摩根士丹利預測公司的財務表現將受益於此。",
+  "analysis": "",
   "sources": [
     {
       "source": "Yahoo Finance",
       "items": [
         {
           "source": "Yahoo Finance",
-          "title": "Dave Ramsey: “He Doesn’t Get to Sit on His Butt” – Warehouse Worker Faces Layoff After 26 Years With Company",
-          "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-doesn-t-sit-231737197.html",
-          "summary": "",
-          "published": "2026-08-16T23:17:37Z",
-          "ts": 1786922257.0,
-          "zh_title": "達夫拉姆塞：他不可以躺在臀部上 – 26年來公司的倉庫工人面臨解僱",
-          "zh_point": "達夫拉姆塞批評公司對於長期僱員的待遇，認為應該為他們提供更好的工作環境和支持。"
+          "title": "Meta Faces 29 States in Court Tuesday. The Case Could Be Big Tech’s Big Tobacco Moment.",
+          "url": "https://www.fool.com/investing/2026/08/17/meta-faces-29-states-in-court-tuesday-the-case-could-be-big-techs-big-tobacco-moment/?.tsrc=rss",
+          "summary": "Meta is back in court facing 29 states over allegations it designed addictive products for kids -- and the stakes extend far beyond one company.",
+          "published": "Mon, 17 Aug 2026 23:15:01 +0000",
+          "ts": 1787008501.0,
+          "zh_title": "Meta Faces 29 States in Court Tuesday. The Case Could Be Big Tech’s Big Tobacco Moment.",
+          "zh_point": ""
         },
         {
           "source": "Yahoo Finance",
-          "title": "Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology",
-          "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-jensen-huang-partnership-225748686.html",
-          "summary": "",
-          "published": "2026-08-16T22:57:48Z",
-          "ts": 1786921068.0,
-          "zh_title": "馬斯克和黃仁德的新合作可能開創下一個科技時代",
-          "zh_point": "馬斯克和黃仁德的合作可能會結合人工智慧、電動汽車和太空科技等領域，開創下一個科技時代。"
+          "title": "Fabrinet Q4 Earnings Call Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/fabrinet-q4-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+          "summary": "Fabrinet (NYSE:FN) reported record fourth-quarter results for fiscal 2026, with revenue rising 45% year over year to $1.316 billion and non-GAAP earnings per share reaching $4.10, above the company’s guidance range. The fiscal fourth quarter ended June 26, 2026. For the full fiscal year, revenue in",
+          "published": "Mon, 17 Aug 2026 23:03:28 +0000",
+          "ts": 1787007808.0,
+          "zh_title": "Fabrinet Q4 Earnings Call Highlights",
+          "zh_point": ""
         },
         {
           "source": "Yahoo Finance",
-          "title": "Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology",
-          "url": "https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/?.tsrc=rss",
-          "summary": "Four seemingly unrelated headlines dropped over two weeks, and when you line them up in sequence, they point to a partnership that could reshape who controls the next trillion dollars of AI infrastructure.",
-          "published": "Sun, 16 Aug 2026 22:57:48 +0000",
-          "ts": 1786921068.0,
-          "zh_title": "馬斯克和黃仁德的新合作可能開啟下一波科技革命",
-          "zh_point": "馬斯克和黃仁德可能合作開發下一波人工智慧基礎設施，將重塑未來一兆美元的控制權。"
+          "title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year.",
+          "url": "https://www.fool.com/investing/2026/08/17/intel-costs-62-times-next-year-s-earnings-it-lost-usd11-billion-over-the-past-year/?.tsrc=rss",
+          "summary": "Most of that loss was paper. Still, today's premium price assumes profits that haven't arrived yet.",
+          "published": "Mon, 17 Aug 2026 22:56:01 +0000",
+          "ts": 1787007361.0,
+          "zh_title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year.",
+          "zh_point": ""
         },
         {
           "source": "Yahoo Finance",
-          "title": "The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support",
-          "url": "https://finance.yahoo.com/markets/articles/ramsey-show-gonna-weep-kids-224756893.html",
-          "summary": "",
-          "published": "2026-08-16T22:47:56Z",
-          "ts": 1786920476.0,
-          "zh_title": "拉姆齊秀：單親媽媽因兒童撫養金減少 $1,350/月，將為孩子自己淚流不止",
-          "zh_point": "拉姆齊秀主持人對一位單親媽媽的經歷表達了深切的同情，指出她因兒童撫養金減少 $1,350/月，將面臨嚴重的經濟困難。"
+          "title": "Top Market Strategist Warns Anthropic’s 40-50x Revenue Multiple for IPO Could Be “Dangerous”",
+          "url": "https://247wallst.com/investing/2026/08/17/top-market-strategist-warns-anthropics-40-50x-revenue-multiple-for-ipo-could-be-dangerous/?.tsrc=rss",
+          "summary": "A top market strategist just called out the biggest risk hiding inside Anthropic's upcoming IPO, and it has nothing to do with the quality of the company or its technology.",
+          "published": "Mon, 17 Aug 2026 22:28:31 +0000",
+          "ts": 1787005711.0,
+          "zh_title": "Top Market Strategist Warns Anthropic’s 40-50x Revenue Multiple for IPO Could Be “Dangerous”",
+          "zh_point": ""
         },
         {
           "source": "Yahoo Finance",
-          "title": "HIVE reports 74% revenue jump in fiscal Q1 2027 earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hive-reports-74-revenue-jump-223813201.html",
-          "summary": "",
-          "published": "2026-08-16T22:38:13Z",
-          "ts": 1786919893.0,
-          "zh_title": "HIVE 公布 2027 年財年第一季度收入大幅增加 74%",
-          "zh_point": "HIVE 公布財年第一季度財報，收入大幅增加 74%，表明公司財政狀況持續改善。"
+          "title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
+          "url": "https://www.fool.com/investing/2026/08/17/nvidia-lines-up-105-billion-for-openai-heres-what-it-means-for-investors/?.tsrc=rss",
+          "summary": "Nvidia is betting big on OpenAI's future -- to the tune of $105 billion in financing guarantees.",
+          "published": "Mon, 17 Aug 2026 21:50:01 +0000",
+          "ts": 1787003401.0,
+          "zh_title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
+          "zh_point": ""
         }
       ]
     },
@@ -61,53 +61,53 @@
       "items": [
         {
           "source": "CNBC",
-          "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
-          "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
-          "summary": "The stock market remains near all-time highs.",
-          "published": "Sun, 16 Aug 2026 23:38:01 GMT",
-          "ts": 1786923481.0,
-          "zh_title": "股指期貨在S&P 500連三週勝利後幾乎不變：即時更新",
-          "zh_point": "股市仍然接近歷史新高，股指期貨在S&P 500連續三週的勝利後幾乎沒有變化。"
+          "title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+          "url": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
+          "summary": "South Korean stock investors have made 'absolutely crazy' bets as they flee their home market, while global investors pile in.",
+          "published": "Mon, 17 Aug 2026 23:39:54 GMT",
+          "ts": 1787009994.0,
+          "zh_title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+          "zh_point": ""
         },
         {
           "source": "CNBC",
-          "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-          "url": "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html",
-          "summary": "North Korea on Friday threatened steps against the U.S. and South Korea, describing their military drills as \"a rehearsal for an aggressive war.\"",
-          "published": "Sun, 16 Aug 2026 22:51:28 GMT",
-          "ts": 1786920688.0,
-          "zh_title": "川普下令減少美韓聯合軍演",
-          "zh_point": "川普下令減少美韓聯合軍演，北韓隨後威脅對美韓採取行動，指稱美韓軍演是「侵略戰爭的演習」。"
+          "title": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
+          "url": "https://www.cnbc.com/2026/08/17/money-or-power-the-key-to-winning-the-us-china-ai-race.html",
+          "summary": "The U.S. can outspend China in financing artificial intelligence development, but is that the only factor that matters?",
+          "published": "Mon, 17 Aug 2026 23:00:01 GMT",
+          "ts": 1787007601.0,
+          "zh_title": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
+          "zh_point": ""
         },
         {
           "source": "CNBC",
-          "title": "Believe the unbelievable in this market — things can be different this time",
-          "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
-          "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
-          "published": "Sun, 16 Aug 2026 21:32:25 GMT",
-          "ts": 1786915945.0,
-          "zh_title": "相信不可思議的市場 — 這次可能不同",
-          "zh_point": "這四隻表現驚人但在華爾街被視為最令人恐懼的股票，令人難以置信地仍然受到市場的忽視。"
+          "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+          "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+          "summary": "Anthropic's revenue run rate is up about sevenfold from a year earlier.",
+          "published": "Mon, 17 Aug 2026 22:55:31 GMT",
+          "ts": 1787007331.0,
+          "zh_title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+          "zh_point": ""
         },
         {
           "source": "CNBC",
-          "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
-          "url": "https://www.cnbc.com/2026/08/16/trumps-envoys-meet-mediators-israel-strikes-gaza.html",
-          "summary": "Hamas officials were present at some of the meetings that mediators held with Trump's envoy and son-in-law Jared Kushner, the diplomat said.",
-          "published": "Sun, 16 Aug 2026 20:55:24 GMT",
-          "ts": 1786913724.0,
-          "zh_title": "川普代表團與埃及、卡達、土耳其調停人在開羅會面　以色列轟炸加沙",
-          "zh_point": "川普代表團與埃及、卡達、土耳其調停人在開羅會面，川普的代表人和兒媳婦賈雷德·柯森與哈馬斯官員會面。"
+          "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+          "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+          "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called a \"close personal relationship with a subordinate employee.\"",
+          "published": "Mon, 17 Aug 2026 22:52:11 GMT",
+          "ts": 1787007131.0,
+          "zh_title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+          "zh_point": ""
         },
         {
           "source": "CNBC",
-          "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
-          "url": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
-          "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
-          "published": "Sun, 16 Aug 2026 20:44:26 GMT",
-          "ts": 1786913066.0,
-          "zh_title": "拉拉再度升級為熱帶風暴，降雨和強風橫掃夏威夷群島",
-          "zh_point": "美國國家颶風中心發出警告，預測夏威夷大島可能出現「極度危險的洪水和泥石流」情況，並預測降雨量達25英寸。"
+          "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+          "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+          "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
+          "published": "Mon, 17 Aug 2026 22:31:32 GMT",
+          "ts": 1787005892.0,
+          "zh_title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+          "zh_point": ""
         }
       ]
     },
@@ -116,53 +116,53 @@
       "items": [
         {
           "source": "MarketWatch",
-          "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-          "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-          "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
-          "published": "Sun, 16 Aug 2026 22:52:00 GMT",
-          "ts": 1786920720.0,
-          "zh_title": "美股未來指數微幅波動 美股未來指數周日微幅波動",
-          "zh_point": "美股未來指數周日微幅波動，投資人等待美聯儲下一步動作，關注利率趨勢。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-          "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-          "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-          "published": "Sun, 16 Aug 2026 18:15:00 GMT",
-          "ts": 1786904100.0,
-          "zh_title": "我能夠現在領取丈夫的退休金50%，並在70歲時改為我的更高退休金？",
-          "zh_point": "一位女性詢問是否可以同時領取丈夫的退休金和自己的退休金，並在70歲時改為自己的更高退休金。"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
-          "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-          "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
-          "published": "Sun, 16 Aug 2026 17:30:00 GMT",
-          "ts": 1786901400.0,
-          "zh_title": "朋友的母親去世，是否可以阻止Medicaid取回家庭房屋？",
-          "zh_point": "朋友的母親去世後，家人試圖避免Medicaid取回房屋，但遇到困難，銀行不願意與家人討論房屋貸款。"
+          "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+          "url": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
+          "summary": "One of the most heavily-traded ETFs tracking performance in the U.S. Treasury market has just fallen to its lowest level in over 20 years.",
+          "published": "Mon, 17 Aug 2026 22:33:00 GMT",
+          "ts": 1787005980.0,
+          "zh_title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+          "zh_point": ""
         },
         {
           "source": "MarketWatch",
           "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
           "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
           "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
-          "published": "Sun, 16 Aug 2026 17:00:00 GMT",
-          "ts": 1786899600.0,
-          "zh_title": "夫妻得$42,000獎金　會否讓我們的醫療補助金消失？",
-          "zh_point": "夫妻得獎金後，可能會影響他們的醫療補助金，導致他們必須選擇返還獎金或借款。"
+          "published": "Mon, 17 Aug 2026 21:30:00 GMT",
+          "ts": 1787002200.0,
+          "zh_title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+          "zh_point": ""
+        },
+        {
+          "source": "MarketWatch",
+          "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+          "url": "https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories",
+          "summary": "We’ve seen three years in a row of double-digit gains. Will there be a fourth?",
+          "published": "Mon, 17 Aug 2026 21:22:00 GMT",
+          "ts": 1787001720.0,
+          "zh_title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+          "zh_point": ""
+        },
+        {
+          "source": "MarketWatch",
+          "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+          "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+          "summary": "Here’s another factoid that should get the AI bears excited: Stocks in the S&P 500 are increasingly trading in opposite directions on a given day. That means higher volatility than the performance of the index would lead one to believe.",
+          "published": "Mon, 17 Aug 2026 21:15:00 GMT",
+          "ts": 1787001300.0,
+          "zh_title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+          "zh_point": ""
         },
         {
           "source": "MarketWatch",
           "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
           "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
           "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
-          "published": "Sun, 16 Aug 2026 16:22:00 GMT",
-          "ts": 1786897320.0,
-          "zh_title": "我是 63 歲退休會計師，401(k) 有 1.2 萬美元。是否需要進行 Roth 轉換？",
-          "zh_point": "退休後的財富規劃，是否需要進行 Roth 轉換，取決於未來的稅率變化。"
+          "published": "Mon, 17 Aug 2026 21:00:00 GMT",
+          "ts": 1787000400.0,
+          "zh_title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+          "zh_point": ""
         }
       ]
     },
@@ -176,8 +176,8 @@
           "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
           "published": "Mon, 27 Jan 2025 14:26:00 -0500",
           "ts": 1738005960.0,
-          "zh_title": "美國股市大幅下跌　中國DeepSeek引發的AI大規模崩盤",
-          "zh_point": "美國股市大幅下跌，Nasdaq領跌，AI基礎設施製造商股價大幅下跌，包括Nvidia下跌16%。"
+          "zh_title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+          "zh_point": ""
         },
         {
           "source": "The Wall Street Journal",
@@ -186,8 +186,8 @@
           "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
           "published": "Mon, 27 Jan 2025 14:01:00 -0500",
           "ts": 1738004460.0,
-          "zh_title": "倫敦金、銀價格下跌",
-          "zh_point": "倫敦金價格下跌1.4%，連續兩次下跌；銀價下跌2.5%，連續三次下跌。"
+          "zh_title": "Comex Gold, Silver Settle Lower",
+          "zh_point": ""
         },
         {
           "source": "The Wall Street Journal",
@@ -196,8 +196,8 @@
           "summary": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
           "published": "Mon, 27 Jan 2025 13:17:00 -0500",
           "ts": 1738001820.0,
-          "zh_title": "中國DeepSeek AI的關鍵知識",
-          "zh_point": "中國新興企業宣稱訓練高表現的AI模型，成本低廉，並不需使用最先進的晶片。"
+          "zh_title": "What to Know About China's DeepSeek AI",
+          "zh_point": ""
         },
         {
           "source": "The Wall Street Journal",
@@ -206,8 +206,8 @@
           "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
           "published": "Mon, 27 Jan 2025 13:12:00 -0500",
           "ts": 1738001520.0,
-          "zh_title": "深入探索不會沉淪美國AI巨頭",
-          "zh_point": "對於Nvidia、Broadcom等科技巨頭的股市下跌，市場的恐慌情緒可能過於誇大。"
+          "zh_title": "DeepSeek Won't Sink U.S. AI Titans",
+          "zh_point": ""
         },
         {
           "source": "The Wall Street Journal",
@@ -216,8 +216,8 @@
           "summary": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
           "published": "Mon, 27 Jan 2025 12:28:00 -0500",
           "ts": 1737998880.0,
-          "zh_title": "科技、媒體與通訊業最新動態",
-          "zh_point": "DeepSeek、SoFi 等科技、媒體和通訊業最新消息，包括市場評論和分析。"
+          "zh_title": "Tech, Media & Telecom Roundup: Market Talk",
+          "zh_point": ""
         }
       ]
     },
@@ -226,53 +226,53 @@
       "items": [
         {
           "source": "Seeking Alpha",
-          "title": "Skye Bioscience, Inc. (SKYE) Skye Bioscience, Inc. - M&A Call - Slideshow",
-          "url": "https://seekingalpha.com/article/4937177-skye-bioscience-inc-skye-skye-bioscience-inc-m-and-a-call-slideshow?source=feed_all_articles",
+          "title": "Duos outlines 2027 revenue of at least $160M as Axe Compute expands to 55 MW",
+          "url": "https://seekingalpha.com/news/4634151-duos-outlines-2027-revenue-of-at-least-160m-as-axe-compute-expands-to-55-mw?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
           "summary": "",
-          "published": "Sun, 16 Aug 2026 19:19:30 -0400",
-          "ts": 1786922370.0,
-          "zh_title": "Skye Bioscience, Inc. (SKYE) Skye Bioscience, Inc. - M&A Call - Slideshow",
-          "zh_point": "Skye Bioscience, Inc. 進行企業併購洽談會議，內容將透過幻燈片展示。"
+          "published": "Mon, 17 Aug 2026 19:39:31 -0400",
+          "ts": 1787009971.0,
+          "zh_title": "Duos outlines 2027 revenue of at least $160M as Axe Compute expands to 55 MW",
+          "zh_point": ""
         },
         {
           "source": "Seeking Alpha",
-          "title": "Computershare Limited 2026 Q4 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4937176-computershare-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "Duos Technologies Group, Inc. (DUOT) Q2 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4937464-duos-technologies-group-inc-duot-q2-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 16 Aug 2026 19:19:15 -0400",
-          "ts": 1786922355.0,
-          "zh_title": "Computershare Limited 2026 Q4 - Results - Earnings Call Presentation",
-          "zh_point": "Computershare Limited 2026 年第四季度財務報告會議簡報"
+          "published": "Mon, 17 Aug 2026 19:38:37 -0400",
+          "ts": 1787009917.0,
+          "zh_title": "Duos Technologies Group, Inc. (DUOT) Q2 2026 Earnings Call Transcript",
+          "zh_point": ""
         },
         {
           "source": "Seeking Alpha",
-          "title": "AVITA Medical, Inc. (RCEL) Shareholder/Analyst Call - Slideshow",
-          "url": "https://seekingalpha.com/article/4937174-avita-medical-inc-rcel-shareholder-analyst-call-slideshow?source=feed_all_articles",
+          "title": "Precipio, Inc. (PRPO) Q2 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4937463-precipio-inc-prpo-q2-2026-earnings-call-transcript?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 16 Aug 2026 19:16:35 -0400",
-          "ts": 1786922195.0,
-          "zh_title": "AVITA Medical, Inc. (RCEL) 股東/分析師電話會議幻燈片",
-          "zh_point": "AVITA Medical, Inc. 股東與分析師進行電話會議，內容將透露公司最新發展與未來計畫。"
+          "published": "Mon, 17 Aug 2026 19:28:37 -0400",
+          "ts": 1787009317.0,
+          "zh_title": "Precipio, Inc. (PRPO) Q2 2026 Earnings Call Transcript",
+          "zh_point": ""
         },
         {
           "source": "Seeking Alpha",
-          "title": "Korea Electric Power Corporation 2026 Q2 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4937173-korea-electric-power-corporation-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "Costain Group PLC 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4937506-costain-group-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 16 Aug 2026 19:16:01 -0400",
-          "ts": 1786922161.0,
-          "zh_title": "韓國電力公司 2026 年第二季財報 - 收益電話會議簡報",
-          "zh_point": "韓國電力公司於 2026 年第二季財報中公布財務數據，預計將釋出相關財務報告。"
+          "published": "Mon, 17 Aug 2026 19:17:38 -0400",
+          "ts": 1787008658.0,
+          "zh_title": "Costain Group PLC 2026 Q2 - Results - Earnings Call Presentation",
+          "zh_point": ""
         },
         {
           "source": "Seeking Alpha",
-          "title": "Envipco Holding N.V. 2026 Q2 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4937172-envipco-holding-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+          "title": "SFC Energy AG 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://seekingalpha.com/article/4937505-sfc-energy-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
           "summary": "",
-          "published": "Sun, 16 Aug 2026 19:15:27 -0400",
-          "ts": 1786922127.0,
-          "zh_title": "Envipco Holding N.V. 2026 Q2 - Results - Earnings Call Presentation",
-          "zh_point": "Envipco Holding N.V. 2026 年第二季度財務報告會議簡報"
+          "published": "Mon, 17 Aug 2026 19:17:12 -0400",
+          "ts": 1787008632.0,
+          "zh_title": "SFC Energy AG 2026 Q2 - Results - Earnings Call Presentation",
+          "zh_point": ""
         }
       ]
     },
@@ -281,53 +281,53 @@
       "items": [
         {
           "source": "Investing.com",
-          "title": "Earnings call transcript: Freightways posts strong H2 2026 results as fuel costs bite",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
+          "title": "Brinker International president & CEO Kevin Hochman sells $9.66m stock",
+          "url": "https://www.investing.com/news/insider-trading-news/brinker-international-president--ceo-kevin-hochman-sells-966m-stock-93CH-4864104",
           "summary": "",
-          "published": "2026-08-16 23:03:31",
-          "ts": 1786921411.0,
-          "zh_title": "貨運公司 Freightways 第二季 2026 年財報表現佳，但燃油成本仍然是重擔",
-          "zh_point": "貨運公司 Freightways 公布第二季 2026 年財報，表現出色的營收和利潤，但燃油成本的上升仍然對公司造成壓力。"
+          "published": "2026-08-17 23:32:24",
+          "ts": 1787009544.0,
+          "zh_title": "Brinker International president & CEO Kevin Hochman sells $9.66m stock",
+          "zh_point": ""
         },
         {
           "source": "Investing.com",
-          "title": "Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’",
-          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
+          "title": "Douglas Comings, Brinker SVP & COO, Chili’s, sells $1.18m in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/douglas-comings-brinker-svp--coo-chilis-sells-118m-in-stock-93CH-4864103",
           "summary": "",
-          "published": "2026-08-16 22:20:48",
-          "ts": 1786918848.0,
-          "zh_title": "比特幣圍繞63,000美元不動",
-          "zh_point": "比特幣價格持續穩定在63,000美元附近，Strategy公司的Saylor表示比特幣是「數位貨幣能源」。"
+          "published": "2026-08-17 23:32:22",
+          "ts": 1787009542.0,
+          "zh_title": "Douglas Comings, Brinker SVP & COO, Chili’s, sells $1.18m in stock",
+          "zh_point": ""
         },
         {
           "source": "Investing.com",
-          "title": "New AI financing backstops allows compute buyers more control over business models",
-          "url": "https://www.investing.com/news/economy-news/new-ai-financing-backstops-allows-compute-buyers-more-control-over-business-models-4862016",
+          "title": "Brinker International director Cindy Davis sells $441,833 in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/brinker-international-director-cindy-davis-sells-441833-in-stock-93CH-4864101",
           "summary": "",
-          "published": "2026-08-16 22:10:04",
-          "ts": 1786918204.0,
-          "zh_title": "新AI融資保障機制讓計算機購買者更能控制業務模式",
-          "zh_point": "新AI融資保障機制的推出，讓企業購買計算機的買家能夠更好地控制業務模式，從而更好地應對市場變化。"
+          "published": "2026-08-17 23:32:20",
+          "ts": 1787009540.0,
+          "zh_title": "Brinker International director Cindy Davis sells $441,833 in stock",
+          "zh_point": ""
         },
         {
           "source": "Investing.com",
-          "title": "New Zealand’s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
-          "url": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
+          "title": "CoreCivic’s EVP, chief development officer Grande sells $981k shares",
+          "url": "https://www.investing.com/news/insider-trading-news/corecivics-evp-chief-development-officer-grande-sells-981k-shares-93CH-4864102",
           "summary": "",
-          "published": "2026-08-16 21:48:22",
-          "ts": 1786916902.0,
-          "zh_title": "紐西蘭a2牛奶全年利潤下跌44% 因中國標籤IMF銷售疲弱",
-          "zh_point": "紐西蘭a2牛奶公司全年利潤下跌44%，主要原因是中國銷售疲弱，尤其是IMF標籤的銷售額下降。"
+          "published": "2026-08-17 23:32:20",
+          "ts": 1787009540.0,
+          "zh_title": "CoreCivic’s EVP, chief development officer Grande sells $981k shares",
+          "zh_point": ""
         },
         {
           "source": "Investing.com",
-          "title": "Nvidia’s neocloud funding could drive significant revenue stream - Morgan Stanley",
-          "url": "https://www.investing.com/news/company-news/nvidias-neocloud-funding-could-drive-significant-revenue-stream--morgan-stanley-4862014",
+          "title": "BHP FY 2026 slides: copper drives record margins, growth self-funded",
+          "url": "https://www.investing.com/news/company-news/bhp-fy-2026-slides-copper-drives-record-margins-growth-selffunded-93CH-4864100",
           "summary": "",
-          "published": "2026-08-16 21:21:34",
-          "ts": 1786915294.0,
-          "zh_title": "Nvidia的新雲端融資可能帶來顯著的收入流 - Morgan Stanley",
-          "zh_point": "摩根士丹利預測，Nvidia的新雲端融資將為公司帶來新的收入來源，可能對公司的財務表現產生重大影響。"
+          "published": "2026-08-17 23:16:50",
+          "ts": 1787008610.0,
+          "zh_title": "BHP FY 2026 slides: copper drives record margins, growth self-funded",
+          "zh_point": ""
         }
       ]
     }
